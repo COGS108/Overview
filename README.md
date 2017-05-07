@@ -1,6 +1,6 @@
 # Overview
 
-Overview and map of the COGS108 Organization.
+COGS 108 - Data Science in Practice - is a class offered by the Cognitive Science Department of UC San Diego, taught by Professor Bradley Voytek. Here is an overview and map of the COGS108 Organization, which hosts materials and assignments for the class. 
 
 ## Assignments
 
