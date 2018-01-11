@@ -17,3 +17,8 @@ A series of [tutorial notebooks](https://github.com/COGS108/SectionMaterials) th
 ## Workbooks
 
 [Notebooks](https://github.com/COGS108/Workbooks) and coding problems to work along with.
+
+
+## Readings
+
+A suggested [reading list](https://github.com/COGS108/Readings) (recommended, but not required).
