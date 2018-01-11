@@ -4,7 +4,7 @@ COGS 108 - Data Science in Practice - is a class offered by the Cognitive Scienc
 
 ## Assignments
 
-[Assignments](https://github.com/COGS108/Assignments) for COGS 108, Spring Quarter 2017.
+[Assignments](https://github.com/COGS108/Assignments) for COGS 108, Winter Quarter 2018.
 
 ## Section Materials
 
@@ -21,7 +21,3 @@ Extra [tutorial notebooks](https://github.com/COGS108/ExtraMaterials), on other 
 ## Workbooks
 
 [Notebooks](https://github.com/COGS108/Workbooks) to work along with, during Sections. 
-
-## Data Wrangling
-
-[Data Wrangling](https://github.com/COGS108/DataWrangling) lecture materials and notebook from the lecture on April 14th, by Tom Donoghue. 
