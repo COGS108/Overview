@@ -1,4 +1,6 @@
-This organization is developed for the class 'Data Science in Practice', taught in the department of Cognitive Science, at the Univertsity of California, San Diego by Dr. Bradley Voytek.
+# Contributors
+
+This organization is developed for the class 'Data Science in Practice', taught in the department of Cognitive Science, at the Univertsity of California, San Diego by Professor Bradley Voytek. 
 
 The following people have contributed to this organization / class:
 
