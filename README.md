@@ -18,7 +18,11 @@ A series of [tutorial notebooks](https://github.com/COGS108/SectionMaterials) th
 
 [Notebooks](https://github.com/COGS108/Workbooks) and coding problems to work along with.
 
-
 ## Readings
 
 A suggested [reading list](https://github.com/COGS108/Readings) (recommended, but not required).
+
+
+## Final Projects
+
+A core component of the class is completing a group project. Some example projects from the Sp17 iteration of the class are available [here]()https://github.com/COGS108/FinalProjects).
