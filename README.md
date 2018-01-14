@@ -4,7 +4,7 @@ COGS 108 - Data Science in Practice - is a class offered by the Cognitive Scienc
 
 Here is an overview and map of the COGS108 Organization, which hosts materials and assignments for the class. 
 
-For details specific to the 2018 Winter quater iteration of the course, see [here](https://github.com/COGS108/Overview/Wi18).
+For details specific to the 2018 Winter quater iteration of the course, see [here](https://github.com/COGS108/Overview/Wi18.md).
 
 ## Assignments
 
