@@ -1,22 +1,22 @@
 # Overview
 
-COGS 108 - Data Science in Practice - is a class offered by the Cognitive Science Department of UC San Diego, taught by Professor Bradley Voytek. 
+COGS 108 - Data Science in Practice - is a class offered by the Cognitive Science Department of UC San Diego, taught by Professor Bradley Voytek. The syllabus is available [here](https://github.com/COGS108/Overview/blob/master/COGS108-Syllabus.pdf)
 
-Here is an overview and map of the COGS108 Organization, which hosts materials and assignments for the class. 
+Here is an overview and map of the COGS108 Organization, which hosts materials and assignments for the class.
 
 For details specific to the 2018 Winter quater iteration of the course, see [here](https://github.com/COGS108/Overview/blob/master/Wi18.md).
 
-## Assignments
-
-[Assignments](https://github.com/COGS108/Assignments) for COGS 108, Winter Quarter 2018.
-
 ## Tutorials
 
-A series of [tutorial notebooks](https://github.com/COGS108/SectionMaterials) that run along with the topics of the class. 
+A series of [tutorial notebooks](https://github.com/COGS108/SectionMaterials) that run along with the topics of the class.
 
 ## Lectures
 
-[Materials and notebooks](https://github.com/COGS108/LectureMaterials) for class lectures.
+[Slides and materials](https://github.com/COGS108/LectureMaterials) from the class lectures.
+
+## Assignments
+
+[Assignments](https://github.com/COGS108/Assignments) for the class.
 
 ## Workbooks
 
@@ -25,7 +25,6 @@ A series of [tutorial notebooks](https://github.com/COGS108/SectionMaterials) th
 ## Readings
 
 A suggested [reading list](https://github.com/COGS108/Readings) (recommended, but not required).
-
 
 ## Final Projects
 
