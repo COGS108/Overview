@@ -1,6 +1,6 @@
 # Contributors
 
-This organization is developed for the class 'Data Science in Practice', taught in the department of Cognitive Science, at the University of California, San Diego by Professor Bradley Voytek. 
+This organization is developed for the class 'Data Science in Practice', taught in the department of Cognitive Science, at the University of California, San Diego by Professor Bradley Voytek.
 
 The following people have contributed to this organization / class:
 
@@ -10,8 +10,11 @@ The following people have contributed to this organization / class:
 - Shuai Tang (Wi18)
 - Larry Muhlstein (Sp17)
 
-### Instructional Assistants
+## Course Staff
 - David Justo (Wi18)
+- Liz Izhikevich (Sp17)
+
+### Instructional Assistants
 - Gael Van-der-lee (Wi18)
 - Megan Chang (Wi18)
 - Tianyu Zhang (Wi18)
