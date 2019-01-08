@@ -2,7 +2,7 @@
 
 COGS 108 - Data Science in Practice - is a class offered by the Cognitive Science Department of UC San Diego, taught by Professor Christopher Keown. Here is an overview and map of the COGS 108 Organization, which hosts materials and assignments for the class.
 
-The most recent iteration of this class is Winter quarter 2019, the syllabus for which is available [here](https://github.com/COGS108/Overview/blob/master/COGS108-Syllabus.pdf). Specific administrative details related to this iteration of the course are available [here](https://github.com/COGS108/Overview/blob/master/Wi18.md).
+The most recent iteration of this class is Winter quarter 2019, the syllabus for which is available [here](https://github.com/COGS108/Overview/blob/master/COGS108-Syllabus.pdf).
 
 ## Tutorials
 

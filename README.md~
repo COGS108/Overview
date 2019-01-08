@@ -26,4 +26,4 @@ A suggested [reading list](https://github.com/COGS108/Readings) (recommended, bu
 
 ## Final Projects
 
-A core component of the class is completing a group project. Some example projects from the [Sp17](https://github.com/COGS108/FinalProjects-Wi18) and [Wi18](https://github.com/COGS108/FinalProjects-Wi18) iterations of the class are available [here](https://github.com/COGS108/FinalProjects).
+A core component of the class is completing a group project. Some example projects from the [Sp17](https://github.com/COGS108/FinalProjects) and [Wi18](https://github.com/COGS108/FinalProjects-Wi18) iterations of the class are available.
