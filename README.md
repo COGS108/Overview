@@ -10,7 +10,7 @@ A series of [tutorial notebooks](https://github.com/COGS108/SectionMaterials) th
 
 ## Lectures
 
-[Slides and materials](https://github.com/COGS108/LectureMaterials) from the class lectures.
+[Slides and materials](https://github.com/COGS108/Lectures) from the class lectures.
 
 ## Assignments
 
