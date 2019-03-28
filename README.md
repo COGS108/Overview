@@ -1,24 +1,24 @@
+
 # Overview
 
-COGS 108 - Data Science in Practice - is a class offered by the Cognitive Science Department of UC San Diego, taught by Professor Christopher Keown. Here is an overview and map of the COGS 108 Organization, which hosts materials and assignments for the class.
+COGS 108 - Data Science in Practice - is a class offered by the Cognitive Science Department of UC San Diego, taught by Professor Shannon Ellis. Here is an overview and map of the COGS 108 Organization, which hosts materials and assignments for the class.
 
-The most recent iteration of this class is Winter quarter 2019, the syllabus for which is available [here](https://github.com/COGS108/Overview/blob/master/COGS108-Syllabus.pdf).
+The most recent iteration of this class is Spring quarter 2019, the syllabus for which is available [here](https://github.com/COGS108/Overview/blob/master/COGS108-Syllabus.pdf).
 
-## Tutorials
-
-A series of [tutorial notebooks](https://github.com/COGS108/SectionMaterials) that run along with the topics of the class.
 
 ## Lectures
 
 [Slides and materials](https://github.com/COGS108/Lectures) from the class lectures.
 
+## Discussion Section
+
+* [Workbooks](https://github.com/COGS108/Section_Workbooks) for use in weekly discussion section.
+* [tutorial notebooks](https://github.com/COGS108/SectionMaterials) that run along with the topics of the class and can help as you complete section workbooks.
+* [Notebooks](https://github.com/COGS108/Workbooks) for additional programming practice on your own.
+
 ## Assignments
 
-[Assignments](https://github.com/COGS108/Assignments) for the class.
-
-## Workbooks
-
-[Notebooks](https://github.com/COGS108/Workbooks) and coding problems to work along with.
+Assignments will be completed on [datahub.ucsd.edu](datahub.ucsd.edu).
 
 ## Readings
 
