@@ -6,7 +6,7 @@ COGS 108 - Data Science in Practice - is a class offered by the Cognitive Scienc
 
 ## Syllabus 
 
-The most recent iteration of this class is Spring quarter 2019, the **syllabus** for which is available [here](https://github.com/COGS108/Overview/blob/master/COGS108-Syllabus.pdf).
+The most recent iteration of this class is Spring quarter 2019, the **syllabus** for which is available [here](https://docs.google.com/document/d/1UL77-Wuh6MoC-_l2lg6Ajr5VR-jOW-S52MGNcFdlabg/edit?usp=sharing).
 
 
 ## Lectures
