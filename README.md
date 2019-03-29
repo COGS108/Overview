@@ -23,6 +23,8 @@ The most recent iteration of this class is Spring quarter 2019, the **syllabus**
 
 Assignments will be completed on [datahub.ucsd.edu](datahub.ucsd.edu).
 
+To complete your first assignment (**A1**), you'll need to read and follow the instructions [here](https://github.com/COGS108/Overview/A1_setup.pdf). The remaining assignments will all be self-contained on [datahub.ucsd.edu](datahub.ucsd.edu).
+
 ## Readings
 
 A suggested [reading list](https://github.com/COGS108/Readings) (recommended, but not required).
