@@ -4,7 +4,9 @@
 
 COGS 108 - Data Science in Practice - is a class offered by the Cognitive Science Department of UC San Diego, taught by Professor Shannon Ellis. Here is an overview and map of the COGS 108 Organization, which hosts materials and assignments for the class.
 
-The most recent iteration of this class is Spring quarter 2019, the syllabus for which is available [here](https://github.com/COGS108/Overview/blob/master/COGS108-Syllabus.pdf).
+## Syllabus 
+
+The most recent iteration of this class is Spring quarter 2019, the **syllabus** for which is available [here](https://github.com/COGS108/Overview/blob/master/COGS108-Syllabus.pdf).
 
 
 ## Lectures
@@ -30,4 +32,8 @@ A suggested [reading list](https://github.com/COGS108/Readings) (recommended, bu
 A core component of the class is completing a group project. Some example projects from the [Sp17](https://github.com/COGS108/FinalProjects) and [Wi18](https://github.com/COGS108/FinalProjects-Wi18) iterations of the class are available.
 
 
-## A reminder about time: These assignments are intermingled with your project proposal (due W2) and final project (due finals week). This is an assignment-heavy course load to get you as much practice as possible. This will require good time management and planning on your part. Start planning ahead now to avoid late submissions and issues later in the quarter.
+---
+
+## A reminder about time: 
+
+These assignments are intermingled with your project proposal (due W2) and final project (due finals week). This is an assignment-heavy course load to get you as much practice as possible. This will require good time management and planning on your part. Start planning ahead now to avoid late submissions and issues later in the quarter.
