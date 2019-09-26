@@ -4,6 +4,10 @@ This organization is developed for the class 'Data Science in Practice', taught 
 
 The following people have contributed to this organization / class:
 
+### Faculty
+- Prof. Shannon Ellis (Sp19)
+- Prof. Bradley Voytek (Sp17, Wi18)
+
 ### Teaching Assistants
 - Thomas Donoghue (Sp17, Wi18)
 - Harshita Mangal (Sp17, Wi18)
