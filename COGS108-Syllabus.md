@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
----
-
 # COGS 108: Data Science in Practice
 
 **Spring 2020**  
@@ -97,7 +92,7 @@ Course Feedback (anonymous): [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF
 | Final Project*       | 25\%		           | Complete Final Project |
 | Final Project Survey*| 2\%		           | Complete Final Project Survey |
 
-\* This quarter there will be two options for the COGS 108 Final Project. Students will choose between the following: (1) Data Science Project on a topic of your choosing completed throughout the quarter in a group of 4-5 people OR (2) Data Science Project completed individually during finals week on a dataset and question provied to you (to mimic the data science interview process). If option 2 is chose, the Project Proposal will also be completed individually. 
+\* This quarter there will be two options for the COGS 108 Final Project. Students will choose between the following: (1) Data Science Project on a topic of your choosing completed throughout the quarter in a group of 4-5 people OR (2) Data Science Project completed individually during finals week on a dataset and question provided to you (to mimic the data science interview process). If option 2 is chose, the Project Proposal will also be completed individually. 
 
 **Final exam date**: No final exam, only final project deadline (Wednesday, 6/10 at 11:59 PM). You do not have to show up anywhere on the date of the final exam.
 
@@ -125,7 +120,7 @@ For every pre-recorded video, there will be a corresponding quiz. These are to b
 
 You will have a single attempt for each quiz. Each quiz will have between 3 and 15 questions. Each question will be worth a point.  Quizzes will be timed, and you will have 1 minute per question. 
 
-Every student has 20 "free" video quiz points for the quarter. This means that if there are 300 possible quiz points throuhgout the quarter (there may be a few more or a few less than 300 in reality) and at the end of the quarter you have >=280 total video quiz points, you will receive full credit for the "Content Engagement" portion of your grade. If, in this scendario you end the quarter with 260 total quiz points, you will receive a 92.8% (260/280) for "Content Engagement". This allows for flexibility if people miss a quiz one day or perform worse than they wanted to on a particular quiz.
+Every student has 20 "free" video quiz points for the quarter. This means that if there are 300 possible quiz points throughout the quarter (there may be a few more or a few less than 300 in reality) and at the end of the quarter you have >=280 total video quiz points, you will receive full credit for the "Content Engagement" portion of your grade. If, in this scenario you end the quarter with 260 total quiz points, you will receive a 92.8% (260/280) for "Content Engagement". This allows for flexibility if people miss a quiz one day or perform worse than they wanted to on a particular quiz.
 
 Due dates for video quizzes (VQs) can be found on the Course Schedule below. Assigned quizzes must be completed on Canvas by end of day on their due date (11:59 PM PST). There are no late submissions for video quizzes.
 
@@ -218,11 +213,11 @@ Being an effective data scientist requires effective communication. The report y
 
 ## Option 2: Individual Final Project
 
-Option 2 will be completed individualy and has been designed to mimic the data science interview process. During data science interviews, applicants are often given a dataset, a question, and tasks and sent home to complete the task. This is what students who choose Option 2 will be asked to do. Monday night of Finals week, students will be given a dataset, a question, and tasks to complete individually. Students will have 48 hours to carry out the data science project on their own. For all aspects of this project, students will have full access to course materials, their own brains and information on the Internet but are not allowed to discuss their approach or analysis with any other humans (this includes, but is not limited to: family members, members of the class, friends, or people online).
+Option 2 will be completed individually and has been designed to mimic the data science interview process. During data science interviews, applicants are often given a dataset, a question, and tasks and sent home to complete the task. This is what students who choose Option 2 will be asked to do. Monday night of Finals week, students will be given a dataset, a question, and tasks to complete individually. Students will have 48 hours to carry out the data science project on their own. For all aspects of this project, students will have full access to course materials, their own brains and information on the Internet but are not allowed to discuss their approach or analysis with any other humans (this includes, but is not limited to: family members, members of the class, friends, or people online).
 
 ### Choosing this option
 
-Students who choose Option 2 will have to specify this choice via Google Form by the Friday of week 3 (see Course Outline). One form will be submitted per indidividual. 
+Students who choose Option 2 will have to specify this choice via Google Form by the Friday of week 3 (see Course Outline). One form will be submitted per individual. 
 
 ### Project Proposal
 
@@ -290,7 +285,7 @@ You should be signed up for a section for which you can attend. However, if you 
 | 6/3    | 10	   | 28     | W     | Communication      | Video Quizzes                | 
 | 6/5    | 10	   | 29     | F     | Future of Data Science | --                        |    
 
-\* indicates (possible) group submission. All other assignments/surveys are completed & submitted individually.
+\* indicates (possible) group submission. All other assignments/quizzes/surveys are completed & submitted individually.
 
 ---
 
