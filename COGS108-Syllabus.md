@@ -11,7 +11,7 @@
 
 This Spring 2020 quarter will be unique in many ways. While students have *always* been under a fair amount of pressure and stress, the struggles students may encounter this quarter go beyond what is typical. I want you all to know that I fully understand this. 
 
-My goal in re-designing COGS 108 for remote learning has been to focus all materials and requirements so that students (you all) can learn the material in a flexible learning environment. Attendance will *not* be required or incentivized; however, there will be regular deadlines to help keep you all on track. 
+My goal in re-designing COGS 108 for remote learning has been to focus all materials and requirements so that students (you all) can learn the material in a flexible learning environment. Attendance will be neither required nor incentivized; however, there will be regular deadlines to help keep you all on track. 
 
 While flexibility has been built in at every turn this quarter, that does not ensure this will work for all students. If you find yourself falling behind, please do reach out to Prof. Ellis. She will work as hard as necessary to ensure success for all her students this quarter in COGS 108.
 
@@ -92,7 +92,7 @@ Course Feedback (anonymous): [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF
 | Final Project*       | 25\%		           | Complete Final Project |
 | Final Project Survey*| 2\%		           | Complete Final Project Survey |
 
-\* This quarter there will be two options for the COGS 108 Final Project. Students will choose between the following: (1) Data Science Project on a topic of your choosing completed throughout the quarter in a group of 4-5 people OR (2) Data Science Project completed individually during finals week on a dataset and question provided to you (to mimic the data science interview process). If option 2 is chose, the Project Proposal will also be completed individually. 
+\* This quarter there will be two options for the COGS 108 Final Project. Students will choose between the following: (1) Data Science Project on a topic of your choosing completed throughout the quarter in a group of 4-5 people OR (2) Data Science Project completed individually during finals week on a dataset and question provided to you (to mimic the data science interview process). If option 2 is chosen, the Project Proposal will also be completed individually. 
 
 **Final exam date**: No final exam, only final project deadline (Wednesday, 6/10 at 11:59 PM). You do not have to show up anywhere on the date of the final exam.
 
@@ -153,7 +153,7 @@ Also, your instructional staff may not know the answer to everything off the top
 
 ### Deadlines
 
-Assignments will be submitted individually on datahub. We’ll talk about the details for submission in class. Assignments will always be released at least a week before the assignment due date. On weeks with assignment deadlines, they will always be due Friday at 11:59 PM of the week specified (see Course Outline below). 
+Assignments will be submitted individually on datahub. We’ll talk about the details for submission in class. Assignments will always be released at least a week before the assignment due date. On weeks with assignment deadlines, they will always be due Friday at 11:59 PM of the week specified (see Course Schedule below). 
 
 **Check to ensure that your file shows up under “Submitted assignments” on datahub after you click submit**. If the file is the incorrect file, corrupted, or otherwise unreadable, we cannot grade it and we will mark your assignment as late.
 
@@ -193,11 +193,11 @@ Finding a group may be a tad trickier this quarter. As such, we'll offer additio
 2. If you don't know people in the class or don't have people you want to work with, no problem. Piazza has a feature where you can look for group mates - check for that post and look through there to find group mates
 3. If you are struggling to find a group, there will be a form to fill out during week 2 for those interested in finding a group. If you sign up for help finding a group, you will be assigned to a group. We will do our best to form groups among individuals with similar schedules and interests. Groups will be assigned by the middle of week 
 
-For students who choose Option 1, groups will be submitted via Google Form by the Friday of week 3 (see Course Outline). One form will be submitted per group. This will be required of all groups who choose Option 1 (even those we help form), as you will be required to include your GitHub username in this submission.
+For students who choose Option 1, groups will be submitted via Google Form by the Friday of week 3 (see Course Schedule). One form will be submitted per group. This will be required of all groups who choose Option 1 (even those we help form), as you will be required to include your GitHub username in this submission.
 
 ### Project Proposal
 
-You will have to submit a group project proposal by the end of week four (see course outline below) on GitHub. This means that you will have to have to have met as a group by then, have determined what question you want to ask in your project, started to identify the data you’ll need/the data you’ll use to answer your group’s question of interest, have laid out a plan for your project’s completion going forward. You will receive feedback on your project proposal to help guide your final project. However, we strongly encourage you to chat with the instructional staff throughout the quarter as you work on your project to elicit more feedback and ensure you’re going in the right direction.
+You will have to submit a group project proposal by the end of week four (see Course Schedule below) on GitHub. This means that you will have to have to have met as a group by then, have determined what question you want to ask in your project, started to identify the data you’ll need/the data you’ll use to answer your group’s question of interest, have laid out a plan for your project’s completion going forward. You will receive feedback on your project proposal to help guide your final project. However, we strongly encourage you to chat with the instructional staff throughout the quarter as you work on your project to elicit more feedback and ensure you’re going in the right direction.
 
 ### Group Project Survey
 
@@ -217,11 +217,11 @@ Option 2 will be completed individually and has been designed to mimic the data 
 
 ### Choosing this option
 
-Students who choose Option 2 will have to specify this choice via Google Form by the Friday of week 3 (see Course Outline). One form will be submitted per individual. 
+Students who choose Option 2 will have to specify this choice via Google Form by the Friday of week 3 (see Course Schedule). One form will be submitted per individual. 
 
 ### Project Proposal
 
-Students who choose Option 2 will still submit a project proposal by the end of week four (see course outline below) on GitHub. This will be completed individually on a topic of *our* choosing. 
+Students who choose Option 2 will still submit a project proposal by the end of week 3 (see Course Schedule below) on GitHub. This will be completed individually on a topic of *our* choosing. 
 
 ### Final Project Survey
 
@@ -262,7 +262,7 @@ You should be signed up for a section for which you can attend. However, if you 
 | 4/10   | 2	   | 6      | F     | Python Review      | --                           |
 | 4/13   | 3	   | 7      | M     | Data Wrangling     | Video Quizzes                | 
 | 4/15   | 3	   | 8      | W     | DataViz I          | Video Quizzes                | 
-| 4/17   | 3	   | 9      | F     | `pandas`           | **A1**: git + python; **Final Project Groups?\*** | 
+| 4/17   | 3	   | 9      | F     | `pandas`           | **A1**: git + python; **Project Planning Survey\*** | 
 | 4/20   | 4	   | 10     | M     | Intro to Analysis  | Video Quizzes                | 
 | 4/22   | 4	   | 11     | W     | EDA                | Video Quizzes                |
 | 4/24   | 4	   | 12     | F     | DataViz II         | **Project Proposal\***         | 
