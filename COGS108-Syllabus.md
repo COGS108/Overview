@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # COGS 108: Data Science in Practice
 
 **Spring 2020**  
@@ -35,8 +40,8 @@ In this course, you will try many methods. Every so often, you’ll even be aske
 
 # COURSE STAFF & INFORMATION
 
-**Instructor**: Shannon Ellis ([sellis@ucsd.edu](sellis@ucsd.edu))  
-**Instructor Office Hours**: Fridays 1-3 PM (zoom: TBD)  
+**Instructor**: Shannon Ellis ([sellis@ucsd.edu](mailto:sellis@ucsd.edu))  
+**Instructor Office Hours**: Fridays 1-3 PM
 
 | Role        | Name          					   | Section  | Office Hours |
 | -------------: |:------------------------|:---------|:-------------|
@@ -112,28 +117,18 @@ Given the unique situation of this quarter, lecture and discussion section atten
 
 # LECTURE
 
-### Video Lectures & Content Engagement (Video Quizzes)
 
-For Monday and Wednesday lectures (and Friday of week 1), content videos will be pre-recorded and shared (asynchronous learning). Students are encouraged to watch these during regular lecture time if that works for their schedules, but are free to watch them at a more convenient time, should that be necessary. 
+Starting Wednesday of Week 1, all lectures will be pre-recorded and shared (asynchronous learning). Students are encouraged to watch these during regular lecture time if that works for their schedules, but are free to watch them at a more convenient time, should that be necessary. 
 
-For every pre-recorded video, there will be a corresponding quiz. These are to be completed individually. There will be 1-3 videos per day, resulting in more than 40 quizzes in total throughout the quarter. These are designed to help keep students on track with material this quarter. Links to videos will be posted on each week's README on GitHub. Corresponding quizzes will be taken on Canvas.
+For every pre-recorded video, there will be a corresponding quiz. These are to be completed individually. There will be 1-3 videos per day, resulting in more than 50 quizzes in total throughout the quarter. These are designed to help keep students on track with material. Links to videos will be posted on each week's README on GitHub. Corresponding quizzes will be taken on Canvas.
 
 You will have a single attempt for each quiz. Each quiz will have between 3 and 15 questions. Each question will be worth a point.  Quizzes will be timed, and you will have 1 minute per question. 
 
 Every student has 20 "free" video quiz points for the quarter. This means that if there are 300 possible quiz points throughout the quarter (there may be a few more or a few less than 300 in reality) and at the end of the quarter you have >=280 total video quiz points, you will receive full credit for the "Content Engagement" portion of your grade. If, in this scenario you end the quarter with 260 total quiz points, you will receive a 92.8% (260/280) for "Content Engagement". This allows for flexibility if people miss a quiz one day or perform worse than they wanted to on a particular quiz.
 
-Due dates for video quizzes (VQs) can be found on the Course Schedule below. Assigned quizzes must be completed on Canvas by end of day on their due date (11:59 PM PST). There are no late submissions for video quizzes.
+Starting with Wed of Week 1, there will be video quizzes due every Mon, Wed, and Fri throughout the quarter.  Assigned quizzes must be completed on Canvas by end of day on their due date (11:59 PM PST). There are no late submissions for video quizzes.
 
 Aside from week 1's videos, all videos and quizzes will be released on the Friday of the previous week, at the latest. (For example, any video quizzes due week 2 will be released by Friday of week 1.) 
-
-
-### Hands-On Lectures
-
-While content for Mondays and Wednesdays will be pre-recorded, starting with week 2, Friday lectures will be synchronous (completed live during class time). For these lectures, a skeleton Jupyter notebook will be shared with students on GitHub. Students will be guided through and given time to complete the notebook during lecture. In general, these lectures will be used to 1) demonstrate the use of Python for data science and 2) focus on the implementation (in Python) of the concepts covered earlier in the week.
-
-Attendance is strongly encouraged (but not required!) for all students in a similar timezone. For those students unable to attend during class time, these lectures will be recorded for you to follow along at a later time.
-
-There are no quizzes or attendance tracking for hands-on lectures; however, the content covered in these lectures will be required for successful assignment completion. (If technical difficulties are encountered or this approach does not seem to be working for students, Fridays will also be pre-recorded; however, there will be no additional video quizzes should this happen.)
 
 ---
 
@@ -255,35 +250,35 @@ You should be signed up for a section for which you can attend. However, if you 
 | Date   | Week  | Lecture| Day   |       Topic        | Assignments (due: 11:59 PM PST) |
 | -----: |:-----:|:-------|:-----:|:-------------------|:-----------------------------|
 | 3/30   | 1	   | 1      | M     | Welcome!           | --                           |
-| 4/1    | 1	   | 2      | W     | Data Science       | Video Quizzes                |  
-| 4/3    | 1	   | 3      | F     | Ethics             | Video Quizzes                | 
-| 4/6    | 2     | 4      | M     | Version Control    | Video Quizzes                |
-| 4/8    | 2	   | 5      | W     | Data & Intuition   | Video Quizzes                |
+| 4/1    | 1	   | 2      | W     | Data Science       | --                           |  
+| 4/3    | 1	   | 3      | F     | Ethics             | --                           | 
+| 4/6    | 2     | 4      | M     | Version Control    | --                           |
+| 4/8    | 2	   | 5      | W     | Data & Intuition   | --                           |
 | 4/10   | 2	   | 6      | F     | Python Review      | --                           |
-| 4/13   | 3	   | 7      | M     | Data Wrangling     | Video Quizzes                | 
-| 4/15   | 3	   | 8      | W     | DataViz I          | Video Quizzes                | 
+| 4/13   | 3	   | 7      | M     | Data Wrangling     | --                           | 
+| 4/15   | 3	   | 8      | W     | DataViz I          | --                           | 
 | 4/17   | 3	   | 9      | F     | `pandas`           | **A1**: git + python; **Project Planning Survey\*** | 
-| 4/20   | 4	   | 10     | M     | Intro to Analysis  | Video Quizzes                | 
-| 4/22   | 4	   | 11     | W     | EDA                | Video Quizzes                |
-| 4/24   | 4	   | 12     | F     | DataViz II         | **Project Proposal\***         | 
-| 4/27   | 5	   | 13     | M     | Inference I        | Video Quizzes                | 
-| 4/29   | 5	   | 14     | W     | Inference II       | Video Quizzes                |   
+| 4/20   | 4	   | 10     | M     | Intro to Analysis  | --                           | 
+| 4/22   | 4	   | 11     | W     | EDA                | --                           |
+| 4/24   | 4	   | 12     | F     | DataViz II         | **Project Proposal\***       | 
+| 4/27   | 5	   | 13     | M     | Inference I        | --                           | 
+| 4/29   | 5	   | 14     | W     | Inference II       | --                           |   
 | 5/1    | 5	   | 15     | F     | Inference III      | **A2**: `pandas`             | 
-| 5/4    | 6	   | 16     | M     | Text Analysis I    | Video Quizzes                |
-| 5/6    | 6	   | 17     | W     | Guest Lecture I    | Video Quizzes                |
+| 5/4    | 6	   | 16     | M     | Text Analysis I    | --                           |
+| 5/6    | 6	   | 17     | W     | Guest Lecture I    | --                           |
 | 5/8    | 6	   | 18     | F     | Text Analysis II   | **A3**: Data Exploration     |
-| 5/11   | 7	   | 19     | M     | Machine Learning I | Video Quizzes                | 
-| 5/13   | 7	   | 20     | W     | Machine Learning II| Video Quizzes                |
+| 5/11   | 7	   | 19     | M     | Machine Learning I | --                           | 
+| 5/13   | 7	   | 20     | W     | Machine Learning II| --                           |
 | 5/15   | 7	   | 21     | F     | Text + ML          | **A4**: Data Privacy         |
-| 5/18   | 8	   | 22     | M     | Nonparametric      | Video Quizzes                |    
-| 5/20   | 8	   | 23     | W     | Geospatial I       | Video Quizzes                | 
+| 5/18   | 8	   | 22     | M     | Nonparametric      | --                           |    
+| 5/20   | 8	   | 23     | W     | Geospatial I       | --                           | 
 | 5/22   | 8	   | 24     | F     | Geospatial II      | **A5**: Data Analysis        | 
 | 5/25   | 9	   | --     | M     | **No Class**       | --                           | 
-| 5/27   | 9	   | 25     | W     | Dimensionality Reduction | Video Quizzes          |  
+| 5/27   | 9	   | 25     | W     | Dimensionality Reduction | --                     |  
 | 5/29   | 9	   | 26     | F     | Data Science Jobs  | **A6**: NLP                  | 
-| 6/1    | 10	   | 27     | M     | Guest Lecture II   | Video Quizzes                | 
-| 6/3    | 10	   | 28     | W     | Communication      | Video Quizzes                | 
-| 6/5    | 10	   | 29     | F     | Future of Data Science | --                        |    
+| 6/1    | 10	   | 27     | M     | Guest Lecture II   | --                           | 
+| 6/3    | 10	   | 28     | W     | Communication      | --                           | 
+| 6/5    | 10	   | 29     | F     | Future of Data Science | --                       |    
 
 \* indicates (possible) group submission. All other assignments/quizzes/surveys are completed & submitted individually.
 
