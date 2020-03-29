@@ -43,16 +43,16 @@ In this course, you will try many methods. Every so often, you’ll even be aske
 **Instructor**: Shannon Ellis ([sellis@ucsd.edu](mailto:sellis@ucsd.edu))  
 **Instructor Office Hours**: Fridays 1-3 PM
 
-| Role        | Name          					   | Section  | Office Hours |
-| -------------: |:------------------------|:---------|:-------------|
-| TA             | Matt Feigelis	         | TBD      | TBD |
-| TA 	           | Devendra Yadav          | TBD      | TBD |
-| TA 	           | Will McCarthy           | TBD      | TBD |
-| IA	           | Cyrus Shen              | TBD      | --  |
-| IA	           | Yunbo Wu                | TBD      | --  |
-| IA	           | Byungkwon Han           | TBD      | --  |
-| IA	           | Michelle Kao            | TBD      | --  |
-| IA	           | Huixuan Tan             | TBD      | --  |
+| Role           | Name          					 | Section          | Office Hours |
+| -------------: |:------------------------|:-----------------|:-------------|
+| TA             | Matt Feigelis	         | Wed 2PM & 3PM    | Wed 4-5 PM   |
+| TA 	           | Devendra Yadav          | Fri 11AM & 12PM  | Wed 12-1 PM  |
+| TA 	           | Will McCarthy           | Mon 12PM & 4PM   | Fri 10-11 AM |
+| IA	           | Cyrus Shen              | Wed 3PM; Fri 6PM | --           |
+| IA	           | Yunbo Wu                | Fri 6PM          | --           |
+| IA	           | Byungkwon Han           | Fri 11AM         | --           |
+| IA	           | Michelle Kao            | Wed 2PM; Fri 1PM | --           |
+| IA	           | Huixuan Tan             | Fri 12PM & 1PM   | --           |
 
 
 Course GitHub: https://github.com/COGS108  
@@ -72,7 +72,6 @@ Course Feedback (anonymous): [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF
 - Communicate results concisely and effectively in reports and presentations
 - Identify and explain how to approach an unfamiliar data science task
 
-
 ---
 
 # COURSE MATERIALS
@@ -89,12 +88,12 @@ Course Feedback (anonymous): [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF
 
 # GRADING
 
-|                | \% of Grade          	 | Requirement            |
-| -------------: |:-----------------------:|:-----------------------|
-| Assignments 	       | 45\%              | Complete 6 Assignments |
-| Content Engagement   | 20\%              | Complete Video Quizzes |
+|                | \% of Grade          	 | Requirement               |
+| -------------: |:-----------------------:|:--------------------------|
+| Assignments 	       | 45\%              | Complete 6 Assignments    |
+| Content Engagement   | 20\%              | Complete Video Quizzes    |
 | Project Proposal*    | 8\%		           | Complete Project Proposal |
-| Final Project*       | 25\%		           | Complete Final Project |
+| Final Project*       | 25\%		           | Complete Final Project    |
 | Final Project Survey*| 2\%		           | Complete Final Project Survey |
 
 \* This quarter there will be two options for the COGS 108 Final Project. Students will choose between the following: (1) Data Science Project on a topic of your choosing completed throughout the quarter in a group of 4-5 people OR (2) Data Science Project completed individually during finals week on a dataset and question provided to you (to mimic the data science interview process). If option 2 is chosen, the Project Proposal will also be completed individually. 
@@ -115,14 +114,14 @@ Given the unique situation of this quarter, lecture and discussion section atten
 
 ---
 
-# LECTURE
+# LECTURE (CONTENT ENGAGEMENT)
 
 
-Starting Wednesday of Week 1, all lectures will be pre-recorded and shared (asynchronous learning). Students are encouraged to watch these during regular lecture time if that works for their schedules, but are free to watch them at a more convenient time, should that be necessary. 
+Starting Wednesday of Week 1, all lectures will be pre-recorded and shared (asynchronous learning). Students are encouraged to watch these during regular lecture time if that works for their schedules, but are free to watch them at a more convenient time, should that be necessary. They are designed so that each days' videos and quizzes can be completed in the normal class meeting time (50 min).
 
-For every pre-recorded video, there will be a corresponding quiz. These are to be completed individually. There will be 1-3 videos per day, resulting in more than 50 quizzes in total throughout the quarter. These are designed to help keep students on track with material. Links to videos will be posted on each week's README on GitHub. Corresponding quizzes will be taken on Canvas.
+For every pre-recorded video, there will be a corresponding quiz. These are to be completed individually. There will be 1-3 videos per day, resulting in more than 50 quizzes in total throughout the quarter. These are designed to help keep students on track. Links to videos will be posted on each week's README on GitHub. Corresponding quizzes will be taken on Canvas.
 
-You will have a single attempt for each quiz. Each quiz will have between 3 and 15 questions. Each question will be worth a point.  Quizzes will be timed, and you will have 1 minute per question. 
+You will have a single attempt for each quiz. Each quiz will have between 3 and 15 questions. Each question will be worth a point. Quizzes will be timed, and you will have 1 minute per question. 
 
 Every student has 20 "free" video quiz points for the quarter. This means that if there are 300 possible quiz points throughout the quarter (there may be a few more or a few less than 300 in reality) and at the end of the quarter you have >=280 total video quiz points, you will receive full credit for the "Content Engagement" portion of your grade. If, in this scenario you end the quarter with 260 total quiz points, you will receive a 92.8% (260/280) for "Content Engagement". This allows for flexibility if people miss a quiz one day or perform worse than they wanted to on a particular quiz.
 
@@ -166,7 +165,7 @@ Piazza will be used for all general questions. For example, if you are confused 
 
 We will work hard to grade everyone fairly and return assignments quickly. But, we know you also work hard and want you to receive the grade you’ve earned. Occasionally, grading mistakes do happen, and it's important to us to correct them.
 
-If you think there is a mistake in your grade, request a regrade within 72 hours of your receipt of the grade on Piazza via a *Private* message to "Instructors". This message should include evidence of why you think your answer was correct (i.e. a specific reference to something said in lecture) and should point to the specific part of the assignment in question. 
+If you think there is a mistake in your grade, request a regrade within 72 hours of your receipt of the grade on Piazza via a *Private* message to "Instructors" and use the "regrades" tag. This message should include evidence of why you think your answer was correct (i.e. a specific reference to something said in lecture) and should point to the specific part of the assignment in question. 
 
 Note that points will *not* be rewarded if you fail to follow instructions. For example, if the instructions say to name the variable `orange` and you name it `ornage` (misspelled), you will not be rewarded credit upon regrade. This is because (1) following instructions and being detail-oriented is important and (2) there are hundreds of students taking the course this quarter. It would be an unfair burden to place on TAs if we didn’t have this policy.
 
@@ -240,7 +239,7 @@ Discussion Section will begin week 2.
 
 Section will be used to review material from lecture by getting hands-on programming experience. You will be given tips for working in Python, guided through Jupyter notebooks to clarify topics presented in class, and will be given time to get additional practice. There will be information covered in section that are not covered in lecture and that will be needed (or at least very helpful) for the assignments. 
 
-You should be signed up for a section for which you can attend. However, if you are unable to attend the section for which you are signed up, you are free to attend a different section any given week than the one in which you're assigned.
+You should be signed up for a section for which you can attend. However, if you are unable to attend the section for which you are signed up, you are free to attend a different section any given week than the one to which you're assigned.
 
 
 ---
