@@ -7,8 +7,6 @@ output:
 
 **Spring 2020**  
 **MWF 9-9:50 (remote)**  
- 
-**This is a DRAFT and is subject to change. Syllabus will be finalized during the first week of the quarter.**
 
 ---
 
@@ -207,7 +205,7 @@ Being an effective data scientist requires effective communication. The report y
 
 ## Option 2: Individual Final Project
 
-Option 2 will be completed individually and has been designed to mimic the data science interview process. During data science interviews, applicants are often given a dataset, a question, and tasks and sent home to complete the task. This is what students who choose Option 2 will be asked to do. Monday night of Finals week, students will be given a dataset, a question, and tasks to complete individually. Students will have 48 hours to carry out the data science project on their own. For all aspects of this project, students will have full access to course materials, their own brains and information on the Internet but are not allowed to discuss their approach or analysis with any other humans (this includes, but is not limited to: family members, members of the class, friends, or people online).
+Option 2 will be completed individually and has been designed to mimic the data science interview process. During data science interviews, applicants are often given a dataset, a question, and tasks and sent home to complete the task. This is what students who choose Option 2 will be asked to do. Monday night of Finals week, students will be given a dataset, a question, and tasks to complete individually. Students will have 5 days to carry out the data science project on their own. For all aspects of this project, students will have full access to course materials, their own brains and information on the Internet but are not allowed to discuss their approach or analysis with any other humans (this includes, but is not limited to: family members, members of the class, friends, or people online).
 
 ### Choosing this option
 
@@ -223,7 +221,7 @@ Every individual in the class will provide feedback about their experience compl
 
 ### Final Project 
 
-The final project will be a full, detailed data science report in the form of a Jupyter notebook that carries out an analysis from start to finish. This report will answer the data science question provided to you during finals week. You will have 48 hours to complete the project. 
+The final project will be a full, detailed data science report in the form of a Jupyter notebook that carries out an analysis from start to finish. This report will answer the data science question provided to you during finals week. You will have 5 days to complete your individual final project. We do not anticipate it taking you 5 days straight; however, we know you'll have other finals to study for and take during this time.
 
 More details will be provided in class, but generally this report will include (1) background research and ethical considerations, (2) your data science question(s) and hypothesis/hypotheses, (3) data & data wrangling, (4) a descriptive & an exploratory data analysis, (5) your full analysis, (6) your results, and your (7) conclusion(s).
 
