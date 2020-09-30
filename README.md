@@ -4,19 +4,18 @@ COGS 108 - Data Science in Practice - is a class offered by the Cognitive Scienc
 
 ## Syllabus 
 
-The most recent iteration of this class is Winter quarter 2020, the **syllabus** for which is available [here](https://github.com/COGS108/Overview/blob/master/COGS108-Syllabus.md). (PDF available [here](https://github.com/COGS108/Overview/blob/master/COGS108-Syllabus.pdf))
+The most recent iteration of this class is Fall Auarter 2020, the **syllabus** for which is available [here](https://github.com/COGS108/Overview/blob/master/COGS108-Syllabus.md). (PDF available [here](https://github.com/COGS108/Overview/blob/master/COGS108-Syllabus.pdf))
 
 
 ## Lectures
 
-[Slides and materials](https://github.com/COGS108/Lectures-Sp20) will be organized by week. All links to class videos, slides, and notebooks used MWF will be included here.
+[Slides and materials](https://github.com/COGS108/Lectures-Fa20) will be organized by week. All links to class videos, slides, and notebooks used MWF will be included here.
 
 ## Discussion Section
 
-* [Section Materials](https://github.com/COGS108/Section-Sp20) includes materials used and presented by Instructional staff in section each week
-* [Tutorial Notebooks](https://github.com/COGS108/SectionMaterials) that run along with the topics of the class and can help as you complete section workbooks.
-* [Practice Notebooks](https://github.com/COGS108/Workbooks) for additional programming practice on your own.
-* [Workbooks](https://github.com/COGS108/Section_Workbooks) for use in weekly discussion section.
+* [Section Materials](https://github.com/COGS108/Section-Fa20) includes materials used and presented by Instructional staff in section each week
+* [Tutorial Notebooks](https://github.com/COGS108/Tutorials) that run along with the topics of the class and can help as you complete assignments and discussion section tasks.
+* Additional Practice: [Practice Notebooks](https://github.com/COGS108/Workbooks) & [Workbooks](https://github.com/COGS108/Section_Workbooks) for additional programming practice on your own. .
 
 ## Assignments
 
@@ -28,8 +27,7 @@ A suggested [reading list](https://github.com/COGS108/Readings) (recommended, bu
 
 ## Final Projects
 
-A core component of the class is completing a group project. Some example projects from the [Sp17](https://github.com/COGS108/FinalProjects), [Wi18](https://github.com/COGS108/FinalProjects-Wi18),  [Sp19](https://github.com/COGS108/FinalProjects-Sp19), and
-[Fa19](https://github.com/COGS108/FinalProjects-Fa19) iterations of the class are available
+A core component of the class is completing a group project. Some example projects from the[Spring 2017](https://github.com/COGS108/FinalProjects-Sp17), [Winter 2018](https://github.com/COGS108/FinalProjects-Wi18), [Spring 2019](https://github.com/COGS108/FinalProjects-Sp19), [Fall 2019](https://github.com/COGS108/FinalProjects-Fa19), [Winter 2020](https://github.com/COGS108/FinalProjects-Wi20), and [Spring 2020](https://github.com/COGS108/FinalProjects-Sp20) iterations of the class are available
 
 ---
 

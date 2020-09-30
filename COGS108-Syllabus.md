@@ -1,22 +1,12 @@
 ---
 output:
   pdf_document: default
-  html_document: default
 ---
+
 # COGS 108: Data Science in Practice
 
-**Spring 2020**  
+**Fall 2020**  
 **MWF 9-9:50 (remote)**  
-
----
-
-# A NOTE ABOUT SPRING 2020
-
-This Spring 2020 quarter will be unique in many ways. While students have *always* been under a fair amount of pressure and stress, the struggles students may encounter this quarter go beyond what is typical. I want you all to know that I fully understand this. 
-
-My goal in re-designing COGS 108 for remote learning has been to focus all materials and requirements so that students (you all) can learn the material in a flexible learning environment. Attendance will be neither required nor incentivized; however, there will be regular deadlines to help keep you all on track. 
-
-While flexibility has been built in at every turn this quarter, that does not ensure this will work for all students. If you find yourself falling behind, please do reach out to Prof. Ellis. She will work as hard as necessary to ensure success for all her students this quarter in COGS 108.
 
 ---
 
@@ -36,30 +26,41 @@ In this course, you will try many methods. Every so often, you’ll even be aske
 
 ---
 
+### A Note About Remote Learning
+
+For some of you, remote learning is new. For others, you've got a bit of practice. For all of us, there is a lot going on in the world. While students have always been under a fair amount of pressure and stress, the struggles students may encounter this quarter (for a whole bunch of different reasons) may go beyond what is typical. I want you all to know that I fully understand this and am here to help you succeed. 
+
+While regular deadlines have been established to help keep you all on track, I want you to know up front that I am a very reasonable person. While I ask that you all do your best to meet deadlines that have been set, know that if you're struggling, I absolutely want you to reach out to let me know, to ask for an extension, or to discuss some other accommodation.
+
+Please take care of yourselves and one another, and I'll work as hard as needed to ensure success for all students this quarter.
+
+---
+
 # COURSE STAFF & INFORMATION
 
 **Instructor**: Shannon Ellis ([sellis@ucsd.edu](mailto:sellis@ucsd.edu))  
-**Instructor Office Hours**: Fridays 1-3 PM
+**Instructor Office Hours**: Wednesdays 2-4 PM
 
 | Role           | Name          					 | Section          | Office Hours |
 | -------------: |:------------------------|:-----------------|:-------------|
-| TA             | Matt Feigelis	         | Wed 2PM & 3PM    | Wed 4-5 PM   |
-| TA 	           | Devendra Yadav          | Fri 11AM & 12PM  | Wed 12-1 PM  |
-| TA 	           | Will McCarthy           | Mon 12PM & 4PM   | Fri 10-11 AM |
-| IA	           | Cyrus Shen              | Wed 3PM; Fri 6PM | --           |
-| IA	           | Yunbo Wu                | Fri 6PM          | --           |
-| IA	           | Byungkwon Han           | Fri 11AM         | --           |
-| IA	           | Michelle Kao            | Wed 2PM; Fri 1PM | --           |
-| IA	           | Huixuan Tan             | Fri 12PM & 1PM   | --           |
+| TA             | Atman Patel	           | M 4PM; M 6PM     | TBD          |
+| TA 	           | Ganesh Raghavendran     | W 3PM; W 5PM     | TBD          |
+| TA 	           | Sidharth Suresh         | F 3PM; F 4PM     | TBD          |
+| IA	           | Michael Baluja          | M 5PM            | --           |
+| IA	           | Fei Dai                 | --               | --           |
+| IA	           | Andrew Nguyen           | M 4PM; W 2PM     | --           |
+| IA	           | Emily Park              | W 2PM; W 3PM     | --           |
+| IA	           | Abigail Paterson        | F 3PM; F 4PM     | --           |
 
 
 Course GitHub: https://github.com/COGS108  
-Course Piazza*: http://piazza.com/ucsd/spring2020/cogs108  
+Course Piazza*: http://piazza.com/ucsd/fall2020/cogs108  
+Course Canvas: https://canvas.ucsd.edu/courses/18744  
+YouTube Playlist: http://bit.ly/cogs108_youtube_fa20 (videos also on Canvas)  
 Assignment Submission: https://datahub.ucsd.edu  
 Course Feedback (anonymous): [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF2)    
 
 *You will be able to post anonymously on Piazza; however, you will only be anonymous to your classmates. Your Instructor and TAs will be able to see who you are.
-
 
 ---
 
@@ -74,7 +75,7 @@ Course Feedback (anonymous): [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF
 
 # COURSE MATERIALS
 - There is no textbook
-- All materials will be provided on GitHub
+- All materials will be provided on GitHub/datahub
 - iclickers will NOT be used this quarter
 
 # CLASS TECHNOLOGY
@@ -94,9 +95,9 @@ Course Feedback (anonymous): [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF
 | Final Project*       | 25\%		           | Complete Final Project    |
 | Final Project Survey*| 2\%		           | Complete Final Project Survey |
 
-\* This quarter there will be two options for the COGS 108 Final Project. Students will choose between the following: (1) Data Science Project on a topic of your choosing completed throughout the quarter in a group of 4-5 people OR (2) Data Science Project completed individually during finals week on a dataset and question provided to you (to mimic the data science interview process). If option 2 is chosen, the Project Proposal will also be completed individually. 
+\* This quarter there will be two options for the COGS 108 Final Project. Students will choose between the following: (1) Data Science Project on a topic of your choosing completed throughout the quarter in a group of 4-5 people OR (2) Data Science Project completed individually duringweek 10 + finals week on a dataset and question provided to you (to mimic the data science interview process). If option 2 is chosen, the Project Proposal will also be completed individually. 
 
-**Final exam date**: No final exam, only final project deadline (Wednesday, 6/10 at 11:59 PM). You do not have to show up anywhere on the date of the final exam.
+**Final exam date**: No final exam, only final project deadline (Wednesday, 12/16 at 11:59 PM). You do not have to show up anywhere on the date/time of the final exam.
 
 
 ### Grades
@@ -115,17 +116,17 @@ Given the unique situation of this quarter, lecture and discussion section atten
 # LECTURE (CONTENT ENGAGEMENT)
 
 
-Starting Wednesday of Week 1, all lectures will be pre-recorded and shared (asynchronous learning). Students are encouraged to watch these during regular lecture time if that works for their schedules, but are free to watch them at a more convenient time, should that be necessary. They are designed so that each days' videos and quizzes can be completed in the normal class meeting time (50 min).
+Starting Monday of Week 1, all lectures will be pre-recorded and shared (asynchronous learning). Students are encouraged to watch these during regular lecture time if that works for their schedules, but are free to watch them at a more convenient time, should that be necessary. They are designed so that each days' videos and quizzes can be completed in the normal class meeting time (50 min).
 
-For every pre-recorded video, there will be a corresponding quiz. These are to be completed individually. There will be 1-3 videos per day, resulting in more than 50 quizzes in total throughout the quarter. These are designed to help keep students on track. Links to videos will be posted on each week's README on GitHub. Corresponding quizzes will be taken on Canvas.
+For every pre-recorded video, there will be a corresponding quiz. These are to be completed individually. There will be 1-3 videos per day, resulting in ~65 quizzes in total throughout the quarter. These are designed to help keep students on track. Links to videos will be posted on each week's README on GitHub and on Canvas. Corresponding quizzes will be taken on Canvas.
 
-You will have a single attempt for each quiz. Each quiz will have between 3 and 15 questions. Each question will be worth a point. Quizzes will be timed, and you will have 1 minute per question. 
+You will have a single attempt for each quiz. Each quiz will have between 3 and 15 questions. Quizzes will be timed, and you will have a little more than 1 minute per question. 
 
-Every student has 20 "free" video quiz points for the quarter. This means that if there are 300 possible quiz points throughout the quarter (there may be a few more or a few less than 300 in reality) and at the end of the quarter you have >=280 total video quiz points, you will receive full credit for the "Content Engagement" portion of your grade. If, in this scenario you end the quarter with 260 total quiz points, you will receive a 92.8% (260/280) for "Content Engagement". This allows for flexibility if people miss a quiz one day or perform worse than they wanted to on a particular quiz.
+Every student has 10 "free" video quiz points for the quarter. This means that if there are 200 possible quiz points throughout the quarter (there may be a few more or a few less than 200 in reality), and at the end of the quarter you have >=190 total video quiz points, you will receive full credit for the "Content Engagement" portion of your grade. If, in this scenario, you end the quarter with 180 total quiz points, you will receive a 95.0% (190/200) for "Content Engagement". This allows for flexibility if people miss a quiz one day or perform worse than they wanted to on a particular quiz.
 
-Starting with Wed of Week 1, there will be video quizzes due every Mon, Wed, and Fri throughout the quarter.  Assigned quizzes must be completed on Canvas by end of day on their due date (11:59 PM PST). There are no late submissions for video quizzes.
+Starting with Mon of Week 1, there will be video quizzes due every Mon, Wed, and Fri throughout the quarter.  While quizzes are designed to be taken each MWF, all assigned quizzes for a given week must be completed on Canvas by the Friday of the week on which they're assigned to receive credit (11:59 PM PST).
 
-Aside from week 1's videos, all videos and quizzes will be released on the Friday of the previous week, at the latest. (For example, any video quizzes due week 2 will be released by Friday of week 1.) 
+All videos and quizzes will be released on the Friday of the preceeding week. (For example, any video quizzes due week 2 will be released by Friday of week 1.) 
 
 ---
 
@@ -149,7 +150,7 @@ Assignments will be submitted individually on datahub. We’ll talk about the de
 
 **Check to ensure that your file shows up under “Submitted assignments” on datahub after you click submit**. If the file is the incorrect file, corrupted, or otherwise unreadable, we cannot grade it and we will mark your assignment as late.
 
-Late assignments earn fractional credit (75% within one week late; no late assignments accepted after one week).
+Late assignments will be accepted at 75\% credit for 72 hours (3 days) after the assignment's due date. Once the late deadline passes, assignments will be graded, feedback will be made available on datahub, and assignments will no longer be able to be submitted for credit.
 
 ### Feedback & Grades
 
@@ -183,7 +184,8 @@ Finding a group may be a tad trickier this quarter. As such, we'll offer additio
 
 1. If you have people in the class you know you want to work with, chat with one another and if you're all on board, form a group.
 2. If you don't know people in the class or don't have people you want to work with, no problem. Piazza has a feature where you can look for group mates - check for that post and look through there to find group mates
-3. If you are struggling to find a group, there will be a form to fill out during week 2 for those interested in finding a group. If you sign up for help finding a group, you will be assigned to a group. We will do our best to form groups among individuals with similar schedules and interests. Groups will be assigned by the middle of week 
+3. There will be time to find groups in discussion section during week 1.
+3. If you are struggling to find a group by week 2, there will be a form to fill out. If you sign up for help finding a group, you will be assigned to a group. We will do our best to form groups among individuals with similar schedules and interests. Groups will be assigned by the middle of week 3.
 
 For students who choose Option 1, groups will be submitted via Google Form by the Friday of week 3 (see Course Schedule). One form will be submitted per group. This will be required of all groups who choose Option 1 (even those we help form), as you will be required to include your GitHub username in this submission.
 
@@ -205,11 +207,11 @@ Being an effective data scientist requires effective communication. The report y
 
 ## Option 2: Individual Final Project
 
-Option 2 will be completed individually and has been designed to mimic the data science interview process. During data science interviews, applicants are often given a dataset, a question, and tasks and sent home to complete the task. This is what students who choose Option 2 will be asked to do. Monday night of Finals week, students will be given a dataset, a question, and tasks to complete individually. Students will have 5 days to carry out the data science project on their own. For all aspects of this project, students will have full access to course materials, their own brains and information on the Internet but are not allowed to discuss their approach or analysis with any other humans (this includes, but is not limited to: family members, members of the class, friends, or people online).
+Option 2 will be completed individually and has been designed to mimic the data science interview process. During data science interviews, applicants are often given a dataset, a question, and tasks and sent home to complete the task. This is what students who choose Option 2 will be asked to do. Monday night of Week 10, students will be given a dataset, a topic, and tasks to complete individually. Students will have until the Final Deadline to carry out the data science project on their own. For all aspects of this project, students will have full access to course materials, their own brains and information on the Internet but are not allowed to discuss their approach or analysis with any other humans (this includes, but is not limited to: family members, members of the class, friends, or people online).
 
 ### Choosing this option
 
-Students who choose Option 2 will have to specify this choice via Google Form by the Friday of week 3 (see Course Schedule). One form will be submitted per individual. 
+Students who choose Option 2 will have to specify this choice via Google Form by the Friday of week 3 (see Course Schedule). One form will be submitted per individual.
 
 ### Project Proposal
 
@@ -217,7 +219,7 @@ Students who choose Option 2 will still submit a project proposal by the end of 
 
 ### Final Project Survey
 
-Every individual in the class will provide feedback about their experience completing this option. As this has not been utilized in COGS 108 previously, this feedback will help  assess whether or not this should remain an option going forward. Your thoughtful feedback will be very helpful.Link to survey will be provided to students. Surveys will be completed individually and are due at the same time as your Final Project (date of the final at 11:59 PM).
+Every individual in the class will provide feedback about their experience completing this option. Surveys will be completed individually and are due at the same time as your Final Project (date of the final at 11:59 PM).
 
 ### Final Project 
 
@@ -233,7 +235,7 @@ Being an effective data scientist requires effective communication. The report y
 
 # DISCUSSION SECTION
 
-Discussion Section will begin week 2.
+Discussion Section will begin week 1.
 
 Section will be used to review material from lecture by getting hands-on programming experience. You will be given tips for working in Python, guided through Jupyter notebooks to clarify topics presented in class, and will be given time to get additional practice. There will be information covered in section that are not covered in lecture and that will be needed (or at least very helpful) for the assignments. 
 
@@ -246,36 +248,37 @@ You should be signed up for a section for which you can attend. However, if you 
 
 | Date   | Week  | Lecture| Day   |       Topic        | Assignments (due: 11:59 PM PST) |
 | -----: |:-----:|:-------|:-----:|:-------------------|:-----------------------------|
-| 3/30   | 1	   | 1      | M     | Welcome!           | --                           |
-| 4/1    | 1	   | 2      | W     | Data Science       | --                           |  
-| 4/3    | 1	   | 3      | F     | Ethics             | --                           | 
-| 4/6    | 2     | 4      | M     | Version Control    | --                           |
-| 4/8    | 2	   | 5      | W     | Data & Intuition   | --                           |
-| 4/10   | 2	   | 6      | F     | Python Review      | --                           |
-| 4/13   | 3	   | 7      | M     | Data Wrangling     | --                           | 
-| 4/15   | 3	   | 8      | W     | DataViz I          | --                           | 
-| 4/17   | 3	   | 9      | F     | `pandas`           | **A1**: git + python; **Project Planning Survey\*** | 
-| 4/20   | 4	   | 10     | M     | Intro to Analysis  | --                           | 
-| 4/22   | 4	   | 11     | W     | EDA                | --                           |
-| 4/24   | 4	   | 12     | F     | DataViz II         | **Project Proposal\***       | 
-| 4/27   | 5	   | 13     | M     | Inference I        | --                           | 
-| 4/29   | 5	   | 14     | W     | Inference II       | --                           |   
-| 5/1    | 5	   | 15     | F     | Inference III      | **A2**: `pandas`             | 
-| 5/4    | 6	   | 16     | M     | Text Analysis I    | --                           |
-| 5/6    | 6	   | 17     | W     | Guest Lecture I    | --                           |
-| 5/8    | 6	   | 18     | F     | Text Analysis II   | **A3**: Data Exploration     |
-| 5/11   | 7	   | 19     | M     | Machine Learning I | --                           | 
-| 5/13   | 7	   | 20     | W     | Machine Learning II| --                           |
-| 5/15   | 7	   | 21     | F     | Text + ML          | **A4**: Data Privacy         |
-| 5/18   | 8	   | 22     | M     | Nonparametric      | --                           |    
-| 5/20   | 8	   | 23     | W     | Geospatial I       | --                           | 
-| 5/22   | 8	   | 24     | F     | Geospatial II      | **A5**: Data Analysis        | 
-| 5/25   | 9	   | --     | M     | **No Class**       | --                           | 
-| 5/27   | 9	   | 25     | W     | Dimensionality Reduction | --                     |  
-| 5/29   | 9	   | 26     | F     | Data Science Jobs  | **A6**: NLP                  | 
-| 6/1    | 10	   | 27     | M     | Guest Lecture II   | --                           | 
-| 6/3    | 10	   | 28     | W     | Communication      | --                           | 
-| 6/5    | 10	   | 29     | F     | Future of Data Science | --                       |    
+| 10/2   | 0	   | 1      | F     | Welcome!           | --                           |
+| 10/5   | 1	   | 2      | M     | Data Science       | --                           |  
+| 10/7   | 1	   | 3      | W     | Ethics             | --                           | 
+| 10/9   | 1     | 4      | F     | Version Control    | --                           |
+| 10/12  | 2	   | 5      | M     | Data & Intuition   | --                           |
+| 10/14  | 2	   | 6      | W     | Python Review      | --                           |
+| 10/16  | 2	   | 7      | F     | Data Wrangling     | **A1**: git + python; **Project Planning Survey\*** | 
+| 10/19  | 3	   | 8      | M     | DataViz I          | --                           | 
+| 10/21  | 3	   | 9      | W     | `pandas`           | --                           | 
+| 10/13  | 3	   | 10     | F     | Intro to Analysis  | **Project Proposal\***       | 
+| 10/26  | 4	   | 11     | M     | EDA                | --                           |
+| 10/28  | 4	   | 12     | W     | DataViz II         | --                           | 
+| 10/30  | 4	   | 13     | F     | Inference I        | **A2**: `pandas`             | 
+| 11/2   | 5	   | 14     | M     | Inference II       | --                           |   
+| 11/4   | 5	   | 15     | W     | Inference III      | --                           | 
+| 11/6   | 5	   | 16     | F     | Text Analysis I    | **A3**: Data Exploration     |
+| 11/9   | 6	   | 17     | M     | Guest Lecture I    | --                           |
+| 11/11  | 6	   | --     | W     | **No Class**       | --                           |
+| 11/13  | 6	   | 18     | F     | Text Analysis II   | **A4**: Data Privacy         | 
+| 11/16  | 7	   | 19     | M     | Machine Learning I | --                           |
+| 11/18  | 7	   | 20     | W     | Machine Learning II| --                           |
+| 11/20  | 7	   | 21     | F     | Text + ML          | **A5**: Data Analysis        |    
+| 11/23  | 8	   | 22     | M     | Nonparametric      | --                           | 
+| 11/25  | 8	   | 23     | W     | Geospatial I       | --                           | 
+| 11/27  | 8	   | --     | F     | **No Class**       | **A6**: NLP                  | 
+| 11/30  | 9	   | 24     | M     | Geospatial II      | --                           |  
+| 12/2   | 9	   | 25     | W     | Dimensionality Reduction | --                     | 
+| 12/4   | 9	   | 26     | F     | Data Science Jobs  | --                           | 
+| 12/7   | 10	   | 27     | M     | Guest Lecture II   | --                           | 
+| 12/9   | 10	   | 28     | W     | Communication      | --                           |    
+| 12/11  | 10	   | 29     | F     | Future of Data Science | --                       |    
 
 \* indicates (possible) group submission. All other assignments/quizzes/surveys are completed & submitted individually.
 
@@ -342,3 +345,11 @@ That said, to ensure that we’re respecting their time, TAs and IAs have been i
 - **Some feedback about the course you want to share anonymously**: If you’ve been offended by an example in class, really liked or disliked a lesson, or wish there were something covered in class that wasn’t but would rather not share this publicly, etc., please fill out the anonymous [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF2)*
 
 \*This form can be taken down at any time if it’s not being used for its intended purpose; however, you all will be notified should that happen. 
+
+### What should you call me?
+
+Most students call me Professor/Prof Ellis, and that's great! This is how I typically sign emails to students. I'm also totally OK with you addressing me as Shannon or Dr. Ellis. I would prefer you *not* address me as Ms./Miss/Mrs. Ellis (but I likely won't correct you....it's really not that big of a deal). 
+
+### What I should call you
+
+I should call you by your preferred name, with the correct pronunciation. Please correct me (either in the chat, out loud on zoom, or via email/Piazza after the fact...however you're most comfortable) if I ever make a mistake.
