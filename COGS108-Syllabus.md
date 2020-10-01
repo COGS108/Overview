@@ -43,14 +43,14 @@ Please take care of yourselves and one another, and I'll work as hard as needed 
 
 | Role           | Name          					 | Section          | Office Hours |
 | -------------: |:------------------------|:-----------------|:-------------|
-| TA             | Atman Patel	           | M 4PM; M 6PM     | TBD          |
-| TA 	           | Ganesh Raghavendran     | W 3PM; W 5PM     | TBD          |
-| TA 	           | Sidharth Suresh         | F 3PM; F 4PM     | TBD          |
-| IA	           | Michael Baluja          | M 5PM            | --           |
+| TA             | Atman Patel	           | M 4PM; M 6PM     | Tue 11:30AM-12:30PM |
+| TA 	           | Ganesh Raghavendran     | W 3PM; W 5PM     | Thurs 3PM-4PM |
+| TA 	           | Sidharth Suresh         | F 3PM; F 4PM     | Wed 11AM-12PM |
+| IA	           | Michael Baluja          | M 6PM; W 5PM     | --           |
 | IA	           | Fei Dai                 | --               | --           |
 | IA	           | Andrew Nguyen           | M 4PM; W 2PM     | --           |
-| IA	           | Emily Park              | W 2PM; W 3PM     | --           |
-| IA	           | Abigail Paterson        | F 3PM; F 4PM     | --           |
+| IA	           | Emily Park              | W 2PM; W 3PM     | Fri 12-1 PM  |
+| IA	           | Abby Paterson           | F 3PM; F 4PM     | --           |
 
 
 Course GitHub: https://github.com/COGS108  
