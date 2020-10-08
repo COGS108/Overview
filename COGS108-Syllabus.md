@@ -257,7 +257,7 @@ You should be signed up for a section for which you can attend. However, if you 
 | 10/16  | 2	   | 7      | F     | Data Wrangling     | **A1**: git + python; **Project Planning Survey\*** | 
 | 10/19  | 3	   | 8      | M     | DataViz I          | --                           | 
 | 10/21  | 3	   | 9      | W     | `pandas`           | --                           | 
-| 10/13  | 3	   | 10     | F     | Intro to Analysis  | **Project Proposal\***       | 
+| 10/23  | 3	   | 10     | F     | Intro to Analysis  | **Project Proposal\***       | 
 | 10/26  | 4	   | 11     | M     | EDA                | --                           |
 | 10/28  | 4	   | 12     | W     | DataViz II         | --                           | 
 | 10/30  | 4	   | 13     | F     | Inference I        | **A2**: `pandas`             | 
