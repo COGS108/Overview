@@ -191,7 +191,7 @@ For students who choose Option 1, groups will be submitted via Google Form by th
 
 ### Project Proposal
 
-You will have to submit a group project proposal by the end of week four (see Course Schedule below) on GitHub. This means that you will have to have to have met as a group by then, have determined what question you want to ask in your project, started to identify the data you’ll need/the data you’ll use to answer your group’s question of interest, have laid out a plan for your project’s completion going forward. You will receive feedback on your project proposal to help guide your final project. However, we strongly encourage you to chat with the instructional staff throughout the quarter as you work on your project to elicit more feedback and ensure you’re going in the right direction.
+You will have to submit a group project proposal by the end of week three (see Course Schedule below) on GitHub. This means that you will have to have to have met as a group by then, have determined what question you want to ask in your project, started to identify the data you’ll need/the data you’ll use to answer your group’s question of interest, have laid out a plan for your project’s completion going forward. You will receive feedback on your project proposal to help guide your final project. However, we strongly encourage you to chat with the instructional staff throughout the quarter as you work on your project to elicit more feedback and ensure you’re going in the right direction.
 
 ### Group Project Survey
 
