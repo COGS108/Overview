@@ -43,7 +43,7 @@ Please take care of yourselves and one another, and I'll work as hard as needed 
 
 | Role           | Name          					 | Section          | Office Hours |
 | -------------: |:------------------------|:-----------------|:-------------|
-| TA             | Atman Patel	           | M 4PM; M 6PM     | Tue 11:30AM-12:30PM |
+| TA             | Atman Patel	           | M 4PM; M 6PM     | Tue 8:30-9:30AM |
 | TA 	           | Ganesh Raghavendran     | W 3PM; W 5PM     | Thurs 3PM-4PM |
 | TA 	           | Sidharth Suresh         | F 3PM; F 4PM     | Wed 12-1PM   |
 | IA	           | Michael Baluja          | M 6PM; W 5PM     | --           |
