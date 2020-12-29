@@ -1,14 +1,24 @@
----
-output:
-  pdf_document: default
----
-
 # COGS 108: Data Science in Practice
 
-**Fall 2020**  
+**Winter 2021**  
 **MWF 9-9:50 (remote)**  
 
 ---
+
+**Table of Contents**
+
+- [COURSE OVERVIEW](#Course-Overview)
+- [COURSE STAFF](#COURSE-STAFF)
+- [COURSE OBJECTIVES](#COURSE-OBJECTIVES)
+- [COURSE MATERIALS](#COURSE-MATERIALS)
+- [GRADING](#GRADING)
+- [LECTURE](#LECTURE)
+- [DISCUSSION SECTION](#DISCUSSION-SECTION)
+- [ASSIGNMENTS](#ASSIGNMENTS)
+- [COURSE PROJECT](#COURSE-PROJECT)
+- [OTHER GOOD STUFF](#OTHER-GOOD-STUFF)
+
+<!-- toc -->
 
 
 # COURSE OVERVIEW
@@ -36,31 +46,30 @@ Please take care of yourselves and one another, and I'll work as hard as needed 
 
 ---
 
-# COURSE STAFF & INFORMATION
+# COURSE STAFF
 
 **Instructor**: Shannon Ellis ([sellis@ucsd.edu](mailto:sellis@ucsd.edu))  
-**Instructor Office Hours**: Wednesdays 2-4 PM
+**Instructor Office Hours**: Fridays 2-4 PM
 
 | Role           | Name          					 | Section          | Office Hours |
 | -------------: |:------------------------|:-----------------|:-------------|
-| TA             | Atman Patel	           | M 4PM; M 6PM     | Tue 8:30-9:30AM |
-| TA 	           | Ganesh Raghavendran     | W 3PM; W 5PM     | Thurs 3PM-4PM |
-| TA 	           | Sidharth Suresh         | F 3PM; F 4PM     | Wed 12-1PM   |
-| IA	           | Michael Baluja          | M 6PM; W 5PM     | --           |
-| IA	           | Fei Dai                 | --               | --           |
-| IA	           | Andrew Nguyen           | M 4PM; W 2PM     | --           |
-| IA	           | Emily Park              | W 2PM; W 3PM     | Fri 12-1 PM  |
-| IA	           | Abby Paterson           | F 3PM; F 4PM     | --           |
+| TA             | Sidharth Suresh	       | TBD              | TBD          |
+| TA 	           | Will McCarthy           | TBD              | TBD          |
+| TA 	           | Oisin Parkinsoncoombs   | TBD              | TBD          |
+| TA	           | Ganesh Raghavendran     | TBD              | --           |
+| IA	           | Ronak Agarwal           | --               | --           |
+| IA	           | Jeffrey Feng            | --               | --           |
+| IA	           | Shubham Kulkarni        | --               | --           |
+| IA	           | Jesse Wu                | --               | --           |
 
 
 Course GitHub: https://github.com/COGS108  
-Course Piazza*: http://piazza.com/ucsd/fall2020/cogs108  
-Course Canvas: https://canvas.ucsd.edu/courses/18744  
-YouTube Playlist: http://bit.ly/cogs108_youtube_fa20 (videos also on Canvas)  
+Course Campuswire*: Coming Soon  
+Course Canvas: https://canvas.ucsd.edu/courses/22031  
 Assignment Submission: https://datahub.ucsd.edu  
 Course Feedback (anonymous): [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF2)    
 
-*You will be able to post anonymously on Piazza; however, you will only be anonymous to your classmates. Your Instructor and TAs will be able to see who you are.
+*You will be able to post anonymously on Campuswire; however, you will only be anonymous to your classmates. Your Instructor and TAs will be able to see who you are.
 
 ---
 
@@ -87,17 +96,21 @@ Course Feedback (anonymous): [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF
 
 # GRADING
 
-|                | \% of Grade          	 | Requirement               |
+|                | \% of Grade          	 | # to submit |
 | -------------: |:-----------------------:|:--------------------------|
-| Assignments 	       | 45\%              | Complete 6 Assignments    |
-| Content Engagement   | 20\%              | Complete Video Quizzes    |
-| Project Proposal*    | 8\%		           | Complete Project Proposal |
-| Final Project*       | 25\%		           | Complete Final Project    |
-| Final Project Survey*| 2\%		           | Complete Final Project Survey |
+| Discussion           | 9\%               | 9 (1/wk)      |
+| Lecture Quizzes      | 9\%               | 9 (1/wk)      |
+| Assignments          | 36\%		           | 1             |
+| Project Planning Survey* | 1\%		       | 1             |
+| Project Review*      | 10\%		           | 1             |
+| Project Proposal*    | 8\%		           | 1             |
+| Project Check-Ins*   | 10\%              | 2             |
+| Final Project*       | 15\%		           | 1             |
+| Team Evaluation Survey*| 2\%		         | 1             |
 
-\* This quarter there will be two options for the COGS 108 Final Project. Students will choose between the following: (1) Data Science Project on a topic of your choosing completed throughout the quarter in a group of 4-5 people OR (2) Data Science Project completed individually duringweek 10 + finals week on a dataset and question provided to you (to mimic the data science interview process). If option 2 is chosen, the Project Proposal will also be completed individually. 
+\* Indicates Group Submission
 
-**Final exam date**: No final exam, only final project deadline (Wednesday, 12/16 at 11:59 PM). You do not have to show up anywhere on the date/time of the final exam.
+**Final exam date**: No final exam, only final project deadline (Wednesday, 3/17 at 11:59 PM). You do not have to show up anywhere on the date/time of the final exam.
 
 
 ### Grades
@@ -113,20 +126,37 @@ Given the unique situation of this quarter, lecture and discussion section atten
 
 ---
 
-# LECTURE (CONTENT ENGAGEMENT)
+# LECTURE
 
+Lectures will take place at their scheduled time for those who are able to attend. As typically occurs in COGS 108, we will do our best to make these interactive and facilitate discussion. You will have the opportunity to share your thoughts and compare against your classmates' (via zoom polls, rather than with iclickers) during lecture.
 
-Starting Monday of Week 1, all lectures will be pre-recorded and shared (asynchronous learning). Students are encouraged to watch these during regular lecture time if that works for their schedules, but are free to watch them at a more convenient time, should that be necessary. They are designed so that each days' videos and quizzes can be completed in the normal class meeting time (50 min).
+However, every lecture will also be recorded and shared so that students who are not able to or choose not to watch during the scheduled class time are still able to receive and digest all class materials. If a lecture recording ever fails during class, Prof Ellis will re-record a lecture, ensuring all students have access to the material. Lecture recordings will be available on Canvas in the Media Gallery by 2PM after the live lecture is delivered.
 
-For every pre-recorded video, there will be a corresponding quiz. These are to be completed individually. There will be 1-3 videos per day, resulting in ~65 quizzes in total throughout the quarter. These are designed to help keep students on track. Links to videos will be posted on each week's README on GitHub and on Canvas. Corresponding quizzes will be taken on Canvas.
+### Lecture Quizzes
 
-You will have a single attempt for each quiz. Each quiz will have between 3 and 15 questions. Quizzes will be timed, and you will have a little more than 1 minute per question. 
+There will be a short quiz that must be submitted each Friday on Canvas. Each Friday, a quiz with 10 questions wil be released, covering the material from lecture that week. The quiz will be due the following Friday. (For example, the first quiz will be released Friday of week 1, covering week 1 material, and will be due the Friday at 11:59 PM of week 2). Each question is worth 0.1 points and you will have a single, timed (15 min) attempt to complete. There are no late extensions on quizzes.
 
-Every student has 10 "free" video quiz points for the quarter. This means that if there are 200 possible quiz points throughout the quarter (there may be a few more or a few less than 200 in reality), and at the end of the quarter you have >=190 total video quiz points, you will receive full credit for the "Content Engagement" portion of your grade. If, in this scenario, you end the quarter with 180 total quiz points, you will receive a 95.0% (190/200) for "Content Engagement". This allows for flexibility if people miss a quiz one day or perform worse than they wanted to on a particular quiz.
+---
 
-Starting with Mon of Week 1, there will be video quizzes due every Mon, Wed, and Fri throughout the quarter.  While quizzes are designed to be taken each MWF, all assigned quizzes for a given week must be completed on Canvas by the Friday of the week on which they're assigned to receive credit (11:59 PM PST).
+# DISCUSSION SECTION
 
-All videos and quizzes will be released on the Friday of the preceeding week. (For example, any video quizzes due week 2 will be released by Friday of week 1.) 
+Discussion section week 1 will be for finding group mates. Regular discussion section will begin week 2.
+
+### Techncial Discussion Sections
+
+Two sections each week will focus on technical content: **Mon at 2PM and Wed at 4PM**.
+
+These will be used to review material from lecture by getting hands-on programming experience. Each week there will be a short, guided lab to be completed in discussion section. These labs will be released each Friday and students will have a week to complete them. These will focus on the technical course content and will be submitted on datahub by Friday at 11:59 PM. Discussion section labs are graded for completion/effort (rather than correctness). To complete the lab, you do NOT need to physically show up to discussion section. There are no late submissions for discussion labs.
+
+If students are comfortable with the technical aspects of the course, they have the option of NOT completing weekly labs. For students who do NOT submit each week's discussion section lab, their average assignment score will be used instead of the discussion score. (At the end of the quarter, whichever score is *higher* - between their total discussion lab scores and their average assignment score - will be used.)
+
+During section, you will be given tips for working in Python, guided through Jupyter notebooks to clarify topics presented in class, and will be given time to get additional practice and work on the assigned lab. There will be information covered in section that are not covered in lecture and that will be needed (or at least very helpful) for the assignments. 
+
+You should be signed up for a section for which you can attend. However, if you are unable to attend the section for which you are signed up, you are free to attend a different section any given week than the one to which you're assigned.
+
+### Project-Focused Discussion Sections
+
+All other discussion sections will be project-focused. Each project group will be assigned a TA (or Professor Ellis). This will be each group's go-to person for project-related questions and discussion section will be the place for those questions, as this person will know you, your group, and your project best. This person will also be the person grading your project throughout the quarter. 
 
 ---
 
@@ -138,7 +168,7 @@ The practice of data science involves writing code to answer questions and accom
 
 That said, the first two assignments will be the simplest assignments and aim to get you up to speed in Python and familiar with `pandas`. If the first two assignments are particularly difficult for you, that’s ok. But, it’s then up to you to determine if you want to put in the work to make it through the rest of the quarter. **Assignments will take more time and be more difficult starting with the third assignment**.
 
-As assignments become more difficult, we don’t want you to get or feel totally lost. If you’ve thought long and hard, gone down a long rabbithole on Stack Overflow, and can’t even get a sense of what the next step may be, take a step away. Take a break. Then, come back and see if you can’t solve it with a refreshed mind. If you’re still totally stuck, ask on Piazza, talk to a classmate, and/or attend office hours for help. 
+As assignments become more difficult, we don’t want you to get or feel totally lost. If you’ve thought long and hard, gone down a long rabbithole on Stack Overflow, and can’t even get a sense of what the next step may be, take a step away. Take a break. Then, come back and see if you can’t solve it with a refreshed mind. If you’re still totally stuck, ask on Campuswire, talk to a classmate, and/or attend office hours for help. 
 
 With regards to asking questions of instructional staff, we’re here to help you, but there are way more students than there are instructors. So, help each other. Ask one another first. It’s awesome that we all have different backgrounds and experiences - let’s use that to our advantage. In fact, this is how the best data science gets done. Diverse minds solving a problem invariably improves the solution. Also, teaching something to someone else is the best way to determine if you really know something. So, it’s win-win. The person who’s stuck gets unstuck and the person who helped is more sure in their knowledge. Help one another! Section and office hours are meant to be collaborative.
 
@@ -154,27 +184,23 @@ Late assignments will be accepted at 75\% credit for 72 hours (3 days) after the
 
 ### Feedback & Grades
 
-It is your responsibility to ensure that we receive a submission from you on datahub and that you submit the correct file (a Jupyter notebook with the .ipynb extension with the same file name as the assignment) for each assignment. If you identify that a mistake has been made, it is your responsibility to get in touch on Piazza should a problem arise. You will receive individualized feedback via email with your grade and feedback about a week after each assignment is due.
+It is your responsibility to ensure that we receive a submission from you on datahub and that you submit the correct file (a Jupyter notebook with the .ipynb extension with the same file name as the assignment) for each assignment. If you identify that a mistake has been made, it is your responsibility to get in touch on Campuswire should a problem arise. You will receive individualized feedback via email with your grade and feedback about a week after each assignment is due.
 
-### Assignment Questions on Piazza
+### Assignment Questions on Campuswire
 
-Piazza will be used for all general questions. For example, if you are confused by what a question is asking or are unsure where to start to look for the answer and need direction, Piazza is the place to go. However, when asking or answering questions on Piazza, code that answers assignment questions should **not** be provided. Instead, answer with suggestions as to what topics/ideas/lectures to look into or vague pseudocode that helps move the person asking the question in the right direction. For general programming questions (unrelated to the assignment answers), feel free to share minimal code segments.
+Campuswire will be used for all general questions. For example, if you are confused by what a question is asking or are unsure where to start to look for the answer and need direction, Campuswire is the place to go. However, when asking or answering questions on Campuswire, code that answers assignment questions should **not** be provided. Instead, answer with suggestions as to what topics/ideas/lectures to look into or vague pseudocode that helps move the person asking the question in the right direction. For general programming questions (unrelated to the assignment answers), feel free to share minimal code segments.
 
 ### Assignment Regrades
 
 We will work hard to grade everyone fairly and return assignments quickly. But, we know you also work hard and want you to receive the grade you’ve earned. Occasionally, grading mistakes do happen, and it's important to us to correct them.
 
-If you think there is a mistake in your grade, request a regrade within 72 hours of your receipt of the grade on Piazza via a *Private* message to "Instructors" and use the "regrades" tag. This message should include evidence of why you think your answer was correct (i.e. a specific reference to something said in lecture) and should point to the specific part of the assignment in question. 
+If you think there is a mistake in your grade, request a regrade within 72 hours of your receipt of the grade on Campuswire via a *Private* message to "Instructor & TAs" and use the "regrades" category. This message should include evidence of why you think your answer was correct (i.e. a specific reference to something said in lecture) and should point to the specific part of the assignment in question. 
 
 Note that points will *not* be rewarded if you fail to follow instructions. For example, if the instructions say to name the variable `orange` and you name it `ornage` (misspelled), you will not be rewarded credit upon regrade. This is because (1) following instructions and being detail-oriented is important and (2) there are hundreds of students taking the course this quarter. It would be an unfair burden to place on TAs if we didn’t have this policy.
 
 ---
 
 # COURSE PROJECT
-
-This quarter there will be two options for the final project, each of which is described below:
-
-## Option 1: Final Group Project
 
 Your course project will be completed in a group of 4-5 people. The reality of data science is that you will have to work with others. You’ll need to work together to communicate effectively, manage time, organize your projects, and accomplish a goal. People will have different knowledge and skills sets. It is your job as a group to work together to figure out how to maximize each group member’s skills to make sure that your differences are helpful to accomplishing your goal, rather than a hindrance. For example, some of you will find the programming aspects of the class assignments very easy, while others will struggle. Alternatively, some of you may find experimental research and hypothesis testing intuitive, while others find it confusing and frustrating. It is best for your project if you choose a team with a mix of background and experience.
 
@@ -183,104 +209,55 @@ Your course project will be completed in a group of 4-5 people. The reality of d
 Finding a group may be a tad trickier this quarter. As such, we'll offer additional support. Groups can be found in a few different ways:
 
 1. If you have people in the class you know you want to work with, chat with one another and if you're all on board, form a group.
-2. If you don't know people in the class or don't have people you want to work with, no problem. Piazza has a feature where you can look for group mates - check for that post and look through there to find group mates
-3. There will be time to find groups in discussion section during week 1.
-3. If you are struggling to find a group by week 2, there will be a form to fill out. If you sign up for help finding a group, you will be assigned to a group. We will do our best to form groups among individuals with similar schedules and interests. Groups will be assigned by the middle of week 3.
+2. There will be time to find groups in discussion section during week 1.
+3. If you don't know people in the class or don't have people you want to work with, no problem. Campuswire has a feature where you can look for group mates - check for that post and look through there to find group mates
 
-For students who choose Option 1, groups will be submitted via Google Form by the Friday of week 3 (see Course Schedule). One form will be submitted per group. This will be required of all groups who choose Option 1 (even those we help form), as you will be required to include your GitHub username in this submission.
+You will submit who your group is via Google Form by the Friday of week 2 (see Course Schedule). One form will be submitted per group.
 
-### Project Proposal
+### Project Components
 
-You will have to submit a group project proposal by the end of week three (see Course Schedule below) on GitHub. This means that you will have to have to have met as a group by then, have determined what question you want to ask in your project, started to identify the data you’ll need/the data you’ll use to answer your group’s question of interest, have laid out a plan for your project’s completion going forward. You will receive feedback on your project proposal to help guide your final project. However, we strongly encourage you to chat with the instructional staff throughout the quarter as you work on your project to elicit more feedback and ensure you’re going in the right direction.
+All project components are completed as a group and are described in the Project documentation: https://github.com/COGS108/Projects. This includes: 1) group survey 2) Previous Project Review 3) Project Proposal 4) Project Checkpoint #1: Data, 5) Project Checkpoint #2: EDA, 6) Final Project Report, 7) Final Project Video, and 8) Team Evaluation Survey.
 
-### Group Project Survey
-
-Every individual in the class will assess how working with their group as a whole and each individual in the group throughout the quarter has been via a short survey. Link to survey will be provided to students. Surveys will be completed individually and are due at the same time as your Final Project (date of the final at 11:59 PM).
-
-### Final Project 
-
-The final project will be a full, detailed data science report in the form of a Jupyter notebook that carries out an analysis from start to finish. This report will answer the data science question your group has chosen to answer.  The topic will be up to you and more details will be provided in class, but generally this report will include (1) background research and ethical considerations, (2) your data science question(s) and hypothesis/hypotheses, (3) data & data wrangling, (4) a descriptive & an exploratory data analysis, (5) your full analysis, (6) your results, and your (7) conclusion(s).
-
-### Final Project Extra Credit
-
-Being an effective data scientist requires effective communication. The report you submit will demonstrate your ability to communicate in the written form; however, oral communication is equally important. Extra credit on the final project is optional and can be earned by creating a 3-5 minute video that communicates your group project’s question, analysis, and results. This can be a filmed presentation or a video that is more creative. Most importantly, it must effectively communicate your team’s project. Videos must be submitted on Canvas by the final project deadline.
-
-## Option 2: Individual Final Project
-
-Option 2 will be completed individually and has been designed to mimic the data science interview process. During data science interviews, applicants are often given a dataset, a question, and tasks and sent home to complete the task. This is what students who choose Option 2 will be asked to do. Monday night of Week 10, students will be given a dataset, a topic, and tasks to complete individually. Students will have until the Final Deadline to carry out the data science project on their own. For all aspects of this project, students will have full access to course materials, their own brains and information on the Internet but are not allowed to discuss their approach or analysis with any other humans (this includes, but is not limited to: family members, members of the class, friends, or people online).
-
-### Choosing this option
-
-Students who choose Option 2 will have to specify this choice via Google Form by the Friday of week 3 (see Course Schedule). One form will be submitted per individual.
-
-### Project Proposal
-
-Students who choose Option 2 will still submit a project proposal by the end of week 3 (see Course Schedule below) on GitHub. This will be completed individually on a topic of *our* choosing. 
-
-### Final Project Survey
-
-Every individual in the class will provide feedback about their experience completing this option. Surveys will be completed individually and are due at the same time as your Final Project (date of the final at 11:59 PM).
-
-### Final Project 
-
-The final project will be a full, detailed data science report in the form of a Jupyter notebook that carries out an analysis from start to finish. This report will answer the data science question provided to you during finals week. You will have 5 days to complete your individual final project. We do not anticipate it taking you 5 days straight; however, we know you'll have other finals to study for and take during this time.
-
-More details will be provided in class, but generally this report will include (1) background research and ethical considerations, (2) your data science question(s) and hypothesis/hypotheses, (3) data & data wrangling, (4) a descriptive & an exploratory data analysis, (5) your full analysis, (6) your results, and your (7) conclusion(s).
-
-### Final Project Extra Credit
-
-Being an effective data scientist requires effective communication. The report you submit will demonstrate your ability to communicate in the written form; however, oral communication is equally important. Extra credit on the final project is optional and can be earned by creating a 2-3 minute video that communicates your final project’s question, analysis, and results. This can be a filmed presentation or a video that is more creative. Most importantly, it must effectively communicate your project. Videos must be submitted on Canvas by the final project deadline.
-
----
-
-# DISCUSSION SECTION
-
-Discussion Section will begin week 1.
-
-Section will be used to review material from lecture by getting hands-on programming experience. You will be given tips for working in Python, guided through Jupyter notebooks to clarify topics presented in class, and will be given time to get additional practice. There will be information covered in section that are not covered in lecture and that will be needed (or at least very helpful) for the assignments. 
-
-You should be signed up for a section for which you can attend. However, if you are unable to attend the section for which you are signed up, you are free to attend a different section any given week than the one to which you're assigned.
-
+Starting week 4, there will be an *optional* weekly survey to be completed individually describing your project progress. Students who complete all 6 weeks' surveys will earn 1% extra credit to their final grade.
 
 ---
 
 # COURSE SCHEDULE
 
-| Date   | Week  | Lecture| Day   |       Topic        | Assignments (due: 11:59 PM PST) |
-| -----: |:-----:|:-------|:-----:|:-------------------|:-----------------------------|
-| 10/2   | 0	   | 1      | F     | Welcome!           | --                           |
-| 10/5   | 1	   | 2      | M     | Data Science       | --                           |  
-| 10/7   | 1	   | 3      | W     | Ethics             | --                           | 
-| 10/9   | 1     | 4      | F     | Version Control    | --                           |
-| 10/12  | 2	   | 5      | M     | Data & Intuition   | --                           |
-| 10/14  | 2	   | 6      | W     | Python Review      | --                           |
-| 10/16  | 2	   | 7      | F     | Data Wrangling     | **A1**: git + python; **Project Planning Survey\*** | 
-| 10/19  | 3	   | 8      | M     | DataViz I          | --                           | 
-| 10/21  | 3	   | 9      | W     | `pandas`           | --                           | 
-| 10/23  | 3	   | 10     | F     | Intro to Analysis  | **Project Proposal\***       | 
-| 10/26  | 4	   | 11     | M     | EDA                | --                           |
-| 10/28  | 4	   | 12     | W     | DataViz II         | --                           | 
-| 10/30  | 4	   | 13     | F     | Inference I        | **A2**: `pandas`             | 
-| 11/2   | 5	   | 14     | M     | Inference II       | --                           |   
-| 11/4   | 5	   | 15     | W     | Inference III      | --                           | 
-| 11/6   | 5	   | 16     | F     | Text Analysis I    | **A3**: Data Exploration     |
-| 11/9   | 6	   | 17     | M     | Guest Lecture I    | --                           |
-| 11/11  | 6	   | --     | W     | **No Class**       | --                           |
-| 11/13  | 6	   | 18     | F     | Text Analysis II   | **A4**: Data Privacy         | 
-| 11/16  | 7	   | 19     | M     | Machine Learning I | --                           |
-| 11/18  | 7	   | 20     | W     | Machine Learning II| --                           |
-| 11/20  | 7	   | 21     | F     | Text + ML          | **A5**: Data Analysis        |    
-| 11/23  | 8	   | 22     | M     | Nonparametric      | --                           | 
-| 11/25  | 8	   | 23     | W     | Geospatial I       | --                           | 
-| 11/27  | 8	   | --     | F     | **No Class**       | **A6**: NLP                  | 
-| 11/30  | 9	   | 24     | M     | Geospatial II      | --                           |  
-| 12/2   | 9	   | 25     | W     | Dimensionality Reduction | --                     | 
-| 12/4   | 9	   | 26     | F     | Data Science Jobs  | --                           | 
-| 12/7   | 10	   | 27     | M     | Guest Lecture II   | --                           | 
-| 12/9   | 10	   | 28     | W     | Communication      | --                           |    
-| 12/11  | 10	   | 29     | F     | Future of Data Science | --                       |    
+| Date  | Week |Lecture | Day   |Topic               | Section  |   Assignment    | Lecture Quiz |
+| -----:|:----:|:-------|:-----:|:-------------------|:---------|:----------------|:-------------|
+| 1/4   | 1	   | 1      | M     | Welcome!           | --       | --              | --           |
+| 1/6   | 1	   | 2      | W     | Ethics             | --       | --              | --           |  
+| 1/8   | 1	   | 3      | F     | Version Control    | --       | --              | --           |
+| 1/11  | 2    | 4      | M     | Python Review      | --       | --              | --           |
+| 1/13  | 2	   | 5      | W     | Data & Intuition   | --       | --              | --           |
+| 1/15  | 2	   | 6      | F     | Data Wrangling     | **D1**   | **A1**; **Group Project Survey\* **| **Q1**       |
+| 1/18  | 3	   | --     | M     | **No Class**       | --       | --              | --           |
+| 1/20  | 3	   | 7      | W     | `pandas`           | --       | --              | --           |
+| 1/22  | 3	   | 8      | F     | DataViz I          | **D2**   | **Proj Review\* **| **Q2**     |
+| 1/25  | 4	   | 9      | M     | Intro to Analysis  | --       | --              | --           | 
+| 1/27  | 4	   | 10     | W     | EDA                | --       | --              | --           |
+| 1/29  | 4	   | 11     | F     | DataViz II         | **D3**   | **Proposal\* ** | **Q3**       |
+| 2/1   | 5	   | 12     | M     | Inference I        | --       | --              | --           |
+| 2/3   | 5	   | 13     | W     | Inference II       | --       | --              | --           |   
+| 2/5   | 5	   | 14     | F     | Inference III      | **D4**   | **A2**          | **Q4**       |
+| 2/8   | 6	   | 15     | M     | Text Analysis I    | --       | --              | --           |
+| 2/10  | 6	   | 16     | W     | Text Analysis II   | --       | --              | --           |
+| 2/12  | 6	   | 17     | F     | Guest Lecture I    | **D5**   | **Checkpoint #1: Data\* **| **Q5**|
+| 2/15  | 7	   | --     | M     | **No Class**       | --       | --              | --           | 
+| 2/17  | 7	   | 18     | W     | Machine Learning I | --       | --              | --           |
+| 2/19  | 7	   | 19     | F     | Machine Learning II| **D6**   | **A3**          | **Q6**       |
+| 2/22  | 8	   | 20     | M     | Text + ML          | --       | --              | --           |    
+| 2/24  | 8	   | 21     | W     | Nonparametric      | --       | --              | --           | 
+| 2/26  | 8	   | 22     | F     | Geospatial I       | **D7**   | **Checkpoint #2: EDA\* **| **Q7** |
+| 3/1   | 9	   | 23     | M     | Geospatial II      | --       | --              | --           | 
+| 3/3   | 9	   | 24     | W     | Dimensionality Reduction| --  | --              | --           |  
+| 3/5   | 9	   | 25     | F     | Guest Lecture II   | **D8**   | **A4**          | **Q8**       |
+| 3/8   | 10	 | 26     | M     | Data Science Jobs  | --       | --              | --           | 
+| 3/10  | 10	 | 27     | W     | Communication      | --       | --              | --           | 
+| 3/12  | 10	 | 28     | F     | Future of Data Science| **D9**| --              | **Q9**       |    
 
-\* indicates (possible) group submission. All other assignments/quizzes/surveys are completed & submitted individually.
+\* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
 
 ---
 
@@ -303,7 +280,7 @@ Don't cheat.
 You are encouraged to (and at times will have to) work together and help one another. However, you are personally responsible for the work you submit. For assignments, it is also your responsibility to ensure you understand everything your group has submitted and to make sure the correct file has been uploaded, that the upload is uncorrupted, and that it renders correctly. Projects may include ideas and code from other sources—but these other sources must be documented with clear attribution. Please review academic integrity policies [here](http://academicintegrity.ucsd.edu).
 
 
-Know that a third of the class typically feels overwhelmed at the start of the quarter. That said, the average is quite high in this course typically (A-). So, while we anticipate you all doing well in this course, if you are feeling lost or overwhelmed, that’s ok! Should that occur, we recommend: (1) asking questions in class, (2) attending office hours and/or (3) asking for help on Piazza.
+Know that a third of the class typically feels overwhelmed at the start of the quarter. That said, the average is quite high in this course typically (A-). So, while we anticipate you all doing well in this course, if you are feeling lost or overwhelmed, that’s ok! Should that occur, we recommend: (1) asking questions in class, (2) attending office hours and/or (3) asking for help on Campuswire.
 
 
 Cheating and plagiarism have been and will be strongly penalized. If, for whatever reason, datahub is down or something else prohibits you from being able to turn in an assignment on time, immediately contact me by emailing your assignment by email ([sellis@ucsd.edu](mailto:sellis@ucsd.edu)), or else it will be graded as late.
@@ -334,12 +311,12 @@ That said, to ensure that we’re respecting their time, TAs and IAs have been i
 
 **If you have…** 
 
-- **Questions about course content**: these are awesome! We want everyone to see them and have their questions answered too…so post these to Piazza! 
-- **A technical assignment question**: Come to office hours (or post to Piazza). Answering technical questions is often best accomplished in person where we can discuss the question and talk through ideas. However, if that is not possible, post your question to Piazza. Be as specific as you can in the question you ask. And, for those answering, help your classmates as much as you can without just giving the answer. Help guide them, point them in a direction, provide pseudo code, but do not provide code that answers assignment questions.
-- **Been stuck on something for a while (>30min) and aren’t even really sure where to start**: Programming can be frustrating and it may not always be obvious what is going wrong or why something isn’t working. That’s ok - we’ve all been there! IF you are stuck, you can and should reach out for help, even if you aren’t exactly sure what your specific question is. To determine when to reach out, consider the 2-hour rule. This rule states that if you are stuck, work on that problem for an hour. Then, take a 30 minute break and do something else. When you come back after your break, try for another 30 minutes or so to solve your problem. If you are still completely stuck, stop and contact us (office hours, post on Piazza). If you don’t have a specific question, include the information you have (what you’re stuck on, the code you’ve been trying that hasn’t been happening, and/or the error messages you’ve been getting).
-- **Questions about course logistics**: First, check the syllabus. If the answer is not there, ask a classmate. If you still are unsure,  post on Piazza
-- **Questions about a grade**: For programming assignments, reply to the COGS 108 email directly; For project-related regrades, post a note to instructors on Piazza and select the ‘regrades’ tag. Include specifics as to why you feel you mistakenly/unfairly lost points in that post.
-- **A specific section-related question**: send a direct message on Piazza to your TA/IA
+- **Questions about course content**: these are awesome! We want everyone to see them and have their questions answered too…so post these to Campuswire! 
+- **A technical assignment question**: Come to office hours (or post to Campuswire). Answering technical questions is often best accomplished in person where we can discuss the question and talk through ideas. However, if that is not possible, post your question to Campuswire. Be as specific as you can in the question you ask. And, for those answering, help your classmates as much as you can without just giving the answer. Help guide them, point them in a direction, provide pseudo code, but do not provide code that answers assignment questions.
+- **Been stuck on something for a while (>30min) and aren’t even really sure where to start**: Programming can be frustrating and it may not always be obvious what is going wrong or why something isn’t working. That’s ok - we’ve all been there! IF you are stuck, you can and should reach out for help, even if you aren’t exactly sure what your specific question is. To determine when to reach out, consider the 2-hour rule. This rule states that if you are stuck, work on that problem for an hour. Then, take a 30 minute break and do something else. When you come back after your break, try for another 30 minutes or so to solve your problem. If you are still completely stuck, stop and contact us (office hours, post on Campuswire). If you don’t have a specific question, include the information you have (what you’re stuck on, the code you’ve been trying that hasn’t been happening, and/or the error messages you’ve been getting).
+- **Questions about course logistics**: First, check the syllabus. If the answer is not there, ask a classmate. If you still are unsure,  post on Campuswire
+- **Questions about a grade**: For programming assignments, reply to the COGS 108 email directly; For project-related regrades, post a note to instructors on Campuswire and select the ‘regrades’ tag. Include specifics as to why you feel you mistakenly/unfairly lost points in that post.
+- **A specific section-related question**: send a direct message on Campuswire to your TA/IA
 - **Something super cool to share related to class**: feel free to email Prof Ellis or come to office hours. Be sure to include COG S108 in the email subject line and your full name in your message.
 - **Something you want to talk about in-depth**: meet in person during office hours or schedule a time to meet by email. Be sure to include COGS 108 in the email subject line. 
 - **Some feedback about the course you want to share anonymously**: If you’ve been offended by an example in class, really liked or disliked a lesson, or wish there were something covered in class that wasn’t but would rather not share this publicly, etc., please fill out the anonymous [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF2)*
@@ -352,4 +329,4 @@ Most students call me Professor/Prof Ellis, and that's great! This is how I typi
 
 ### What I should call you
 
-I should call you by your preferred name, with the correct pronunciation. Please correct me (either in the chat, out loud on zoom, or via email/Piazza after the fact...however you're most comfortable) if I ever make a mistake.
+I should call you by your preferred name, with the correct pronunciation. Please correct me (either in the chat, out loud on zoom, or via email/Campuswire after the fact...however you're most comfortable) if I ever make a mistake.
