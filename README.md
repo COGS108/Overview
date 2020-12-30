@@ -27,7 +27,7 @@ A suggested [reading list](https://github.com/COGS108/Readings) (recommended, bu
 
 ## Final Projects
 
-A core component of the class is completing a group project. Some example projects from the[Spring 2017](https://github.com/COGS108/FinalProjects-Sp17), [Winter 2018](https://github.com/COGS108/FinalProjects-Wi18), [Spring 2019](https://github.com/COGS108/FinalProjects-Sp19), [Fall 2019](https://github.com/COGS108/FinalProjects-Fa19), [Winter 2020](https://github.com/COGS108/FinalProjects-Wi20), [Spring 2020](https://github.com/COGS108/FinalProjects-Sp20), and [Fall 2020](https://github.com/COGS108/FinalProjects-Fa20) iterations of the class are available
+A core component of the class is completing a group project. Some example projects from the [Spring 2017](https://github.com/COGS108/FinalProjects-Sp17), [Winter 2018](https://github.com/COGS108/FinalProjects-Wi18), [Spring 2019](https://github.com/COGS108/FinalProjects-Sp19), [Fall 2019](https://github.com/COGS108/FinalProjects-Fa19), [Winter 2020](https://github.com/COGS108/FinalProjects-Wi20), [Spring 2020](https://github.com/COGS108/FinalProjects-Sp20), and [Fall 2020](https://github.com/COGS108/FinalProjects-Fa20) iterations of the class are available
 
 ---
 

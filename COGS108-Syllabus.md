@@ -5,19 +5,20 @@
 
 ---
 
+Note: THIS IS A DRAFT SYLLABUS. It will be changed/updated, but will be finalized week 1 of the quarter.
+
 **Table of Contents**
 
-- [COURSE OVERVIEW](#Course-Overview)
-- [COURSE STAFF](#COURSE-STAFF)
-- [COURSE OBJECTIVES](#COURSE-OBJECTIVES)
-- [COURSE MATERIALS](#COURSE-MATERIALS)
-- [GRADING](#GRADING)
-- [LECTURE](#LECTURE)
-- [DISCUSSION SECTION](#DISCUSSION-SECTION)
-- [ASSIGNMENTS](#ASSIGNMENTS)
-- [COURSE PROJECT](#COURSE-PROJECT)
-- [COURSE SCHEDULE](#COURSE-SCHEDULE)
-- [OTHER GOOD STUFF](#OTHER-GOOD-STUFF)
+- [Overview](#Course-Overview)
+- [Staff](#COURSE-STAFF)
+- [Objectives](#COURSE-OBJECTIVES)
+- [Grading](#GRADING)
+- [Lecture](#LECTURE)
+- [Discussion Section](#DISCUSSION-SECTION)
+- [Assignments](#ASSIGNMENTS)
+- [Project](#COURSE-PROJECT)
+- [Schedule](#COURSE-SCHEDULE)
+- [Other Good Stuff](#OTHER-GOOD-STUFF)
 
 <!-- toc -->
 
@@ -57,7 +58,7 @@ Please take care of yourselves and one another, and I'll work as hard as needed 
 | TA             | Sidharth Suresh	       | TBD              | TBD          |
 | TA 	           | Will McCarthy           | TBD              | TBD          |
 | TA 	           | Oisin Parkinsoncoombs   | TBD              | TBD          |
-| TA	           | Ganesh Raghavendran     | TBD              | --           |
+| TA	           | Ganesh Raghavendran     | TBD              | TBD          |
 | IA	           | Ronak Agarwal           | --               | --           |
 | IA	           | Jeffrey Feng            | --               | --           |
 | IA	           | Shubham Kulkarni        | --               | --           |
@@ -101,7 +102,7 @@ Course Feedback (anonymous): [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF
 | -------------: |:-----------------------:|:--------------------------|
 | Discussion           | 9\%               | 9 (1/wk)      |
 | Lecture Quizzes      | 9\%               | 9 (1/wk)      |
-| Assignments          | 36\%		           | 1             |
+| Assignments          | 36\%		           | 4             |
 | Project Planning Survey* | 1\%		       | 1             |
 | Project Review*      | 10\%		           | 1             |
 | Project Proposal*    | 8\%		           | 1             |
@@ -135,7 +136,7 @@ However, every lecture will also be recorded and shared so that students who are
 
 ### Lecture Quizzes
 
-There will be a short quiz that must be submitted each Friday on Canvas. Each Friday, a quiz with 10 questions wil be released, covering the material from lecture that week. The quiz will be due the following Friday. (For example, the first quiz will be released Friday of week 1, covering week 1 material, and will be due the Friday at 11:59 PM of week 2). Each question is worth 0.1 points and you will have a single, timed (15 min) attempt to complete. There are no late extensions on quizzes.
+There will be a short quiz that must be submitted each Friday on Canvas. Each Friday, a quiz with 10 questions will be released, covering the material from lecture that week. The quiz will be due the following Friday. (For example, the first quiz will be released Friday of week 1, covering week 1 material, and will be due the Friday at 11:59 PM of week 2). Each question is worth 0.1 points and you will have a single, timed (15 min) attempt to complete. There are no late extensions on quizzes.
 
 ---
 
@@ -143,7 +144,7 @@ There will be a short quiz that must be submitted each Friday on Canvas. Each Fr
 
 Discussion section week 1 will be for finding group mates. Regular discussion section will begin week 2.
 
-### Techncial Discussion Sections
+### Technical Discussion Sections
 
 Two sections each week will focus on technical content: **Mon at 2PM and Wed at 4PM**.
 
@@ -232,25 +233,25 @@ Starting week 4, there will be an *optional* weekly survey to be completed indiv
 | 1/8   | 1	   | 3      | F     | Version Control    | --       | --              | --           |
 | 1/11  | 2    | 4      | M     | Python Review      | --       | --              | --           |
 | 1/13  | 2	   | 5      | W     | Data & Intuition   | --       | --              | --           |
-| 1/15  | 2	   | 6      | F     | Data Wrangling     | **D1**   | **A1**; **Group Project Survey\* **| **Q1**       |
+| 1/15  | 2	   | 6      | F     | Data Wrangling     | **D1**   | **A1**; **Group Project Survey* **| **Q1**       |
 | 1/18  | 3	   | --     | M     | **No Class**       | --       | --              | --           |
 | 1/20  | 3	   | 7      | W     | `pandas`           | --       | --              | --           |
-| 1/22  | 3	   | 8      | F     | DataViz I          | **D2**   | **Proj Review\* **| **Q2**     |
+| 1/22  | 3	   | 8      | F     | DataViz I          | **D2**   | **Proj Review* **| **Q2**     |
 | 1/25  | 4	   | 9      | M     | Intro to Analysis  | --       | --              | --           | 
 | 1/27  | 4	   | 10     | W     | EDA                | --       | --              | --           |
-| 1/29  | 4	   | 11     | F     | DataViz II         | **D3**   | **Proposal\* ** | **Q3**       |
+| 1/29  | 4	   | 11     | F     | DataViz II         | **D3**   | **Proposal* ** | **Q3**       |
 | 2/1   | 5	   | 12     | M     | Inference I        | --       | --              | --           |
 | 2/3   | 5	   | 13     | W     | Inference II       | --       | --              | --           |   
 | 2/5   | 5	   | 14     | F     | Inference III      | **D4**   | **A2**          | **Q4**       |
 | 2/8   | 6	   | 15     | M     | Text Analysis I    | --       | --              | --           |
 | 2/10  | 6	   | 16     | W     | Text Analysis II   | --       | --              | --           |
-| 2/12  | 6	   | 17     | F     | Guest Lecture I    | **D5**   | **Checkpoint #1: Data\* **| **Q5**|
+| 2/12  | 6	   | 17     | F     | Guest Lecture I    | **D5**   | **Checkpoint #1: Data* **| **Q5**|
 | 2/15  | 7	   | --     | M     | **No Class**       | --       | --              | --           | 
 | 2/17  | 7	   | 18     | W     | Machine Learning I | --       | --              | --           |
 | 2/19  | 7	   | 19     | F     | Machine Learning II| **D6**   | **A3**          | **Q6**       |
 | 2/22  | 8	   | 20     | M     | Text + ML          | --       | --              | --           |    
 | 2/24  | 8	   | 21     | W     | Nonparametric      | --       | --              | --           | 
-| 2/26  | 8	   | 22     | F     | Geospatial I       | **D7**   | **Checkpoint #2: EDA\* **| **Q7** |
+| 2/26  | 8	   | 22     | F     | Geospatial I       | **D7**   | **Checkpoint #2: EDA* **| **Q7** |
 | 3/1   | 9	   | 23     | M     | Geospatial II      | --       | --              | --           | 
 | 3/3   | 9	   | 24     | W     | Dimensionality Reduction| --  | --              | --           |  
 | 3/5   | 9	   | 25     | F     | Guest Lecture II   | **D8**   | **A4**          | **Q8**       |
