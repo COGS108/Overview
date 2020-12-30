@@ -14,7 +14,7 @@ The most recent iteration of this class is Winter Quarter 2021, the **syllabus**
 ## Discussion Section
 
 * [Section Materials](https://github.com/COGS108/Section-Wi21) includes review materials used and presented by Instructional staff in section each week
-* [Discussion Labs](https://datahub.ucsd.edu)
+* [Discussion Labs](https://datahub.ucsd.edu) are released, completed, and submitted on datahub
 * [Tutorial Notebooks](https://github.com/COGS108/Tutorials) that run along with the topics of the class and can help as you complete assignments and discussion section tasks.
 
 ## Assignments
