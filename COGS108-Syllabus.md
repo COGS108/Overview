@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # COGS 108: Data Science in Practice
 
 **Winter 2021**  
@@ -64,7 +69,7 @@ Please take care of yourselves and one another, and I'll work as hard as needed 
 
 
 Course GitHub: https://github.com/COGS108  
-Course Campuswire*: Coming Soon  
+Course Campuswire*: https://campuswire.com/c/G2864E869 
 Course Canvas: https://canvas.ucsd.edu/courses/22031  
 Assignment Submission: https://datahub.ucsd.edu  
 Course Feedback (anonymous): [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF2)    
