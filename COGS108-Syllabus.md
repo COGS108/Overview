@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # COGS 108: Data Science in Practice
 
 **Winter 2021**  
@@ -69,7 +64,7 @@ Please take care of yourselves and one another, and I'll work as hard as needed 
 
 
 Course GitHub: https://github.com/COGS108  
-Course Campuswire*: https://campuswire.com/c/G2864E869 
+Course Campuswire*: https://campuswire.com/c/G2864E869   
 Course Canvas: https://canvas.ucsd.edu/courses/22031  
 Assignment Submission: https://datahub.ucsd.edu  
 Course Feedback (anonymous): [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF2)    
@@ -239,7 +234,7 @@ Starting week 4, there will be an *optional* weekly survey to be completed indiv
 | 1/15  | 2	   | 6      | F     | Data Wrangling     | **D1**   | **A1**; Group Project Survey*  | **Q1**       |
 | 1/18  | 3	   | --     | M     | **No Class**       | --       | --              | --           |
 | 1/20  | 3	   | 7      | W     | `pandas`           | --       | --              | --           |
-| 1/22  | 3	   | 8      | F     | DataViz I          | **D2**   | Proj Review*    | **Q2**       |
+| 1/22  | 3	   | 8      | F     | DataViz I          | **D2**   | Project Review* | **Q2**       |
 | 1/25  | 4	   | 9      | M     | Intro to Analysis  | --       | --              | --           | 
 | 1/27  | 4	   | 10     | W     | EDA                | --       | --              | --           |
 | 1/29  | 4	   | 11     | F     | DataViz II         | **D3**   | Proposal*       | **Q3**       |
