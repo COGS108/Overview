@@ -218,7 +218,7 @@ You will submit who your group is via Google Form by the Friday of week 2 (see C
 
 All project components are completed as a group and are described in the Project documentation: https://github.com/COGS108/Projects. This includes: 1) group survey 2) Previous Project Review 3) Project Proposal 4) Project Checkpoint #1: Data, 5) Project Checkpoint #2: EDA, 6) Final Project Report, 7) Final Project Video, and 8) Team Evaluation Survey.
 
-Starting week 4, there will be an *optional* weekly survey to be completed individually describing your project progress. Students who complete all 6 weeks' surveys will earn 1% extra credit to their final grade.
+Starting week 4, there will be an *optional* weekly survey to be completed individually describing your project progress. Students who complete all 7 weeks' surveys will earn 1% extra credit to their final grade.
 
 ---
 
@@ -252,10 +252,10 @@ Starting week 4, there will be an *optional* weekly survey to be completed indiv
 | 2/26  | 8	   | 22     | F     | Geospatial I       | **D7**   | Checkpoint #2: EDA* | **Q7**   |
 | 3/1   | 9	   | 23     | M     | Geospatial II      | --       | --              | --           | 
 | 3/3   | 9	   | 24     | W     | Dimensionality Reduction| --  | --              | --           |  
-| 3/5   | 9	   | 25     | F     | Guest Lecture II   | **D8**   | **A4**          | **Q8**       |
+| 3/5   | 9	   | 25     | F     | Guest Lecture II   | **D8**   | --              | **Q8**       |
 | 3/8   | 10	 | 26     | M     | Data Science Jobs  | --       | --              | --           | 
 | 3/10  | 10	 | 27     | W     | Communication      | --       | --              | --           | 
-| 3/12  | 10	 | 28     | F     | Future of Data Science| **D9**| --              | **Q9**       |    
+| 3/12  | 10	 | 28     | F     | Future of Data Science| **D9**| **A4**          | **Q9**       |    
 
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
 
