@@ -1,7 +1,9 @@
 # COGS 108: Data Science in Practice
 
-**Winter 2021**  
+**Spring 2021**  
 **MWF 9-9:50 (remote)**  
+
+THIS IS A DRAFT. SYLLABUS WILL BE FINALIZED WEEK 1.
 
 ---
 
@@ -49,23 +51,23 @@ Please take care of yourselves and one another, and I'll work as hard as needed 
 # COURSE STAFF
 
 **Instructor**: Shannon Ellis ([sellis@ucsd.edu](mailto:sellis@ucsd.edu))  
-**Instructor Office Hours**: Fridays 2-4 PM
+**Instructor Office Hours**: Fridays 10 AM - 12 PM
 
 | Role           | Name          					 | Section          | Office Hours |
 | -------------: |:------------------------|:-----------------|:-------------|
-| TA 	           | Will McCarthy           | Mon 2 & 3 PM     | Tu 2:30-3:30 PM |
-| TA	           | Ganesh Raghavendran     | Wed 4 & 5 PM     | Th 3-4 PM    |
-| TA 	           | Oisín Parkinson-Coombs  | Fri 11 AM        | Tu 9-10 AM   |
-| TA             | Sidharth Suresh	       | Fri 12 & 1 PM    | Mon 4-5 PM   |
-| IA	           | Jeffrey Feng            | --               | Wed 7-8 PM   |
-| IA	           | Jesse Wu                | --               | Th 7-8 PM    |
-| IA	           | Shubham Kulkarni        | --               | Wed 2-3 PM   |
-| IA	           | Ronak Agarwal           | --               | Th 2-3 PM    |
+| TA 	           | Atman Patel             | TBD              | TBD          |
+| TA	           | Holly(Yueying) Dong     | TBD              | TBD          |
+| TA 	           | David Liau              | TBD              | TBD          |
+| TA             | Qin Li	                 | TBD              | TBD          |
+| IA	           | Enoch Li                | --               | TBD          |
+| IA	           | Anuujin Tsedenbal       | --               | TBD          |
+| IA	           | Kevin Wang              | --               | TBD          |
+| IA	           | Tiffany Streitenberger  | --               | TBD          |
 
 
 Course GitHub: https://github.com/COGS108  
-Course Campuswire*: https://campuswire.com/c/G2864E869   
-Course Canvas: https://canvas.ucsd.edu/courses/22031  
+Course Campuswire*: https://campuswire.com/c/G342FC77A 
+Course Canvas: https://canvas.ucsd.edu/courses/25437 
 Assignment Submission: https://datahub.ucsd.edu  
 Course Feedback (anonymous): [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF2)    
 
@@ -98,19 +100,20 @@ Course Feedback (anonymous): [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF
 
 |                | \% of Grade          	 | # to submit |
 | -------------: |:-----------------------:|:--------------------------|
-| Discussion           | 9\%               | 9 (1/wk)      |
-| Lecture Quizzes      | 9\%               | 9 (1/wk)      |
-| Assignments          | 36\%		           | 4             |
+| Discussion Labs | 16\%              | 8 out of 9 (1/wk)      |
+| Lecture Quizzes      | 8\%               | 8 out of 9 (1/wk)      |
+| Assignments          | 32\%		           | 4             |
 | Project Planning Survey* | 1\%		       | 1             |
-| Project Review*      | 10\%		           | 1             |
+| Project Review*      | 5\%		           | 1             |
 | Project Proposal*    | 8\%		           | 1             |
 | Project Check-Ins*   | 10\%              | 2             |
-| Final Project*       | 15\%		           | 1             |
+| Final Report*        | 15%		           | 1             |
+| Final Video*         | 3\%		           | 1             |
 | Team Evaluation Survey*| 2\%		         | 1             |
 
 \* Indicates Group Submission
 
-**Final exam date**: No final exam, only final project deadline (Wednesday, 3/17 at 11:59 PM). You do not have to show up anywhere on the date/time of the final exam.
+**Final exam date**: No final exam, only final project deadline (Wednesday, 6/9 at 11:59 PM). You do not have to show up anywhere on the date/time of the final exam.
 
 
 ### Grades
@@ -134,29 +137,27 @@ However, every lecture will also be recorded and shared so that students who are
 
 ### Lecture Quizzes
 
-There will be a short quiz that must be submitted each Friday on Canvas. Each Friday, a quiz with 10 questions will be released, covering the material from lecture that week. The quiz will be due the following Friday. (For example, the first quiz will be released Friday of week 1, covering week 1 material, and will be due the Friday at 11:59 PM of week 2). Each question is worth 0.1 points and you will have a single, timed (15 min) attempt to complete. There are no late extensions on quizzes.
+There will be a short quiz that must be submitted each Friday on Canvas. Each Friday, a quiz with ~10 questions will be released, covering the material from lecture that week. The quiz will be due the following Friday. (For example, the first quiz will be released Friday of week 1, covering week 1 material, and will be due the Friday at 11:59 PM of week 2). Each question is worth ~0.1 points and you will have a single, timed (15 min) attempt to complete. There are no late extensions on quizzes, but your lowest quiz score will be dropped.
 
 ---
 
 # DISCUSSION SECTION
 
-Discussion section week 1 will be for finding group mates. Regular discussion section will begin week 2.
+Mon and Wed discussion section week 1 will be for finding group mates. Technical Discussion Section will begin Friday of week 1.
 
 ### Technical Discussion Sections
 
-Three sections each week will focus on technical content: **Mon at 2PM, Wed at 4PM, Fri at noon**. The Mon at 2PM section will be recorded each week for students who cannot attend live. For week's with Monday holidays, the Wed at 4PM section will be recorded.
+One section each week will focus on technical content: **Fri at 2PM**. This will be recorded each week for students who cannot attend live.
 
-These will be used to review material from lecture by getting hands-on programming experience. Each week there will be a short, guided lab to be completed in discussion section. These labs will be released each Friday and students will have a week to complete them. These will focus on the technical course content and will be submitted on datahub by Friday at 11:59 PM. Discussion section labs are graded for completion/effort (rather than correctness). To complete the lab, you do NOT need to physically show up to discussion section. There are no late submissions for discussion labs.
+These will be used to review material from lecture by getting hands-on programming experience. Each week there will be a short, guided lab to be completed in discussion section. These labs will be released each Friday and students will have a week to complete them. These will focus on the technical course content. Students who are less comfortable with the technical aspects of the course are encouraged to attend discussion section live (or watch the video recording).
 
-If students are comfortable with the technical aspects of the course, they have the option of NOT completing weekly labs. For students who do NOT submit each week's discussion section lab, their average assignment score will be used instead of the discussion score. (At the end of the quarter, whichever score is *higher* - between their total discussion lab scores and their average assignment score - will be used.)
+Discussion section labs are graded for completion/effort (rather than correctness). To complete the lab, you do NOT need to physically show up to discussion section. There will be 9 discussion labs. Each is worth 2 points. The lowest discussion lab score will be dropped. There are no late submissions for discussion labs.
 
 During section, you will be given tips for working in Python, guided through Jupyter notebooks to clarify topics presented in class, and will be given time to get additional practice and work on the assigned lab. There will be information covered in section that are not covered in lecture and that will be needed (or at least very helpful) for the assignments. 
 
-You should be signed up for a section for which you can attend. However, if you are unable to attend the section for which you are signed up, you are free to attend a different section any given week than the one to which you're assigned.
-
 ### Project-Focused Discussion Sections
 
-All other discussion sections will be project-focused. Each project group will be assigned a TA (or Professor Ellis). This will be each group's go-to person for project-related questions and discussion section will be the place for those questions, as this person will know you, your group, and your project best. This person will also be the person grading your project throughout the quarter. 
+All other discussion sections will be project-focused. Each project group will be assigned a TA. This will be each group's go-to person for project-related questions and discussion section will be the place for those questions, as this person will know you, your group, and your project best. This person will also be the person grading your project throughout the quarter. 
 
 ---
 
@@ -226,36 +227,36 @@ Starting week 4, there will be an *optional* weekly survey to be completed indiv
 
 | Date  | Week |Lecture | Day   |Topic               | Section  |   Assignment    | Lecture Quiz |
 | -----:|:----:|:-------|:-----:|:-------------------|:---------|:----------------|:-------------|
-| 1/4   | 1	   | 1      | M     | Welcome!           | --       | --              | --           |
-| 1/6   | 1	   | 2      | W     | Ethics             | --       | --              | --           |  
-| 1/8   | 1	   | 3      | F     | Version Control    | --       | --              | --           |
-| 1/11  | 2    | 4      | M     | Python Review      | --       | --              | --           |
-| 1/13  | 2	   | 5      | W     | Data & Intuition   | --       | --              | --           |
-| 1/15  | 2	   | 6      | F     | Data Wrangling     | **D1**   | **A1**; Group Project Survey*  | **Q1**       |
-| 1/18  | 3	   | --     | M     | **No Class**       | --       | --              | --           |
-| 1/20  | 3	   | 7      | W     | `pandas`           | --       | --              | --           |
-| 1/22  | 3	   | 8      | F     | DataViz I          | **D2**   | Project Review* | **Q2**       |
-| 1/25  | 4	   | 9      | M     | Intro to Analysis  | --       | --              | --           | 
-| 1/27  | 4	   | 10     | W     | EDA                | --       | --              | --           |
-| 1/29  | 4	   | 11     | F     | DataViz II         | **D3**   | Proposal*       | **Q3**       |
-| 2/1   | 5	   | 12     | M     | Inference I        | --       | --              | --           |
-| 2/3   | 5	   | 13     | W     | Inference II       | --       | --              | --           |   
-| 2/5   | 5	   | 14     | F     | Inference III      | **D4**   | **A2**          | **Q4**       |
-| 2/8   | 6	   | 15     | M     | Text Analysis I    | --       | --              | --           |
-| 2/10  | 6	   | 16     | W     | Text Analysis II   | --       | --              | --           |
-| 2/12  | 6	   | 17     | F     | Guest Lecture I    | **D5**   | Checkpoint #1: Data* | **Q5**|
-| 2/15  | 7	   | --     | M     | **No Class**       | --       | --              | --           | 
-| 2/17  | 7	   | 18     | W     | Machine Learning I | --       | --              | --           |
-| 2/19  | 7	   | 19     | F     | Machine Learning II| **D6**   | **A3**          | **Q6**       |
-| 2/22  | 8	   | 20     | M     | Text + ML          | --       | --              | --           |    
-| 2/24  | 8	   | 21     | W     | Nonparametric      | --       | --              | --           | 
-| 2/26  | 8	   | 22     | F     | Geospatial I       | **D7**   | Checkpoint #2: EDA* | **Q7**   |
-| 3/1   | 9	   | 23     | M     | Geospatial II      | --       | --              | --           | 
-| 3/3   | 9	   | 24     | W     | Dimensionality Reduction| --  | --              | --           |  
-| 3/5   | 9	   | 25     | F     | Guest Lecture II   | **D8**   | --              | **Q8**       |
-| 3/8   | 10	 | 26     | M     | Data Science Jobs  | --       | --              | --           | 
-| 3/10  | 10	 | 27     | W     | Communication      | --       | --              | --           | 
-| 3/12  | 10	 | 28     | F     | Future of Data Science| **D9**| **A4**          | **Q9**       |    
+| 3/29  | 1	   | 1      | M     | Welcome!           | --       | --              | --           |
+| 3/31  | 1	   | 2      | W     | Python Review      | --       | --              | --           |  
+| 4/2   | 1	   | 3      | F     | Version Control I  | --       | --              | --           |
+| 4/5   | 2    | 4      | M     | Version Control II | --       | --              | --           |
+| 4/7   | 2	   | 5      | W     | Data & Intuition   | --       | --              | --           |
+| 4/9   | 2	   | 6      | F     | Data Wrangling (`pandas`) | **D1**   | **A1**; Group Project Survey*  | **Q1**       |
+| 4/12  | 3	   | 7      | M     | Ethics             | --       | --              | --           |
+| 4/14  | 3	   | 8      | W     | Data Science ?s    | --       | --              | --           |
+| 4/16  | 3	   | 9      | F     | Dataviz I          | **D2**   | Project Review* | **Q2**       |
+| 4/19  | 4	   | 10      | M    | Intro to Analysis  | --       | --              | --           | 
+| 4/21  | 4	   | 11     | W     | Descriptive Analysis| --       | --              | --           |
+| 4/23  | 4	   | 12     | F     | EDA                | **D3**   | Project Proposal*  | **Q3**       |
+| 4/26  | 5	   | 13     | M     | Inference I        | --       | --              | --           |
+| 4/28  | 5	   | 14     | W     | Inference II       | --       | --              | --           |   
+| 4/30  | 5	   | 15     | F     | Inference III      | **D4**   | **A2**          | **Q4**       |
+| 5/3   | 6	   | 16     | M     | Text Analysis I    | --       | --              | --           |
+| 5/5   | 6	   | 17     | W     | Text Analysis II   | --       | --              | --           |
+| 5/7   | 6	   | 18     | F     | Guest Lecture I    | **D5**   | Checkpoint #1: Data* | **Q5**|
+| 5/10  | 7	   | 19     | M     | Machine Learning I | --       | --              | --           | 
+| 5/12  | 7	   | 20     | W     | Machine Learning II| --       | --              | --           |
+| 5/14  | 7	   | 21     | F     | Text + ML          | **D6**   | **A3**          | **Q6**       |
+| 5/17  | 8	   | 22     | M     | --                 | --       | --              | --           |    
+| 5/19  | 8	   | 24     | W     | Nonparametric      | --       | --              | --           | 
+| 5/21  | 8	   | 25     | F     | Geospatial I       | **D7**   | Checkpoint #2: EDA* | **Q7**   |
+| 5/24  | 9	   | 26     | M     | Geospatial II      | --       | --              | --           | 
+| 5/26  | 9	   | 27     | W     | Dimensionality Reduction| --  | --              | --           |  
+| 5/28  | 9	   | 28     | F     | Guest Lecture II   | **D8**   | **A4**              | **Q8**       |
+| 5/31  | 10	 | --     | M     |  **No Class**      | --       | --              | --           | 
+| 6/2   | 10	 | 29     | W     | Communication      | --       | --              | --           | 
+| 6/4   | 10	 | 30     | F     | Data Science Jobs  | **D9**| --          | **Q9**       |    
 
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
 
