@@ -109,7 +109,7 @@ Course Feedback (anonymous): [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF
 | Project Check-Ins*   | 10\%              | 2             |
 | Final Report*        | 15%		           | 1             |
 | Final Video*         | 3\%		           | 1             |
-| Team Evaluation Survey*| 2\%		         | 1             |
+| Team Evaluation Survey| 2\%		         | 1             |
 
 \* Indicates Group Submission
 
@@ -143,11 +143,11 @@ There will be a short quiz that must be submitted each Friday on Canvas. Each Fr
 
 # DISCUSSION SECTION
 
-Mon and Wed discussion section week 1 will be for finding group mates. Technical Discussion Section will begin Friday of week 1.
+There will be no discussion section Mon of week 1. Wed and Friday week 1 will be for finding group mates. Regular Discussion Sections will begin Monday of week 2.
 
-### Technical Discussion Sections
+### Technical Discussion Sections (Labs)
 
-One section each week will focus on technical content: **Fri at 2PM**. This will be recorded each week for students who cannot attend live.
+One section each week will focus on technical content: **Mon at 10 AM**. This will be recorded each week for students who cannot attend live.
 
 These will be used to review material from lecture by getting hands-on programming experience. Each week there will be a short, guided lab to be completed in discussion section. These labs will be released each Friday and students will have a week to complete them. These will focus on the technical course content. Students who are less comfortable with the technical aspects of the course are encouraged to attend discussion section live (or watch the video recording).
 
