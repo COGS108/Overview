@@ -3,8 +3,6 @@
 **Spring 2021**  
 **MWF 9-9:50 (remote)**  
 
-THIS IS A DRAFT. SYLLABUS WILL BE FINALIZED WEEK 1.
-
 ---
 
 **Table of Contents**
@@ -51,18 +49,18 @@ Please take care of yourselves and one another, and I'll work as hard as needed 
 # COURSE STAFF
 
 **Instructor**: Shannon Ellis ([sellis@ucsd.edu](mailto:sellis@ucsd.edu))  
-**Instructor Office Hours**: Fridays 10 AM - 12 PM
+**Instructor Office Hours**: Fri 10 AM - 12 PM
 
 | Role           | Name          					 | Section          | Office Hours |
 | -------------: |:------------------------|:-----------------|:-------------|
-| TA 	           | Atman Patel             | TBD              | TBD          |
-| TA	           | Holly(Yueying) Dong     | TBD              | TBD          |
-| TA 	           | David Liau              | TBD              | TBD          |
-| TA             | Qin Li	                 | TBD              | TBD          |
-| IA	           | Enoch Li                | --               | TBD          |
-| IA	           | Anuujin Tsedenbal       | --               | TBD          |
-| IA	           | Kevin Wang              | --               | TBD          |
-| IA	           | Tiffany Streitenberger  | --               | TBD          |
+| TA 	           | David Liau              | Mon 11 AM        | TBD          |
+| TA             | Qin Li	                 | Wed 12 PM        | Wed 11 AM    |
+| TA	           | Holly(Yueying) Dong     | Wed 1 PM         | Mon 4PM      |
+| TA 	           | Atman Patel             | Fri 2 PM         | Thurs 11 AM  |
+| IA	           | Kevin Wang              | --               | Mon 2 PM     |
+| IA	           | Tiffany Streitenberger  | Mon 10 AM        | Tue 9 AM     |
+| IA	           | Anuujin Tsedenbal       | --               | Wed 6 PM     |
+| IA	           | Enoch Li                | Mon 10 AM        | Thurs 5 PM   |
 
 
 Course GitHub: https://github.com/COGS108  
@@ -106,7 +104,7 @@ Course Feedback (anonymous): [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF
 | Project Planning Survey* | 1\%		       | 1             |
 | Project Review*      | 5\%		           | 1             |
 | Project Proposal*    | 8\%		           | 1             |
-| Project Check-Ins*   | 10\%              | 2             |
+| Project Checkpoints*   | 10\%              | 2             |
 | Final Report*        | 15%		           | 1             |
 | Final Video*         | 3\%		           | 1             |
 | Team Evaluation Survey| 2\%		         | 1             |
@@ -248,7 +246,7 @@ Starting week 4, there will be an *optional* weekly survey to be completed indiv
 | 5/10  | 7	   | 19     | M     | Machine Learning I | --       | --              | --           | 
 | 5/12  | 7	   | 20     | W     | Machine Learning II| --       | --              | --           |
 | 5/14  | 7	   | 21     | F     | Text + ML          | **D6**   | **A3**          | **Q6**       |
-| 5/17  | 8	   | 22     | M     | --                 | --       | --              | --           |    
+| 5/17  | 8	   | 22     | M     | (Catch up day)     | --       | --              | --           |    
 | 5/19  | 8	   | 24     | W     | Nonparametric      | --       | --              | --           | 
 | 5/21  | 8	   | 25     | F     | Geospatial I       | **D7**   | Checkpoint #2: EDA* | **Q7**   |
 | 5/24  | 9	   | 26     | M     | Geospatial II      | --       | --              | --           | 
