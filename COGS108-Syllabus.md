@@ -49,11 +49,11 @@ Please take care of yourselves and one another, and I'll work as hard as needed 
 # COURSE STAFF
 
 **Instructor**: Shannon Ellis ([sellis@ucsd.edu](mailto:sellis@ucsd.edu))  
-**Instructor Office Hours**: Fri 10 AM - 12 PM
+**Instructor Office Hours**: Wed 1:30-2:30; Fri 10 - 11 AM
 
 | Role           | Name          					 | Section          | Office Hours |
 | -------------: |:------------------------|:-----------------|:-------------|
-| TA 	           | David Liau              | Mon 11 AM        | TBD          |
+| TA 	           | David Liau              | Mon 11 AM        | Tue 4 PM     |
 | TA             | Qin Li	                 | Wed 12 PM        | Wed 11 AM    |
 | TA	           | Holly(Yueying) Dong     | Wed 1 PM         | Mon 4PM      |
 | TA 	           | Atman Patel             | Fri 2 PM         | Thurs 11 AM  |
@@ -64,7 +64,7 @@ Please take care of yourselves and one another, and I'll work as hard as needed 
 
 
 Course GitHub: https://github.com/COGS108  
-Course Campuswire*: https://campuswire.com/c/G342FC77A 
+Course Campuswire*: https://campuswire.com/c/G342FC77A
 Course Canvas: https://canvas.ucsd.edu/courses/25437 
 Assignment Submission: https://datahub.ucsd.edu  
 Course Feedback (anonymous): [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF2)    
@@ -324,7 +324,7 @@ That said, to ensure that we’re respecting their time, TAs and IAs have been i
 
 ### What should you call me?
 
-Most students call me Professor/Prof Ellis, and that's great! This is how I typically sign emails to students. I'm also totally OK with you addressing me as Shannon or Dr. Ellis. I would prefer you *not* address me as Ms./Miss/Mrs. Ellis (but I likely won't correct you....it's really not that big of a deal). 
+Most students call me Professor/Prof Ellis, and that's great! This is how I typically sign emails to students. I'm also totally OK with you addressing me as Shannon or Dr. Ellis. I would prefer you *not* address me as Ms./Miss/Mrs. Ellis.
 
 ### What I should call you
 
