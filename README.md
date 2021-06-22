@@ -34,3 +34,9 @@ A core component of the class is completing a group project. Some example projec
 ## A reminder about time: 
 
 These assignments are intermingled with your project proposal, checkpoints and final project (due finals week). This is an assignment-heavy course load to get you as much practice as possible. This will require good time management and planning on your part. Start planning ahead now to avoid late submissions and issues later in the quarter.
+
+---
+## License 
+
+The content of this project itself is licensed under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](https://github.com/github/choosealicense.com/blob/gh-pages/LICENSE.md).
+
