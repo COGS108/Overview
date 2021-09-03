@@ -1,8 +1,8 @@
 # COGS 108: Data Science in Practice
 
-**Spring 2021**  
-**MWF 9-9:50 (remote)**  
-
+**Fall 2021**  
+**MWF 10-10:50am**
+**Galbraith Hall 242**
 ---
 
 **Table of Contents**
@@ -51,23 +51,24 @@ Please take care of yourselves and one another, and I'll work as hard as needed 
 **Instructor**: Shannon Ellis ([sellis@ucsd.edu](mailto:sellis@ucsd.edu))  
 **Instructor Office Hours**: Wed 1:30-2:30; Fri 10 - 11 AM
 
-| Role           | Name          					 | Section          | Office Hours |
-| -------------: |:------------------------|:-----------------|:-------------|
-| TA 	           | David Liau              | Mon 11 AM        | Tue 4 PM     |
-| TA             | Qin Li	                 | Wed 12 PM        | Wed 11 AM    |
-| TA	           | Holly(Yueying) Dong     | Wed 1 PM         | Mon 4PM      |
-| TA 	           | Atman Patel             | Fri 2 PM         | Thurs 11 AM  |
-| IA	           | Kevin Wang              | --               | Mon 2 PM     |
-| IA	           | Tiffany Streitenberger  | Mon 10 AM        | Tue 9 AM     |
-| IA	           | Anuujin Tsedenbal       | --               | Wed 6 PM     |
-| IA	           | Enoch Li                | Mon 10 AM        | Thurs 5 PM   |
+| Role           | Name          					 | Section          | Office Hours |  Contact   |   
+| -------------: |:--------------------|:-----------------|:-------------|:-------------|
+| Instructor     | Jason Fleischer     |   none           | TBA          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
+| TA 	           | Tyler Akira Chang   |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
+| TA             | Sourabh Chaitanya Rajguru|   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
+| TA	            | Bao Gia Hoang       |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
+| TA 	           | TBA                 |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
+| IA	            | Harrison Ma         |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
+| IA	            | Jiayi Zhao          |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
+| IA	            | Scott Yang          |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
+| IA	            | Richard Duong       |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
 
 
 Course GitHub: https://github.com/COGS108  
-Course Campuswire*: https://campuswire.com/c/G342FC77A
-Course Canvas: https://canvas.ucsd.edu/courses/25437 
+Course Campuswire*: https://campuswire.com/c/GB34A4489
+Course Canvas: https://canvas.ucsd.edu/courses/29492 
 Assignment Submission: https://datahub.ucsd.edu  
-Course Feedback (anonymous): [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF2)    
+Course Feedback (anonymous): [Google Form](PLS FILL IN)    
 
 *You will be able to post anonymously on Campuswire; however, you will only be anonymous to your classmates. Your Instructor and TAs will be able to see who you are.
 
