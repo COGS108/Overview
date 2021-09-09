@@ -29,8 +29,7 @@ In focusing on the application, there is theory that won’t be discussed and ma
 
 1. There are entire courses dedicated to each of the topics we’ll cover. To have time to do anything, we can’t teach all the details in a single course.
 2. Experts in each of these domains are out there and excited to teach you the nitty gritty about each topic.
-3. My expertise is not machine learning. It’s data science, education, human genetics, and the intuition behind data analysis.
-4. We’re promoting data literacy. We believe that everyone who is data literate is at an advantage as they go out into the modern world. Data literacy is not limited to those who are computational gurus or math prodigies. You do not have to be either of those to excel at this course.
+3. We’re promoting data literacy. We believe that everyone who is data literate is at an advantage as they go out into the modern world. Data literacy is not limited to those who are computational gurus or math prodigies. You do not have to be either of those to excel at this course.
 
 In this course, you will try many methods. Every so often, you’ll even be asked to implement a technique that has not been explicitly taught. Again, this is by design. As a data scientist, you’ll regularly be asked to step outside of your comfort zone and into something new. Our goal is to get you as comfortable as possible in that space now. We want to provide you with a technical and a data science mindset that will allow you to ask the right questions for the problem at hand and set off alarm bells when something in your dataset or analysis is “off.”
 
@@ -48,15 +47,12 @@ Please take care of yourselves and one another, and I'll work as hard as needed 
 
 # COURSE STAFF
 
-**Instructor**: Shannon Ellis ([sellis@ucsd.edu](mailto:sellis@ucsd.edu))  
-**Instructor Office Hours**: Wed 1:30-2:30; Fri 10 - 11 AM
-
 | Role           | Name          					 | Section          | Office Hours |  Contact   |   
 | -------------: |:--------------------|:-----------------|:-------------|:-------------|
-| Instructor     | Jason Fleischer     |   none           | TBA          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
+| Instructor     | Jason Fleischer     |   none           | [sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUFzQ2RXR3dOVnZwfGRlZmF1bHR8Nzg4NGE1Yzc1NmM0NGJlNzUyZmNjMzgxNGUzYWQ1NzM)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
 | TA 	           | Tyler Akira Chang   |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
-| TA             | Sourabh Chaitanya Rajguru|   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
-| TA	            | Bao Gia Hoang       |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
+| TA             | David Liau |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
+| TA	            | TBA       |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
 | TA 	           | TBA                 |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
 | IA	            | Harrison Ma         |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
 | IA	            | Jiayi Zhao          |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
@@ -65,10 +61,14 @@ Please take care of yourselves and one another, and I'll work as hard as needed 
 
 
 Course GitHub: https://github.com/COGS108  
+
 Course Campuswire*: https://campuswire.com/c/GB34A4489
+
 Course Canvas: https://canvas.ucsd.edu/courses/29492 
+
 Assignment Submission: https://datahub.ucsd.edu  
-Course Feedback (anonymous): [Google Form](PLS FILL IN)    
+
+Anonymous Course Feedback: [Fill out this form](https://forms.gle/rcMnXxo3VzoVwbRcA)    
 
 *You will be able to post anonymously on Campuswire; however, you will only be anonymous to your classmates. Your Instructor and TAs will be able to see who you are.
 
@@ -130,9 +130,13 @@ Given the unique situation of this quarter, lecture and discussion section atten
 
 # LECTURE
 
-Lectures will take place at their scheduled time for those who are able to attend. As typically occurs in COGS 108, we will do our best to make these interactive and facilitate discussion. You will have the opportunity to share your thoughts and compare against your classmates' (via zoom polls, rather than with iclickers) during lecture.
+Lectures is MWF 10am - 10:50am.
 
-However, every lecture will also be recorded and shared so that students who are not able to or choose not to watch during the scheduled class time are still able to receive and digest all class materials. If a lecture recording ever fails during class, Prof Ellis will re-record a lecture, ensuring all students have access to the material. Lecture recordings will be available on Canvas in the Media Gallery by 2PM after the live lecture is delivered.
+Monday and Wednesday will be in person lectures in Galbraith Hall 242; **A negative symptom check from that day and a properly worn mask of the correct type are required to attend!** For more information please see [Return to Learn requirements for on-campus activities](https://returntolearn.ucsd.edu/return-to-campus/campus-repopulation/index.html). In-person lectures will be broadcast simultaneously [on this Zoom link](https://ucsd.zoom.us/j/96392914170?pwd=cG5VQm94Zkh4T3JWTmJld2xzRzBRQT09) If for some reason that link doesn't work, the Meeting ID is 963 9291 4170 and the password is cogs108
+
+Friday lecture will be **Zoom only** in order to reduce our exposure to each other's germs. Do not go to Galbraith Hall on Fridays.
+
+Eevery lecture will also be recorded and shared so that students who are not able to or choose not to watch during the scheduled class time are still able to receive and digest all class materials. Lecture recordings will be available on Canvas in the Media Gallery no later than 5PM the day the live lecture is delivered.
 
 ### Lecture Quizzes
 
@@ -271,7 +275,7 @@ This class will be a welcoming, inclusive, and harassment-free experience for ev
 
 At all times, you should be considerate and respectful. Always refrain from demeaning, discriminatory, or harassing behavior and speech. Last of all, take care of each other.
 
-If you have a concern, please speak with Prof Ellis, your TAs, or IAs. If you are uncomfortable doing so, that’s ok! The [OPHD](https://blink.ucsd.edu/HR/policies/sexual/OPHD.html) (Office for the Prevention of Sexual Harassment and Discrimination) and [CARE](https://care.ucsd.edu/) (confidential advocacy and education office for sexual violence and gender-based violence) are wonderful resources on campus.  
+If you have a concern, please speak with anyone on the instruction team (professor, TAs, or IAs). If you are uncomfortable doing so, that’s ok! The [OPHD](https://blink.ucsd.edu/HR/policies/sexual/OPHD.html) (Office for the Prevention of Sexual Harassment and Discrimination) and [CARE](https://care.ucsd.edu/) (confidential advocacy and education office for sexual violence and gender-based violence) are wonderful resources on campus.  
 
 ### Academic Integrity
 
@@ -319,13 +323,13 @@ That said, to ensure that we’re respecting their time, TAs and IAs have been i
 - **A specific section-related question**: send a direct message on Campuswire to your TA/IA
 - **Something super cool to share related to class**: feel free to email Prof Ellis or come to office hours. Be sure to include COG S108 in the email subject line and your full name in your message.
 - **Something you want to talk about in-depth**: meet in person during office hours or schedule a time to meet by email. Be sure to include COGS 108 in the email subject line. 
-- **Some feedback about the course you want to share anonymously**: If you’ve been offended by an example in class, really liked or disliked a lesson, or wish there were something covered in class that wasn’t but would rather not share this publicly, etc., please fill out the anonymous [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF2)*
+- **Some feedback about the course you want to share anonymously**: If you’ve been offended by an example in class, really liked or disliked a lesson, or wish there were something covered in class that wasn’t but would rather not share this publicly, etc., please fill out the anonymous [Google Form](https://forms.gle/rcMnXxo3VzoVwbRcA)*
 
 \*This form can be taken down at any time if it’s not being used for its intended purpose; however, you all will be notified should that happen. 
 
 ### What should you call me?
 
-Most students call me Professor/Prof Ellis, and that's great! This is how I typically sign emails to students. I'm also totally OK with you addressing me as Shannon or Dr. Ellis. I would prefer you *not* address me as Ms./Miss/Mrs. Ellis.
+Most students call me Professor or Professor Fleischer or Dr. Fleischer. This is how I typically sign emails to students. I'm also OK with you addressing me as Jason, but not all professors are OK with that. I would prefer you *not* address me as Mr. Fleischer; if you're going to use an honorific please use the one that people expect in the situation.
 
 ### What I should call you
 
