@@ -287,6 +287,7 @@ Starting week 4, there will be an *optional* weekly survey to be completed indiv
 | 11/29   | 10	 | 29     | M     | Communication      | --       | --              | --           | 
 | 12/1   | 10	 | 30     | W     |  How to be wrong | --       | --              | --           | 
 | 12/3   |  10   |   31  | F    |  Data Science Jobs  |  **D9**| --          | **Q9**       |    
+
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
 
 ---
@@ -324,7 +325,7 @@ http://disabilities.ucsd.edu
 
 ## Difficult life situations
 
-Sometimes life outside of academia can be difficult. Please [email me](mailto:jfleischer@ucsd.edu] or [come to office hours]() if stuff outside the classroom prevents you from doing well inside it. I can often refer you on to the help you need.
+Sometimes life outside of academia can be difficult. Please [email me](mailto:jfleischer@ucsd.edu) or [come to office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUFzQ2RXR3dOVnZwfGRlZmF1bHR8Nzg4NGE1Yzc1NmM0NGJlNzUyZmNjMzgxNGUzYWQ1NzM) if stuff outside the classroom prevents you from doing well inside it. I can often refer you on to the help you need.
 
 If you don't have the most essential resources required to thrive as a student, please contact [UCSD Basic Needs](https://basicneeds.ucsd.edu) who can help you access nutritious food and stable housing, and help you seek the means to reach financial wellness. 
 
