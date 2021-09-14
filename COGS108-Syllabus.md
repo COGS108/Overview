@@ -1,3 +1,5 @@
+
+# PRELIMINARY SYLLABUS! SUBJECT TO CHANGE BEFORE QUARTER BEGINS!!
 # COGS 108: Data Science in Practice
 
 **Fall 2021**  
@@ -33,17 +35,6 @@ In focusing on the application, there is theory that won’t be discussed and ma
 
 In this course, you will try many methods. Every so often, you’ll even be asked to implement a technique that has not been explicitly taught. Again, this is by design. As a data scientist, you’ll regularly be asked to step outside of your comfort zone and into something new. Our goal is to get you as comfortable as possible in that space now. We want to provide you with a technical and a data science mindset that will allow you to ask the right questions for the problem at hand and set off alarm bells when something in your dataset or analysis is “off.”
 
----
-
-### A Note About Remote Learning
-
-For some of you, remote learning is new. For others, you've got a bit of practice. For all of us, there is a lot going on in the world. While students have always been under a fair amount of pressure and stress, the struggles students may encounter this quarter (for a whole bunch of different reasons) may go beyond what is typical. I want you all to know that I fully understand this and am here to help you succeed. 
-
-While regular deadlines have been established to help keep you all on track, I want you to know up front that I am a very reasonable person. While I ask that you all do your best to meet deadlines that have been set, know that if you're struggling, I absolutely want you to reach out to let me know, to ask for an extension, or to discuss some other accommodation.
-
-Please take care of yourselves and one another, and I'll work as hard as needed to ensure success for all students this quarter.
-
----
 
 # COURSE STAFF
 
@@ -112,7 +103,7 @@ Anonymous Course Feedback: [Fill out this form](https://forms.gle/rcMnXxo3VzoVwb
 
 \* Indicates Group Submission
 
-**Final exam**: This course has no final exam. Do not show up on the date/time of the final exam.  Instead this course has a final project. The project deadline is Dec 10th at 11:59 PM, submission will be online via gradescope. 
+**Final exam**: This course has no final exam. Do not show up on the date/time of the final exam.  Instead this course has a final project. The project deadline is Dec 10th at 11:59 PM 
 
 All grades will be released on Canvas. It is *your responsibility to check that your assignment was submitted, that your grade is accurate, and to get in touch if any are missing and/or you think there is a problem*.
 
