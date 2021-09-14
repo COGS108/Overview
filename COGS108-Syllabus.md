@@ -112,12 +112,38 @@ Anonymous Course Feedback: [Fill out this form](https://forms.gle/rcMnXxo3VzoVwb
 
 \* Indicates Group Submission
 
-**Final exam date**: No final exam, only final project deadline (Wednesday, 6/9 at 11:59 PM). You do not have to show up anywhere on the date/time of the final exam.
-
-
-### Grades
+**Final exam**: This course has no final exam. Do not show up on the date/time of the final exam.  Instead this course has a final project. The project deadline is Dec 10th at 11:59 PM, submission will be online via gradescope. 
 
 All grades will be released on Canvas. It is *your responsibility to check that your assignment was submitted, that your grade is accurate, and to get in touch if any are missing and/or you think there is a problem*.
+
+Bonus points worth up to 6% of the final grade will be awarded for 
+- Exceptional final project work above and beyond expectations; you will be expected to write a section in the report justifying what you did to earn ir (up to 3% of the final grade)
+- Exceptional participation on Campuswire discussions, helping answer things, organizing things, etc. (1% of the final grade)
+- Answering the pre & post course surveys (1% of the final grade for doing both)
+If >80% of the students fill out CAPE at the end of the quarter (1% of the final grade for everyone)
+
+Our grading scale is
+|----:|:-----------------:|
+| A+  | 97.0% and up      |
+| A.  | < 97.0% to 94.0%  |
+| A-  | < 94.0 % to 90.0% |
+| B+  | < 90.0 % to 87.0% |
+| B   | < 87.0 % to 84.0% | 
+| B-  | < 84.0 % to 80.0% |
+| C+  | < 80.0 % to 77.0% |
+| C   | < 77.0 % to 74.0% |
+| C-  | < 74.0 % to 70.0% |
+| D   | < 70.0 % to 60.0% |
+| F   | < 60.0 % |
+
+
+Attendance and participation grades
+Our goal is to make the lecture and discussion section worth your while to attend. But no one will be forced to, there is a pandemic and many extenuating circumstances. 
+
+
+
+
+
 
 Your final letter grade will be determined using the [standard grading scale](https://pages.stolaf.edu/dietz/typical-grading-scale/). Grades are not rounded up.
 
@@ -130,9 +156,9 @@ Given the unique situation of this quarter, lecture and discussion section atten
 
 # LECTURE
 
-Lectures is MWF 10am - 10:50am.
+Lectures are MWF 10am - 10:50am.
 
-Monday and Wednesday will be in person lectures in Galbraith Hall 242; **A negative symptom check from that day and a properly worn mask of the correct type are required to attend!** For more information please see [Return to Learn requirements for on-campus activities](https://returntolearn.ucsd.edu/return-to-campus/campus-repopulation/index.html). In-person lectures will be broadcast simultaneously [on this Zoom link](https://ucsd.zoom.us/j/96392914170?pwd=cG5VQm94Zkh4T3JWTmJld2xzRzBRQT09) If for some reason that link doesn't work, the Meeting ID is 963 9291 4170 and the password is cogs108
+Monday and Wednesday will be in person lectures in Galbraith Hall 242; **A negative symptom check from that day and a properly worn mask of the correct type are required to attend!** For more information please see [Return to Learn requirements for on-campus activities](https://returntolearn.ucsd.edu/return-to-campus/campus-repopulation/index.html). In-person lectures will be broadcast simultaneously [on this Zoom link](https://ucsd.zoom.us/j/96392914170?pwd=cG5VQm94Zkh4T3JWTmJld2xzRzBRQT09) If for some reason that link doesn't work, the Meeting ID is 963 9291 4170 and the password is cogs108.
 
 Friday lecture will be **Zoom only** in order to reduce our exposure to each other's germs. Do not go to Galbraith Hall on Fridays.
 
@@ -146,7 +172,7 @@ There will be a short quiz that must be submitted each Friday on Canvas. Each Fr
 
 # DISCUSSION SECTION
 
-There will be no discussion section Mon of week 1. Wed and Friday week 1 will be for finding group mates. Regular Discussion Sections will begin Monday of week 2.
+There will be no discussion section Monday of week 1. Wednesday and Friday of week 1 will be for finding group mates. Regular Discussion Sections will begin Monday of week 2.
 
 ### Technical Discussion Sections (Labs)
 
@@ -230,37 +256,37 @@ Starting week 4, there will be an *optional* weekly survey to be completed indiv
 
 | Date  | Week |Lecture | Day   |Topic               | Section  |   Assignment    | Lecture Quiz |
 | -----:|:----:|:-------|:-----:|:-------------------|:---------|:----------------|:-------------|
-| 3/29  | 1	   | 1      | M     | Welcome!           | --       | --              | --           |
-| 3/31  | 1	   | 2      | W     | Python Review      | --       | --              | --           |  
-| 4/2   | 1	   | 3      | F     | Version Control I  | --       | --              | --           |
-| 4/5   | 2    | 4      | M     | Version Control II | --       | --              | --           |
-| 4/7   | 2	   | 5      | W     | Data & Intuition   | --       | --              | --           |
-| 4/9   | 2	   | 6      | F     | Data Wrangling (`pandas`) | **D1**   | **A1**; Group Project Survey*  | **Q1**       |
-| 4/12  | 3	   | 7      | M     | Ethics             | --       | --              | --           |
-| 4/14  | 3	   | 8      | W     | Data Science ?s    | --       | --              | --           |
-| 4/16  | 3	   | 9      | F     | Dataviz I          | **D2**   | Project Review* | **Q2**       |
-| 4/19  | 4	   | 10      | M    | Intro to Analysis  | --       | --              | --           | 
-| 4/21  | 4	   | 11     | W     | Descriptive Analysis| --       | --              | --           |
-| 4/23  | 4	   | 12     | F     | EDA                | **D3**   | Project Proposal*  | **Q3**       |
-| 4/26  | 5	   | 13     | M     | Inference I        | --       | --              | --           |
-| 4/28  | 5	   | 14     | W     | Inference II       | --       | --              | --           |   
-| 4/30  | 5	   | 15     | F     | Inference III      | **D4**   | **A2**          | **Q4**       |
-| 5/3   | 6	   | 16     | M     | Text Analysis I    | --       | --              | --           |
-| 5/5   | 6	   | 17     | W     | Text Analysis II   | --       | --              | --           |
-| 5/7   | 6	   | 18     | F     | Guest Lecture I    | **D5**   | Checkpoint #1: Data* | **Q5**|
-| 5/10  | 7	   | 19     | M     | Machine Learning I | --       | --              | --           | 
-| 5/12  | 7	   | 20     | W     | Machine Learning II| --       | --              | --           |
-| 5/14  | 7	   | 21     | F     | Text + ML          | **D6**   | **A3**          | **Q6**       |
-| 5/17  | 8	   | 22     | M     | (Catch up day)     | --       | --              | --           |    
-| 5/19  | 8	   | 24     | W     | Nonparametric      | --       | --              | --           | 
-| 5/21  | 8	   | 25     | F     | Geospatial I       | **D7**   | Checkpoint #2: EDA* | **Q7**   |
-| 5/24  | 9	   | 26     | M     | Geospatial II      | --       | --              | --           | 
-| 5/26  | 9	   | 27     | W     | Dimensionality Reduction| --  | --              | --           |  
-| 5/28  | 9	   | 28     | F     | Guest Lecture II   | **D8**   | **A4**              | **Q8**       |
-| 5/31  | 10	 | --     | M     |  **No Class**      | --       | --              | --           | 
-| 6/2   | 10	 | 29     | W     | Communication      | --       | --              | --           | 
-| 6/4   | 10	 | 30     | F     | Data Science Jobs  | **D9**| --          | **Q9**       |    
-
+| 9/24  | 0	   | 1      | F     | Welcome!           | --       | --              | --           |
+| 9/27  | 1	   | 2      | M     | Python Review      | --       | --              | --           |  
+| 9/29   | 1	   | 3      | W     | Version Control I  | --       | --              | --           |
+| 10/1   | 1    | 4      | F     | Version Control II | --       | --              | --           |
+| 10/4   | 2	   | 5      | M     | Data & Intuition   | --       | --              | --           |
+| 10/6   | 2	   | 6      | W     | Data Wrangling (`pandas`)  | --       | --              | --           |
+| 10/8  | 2	   | 7      | F     | Ethics             | **D1**   | **A1**; Group Project Survey*  | **Q1**       |
+| 10/11  | 3	   | 8      | M     | Data Science ?s    | --       | --              | --           |
+| 10/13  | 3	   | 9      | W     | Dataviz I          | --       | --              | --           | 
+| 10/15  | 3	   | 10      | F    | Intro to Analysis  | **D2**   | Project Review* | **Q2**       |
+| 10/18  | 4	   | 11     | M     | Descriptive Analysis| --       | --              | --           |
+| 10/20  | 4	   | 12     | W     | EDA                | --       | --              | --           | 
+| 10/22  | 4	   | 13     | F     | Inference I        | **D3**   | Project Proposal*  | **Q3**       |
+| 10/25  | 5	   | 14     | M     | Inference II       | --       | --              | --           |   
+| 10/27  | 5	   | 15     | W     | Inference III      | --       | --              | --           | 
+| 10/29   | 5	   | 16     | F     | Text Analysis I    | **D4**   | **A2**          | **Q4**       |
+| 11/1   | 6	   | 17     | M     | Text Analysis II   | --       | --              | --           |
+| 11/3   | 6	   | 18     | W     | Guest Lecture I    | --       | --              | --           | 
+| 11/5  | 6	   | 19     | F     | Machine Learning I | **D5**   | Checkpoint #1: Data* | **Q5**|
+| 11/8  | 7	   | 20     | M     | Machine Learning II| --       | --              | --           |
+| 11/10  | 7	   | 21     | W     | Text + ML          | --       | --              | --           | 
+| 11/12  | 7	   | 22     | F     | (Catch up day)     | **D6**   | **A3**          | **Q6**       |  
+| 11/15  | 8	   | 24     | M     | Nonparametric      | --       | --              | --           | 
+| 11/17  | 8	   | 25     | W     | Geospatial I      | --       | --              | --           | 
+| 11/19  | 8	   | 26     | F     | Geospatial II       | **D7**   | Checkpoint #2: EDA* | **Q7**   |
+| 11/22  | 9	   | 27     | M     | Dimensionality Reduction| --  | --              | --           |  
+| 11/24  | 9	   | 28     | W     | Guest Lecture II   | --       | --              | --           | 
+| 11/26  | 9	 | --     | F     |  **No Class**      | **D8**   | **A4**              | **Q8**       |
+| 11/29   | 10	 | 29     | M     | Communication      | --       | --              | --           | 
+| 12/1   | 10	 | 30     | W     |  How to be wrong | --       | --              | --           | 
+| 12/3   |  10   |   31  | F    |  Data Science Jobs  |  **D9**| --          | **Q9**       |    
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
 
 ---
@@ -286,8 +312,7 @@ You are encouraged to (and at times will have to) work together and help one ano
 
 Know that a third of the class typically feels overwhelmed at the start of the quarter. That said, the average is quite high in this course typically (A-). So, while we anticipate you all doing well in this course, if you are feeling lost or overwhelmed, that’s ok! Should that occur, we recommend: (1) asking questions in class, (2) attending office hours and/or (3) asking for help on Campuswire.
 
-
-Cheating and plagiarism have been and will be strongly penalized. If, for whatever reason, datahub is down or something else prohibits you from being able to turn in an assignment on time, immediately contact me by emailing your assignment by email ([sellis@ucsd.edu](mailto:sellis@ucsd.edu)), or else it will be graded as late.
+Cheating and plagiarism have been and will be strongly penalized. If, for whatever reason, datahub is down or something else prohibits you from being able to turn in an assignment on time, immediately contact me by emailing your assignment by email ([jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu)), or else it will be graded as late.
 
 ## Disability Access
 
@@ -296,6 +321,18 @@ Contacting the OSD can help you further:
 858.534.4382 (phone) 
 [osd@ucsd.edu](mailto:osd@ucsd.edu) (email) 
 http://disabilities.ucsd.edu
+
+## Difficult life situations
+
+Sometimes life outside of academia can be difficult. Please [email me](mailto:jfleischer@ucsd.edu] or [come to office hours]() if stuff outside the classroom prevents you from doing well inside it. I can often refer you on to the help you need.
+
+If you don't have the most essential resources required to thrive as a student, please contact [UCSD Basic Needs](https://basicneeds.ucsd.edu) who can help you access nutritious food and stable housing, and help you seek the means to reach financial wellness. 
+
+If you need emergency food, finances, and/or academic and social support you can also contact [UCSD Mutual Aid](https://mutualaiducsd.wordpress.com). They provide mentoring and aid that comes from volunteers among your peers.  If you don't need that kind of support, consider joining them in helping your fellow classmates who do.
+
+If you need counseling or if you are in a mental crisis you can contact [CAPS](https://caps.ucsd.edu). They provide psychiatric services, workshops, and counseling; they also operate a 24/7 crisis hotline at 858.534.3755
+
+
 
 ### Optional Readings:
 
@@ -329,8 +366,8 @@ That said, to ensure that we’re respecting their time, TAs and IAs have been i
 
 ### What should you call me?
 
-Most students call me Professor or Professor Fleischer or Dr. Fleischer. This is how I typically sign emails to students. I'm also OK with you addressing me as Jason, but not all professors are OK with that. I would prefer you *not* address me as Mr. Fleischer; if you're going to use an honorific please use the one that people expect in the situation.
+Most students call me Professor or Professor Fleischer or Dr. Fleischer. I'm also perfectly happy if you call me Jason, but not all professors are OK with that kind of informality. I would prefer you *not* address me as Mr. Fleischer; if you're going to use an honorific please use the one that people expect in the situation.
 
 ### What I should call you
 
-I should call you by your preferred name, with the correct pronunciation. Please correct me (either in the chat, out loud on zoom, or via email/Campuswire after the fact...however you're most comfortable) if I ever make a mistake.
+I should call you by your preferred name, with the correct pronunciation and any honorific or ponouns you choose. Please correct me (either in the chat, out loud on zoom, or via email/Campuswire after the fact...however you're most comfortable) if I ever make a mistake.
