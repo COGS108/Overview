@@ -123,18 +123,22 @@ Bonus points worth up to 6% of the final grade will be awarded for
 If >80% of the students fill out CAPE at the end of the quarter (1% of the final grade for everyone)
 
 Our grading scale is
-|----:|:-----------------:|
-| A+  | 97.0% and up      |
-| A.  | < 97.0% to 94.0%  |
-| A-  | < 94.0 % to 90.0% |
-| B+  | < 90.0 % to 87.0% |
-| B   | < 87.0 % to 84.0% | 
-| B-  | < 84.0 % to 80.0% |
-| C+  | < 80.0 % to 77.0% |
-| C   | < 77.0 % to 74.0% |
-| C-  | < 74.0 % to 70.0% |
-| D   | < 70.0 % to 60.0% |
-| F   | < 60.0 % |
+
+|    |                  |
+|:----|:-----------------|
+| A+  | $\ge$ 97%      |
+| A  | < 97% to 94%  |
+| A-  | < 94% to 90% |
+| B+  | < 90 % to 87% |
+| B   | < 87 % to 84% | 
+| B-  | < 84 % to 80% |
+| C+  | < 80 % to 77% |
+| C   | < 77 % to 74% |
+| C-  | < 74 % to 70% |
+| D   | < 70 % to 60% |
+| F   | < 60 % |
+
+
 
 
 Attendance and participation grades
