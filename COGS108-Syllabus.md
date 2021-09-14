@@ -139,22 +139,9 @@ Our grading scale is
 | F   | < 60 % |
 
 
-
-
-Attendance and participation grades
-Our goal is to make the lecture and discussion section worth your while to attend. But no one will be forced to, there is a pandemic and many extenuating circumstances. 
-
-
-
-
-
-
-Your final letter grade will be determined using the [standard grading scale](https://pages.stolaf.edu/dietz/typical-grading-scale/). Grades are not rounded up.
-
-
 ### Attendance
 
-Given the unique situation of this quarter, lecture and discussion section attendance will be neither required nor incentivized. We do not want to negatively impact the learning (or grades) of students in different timezones.
+I continue to believe that attending in-person is the best way to learn for most but not all people. Our goal is to make the lecture and discussion section worth your while to attend. But no one will be forced to, there is a pandemic and many extenuating circumstances. You're adults, you will know what fits your constraints and needs.
 
 ---
 
