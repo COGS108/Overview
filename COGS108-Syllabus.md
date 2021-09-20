@@ -1,10 +1,10 @@
 
-# PRELIMINARY SYLLABUS! SUBJECT TO CHANGE BEFORE QUARTER BEGINS!!
+# PRELIMINARY SYLLABUS! SUBJECT TO CHANGE!!
 # COGS 108: Data Science in Practice
 
 **Fall 2021**  
 **MWF 10-10:50am**
-**Galbraith Hall 242**
+**GA Auditorium,  North Torrey Pines Living Learning Neighborhood/New Sixth College**
 ---
 
 **Table of Contents**
@@ -41,10 +41,10 @@ In this course, you will try many methods. Every so often, you’ll even be aske
 | Role           | Name          					 | Section          | Office Hours |  Contact   |   
 | -------------: |:--------------------|:-----------------|:-------------|:-------------|
 | Instructor     | Jason Fleischer     |   none           | [sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUFzQ2RXR3dOVnZwfGRlZmF1bHR8Nzg4NGE1Yzc1NmM0NGJlNzUyZmNjMzgxNGUzYWQ1NzM)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
-| TA 	           | Tyler Akira Chang   |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
-| TA             | David Liau |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
-| TA	            | TBA       |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
-| TA 	           | TBA                 |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
+| TA 	           | Tyler Chang  |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
+| TA             | Mia Lucio    |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
+| TA	            | Pooja Pathak |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
+| TA 	           | Areeb Syed   |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
 | IA	            | Harrison Ma         |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
 | IA	            | Jiayi Zhao          |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
 | IA	            | Scott Yang          |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
@@ -140,9 +140,11 @@ I continue to believe that attending in-person is the best way to learn for most
 
 Lectures are MWF 10am - 10:50am.
 
-Monday and Wednesday will be in person lectures in Galbraith Hall 242; **A negative symptom check from that day and a properly worn mask of the correct type are required to attend!** For more information please see [Return to Learn requirements for on-campus activities](https://returntolearn.ucsd.edu/return-to-campus/campus-repopulation/index.html). In-person lectures will be broadcast simultaneously [on this Zoom link](https://ucsd.zoom.us/j/96392914170?pwd=cG5VQm94Zkh4T3JWTmJld2xzRzBRQT09) If for some reason that link doesn't work, the Meeting ID is 963 9291 4170 and the password is cogs108.
+Lectures will be offered as a hybrid class: they will be both in-person and available online.  At some point in the quarter we may switch to Friday being online only; I will make multiple clear announcements if/when that happens.
 
-Friday lecture will be **Zoom only** in order to reduce our exposure to each other's germs. Do not go to Galbraith Hall on Fridays.
+For in-person lectures **a negative symptom check from that day and a properly worn mask of the correct type are required to attend!** For more information please see [Return to Learn requirements for on-campus activities](https://returntolearn.ucsd.edu/return-to-campus/campus-repopulation/index.html). 
+
+In-person lectures will be broadcast simultaneously [on this Zoom link](https://ucsd.zoom.us/j/96392914170?pwd=cG5VQm94Zkh4T3JWTmJld2xzRzBRQT09) If for some reason that link doesn't work, the Meeting ID is 963 9291 4170 and the password is cogs108.
 
 Eevery lecture will also be recorded and shared so that students who are not able to or choose not to watch during the scheduled class time are still able to receive and digest all class materials. Lecture recordings will be available on Canvas in the Media Gallery no later than 5PM the day the live lecture is delivered.
 
