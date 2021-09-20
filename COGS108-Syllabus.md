@@ -4,7 +4,7 @@
 
 **Fall 2021**  
 **MWF 10-10:50am**  
-**GA Auditorium, NTPLL - New Sixth College **
+**GA Auditorium, North Torrey Pines Living+Learning Neighborhood**
 ---
 
 **Table of Contents**
