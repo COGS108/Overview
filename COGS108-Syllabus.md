@@ -53,7 +53,7 @@ In this course, you will try many methods. Every so often, you’ll even be aske
 
 Course GitHub: https://github.com/COGS108  
 
-Course Campuswire*: https://campuswire.com/c/GB34A4489
+Course Campuswire*: https://campuswire.com/c/GB34A4489 enter the code 9916 to join
 
 Course Canvas: https://canvas.ucsd.edu/courses/29492 
 
