@@ -3,8 +3,8 @@
 # COGS 108: Data Science in Practice
 
 **Fall 2021**  
-**MWF 10-10:50am**
-**GA Auditorium,  North Torrey Pines Living Learning Neighborhood/New Sixth College**
+**MWF 10-10:50am**  
+**GA Auditorium, NTPLL - New Sixth College **
 ---
 
 **Table of Contents**
@@ -138,15 +138,19 @@ I continue to believe that attending in-person is the best way to learn for most
 
 # LECTURE
 
-Lectures are MWF 10am - 10:50am.
+Lectures are MWF 10am - 10:50am. The GA Auditorium is located on the SE corner of the North Torrey Pines Living + Learning Neighborhood. It's just to the west of Peterson Hall, and just north of AP&M.
 
-Lectures will be offered as a hybrid class: they will be both in-person and available online.  At some point in the quarter we may switch to Friday being online only; I will make multiple clear announcements if/when that happens.
+Lectures will be offered as a hybrid class: they will be in-person, available synchronously online via zoom, and recorded for your later viewing. At some point in the quarter we may switch to Friday being online only; I will make multiple clear announcements if/when that happens.
+
+THERE IS NO REQUIREMENT THAT YOU COME TO IN-PERSON LECTURE. There is no component of your grade that is based on attendence or live participation. DO NOT COME TO IN-PERSON CLASS IF YOU FEEL SNIFFLY OR SICK!!!  I really don't want our very large lecture hall to become a super-spreader event for any illnesses.
 
 For in-person lectures **a negative symptom check from that day and a properly worn mask of the correct type are required to attend!** For more information please see [Return to Learn requirements for on-campus activities](https://returntolearn.ucsd.edu/return-to-campus/campus-repopulation/index.html). 
 
+Those concerns aside, don't let me scare you away from coming to lecture in-person: it is the most engaging way you can absorb the material and it gives you the best opportunity to be an active participant. Students who actively engage in the learning process do better than those who passively absorb material given to them. I hope that my strict illness policies encourage students who wish to attend in-person to do so.
+
 In-person lectures will be broadcast simultaneously [on this Zoom link](https://ucsd.zoom.us/j/96392914170?pwd=cG5VQm94Zkh4T3JWTmJld2xzRzBRQT09) If for some reason that link doesn't work, the Meeting ID is 963 9291 4170 and the password is cogs108.
 
-Eevery lecture will also be recorded and shared so that students who are not able to or choose not to watch during the scheduled class time are still able to receive and digest all class materials. Lecture recordings will be available on Canvas in the Media Gallery no later than 5PM the day the live lecture is delivered.
+Eevery lecture will also be recorded and shared so that students who are not able to or choose not to watch during the scheduled class time are still able to receive and digest all class materials. Lecture recordings will be available on podcast.ucsd.edu Canvas in the Media Gallery no later than 5PM the day the live lecture is delivered.
 
 ### Lecture Quizzes
 
