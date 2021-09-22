@@ -45,7 +45,7 @@ In this course, you will try many methods. Every so often, you’ll even be aske
 | TA             | Mia Lucio    |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
 | TA	            | Pooja Pathak |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
 | TA 	           | Areeb Syed   |   A01-A02 (remote)| WED 12-2 PM/By appointment (remote)| aas050@ucsd.edu|
-| IA	            | Harrison Ma         |   none    | TUE 2-3 PM/By appointment (remote)  | [q5ma@ucsd.edu](mailto:q5ma@ucsd.edu)   |
+| IA	            | Harrison Ma         |   none    | TUE 3-4 PM/By appointment (remote)  | [q5ma@ucsd.edu](mailto:q5ma@ucsd.edu)   |
 | IA	            | Jiayi Zhao          |   none    | WED 4-5 PM/By appointment (remote)  | j4zhao@ucsd.edu   |
 | IA	            | Scott Yang          |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
 | IA	            | Richard Duong       |   none    | TBD/By appointment (remote)  | riduong@ucsd.edu  |
