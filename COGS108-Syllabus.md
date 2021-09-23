@@ -48,7 +48,7 @@ In this course, you will try many methods. Every so often, you’ll even be aske
 | IA	            | Harrison Ma         |   none    | TUE 3-4 PM/By appointment (remote)  | [q5ma@ucsd.edu](mailto:q5ma@ucsd.edu)   |
 | IA	            | Jiayi Zhao          |   none    | WED 4-5 PM/By appointment (remote)  | j4zhao@ucsd.edu   |
 | IA	            | Scott Yang          |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
-| IA	            | Richard Duong       |   none    | WED 2-3 PM/By appointment (remote)  | riduong@ucsd.edu  |
+| IA	            | Richard Duong       |   none    | [WED 2-3 PM](https://ucsd.zoom.us/j/91974280778)/By appointment (remote)  | riduong@ucsd.edu  |
 
 
 Course GitHub: https://github.com/COGS108  
