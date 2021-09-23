@@ -41,7 +41,7 @@ In this course, you will try many methods. Every so often, you’ll even be aske
 | Role           | Name          					 | Section          | Office Hours |  Contact   |   
 | -------------: |:--------------------|:-----------------|:-------------|:-------------|
 | Instructor     | Jason Fleischer     |   none           | [sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUFzQ2RXR3dOVnZwfGRlZmF1bHR8Nzg4NGE1Yzc1NmM0NGJlNzUyZmNjMzgxNGUzYWQ1NzM)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
-| TA 	           | Tyler Chang  | A03-A04 (remote) | TUE 11am-1pm/By appointment (remote) | [tachang@ucsd.edu](mailto:tachang@ucsd.edu) |
+| TA 	           | Tyler Chang  | [A03-A04](https://ucsd.zoom.us/j/97391316997) (remote) | [TUE 11am-1pm](https://ucsd.zoom.us/j/97275415103)/By appointment (remote) | [tachang@ucsd.edu](mailto:tachang@ucsd.edu) |
 | TA             | Mia Lucio    |   [A06](https://ucsd.zoom.us/j/93547432501)-[A07](https://ucsd.zoom.us/j/99899666198) (remote)   | [THUR 11am-1pm](https://ucsd.zoom.us/j/98399792317) / [By appointment](https://forms.gle/KA6DXN5a8Qmo7sqEA) (remote)  | [mlucio@ucsd.edu](mailto:mlucio@ucsd.edu)   |
 | TA	            | Pooja Pathak |  A03 (remote)    | TUE 12pm-2pm/By appointment (remote)  | [pmpathak@ucsd.edu](mailto:pmpathak@ucsd.edu)   |
 | TA 	           | Areeb Syed   |   A01-A02 (remote)| WED 12-2 PM/By appointment (remote)| aas050@ucsd.edu|
