@@ -47,7 +47,7 @@ In this course, you will try many methods. Every so often, you’ll even be aske
 | TA 	           | Areeb Syed   |   A01-A02 (remote)| WED 12-2 PM/By appointment (remote)| aas050@ucsd.edu|
 | IA	            | Harrison Ma         |   none    | [TUE 3-4 PM](https://ucsd.zoom.us/j/95633517789)/By appointment (remote)  | [q5ma@ucsd.edu](mailto:q5ma@ucsd.edu)   |
 | IA	            | Jiayi Zhao          |   none    | WED 4-5 PM/By appointment (remote)  | j4zhao@ucsd.edu   |
-| IA	            | Scott Yang          |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
+| IA	            | Scott Yang          |   none   | MON 6-7 PM / By appointment (remote)  | yuy004@ucsd.edu   |
 | IA	            | Richard Duong       |   none    | [WED 2-3 PM](https://ucsd.zoom.us/j/91974280778)/By appointment (remote)  | riduong@ucsd.edu  |
 
 
