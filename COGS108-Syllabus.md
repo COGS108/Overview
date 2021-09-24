@@ -160,22 +160,27 @@ There will be a short quiz that must be submitted each Friday on Canvas. Each Fr
 
 # DISCUSSION SECTION
 
-There will be no discussion section Monday of week 1. Wednesday and Friday of week 1 will be for finding group mates. Regular Discussion Sections will begin Monday of week 2.
+Discussion sections are starting out completely remote on Zoom. See the table above and Canvas calendar for the correct links.  We may at some future date move to in-person in some sections based on changing situations. 
 
-### Technical Discussion Sections (Labs)
+Sections are all on Monday.  For Sept 27 (week 1) discussion section will be for finding group mates. Regular Discussion Sections will begin Monday of week 2.
 
-One section each week will focus on technical content: **Mon at 10 AM**. This will be recorded each week for students who cannot attend live.
+### Discussion section lab exercises
 
-These will be used to review material from lecture by getting hands-on programming experience. Each week there will be a short, guided lab to be completed in discussion section. These labs will be released each Friday and students will have a week to complete them. These will focus on the technical course content. Students who are less comfortable with the technical aspects of the course are encouraged to attend discussion section live (or watch the video recording).
+Each week (starting week 2) there will be a short, guided lab exercise to review material from lecture and give hands-on programming experience.  These lab exercises will be released each Monday and students will have a week to complete them. To complete the lab exercise, you do NOT need to physically show up to discussion section. There will be 9 discussion lab exercises. Each is worth 2 points. The lowest discussion lab score will be dropped. There are no late submissions for discussion labs.
 
-Discussion section labs are graded for completion/effort (rather than correctness). To complete the lab, you do NOT need to physically show up to discussion section. There will be 9 discussion labs. Each is worth 2 points. The lowest discussion lab score will be dropped. There are no late submissions for discussion labs.
 
-During section, you will be given tips for working in Python, guided through Jupyter notebooks to clarify topics presented in class, and will be given time to get additional practice and work on the assigned lab. There will be information covered in section that are not covered in lecture and that will be needed (or at least very helpful) for the assignments. 
+### Technical discussion sections
+Each week one of the six sections will be a technical session, focussed on the discussion lab exercises.  The technical section will rotate; Week 2 it will be A01, Week 3 it will be A02, etc.. The technical section will be recorded so that students who couldn't attend can watch later.
+
+If you cannot attend a given technical section you can still ask your question on Campuswire using the category "Discussion section - technical".   If you ask your question BEFORE the section the TA will try to answer on the recorded video as well as online. 
+
+Students who are less comfortable with the programming and other technical aspects of the course are encouraged to attend each weeks technical discussion section live or watch the video recording.
+
+During technical section, you will be given tips for working in Python, guided through Jupyter notebooks to clarify topics presented in class, and will be given time to get additional practice and work on the assigned lab. There may be information covered in section that is not covered in lecture.
 
 ### Project-Focused Discussion Sections
 
-All other discussion sections will be project-focused. Each project group will be assigned a TA. This will be each group's go-to person for project-related questions and discussion section will be the place for those questions, as this person will know you, your group, and your project best. This person will also be the person grading your project throughout the quarter. 
-
+All other discussion sections in a week will be project-focused. Each project group will be assigned a TA. This will be each group's go-to person for project-related questions and discussion section will be the place for those questions, as this person will know you, your group, and your project best. This person will also be the person grading your project throughout the quarter. 
 ---
 
 # ASSIGNMENTS
