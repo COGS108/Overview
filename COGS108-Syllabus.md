@@ -45,7 +45,7 @@ In this course, you will try many methods. Every so often, you’ll even be aske
 | TA             | Mia Lucio    |   [A06](https://ucsd.zoom.us/j/93547432501)-[A07](https://ucsd.zoom.us/j/99899666198) (remote)   | [THUR 11am-1pm](https://ucsd.zoom.us/j/98399792317) / [By appointment](https://forms.gle/KA6DXN5a8Qmo7sqEA) (remote)  | [mlucio@ucsd.edu](mailto:mlucio@ucsd.edu)   |
 | TA	            | Pooja Pathak |  [A03](https://ucsd.zoom.us/j/96285654809) (remote)    | [TUE 12pm-2pm](https://ucsd.zoom.us/j/91534135447)/By appointment (remote)  | [pmpathak@ucsd.edu](mailto:pmpathak@ucsd.edu)   |
 | TA 	           | Areeb Syed   |   A01-A02 (remote)| WED 12-2 PM/By appointment (remote)| aas050@ucsd.edu|
-| IA	            | Harrison Ma         |   none    | TUE 3-4 PM/By appointment (remote)  | [q5ma@ucsd.edu](mailto:q5ma@ucsd.edu)   |
+| IA	            | Harrison Ma         |   none    | [TUE 3-4 PM](https://ucsd.zoom.us/j/95633517789)/By appointment (remote)  | [q5ma@ucsd.edu](mailto:q5ma@ucsd.edu)   |
 | IA	            | Jiayi Zhao          |   none    | WED 4-5 PM/By appointment (remote)  | j4zhao@ucsd.edu   |
 | IA	            | Scott Yang          |   PLS FILL IN    | PLS FILL IN  | PLS FILL IN   |
 | IA	            | Richard Duong       |   none    | [WED 2-3 PM](https://ucsd.zoom.us/j/91974280778)/By appointment (remote)  | riduong@ucsd.edu  |
