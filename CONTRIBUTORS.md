@@ -7,6 +7,7 @@ The following people have contributed to this organization / class:
 ### Faculty
 - Prof. Shannon Ellis (Sp19, Wi19, Sp20, Fa20)
 - Prof. Bradley Voytek (Sp17, Wi18)
+- Prof. Jason Fleischer (Fa21)
 
 ### Teaching Assistants
 - Akshansh Chalal (Wi19, Sp19, Fa19)
