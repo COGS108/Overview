@@ -166,7 +166,7 @@ Sections are all on Monday.  For Sept 27 (week 1) discussion section will be for
 
 ### Discussion section lab exercises
 
-Each week (starting week 2) there will be a short, guided lab exercise to review material from lecture and give hands-on programming experience.  These lab exercises will be released each Monday and students will have a week to complete them. To complete the lab exercise, you do NOT need to physically show up to discussion section. There will be 9 discussion lab exercises. Each is worth 2 points. The lowest discussion lab score will be dropped. There are no late submissions for discussion labs.
+Each week (starting week 2) there will be a short, guided lab exercise to review material from lecture and give hands-on programming experience.  These lab exercises will be released on the Friday BEFORE the corresponding lab section. Students will have a week to complete them, so they are due the Friday AFTER the corresponding lab section. To complete the lab exercise, you do NOT need to physically show up to discussion section. There will be 9 discussion lab exercises. Each is worth 2 points. The lowest discussion lab score will be dropped. There are no late submissions for discussion labs.
 
 
 ### Technical discussion sections
