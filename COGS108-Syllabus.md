@@ -276,7 +276,8 @@ Starting week 4, there will be an *optional* weekly survey to be completed indiv
 | 11/19  | 8	   | 26     | F     | Geospatial II       | **D7**   | Checkpoint #2: EDA* | **Q7**   |
 | 11/22  | 9	   | 27     | M     | Dimensionality Reduction| --  | --              | --           |  
 | 11/24  | 9	   | 28     | W     | Guest Lecture II   | --       | --              | --           |
-| 11/26  | 9	 | --     | F     |  **No Class**      | **D8**   | **A4**              | **Q8**       |
+| 11/26  | 9	 | --     | F     |  **No Class**      | --   | --             |--       |
+| 11/28  | 9	 | --     | Sun     |  **No Class**      | **D8**   | **A4**              | **Q8**       |
 | 11/29   | 10	 | 29     | M     | Communication      | --       | --              | --           |
 | 12/1   | 10	 | 30     | W     |  How to be wrong | --       | --              | --           |
 | 12/3   |  10   |   31  | F    |  Data Science Jobs  |  **D9**| --          | **Q9**       |    
