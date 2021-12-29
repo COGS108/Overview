@@ -4,8 +4,8 @@
 
 **Winter 2021**  
 **MWF 2-2:50pm**  
-**Jan 3 - Jan 14: Zoom only**  
-**Jan 17 - Mar 11: Zoom or in-person at GA (The Jeanie) Auditorium, North Torrey Pines Living+Learning Neighborhood**
+**Jan 3 - Jan 17: Zoom only**  
+**Jan 19 - Mar 11: Zoom or in-person at The Jeannie Auditorium (GAA), New Sixth College**
 ---
 
 **Table of Contents**
@@ -26,16 +26,15 @@
 
 # COURSE OVERVIEW
 
-This class is a hands-on practical, technical, and applied data science course intended to get you experience working on data science projects. In COGS 9 (Introduction to Data Science) you learned why data and data science are important. This class goes beyond appreciation for what can be done to actually *doing it*. Often the best way to learn something is to do it yourself. Often, this process will involve attempting to do something, doing it wrong, learning from your mistakes, and then succeeding. That’s part of the data science process. This course is all about the *practice* of data science.
+This hands-on, practical course is intended to get you experience working on data science projects. This class goes beyond the appreciation for data and data science you (may have) learned in COGS 9 by *doing* the same things we talked about theoretically in that introductory course. Doing is rarely so simple. You will likely attempt to do something, do it wrong, learn from your mistakes, and with a bit of luck and skill, eventually succeed. That’s just part of the scientific process, and data science is no exception. This course is all about the *practice* of data science.
 
-In focusing on the application, there is theory that won’t be discussed and mathematical proofs that won’t be done. That is by design. In particular:
+In focusing on the practice, there is theory that won’t be discussed and mathematical proofs that won’t be done. That is by design. In particular:
 
 1. There are entire courses dedicated to each of the topics we’ll cover. To have time to do anything, we can’t teach all the details in a single course.
 2. Experts in each of these domains are out there and excited to teach you the nitty gritty about each topic.
 3. We’re promoting data literacy. We believe that everyone who is data literate is at an advantage as they go out into the modern world. Data literacy is not limited to those who are computational gurus or math prodigies. You do not have to be either of those to excel at this course.
 
-In this course, you will try many methods. Every so often, you’ll even be asked to implement a technique that has not been explicitly taught. Again, this is by design. As a data scientist, you’ll regularly be asked to step outside of your comfort zone and into something new. Our goal is to get you as comfortable as possible in that space now. We want to provide you with a technical and a data science mindset that will allow you to ask the right questions for the problem at hand and set off alarm bells when something in your dataset or analysis is “off.”
-
+In this course, you will try many methods. You’ll even be asked to implement a technique that has not been explicitly taught. Again, this is by design. As a data scientist, you’ll regularly be asked to step outside of your comfort zone and into something new. Our goal is to get you as comfortable as possible in that space now. We want to provide you with a technical and a data science mindset that will allow you to ask the right questions for the problem at hand and set off alarm bells when something in your dataset or analysis is “off.”
 
 # COURSE STAFF
 
@@ -51,8 +50,6 @@ In this course, you will try many methods. Every so often, you’ll even be aske
 | IA	         |  Wenbo Hu           |   |  |   |
 | IA           |  Pavithra Pandian   |   |  |   |
 | IA           |  Luning Yang        |   |  |   |
-
-
 
 
 Course GitHub: https://github.com/COGS108  
@@ -82,11 +79,22 @@ Anonymous Course Feedback: [Fill out this form](https://forms.gle/rcMnXxo3VzoVwb
 - There is no textbook
 - All materials will be provided on GitHub/datahub
 - iclickers will NOT be used this quarter
-
-# CLASS TECHNOLOGY
-- Python (>= 3.7; we suggest getting the Anaconda distribution)
-- Jupyter Notebooks
+- Python (>= 3.7) and Jupyter Notebooks.  You may fulfill this by any of the following
+  - Datahub
+  - A local copy on your own computer (we recommend the Anaconda distribution)
+  - Cloud services such as Google Colab, Microsoft Azure, etc. These all have a free tier or free hours before billing.  
 - git and GitHub (option to use a GUI such as SourceTree, GitHub Desktop, etc)
+
+
+### Optional Readings:
+
+There are no required readings for this course; however, if you’re interested in learning more and reading about data science topics, we recommend the following texts as supplementary to the main elements of the course:
+
+- Grus J (2019, 2nd ed) Data Science from Scratch. This book takes you into HOWs and WHYs, rather than just learning to use a library you don't really understand.  This is the harder book, but you will grow tremendously working though it.
+- Vanderplas, J (2018) [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook). Short and too the point. Both the text and the code are freely available on Github. Learn to use standard libraries to get things done.
+
+We also maintain [a list of readings that can provide insight into various data science topics](https://github.com/COGS108/Readings).
+
 
 ---
 
@@ -111,11 +119,12 @@ Anonymous Course Feedback: [Fill out this form](https://forms.gle/rcMnXxo3VzoVwb
 
 All grades will be released on Canvas. It is *your responsibility to check that your assignment was submitted, that your grade is accurate, and to get in touch if any are missing and/or you think there is a problem*.
 
-Bonus points worth up to 2% of the final grade will be awarded for
+Extra credit worth up to 2% of the final grade will be awarded for
 - Exceptional participation on Piazza: Roughly the top 3% of contributors will get 0.5% bonus to their final grade.  Starting/participating in good discussions, organizing things, answering questions, etc.   
-- Exceptional participation in lecture, guest lecture, or discussion section: Roughly the top 3% of contributors will get 0.5% bonus to their final grade.  Thoughtful questions, participating in discussions, etc.
-- Answering the pre & post course surveys (0.5% of the final grade for doing both)
-- If >75% of the students fill out CAPE at the end of the quarter (0.5% of the final grade for everyone)
+- Answering the pre & post course surveys will give 0.5% extra credit (0.25% each)
+- Attending both guest lectures either in-person or on Zoom is 0.25% extra credit  
+- Submitting at least one question to the queue for at least one of the guest lectures is 0.25% extra credit
+- If >75% of the students fill out CAPE at the end of the quarter there will be an extra 0.5% of the final grade for everyone
 
 Our grading scale is
 
@@ -136,31 +145,31 @@ Our grading scale is
 
 ### Attendance
 
-I continue to believe that attending in-person is the best way to learn for most but not all people. Our goal is to make the lecture and discussion section worth your while to attend. But no one will be forced to, there is a pandemic and many extenuating circumstances. You're adults, you will know what fits your constraints and needs.
+I continue to believe that attending in-person is the best way to learn for most people. Our goal is to make the lecture and discussion section worth your while to attend. But no one will be forced to, there is a pandemic and many extenuating circumstances. You're adults, you will know what fits your constraints and needs.
 
-I will note that I weight lecture
+The only exception is for the two planned guest lectures. If the situation permits live lectures, we will strongly encourage you to attend in-person so that we may show respect to our guests.  
+
+That said, there is no component of your grade that is based on attendance or live participation. DO NOT COME TO IN-PERSON CLASS IF YOU FEEL SNIFFLY OR SICK!!!  I really don't want our very large lecture hall to become a super-spreader event for any illnesses.
 
 ---
 
 # LECTURE
 
-Lectures are MWF 2-2:50pm. For the 1st two weeks we (and all of UCSD) will be remote only, operating on Zoom. Starting Jan 17th The GA Auditorium (Jeanie) is located on the SE corner of the North Torrey Pines Living + Learning Neighborhood. It's just to the west of Peterson Hall, and just north of AP&M.
+Lectures are MWF 2-2:50pm. For the 1st two weeks we (and all of UCSD) will be remote only, operating on Zoom. Starting Wed Jan 19th lecture will be in The Jeannie (GAA) Auditorium. It is part of New Sixth College, located on the SE corner of the North Torrey Pines Living + Learning Neighborhood, just to the west of Peterson Hall, and just north of AP&M.
 
-Lectures will be offered as a hybrid class: they will be in-person, available synchronously online via zoom, and recorded for your later viewing.
-
-THERE IS NO REQUIREMENT THAT YOU COME TO IN-PERSON LECTURE. There is no component of your grade that is based on attendence or live participation. DO NOT COME TO IN-PERSON CLASS IF YOU FEEL SNIFFLY OR SICK!!!  I really don't want our very large lecture hall to become a super-spreader event for any illnesses.
+In-person lectures will be offered as a hybrid class: they will be in-person, available synchronously online via Zoom, and recorded for your later viewing. Those on Zoom will be able to ask questions but may not be able to participate in some useful class exercises.
 
 For in-person lectures **a negative symptom check from that day and a properly worn mask of the correct type are required to attend!** For more information please see [Return to Learn requirements for on-campus activities](https://returntolearn.ucsd.edu/return-to-campus/campus-repopulation/index.html).
 
 Those concerns aside, don't let me scare you away from coming to lecture in-person: it is the most engaging way you can absorb the material and it gives you the best opportunity to be an active participant. Students who actively engage in the learning process do better than those who passively absorb material given to them. I hope that my strict illness policies encourage students who wish to attend in-person to do so.
 
-In-person lectures will be broadcast simultaneously [on this Zoom link](https://ucsd.zoom.us/j/98940282726?pwd=MUhOaXhTemJaZ3hINlNTdlhsbVVMUT09) If for some reason that link doesn't work, the Meeting ID is 989 4028 2726 and the password is cogs108.
+In-person lectures will be broadcast simultaneously [on this Zoom link](https://ucsd.zoom.us/j/98940282726?pwd=MUhOaXhTemJaZ3hINlNTdlhsbVVMUT09) If for some reason that link doesn't work, the Meeting ID is 989 4028 2726 and the password is cogs108. You can also use our Canvas page to start Zoom with the proper link.
 
 Every lecture will also be recorded and shared so that students who are not able to or choose not to watch during the scheduled class time are still able to receive and digest all class materials. Lecture recordings will be available on podcast.ucsd.edu Canvas in the Media Gallery no later than 5PM the day the live lecture is delivered.
 
 ### Lecture Quizzes
 
-There will be a short quiz that must be submitted each Friday on Canvas. Each Friday, a quiz with ~10 questions will be released, covering the material from lecture that week. The quiz will be due the following Friday. (For example, the first quiz will be released Friday of week 1, covering week 1 material, and will be due the Friday at 11:59 PM of week 2). Each question is worth ~0.1 points and you will have a single, timed (15 min) attempt to complete. There are no late extensions on quizzes, but your lowest quiz score will be dropped.
+At the end of each Friday, a quiz with ~10 questions will be released, covering the material from lecture that week. The quiz will be due the following Friday. For example, the first quiz will be released Friday of week 1, covering week 1 material, and will be due the Friday at 11:59 PM of week 2. Each question is worth ~0.1 points and you will have a single, timed (15 min) attempt to complete. There are no late extensions on quizzes, but your lowest quiz score will be dropped.
 
 **** maybe switch due date on quiz to monday?
 
@@ -170,7 +179,7 @@ There will be a short quiz that must be submitted each Friday on Canvas. Each Fr
 
 Discussion sections are starting out completely remote on Zoom. See the table above and Canvas calendar for the correct links.  At this point we plan to transition discussion sections to in-person on Jan 14.  We will keep you up to date on any changes.
 
-Week 1 discussion sections will be for finding group mates for the project. Regular Discussion Sections will begin Monday of week 2.
+Week 1 discussion sections will be for finding group mates for the project. Regular discussion sections will begin Monday of week 2.
 
 | Section |  Date/Time | Location|
 |:--------|:-----------|:----------|
@@ -273,31 +282,31 @@ Starting week 3, there will be an *optional* weekly survey to be completed indiv
 | 1/07  | 1	   | F     | Version Control I          | --       | --              | --           |
 | 1/10  | 2    | M     | Version Control II         | --       | --              | --           |
 | 1/12  | 2	   | W     | Data & Intuition           | --       | --              | --           |
-| 1/14  | 2	   | F     | Data Wrangling (`pandas`)  | **D1**   | **A1**; Project Survey* | **Q1** |
+| 1/14  | 2	   | F     | Data Wrangling (`pandas`)  | D1       | A1; Project Survey* |   Q1     |
 | 1/17  | 3	   | M     | **No Class - MLK day**     | --       | --              | --           |
 | 1/19  | 3	   | W     | Ethics                     | --       | --              | --           |
-| 1/21  | 3	   | F     | Data Science ?s            | **D2**   | Project Review* | **Q2**       |
+| 1/21  | 3	   | F     | Data Science ?s            | D2       | Project Review* | Q2           |
 | 1/24  | 4	   | M     | Dataviz I                  | --       | --              | --           |
 | 1/26  | 4	   | W     | Intro to Analysis          | --       | --              | --           |
-| 1/28  | 4	   | F     | Descriptive Analysis       | **D3**   | Project Proposal* | **Q3**     |
+| 1/28  | 4	   | F     | Descriptive Analysis       | D3       | Project Proposal* | Q3         |
 | 1/31  | 5	   | M     | EDA                        | --       | --              | --           |
 | 2/02  | 5	   | W     | Inference I                | --       | --              | --           |   
-| 2/04  | 5	   | F     | Inference II               | **D4**   | **A2**          | **Q4**       |
+| 2/04  | 5	   | F     | Inference II               | D4       | A2              | Q4           |
 | 2/07  | 6	   | M     | Inference III              | --       | --              | --           |
 | 2/09  | 6	   | W     | Text Analysis I            | --       | --              | --           |
-| 2/11  | 6	   | F     | Text Analysis II           | **D5**   | Checkpoint #1: Data* | **Q5**  |
+| 2/11  | 6	   | F     | Text Analysis II           |   D5     | Checkpoint #1: Data* | Q5      |
 | 2/14  | 7	   | M     | Machine Learning I         | --       | --              | --           |
 | 2/16  | 7	   | W     | Machine Learning II        | --       | --              | --           |
-| 2/18  | 7	   | F     | Text + ML                  | **D6**   | **A3**          | **Q6**       |
-| 2/21  | 8	   | M     | **No Class - President's day ** | --  | --              | --           |  
+| 2/18  | 7	   | F     | Text + ML                  |   D6     | **A3**          | Q6           |
+| 2/21  | 8	   | M     | **No Class - President's day** | --   | --              | --           |  
 | 2/23  | 8	   | W     | Nonparametric              | --       | --              | --           |
-| 2/25  | 8	   | F     | Geospatial I               | **D7**   | Checkpoint #2: EDA* | **Q7**   |
+| 2/25  | 8	   | F     | Geospatial I               |   D7     | Checkpoint #2: EDA* |   Q7     |
 | 2/28  | 9	   | M     | Geospatial II              | --       | --              | --           |
 | 3/02  | 9	   | W     | Dimensionality Reduction   | --       | --              | --           |
-| 3/04  | 9	   | F     | How to be wrong            | **D8**   | **A4**          | **Q8**       |
+| 3/04  | 9	   | F     | How to be wrong            |   D8     | **A4**          |   Q8         |
 | 3/07  | 10	 | M     | Guest lecture I            | --       | --              | --           |
 | 3/09  | 10	 | W     | Guest lecture II           | --       | --              | --           |
-| 3/11  | 10	 | F     | Data science jobs          |  **D9**  | --              | **Q9**       |
+| 3/11  | 10	 | F     | Data science jobs          |    D9    | --              |   Q9         |
 | 3/14  | Finals | M   | --  | Final project*, video*, team eval survey | -- |
 
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
@@ -345,16 +354,6 @@ If you need emergency food, finances, and/or academic and social support you can
 
 If you need counseling or if you are in a mental crisis you can contact [CAPS](https://caps.ucsd.edu). They provide psychiatric services, workshops, and counseling; they also operate a 24/7 crisis hotline at 858.534.3755
 
-
-
-### Optional Readings:
-
-There are no required readings for this course; however, if you’re interested in learning more and reading about data science topics, we recommend the following texts as supplementary to the main elements of the course:
-
-- Grus J (2019, 2nd ed) Data Science from Scratch. Make sure it's the 2nd edition. This book takes you into HOWs and WHYs, rather than just learning to use a library you don't really understand.  This is the harder book, but you will grow tremendously working though it.
-- Vanderplas, J (2018) [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook). Short and too the point. Code on Github. Learn to use standard libraries to get things done.
-
-We also maintain [a list of readings that can provide insight into various data science topics](https://github.com/COGS108/Readings).
 
 
 ### How to Get Your Question(s) Answered and/or Provide Feedback
