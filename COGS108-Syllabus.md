@@ -54,13 +54,13 @@ In this course, you will try many methods. You’ll even be asked to implement a
 
 Course GitHub: https://github.com/COGS108  
 
-Course Piazza*: ****
+Course Piazza*: https://piazza.com/ucsd/winter2022/cogs108
 
-Course Canvas: https://canvas.ucsd.edu/courses/29492  ****
+Course Canvas: https://canvas.ucsd.edu/courses/32573
 
 Assignment Submission: https://datahub.ucsd.edu  
 
-Anonymous Course Feedback: [Fill out this form](https://forms.gle/rcMnXxo3VzoVwbRcA)    ****
+Anonymous Course Feedback: [Fill out this form](https://forms.gle/RkNrZtRz8nDaEq8d7)
 
 *You will be able to post anonymously on Piazza; however, you will only be anonymous to your classmates. Your Instructor and TAs will be able to see who you are.
 
@@ -245,7 +245,7 @@ Piazza will be used for all general questions. For example, if you are confused 
 
 We will work hard to grade everyone fairly and return assignments quickly. But, we know you also work hard and want you to receive the grade you’ve earned. Occasionally, grading mistakes do happen, and it's important to us to correct them.
 
-If you think there is a mistake in your grade, request a regrade within 72 hours of your receipt of the grade on Piazza via a *Private* message to "Instructor & TAs" and use the "regrades" category. This message should include evidence of why you think your answer was correct (i.e. a specific reference to something said in lecture) and should point to the specific part of the assignment in question.
+If you think there is a mistake in your grade, request a regrade within 72 hours of your receipt of the grade on Piazza via a *Private* note to "instructors" and use the "regrades" folder. [HOWTO for Piazza private notes here](https://support.piazza.com/support/solutions/articles/48000616669-post-a-private-note). This message should include evidence of why you think your answer was correct (i.e. a specific reference to something said in lecture) and should point to the specific part of the assignment in question.
 
 Note that points will *not* be rewarded if you fail to follow instructions. For example, if the instructions say to name the variable `orange` and you name it `ornage` (misspelled), you will not be rewarded credit upon regrade. This is because (1) following instructions and being detail-oriented is important and (2) there are hundreds of students taking the course this quarter. It would be an unfair burden to place on TAs if we didn’t have this policy.
 
@@ -280,33 +280,33 @@ Starting week 3, there will be an *optional* weekly survey to be completed indiv
 | 1/03  | 1	   | M     | Welcome!                   | --       | --              | --           |
 | 1/05  | 1	   | W     | Python Review              | --       | --              | --           |  
 | 1/07  | 1	   | F     | Version Control I          | --       | --              | --           |
-| 1/10  | 2    | M     | Version Control II         | --       | --              | --           |
+| 1/10  | 2    | M     | Version Control II         | --       | --              | Q1           |
 | 1/12  | 2	   | W     | Data & Intuition           | --       | --              | --           |
-| 1/14  | 2	   | F     | Data Wrangling (`pandas`)  | D1       | A1; Project Survey* |   Q1     |
-| 1/17  | 3	   | M     | **No Class - MLK day**     | --       | --              | --           |
+| 1/14  | 2	   | F     | Data Wrangling (`pandas`)  | D1       | A1; Project Survey* | --       |
+| 1/17  | 3	   | M     | **No Class - MLK day**     | --       | --              | Q2           |
 | 1/19  | 3	   | W     | Ethics                     | --       | --              | --           |
-| 1/21  | 3	   | F     | Data Science ?s            | D2       | Project Review* | Q2           |
-| 1/24  | 4	   | M     | Dataviz I                  | --       | --              | --           |
+| 1/21  | 3	   | F     | Data Science ?s            | D2       | Project Review* | --           |
+| 1/24  | 4	   | M     | Dataviz I                  | --       | --              | Q3           |
 | 1/26  | 4	   | W     | Intro to Analysis          | --       | --              | --           |
-| 1/28  | 4	   | F     | Descriptive Analysis       | D3       | Project Proposal* | Q3         |
-| 1/31  | 5	   | M     | EDA                        | --       | --              | --           |
+| 1/28  | 4	   | F     | Descriptive Analysis       | D3       | Project Proposal* | --         |
+| 1/31  | 5	   | M     | EDA                        | --       | --              | Q4           |
 | 2/02  | 5	   | W     | Inference I                | --       | --              | --           |   
-| 2/04  | 5	   | F     | Inference II               | D4       | A2              | Q4           |
-| 2/07  | 6	   | M     | Inference III              | --       | --              | --           |
+| 2/04  | 5	   | F     | Inference II               | D4       | A2              | --           |
+| 2/07  | 6	   | M     | Inference III              | --       | --              | Q5           |
 | 2/09  | 6	   | W     | Text Analysis I            | --       | --              | --           |
-| 2/11  | 6	   | F     | Text Analysis II           |   D5     | Checkpoint #1: Data* | Q5      |
-| 2/14  | 7	   | M     | Machine Learning I         | --       | --              | --           |
+| 2/11  | 6	   | F     | Text Analysis II           |   D5     | Checkpoint #1: Data* | --      |
+| 2/14  | 7	   | M     | Machine Learning I         | --       | --              | Q6           |
 | 2/16  | 7	   | W     | Machine Learning II        | --       | --              | --           |
-| 2/18  | 7	   | F     | Text + ML                  |   D6     | **A3**          | Q6           |
-| 2/21  | 8	   | M     | **No Class - President's day** | --   | --              | --           |  
+| 2/18  | 7	   | F     | Text + ML                  |   D6     | **A3**          | --           |
+| 2/21  | 8	   | M     | **No Class - President's day** | --   | --              | Q7           |  
 | 2/23  | 8	   | W     | Nonparametric              | --       | --              | --           |
-| 2/25  | 8	   | F     | Geospatial I               |   D7     | Checkpoint #2: EDA* |   Q7     |
-| 2/28  | 9	   | M     | Geospatial II              | --       | --              | --           |
+| 2/25  | 8	   | F     | Geospatial I               |   D7     | Checkpoint #2: EDA* |          |
+| 2/28  | 9	   | M     | Geospatial II              | --       | --              | Q8           |
 | 3/02  | 9	   | W     | Dimensionality Reduction   | --       | --              | --           |
-| 3/04  | 9	   | F     | How to be wrong            |   D8     | **A4**          |   Q8         |
-| 3/07  | 10	 | M     | Guest lecture I            | --       | --              | --           |
+| 3/04  | 9	   | F     | How to be wrong            |   D8     | **A4**          | --           |
+| 3/07  | 10	 | M     | Guest lecture I            | --       | --              | Q9           |
 | 3/09  | 10	 | W     | Guest lecture II           | --       | --              | --           |
-| 3/11  | 10	 | F     | Data science jobs          |    D9    | --              |   Q9         |
+| 3/11  | 10	 | F     | Data science jobs          |    D9    | --              | --           |
 | 3/14  | Finals | M   | --  | Final project*, video*, team eval survey | -- |
 
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
@@ -383,3 +383,21 @@ Most students call me Professor or Professor Fleischer or Dr. Fleischer. I'm als
 ### What I should call you
 
 I should call you by your preferred name, with the correct pronunciation and any honorific or pronouns you choose. Please correct me (either in the chat, out loud on zoom, or via email/Piazza after the fact...however you're most comfortable) if I ever make a mistake.
+
+### Letters of recommendation
+
+TL;DR  If you're in this class and want a letter you can ask, but (a) the letter will not help you get into a top program, and (b) I will only write a double handful of those per quarter (so ask me early!). If you want good letters I advise you to work with multiple professors in programs outside of the class.
+
+If you are bound for graduate school you will probably need support and letters from professors or someone else who has done graduate training. Many students ask professors they have taken a class from (including me), but I want you to know this is a bad idea. You really want to get a letter from someone you have worked with more closely, who knows your talents and personality from experience working together with you over a long time.  You are one of hundreds of students I will have this quarter. TBH with relatively few exceptions I will not know you well. To get a solid letter from a prof, you want to be a research assistant, independent study, honors thesis advisee, or instructional assistant. If you are interested in grad school you need to have done the work before the beginning of senior year; letters are needed in Nov/Dec of your senior year for the following Fall admission.
+
+If you are just one of the hundreds of students in a class, almost every prof (including me) will write a letter that is roughly "I know STUDENT from CLASS where they got an A and often came to office hours and asked questions". That's the kind of letter which meets the bare minimum, and it may help you gain admission to some schools. But a top level grad program expects you to have done the things that will yield 3 much more detailed letters. So if you're an IA/RA/advisee, profs (including me) will write letters that go much much harder and into great detail about your qualities.  And that's what you want.  Also I want you to know that a detailed letter from someone not a professor (e.g., your manager when you did an internship related to your chosen field, the head of a volunteer organization you work with, a grad student you worked for on a research project, etc.) is probably better for your chances than a minimum letter from a professor.   
+
+
+
+
+
+. But if the only interaction we have had is that you are one of >500 students in my classes this quarter
+
+
+
+graduate student  
