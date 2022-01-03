@@ -47,7 +47,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         | Pooja Pathak        | [A01](https://ucsd.zoom.us/j/92981057446), [A05](https://ucsd.zoom.us/j/98007206877) (remote)  | [TUE 12pm-2pm](https://ucsd.zoom.us/j/91534135447)/By appointment (remote)  | [pmpathak@ucsd.edu](mailto:pmpathak@ucsd.edu)   |
 | TA 	         | Stephen Jarrell     | [A04](https://ucsd.zoom.us/u/acxBoS0kPI) (remote)  | [WED 10am-12pm](https://ucsd.zoom.us/u/acxBoS0kPI)/By appointment (remote) | [njarrell@ucsd.edu](mailto:njarrell@ucsd.edu)   |
 | TA           | Matthew Feigelis    |   |  |   |
-| IA	         |  Jiazheng Bian      |   |  |   |
+| IA	         |  Jiazheng Bian      | None | [MON 5pm-6pm](https://ucsd.zoom.us/j/93343151780)/By appointment (remote) | [jibian@ucsd.edu](mailto:jibian@ucsd.edu) |
 | IA	         |  Sahithi Chimmula   |   |  |   |
 | IA	         |  Wenbo Hu           |   |  |   |
 | IA           |  Pavithra Pandian   |   |  |   |
