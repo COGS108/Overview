@@ -1,6 +1,6 @@
 
 # PRELIMINARY SYLLABUS! SUBJECT TO CHANGE!!
-v0.2 - 2022-01-02
+v0.3 - 2022-01-03
 
 # COGS 108: Data Science in Practice
 
@@ -9,6 +9,10 @@ v0.2 - 2022-01-02
 **Jan 3 - Jan 17: Zoom only**  
 **Jan 19 - Mar 11: Zoom or in-person at The Jeannie Auditorium (GAA), New Sixth College**
 ---
+
+Emergency change of link to get us past the UCSD zoom attendance limit: https://zoom.us/j/91055103085?pwd=RGxSckJuaEwrU3JUcURsSWZsMFdrZz09 Meeting ID: 910 5510 3085
+Passcode: cogs108
+
 
 **Table of Contents**
 
@@ -168,7 +172,11 @@ For in-person lectures **a negative symptom check from that day and a properly w
 
 Those concerns aside, don't let me scare you away from coming to lecture in-person: it is the most engaging way you can absorb the material and it gives you the best opportunity to be an active participant. Students who actively engage in the learning process do better than those who passively absorb material given to them. I hope that my strict illness policies encourage students who wish to attend in-person to do so.
 
-In-person lectures will be broadcast simultaneously [on this Zoom link](https://ucsd.zoom.us/j/98940282726?pwd=MUhOaXhTemJaZ3hINlNTdlhsbVVMUT09) If for some reason that link doesn't work, the Meeting ID is 989 4028 2726 and the password is cogs108. You can also use our Canvas page to start Zoom with the proper link.
+~~In-person lectures will be broadcast simultaneously [on this Zoom link](https://ucsd.zoom.us/j/98940282726?pwd=MUhOaXhTemJaZ3hINlNTdlhsbVVMUT09) If for some reason that link doesn't work, the Meeting ID is 989 4028 2726 and the password is cogs108. You can also use our Canvas page to start Zoom with the proper link.~~
+
+Emergency change of link to get us past the UCSD zoom attendance limit: https://zoom.us/j/91055103085?pwd=RGxSckJuaEwrU3JUcURsSWZsMFdrZz09 Meeting ID: 910 5510 3085
+Passcode: cogs108
+
 
 Every lecture will also be recorded and shared so that students who are not able to or choose not to watch during the scheduled class time are still able to receive and digest all class materials. Lecture recordings will be available on podcast.ucsd.edu Canvas in the Media Gallery no later than 5PM the day the live lecture is delivered.
 
