@@ -52,6 +52,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | IA	         |  Wenbo Hu           |   |  |   |
 | IA           |  Pavithra Pandian   |   |  |   |
 | IA           |  Luning Yang        |   |  |   |
+| IA           |  Ruoxuan Li         |   |  |   |
 
 
 Course GitHub: https://github.com/COGS108  
