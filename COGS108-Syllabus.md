@@ -45,7 +45,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Instructor   | Jason Fleischer     |   none           | [Signup for the kind of OH slot you want: Zoom or in-person](https://calendar.google.com/calendar/selfsched?sstoken=UUFzQ2RXR3dOVnZwfGRlZmF1bHR8Nzg4NGE1Yzc1NmM0NGJlNzUyZmNjMzgxNGUzYWQ1NzM)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
 | TA 	         | Areeb Syed          | [A01-A02](https://ucsd.zoom.us/j/99020871455) (remote)| [WED 12-2 PM](https://ucsd.zoom.us/j/97645843199) / By appointment (remote)| aas050@ucsd.edu|
 | TA	         | Pooja Pathak        | [A03](https://ucsd.zoom.us/j/96285654809) (remote)    | [TUE 12pm-2pm](https://ucsd.zoom.us/j/91534135447)/By appointment (remote)  | [pmpathak@ucsd.edu](mailto:pmpathak@ucsd.edu)   |
-| TA 	         | Stephen Jarrell     |   |  |   |
+| TA 	         | Stephen Jarrell     | [A04](https://ucsd.zoom.us/u/acxBoS0kPI) (remote)  | [WED 10am-12pm](https://ucsd.zoom.us/u/acxBoS0kPI)/By appointment (remote) | [njarrell@ucsd.edu](mailto:njarrell@ucsd.edu)   |
 | TA           | Matthew Feigelis    |   |  |   |
 | IA	         |  Jiazheng Bian      |   |  |   |
 | IA	         |  Sahithi Chimmula   |   |  |   |
