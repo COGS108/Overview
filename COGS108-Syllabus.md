@@ -53,6 +53,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | IA           |  Pavithra Pandian   |   |  |   |
 | IA           |  Luning Yang        |   |  |   |
 | IA           |  Ruoxuan Li         |   |  |   |
+| IA           |  Jiayi Zhao         |  None | [TUES 5pm-6pm](https://ucsd.zoom.us/j/96085281848)/By appointment (remote) | [j4zhao@ucsd.edu](mailto:j4zhao@ucsd.edu)  |
 
 
 Course GitHub: https://github.com/COGS108  
