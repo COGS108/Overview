@@ -1,5 +1,7 @@
 
 # PRELIMINARY SYLLABUS! SUBJECT TO CHANGE!!
+v0.2 - 2022-01-02
+
 # COGS 108: Data Science in Practice
 
 **Winter 2021**  
@@ -115,15 +117,16 @@ We also maintain [a list of readings that can provide insight into various data 
 
 \* Indicates Group Submission
 
-**Final exam**: This course has no final exam. Do not show up on the date/time of the final exam.  Instead this course has a final project. The project deadline is Dec 10th at 11:59 PM
+**Final exam**: This course has no final exam. Do not show up on the date/time of the final exam.  Instead this course has a final project. The project deadline is March 14th at 11:59 PM
 
 All grades will be released on Canvas. It is *your responsibility to check that your assignment was submitted, that your grade is accurate, and to get in touch if any are missing and/or you think there is a problem*.
 
-Extra credit worth up to 2% of the final grade will be awarded for
+Extra credit worth up to 2.5% of the final grade will be awarded for
 - Exceptional participation on Piazza: Roughly the top 3% of contributors will get 0.5% bonus to their final grade.  Starting/participating in good discussions, organizing things, answering questions, etc.   
 - Answering the pre & post course surveys will give 0.5% extra credit (0.25% each)
 - Attending both guest lectures either in-person or on Zoom is 0.25% extra credit  
 - Submitting at least one question to the queue for at least one of the guest lectures is 0.25% extra credit
+- Filling out all 7 of the weekly project progress surveys (0.5% of grade, see Project setion below)
 - If >75% of the students fill out CAPE at the end of the quarter there will be an extra 0.5% of the final grade for everyone
 
 Our grading scale is
@@ -169,9 +172,7 @@ Every lecture will also be recorded and shared so that students who are not able
 
 ### Lecture Quizzes
 
-At the end of each Friday, a quiz with ~10 questions will be released, covering the material from lecture that week. The quiz will be due the following Friday. For example, the first quiz will be released Friday of week 1, covering week 1 material, and will be due the Friday at 11:59 PM of week 2. Each question is worth ~0.1 points and you will have a single, timed (15 min) attempt to complete. There are no late extensions on quizzes, but your lowest quiz score will be dropped.
-
-**** maybe switch due date on quiz to monday?
+After class each Friday, a quiz with ~10 questions will be released, covering the material from lecture that week. The quiz will be due at 11:59PM the following Monday. For example, the first quiz will be released Friday of week 1, covering week 1 material, and will be due the Monday at 11:59 PM of week 2. Each question is worth ~0.1 points and you will have a single attempt to complete. There are no late extensions on quizzes, but your lowest quiz score will be dropped.
 
 ---
 
@@ -269,7 +270,7 @@ You will submit who your group is via Google Form by the Friday of week 2 (see C
 
 All project components are completed as a group and are described in the Project documentation: https://github.com/COGS108/Projects. This includes: 1) group survey 2) Previous Project Review 3) Project Proposal 4) Project Checkpoint #1: Data, 5) Project Checkpoint #2: EDA, 6) Final Project Report, 7) Final Project Video, and 8) Team Evaluation Survey.
 
-Starting week 3, there will be an *optional* weekly survey to be completed individually describing your project progress. Students who complete all 7 weeks' surveys will earn 1% extra credit to their final grade.
+Starting week 3, there will be an *optional* weekly survey to be completed individually describing your project progress. Students who complete all 7 weeks' surveys will earn 0.5% extra credit to their final grade.
 
 ---
 
