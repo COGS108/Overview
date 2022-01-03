@@ -9,7 +9,7 @@ The most recent iteration of this class is Fall Quarter 2021, the **syllabus** f
 
 ## Lectures
 
-* [Slides and materials](https://github.com/COGS108/Lectures-Fa21) will be organized by week. All links to class videos, slides, and notebooks used MWF will be included here.
+* [Slides and materials](https://github.com/COGS108/Lectures-Wi22) will be organized by week. All links to class videos, slides, and notebooks used MWF will be included here.
 
 ## Discussion Section
 
