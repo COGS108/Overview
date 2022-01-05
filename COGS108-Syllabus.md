@@ -8,8 +8,8 @@ v1.0 - 2022-01-05 - still subject to change!, check back regularly
 **Jan 19 - Mar 11: Zoom or in-person at The Jeannie Auditorium (GAA), New Sixth College**
 ---
 
-**Lecture link (new version as of Jan 5, capable of hosting up to 500 people)**
-https://ucsd.zoom.us/j/97892507343?pwd=TjVhcGlJVzc2VFZmbU9oOE11WVpzZz09
+**Lecture link (new version as of Jan 5, capable of hosting up to 500 people)**<br>
+https://ucsd.zoom.us/j/97892507343?pwd=TjVhcGlJVzc2VFZmbU9oOE11WVpzZz09<br>
 Meeting ID: 978 9250 7343 Password: cogs108
 
 
