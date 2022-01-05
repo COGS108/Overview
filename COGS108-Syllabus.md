@@ -184,19 +184,19 @@ After class each Friday, a quiz with ~10 questions will be released, covering th
 
 # DISCUSSION SECTION
 
-Discussion sections are starting out completely remote on Zoom. See the table above and Canvas calendar for the correct links.  At this point we plan to transition discussion sections to in-person on Jan 14.  We will keep you up to date on any changes.
+**Discussion sections are starting out completely remote on Zoom.** See the table above and Canvas calendar for the correct links.  At this point we plan to transition discussion sections to in-person on Jan 14.  We will keep you up to date on any changes.
 
 Week 1 discussion sections will be for finding group mates for the project. Regular discussion sections will begin Monday of week 2.
 
-| Section |  Date/Time | Location|
+| Section |  Date/Time | Location (ZOOM ONLY FOR NOW!) |
 |:--------|:-----------|:----------|
-| A01	| F	11-11:50a	| MANDE	B-150 | 	 
-| A02 | F	12-12:50p	| PETER	102 | 	
-| A03	| F	1-1:50p	| PETER	103 | 	
-| A04	| W	9-9:50a	| PETER	102 | 	
-| A05	| M	12-12:50p | PETER	103	|
-| A06	| W	4-4:50p	| PETER	104 | 	
-| A07	| W	5-5:50p	| PETER	103	|
+| A01	| F	11-11:50a	| ~~MANDE	B-150~~ | 	 
+| A02 | F	12-12:50p	| ~~PETER	102~~ | 	
+| A03	| F	1-1:50p	| ~~PETER	103~~ | 	
+| A04	| W	9-9:50a	| ~~PETER	102~~ | 	
+| A05	| M	12-12:50p | ~~PETER	103~~	|
+| A06	| W	4-4:50p	| ~~PETER	104~~ | 	
+| A07	| W	5-5:50p	| ~~PETER	103~~	|
 
 ### Discussion section lab exercises
 
