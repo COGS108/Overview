@@ -1,6 +1,4 @@
-
-# PRELIMINARY SYLLABUS! SUBJECT TO CHANGE!!
-v0.3 - 2022-01-03
+v1.0 - 2022-01-05 - still subject to change!, check back regularly
 
 # COGS 108: Data Science in Practice
 
@@ -10,8 +8,10 @@ v0.3 - 2022-01-03
 **Jan 19 - Mar 11: Zoom or in-person at The Jeannie Auditorium (GAA), New Sixth College**
 ---
 
-Emergency change of link to get us past the UCSD zoom attendance limit: https://zoom.us/j/91055103085?pwd=RGxSckJuaEwrU3JUcURsSWZsMFdrZz09 Meeting ID: 910 5510 3085
-Passcode: cogs108
+**Lecture link (new version as of Jan 5, capable of hosting up to 500 people)**
+https://ucsd.zoom.us/j/97892507343?pwd=TjVhcGlJVzc2VFZmbU9oOE11WVpzZz09
+Meeting ID: 978 9250 7343
+Password: cogs108
 
 
 **Table of Contents**
@@ -46,7 +46,8 @@ In this course, you will try many methods. You’ll even be asked to implement a
 
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
-| Instructor   | Jason Fleischer     |   none           | [Signup for the kind of OH slot you want: Zoom or in-person](https://calendar.google.com/calendar/selfsched?sstoken=UUFzQ2RXR3dOVnZwfGRlZmF1bHR8Nzg4NGE1Yzc1NmM0NGJlNzUyZmNjMzgxNGUzYWQ1NzM)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
+| Instructor   | Jason Fleischer     |   [Lecture](https://ucsd.zoom.us/j/97892507343?pwd=TjVhcGlJVzc2VFZmbU9oOE11WVpzZz09
+)          | [Signup for the kind of OH slot you want: Zoom or in-person](https://calendar.google.com/calendar/selfsched?sstoken=UUFzQ2RXR3dOVnZwfGRlZmF1bHR8Nzg4NGE1Yzc1NmM0NGJlNzUyZmNjMzgxNGUzYWQ1NzM)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
 | TA 	         | Areeb Syed          | [A06-A07](https://ucsd.zoom.us/j/93746878731) (remote)| [WED 12-2 PM](https://ucsd.zoom.us/j/91804764453) / By appointment (remote)| aas050@ucsd.edu|
 | TA	         | Pooja Pathak        | [A01](https://ucsd.zoom.us/j/92981057446), [A05](https://ucsd.zoom.us/j/98007206877) (remote)  | [MON 4pm-6pm](https://ucsd.zoom.us/j/99600138341)/By appointment (remote)  | [pmpathak@ucsd.edu](mailto:pmpathak@ucsd.edu)   |
 | TA 	         | Stephen Jarrell     | [A04](https://ucsd.zoom.us/j/99127125109?pwd=eUJ6UVhwRk4rU0RCNm8xM2M3VXBBQT09) (remote)  | [WED 10am-12pm](https://ucsd.zoom.us/j/99127125109?pwd=eUJ6UVhwRk4rU0RCNm8xM2M3VXBBQT09)/By appointment (remote) | [njarrell@ucsd.edu](mailto:njarrell@ucsd.edu)   |
@@ -60,6 +61,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | IA           |  Jiayi Zhao         |  None | [TUES 5pm-6pm](https://ucsd.zoom.us/j/96085281848)/By appointment (remote) | [j4zhao@ucsd.edu](mailto:j4zhao@ucsd.edu)  |
 | IA           |  Zhigang Lin        |  None | [FRI 5pm-6pm](https://ucsd.zoom.us/j/5280072289)/By appointment (remote) | [zhl069@ucsd.edu](mailto:zhl069@ucsd.edu)  |
 
+Lecture zoom link: https://ucsd.zoom.us/j/97892507343?pwd=TjVhcGlJVzc2VFZmbU9oOE11WVpzZz09
 
 Course GitHub: https://github.com/COGS108  
 
@@ -173,11 +175,8 @@ For in-person lectures **a negative symptom check from that day and a properly w
 
 Those concerns aside, don't let me scare you away from coming to lecture in-person: it is the most engaging way you can absorb the material and it gives you the best opportunity to be an active participant. Students who actively engage in the learning process do better than those who passively absorb material given to them. I hope that my strict illness policies encourage students who wish to attend in-person to do so.
 
-~~In-person lectures will be broadcast simultaneously [on this Zoom link](https://ucsd.zoom.us/j/98940282726?pwd=MUhOaXhTemJaZ3hINlNTdlhsbVVMUT09) If for some reason that link doesn't work, the Meeting ID is 989 4028 2726 and the password is cogs108. You can also use our Canvas page to start Zoom with the proper link.~~
-
-Emergency change of link to get us past the UCSD zoom attendance limit: https://zoom.us/j/91055103085?pwd=RGxSckJuaEwrU3JUcURsSWZsMFdrZz09 Meeting ID: 910 5510 3085
-Passcode: cogs108
-
+In-person lectures will be broadcast simultaneously [on this UPDATED ON JAN 5 Zoom link](https://ucsd.zoom.us/j/97892507343?pwd=TjVhcGlJVzc2VFZmbU9oOE11WVpzZz09
+) If for some reason that link doesn't work, the Meeting ID is 978 9250 7343 and the password is cogs108. You can also use our Canvas page to start Zoom with the proper link.
 
 Every lecture will also be recorded and shared so that students who are not able to or choose not to watch during the scheduled class time are still able to receive and digest all class materials. Lecture recordings will be available on podcast.ucsd.edu Canvas in the Media Gallery no later than 5PM the day the live lecture is delivered.
 
@@ -277,6 +276,8 @@ Finding a group may be a tad trickier this quarter. As such, we'll offer additio
 
 You will submit who your group is via Google Form by the Friday of week 2 (see Course Schedule). One form will be submitted per group.
 
+If you do not signup for a group by the end of week 2 you will be randomly assigned a group. However you generally don't want that, you'll have more fun if you get on board with people who want to work on the same thing as you. Also in my experience the randomly assigned groups have more trouble than the ones students put together on their own.
+
 ### Project Components
 
 All project components are completed as a group and are described in the Project documentation: https://github.com/COGS108/Projects. This includes: 1) group survey 2) Previous Project Review 3) Project Proposal 4) Project Checkpoint #1: Data, 5) Project Checkpoint #2: EDA, 6) Final Project Report, 7) Final Project Video, and 8) Team Evaluation Survey.
@@ -294,7 +295,7 @@ Starting week 3, there will be an *optional* weekly survey to be completed indiv
 | 1/07  | 1	   | F     | Version Control I          | --       | --              | --           |
 | 1/10  | 2    | M     | Version Control II         | --       | --              | Q1           |
 | 1/12  | 2	   | W     | Data & Intuition           | --       | --              | --           |
-| 1/14  | 2	   | F     | Data Wrangling (`pandas`)  | D1       | A1; Project Survey* | --       |
+| 1/14  | 2	   | F     | Data Wrangling (`pandas`)  | D1       | A1; Group Signup* | --       |
 | 1/17  | 3	   | M     | **No Class - MLK day**     | --       | --              | Q2           |
 | 1/19  | 3	   | W     | Ethics                     | --       | --              | --           |
 | 1/21  | 3	   | F     | Data Science ?s            | D2       | Project Review* | --           |
@@ -366,7 +367,21 @@ If you need emergency food, finances, and/or academic and social support you can
 
 If you need counseling or if you are in a mental crisis you can contact [CAPS](https://caps.ucsd.edu). They provide psychiatric services, workshops, and counseling; they also operate a 24/7 crisis hotline at 858.534.3755
 
+### Letters of recommendation
 
+TL;DR  If you're in this class and want a letter you can ask, but (a) the letter will not help you get into a top program, and (b) I will only write a double handful of those per quarter (so ask me early!). If you want good letters I advise you to work with multiple professors in programs outside of the class.
+
+If you are bound for graduate school you will probably need support and letters from professors or someone else who has done graduate training. Many students ask professors they have taken a class from (including me), but I want you to know this is a bad idea. You really want to get a letter from someone you have worked with more closely, who knows your talents and personality from experience working together with you over a long time.  You are one of hundreds of students I will have this quarter. TBH with relatively few exceptions I will not know you well. To get a solid letter from a prof, you want to be a research assistant, independent study, honors thesis advisee, or instructional assistant. If you are interested in grad school you need to have done the work before the beginning of senior year; letters are needed in Nov/Dec of your senior year for the following Fall admission.
+
+If you are just one of the hundreds of students in a class, almost every prof (including me) will write a letter that is roughly "I know STUDENT from CLASS where they got an A and often came to office hours and asked questions". That's the kind of letter which meets the bare minimum, and it may help you gain admission to some schools. But a top level grad program expects you to have done the things that will yield 3 much more detailed letters. So if you're an IA/RA/advisee, profs (including me) will write letters that go much much harder and into great detail about your qualities.  And that's what you want.  Also I want you to know that a detailed letter from someone not a professor (e.g., your manager when you did an internship related to your chosen field, the head of a volunteer organization you work with, a grad student you worked for on a research project, etc.) is probably better for your chances than a minimum letter from a professor.   
+
+### What should you call me?
+
+Most students call me Professor or Professor Fleischer or Dr. Fleischer. I'm also perfectly happy if you call me Jason, but not all professors are OK with that kind of informality. I would prefer you *not* address me as Mr. Fleischer; if you're going to use an honorific please use the one that people expect in the situation.
+
+### What I should call you
+
+I should call you by your preferred name, with the correct pronunciation and any honorific or pronouns you choose. Please correct me (either in the chat, out loud on zoom, or via email/Piazza after the fact...however you're most comfortable) if I ever make a mistake.
 
 ### How to Get Your Question(s) Answered and/or Provide Feedback
 
@@ -384,32 +399,4 @@ That said, to ensure that we’re respecting their time, TAs and IAs have been i
 - **A specific section-related question**: send a direct message on Piazza to your TA/IA
 - **Something super cool to share related to class**: feel free to email Prof Ellis or come to office hours. Be sure to include COG S108 in the email subject line and your full name in your message.
 - **Something you want to talk about in-depth**: meet in person during office hours or schedule a time to meet by email. Be sure to include COGS 108 in the email subject line.
-- **Some feedback about the course you want to share anonymously**: If you’ve been offended by an example in class, really liked or disliked a lesson, or wish there were something covered in class that wasn’t but would rather not share this publicly, etc., please fill out the anonymous [Google Form](https://forms.gle/rcMnXxo3VzoVwbRcA)*
-
-\*This form can be taken down at any time if it’s not being used for its intended purpose; however, you all will be notified should that happen.
-
-### What should you call me?
-
-Most students call me Professor or Professor Fleischer or Dr. Fleischer. I'm also perfectly happy if you call me Jason, but not all professors are OK with that kind of informality. I would prefer you *not* address me as Mr. Fleischer; if you're going to use an honorific please use the one that people expect in the situation.
-
-### What I should call you
-
-I should call you by your preferred name, with the correct pronunciation and any honorific or pronouns you choose. Please correct me (either in the chat, out loud on zoom, or via email/Piazza after the fact...however you're most comfortable) if I ever make a mistake.
-
-### Letters of recommendation
-
-TL;DR  If you're in this class and want a letter you can ask, but (a) the letter will not help you get into a top program, and (b) I will only write a double handful of those per quarter (so ask me early!). If you want good letters I advise you to work with multiple professors in programs outside of the class.
-
-If you are bound for graduate school you will probably need support and letters from professors or someone else who has done graduate training. Many students ask professors they have taken a class from (including me), but I want you to know this is a bad idea. You really want to get a letter from someone you have worked with more closely, who knows your talents and personality from experience working together with you over a long time.  You are one of hundreds of students I will have this quarter. TBH with relatively few exceptions I will not know you well. To get a solid letter from a prof, you want to be a research assistant, independent study, honors thesis advisee, or instructional assistant. If you are interested in grad school you need to have done the work before the beginning of senior year; letters are needed in Nov/Dec of your senior year for the following Fall admission.
-
-If you are just one of the hundreds of students in a class, almost every prof (including me) will write a letter that is roughly "I know STUDENT from CLASS where they got an A and often came to office hours and asked questions". That's the kind of letter which meets the bare minimum, and it may help you gain admission to some schools. But a top level grad program expects you to have done the things that will yield 3 much more detailed letters. So if you're an IA/RA/advisee, profs (including me) will write letters that go much much harder and into great detail about your qualities.  And that's what you want.  Also I want you to know that a detailed letter from someone not a professor (e.g., your manager when you did an internship related to your chosen field, the head of a volunteer organization you work with, a grad student you worked for on a research project, etc.) is probably better for your chances than a minimum letter from a professor.   
-
-
-
-
-
-. But if the only interaction we have had is that you are one of >500 students in my classes this quarter
-
-
-
-graduate student  
+- **Some feedback about the course you want to share anonymously**: If you’ve been offended by an example in class, really liked or disliked a lesson, or wish there were something covered in class that wasn’t but would rather not share this publicly, etc., please fill out the anonymous [Google Form](https://forms.gle/RkNrZtRz8nDaEq8d7)
