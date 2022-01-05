@@ -9,9 +9,7 @@ v1.0 - 2022-01-05 - still subject to change!, check back regularly
 ---
 
 **Lecture link (new version as of Jan 5, capable of hosting up to 500 people)**
-
 https://ucsd.zoom.us/j/97892507343?pwd=TjVhcGlJVzc2VFZmbU9oOE11WVpzZz09
-
 Meeting ID: 978 9250 7343 Password: cogs108
 
 
@@ -47,8 +45,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
-| Instructor   | Jason Fleischer     |   [Lecture](https://ucsd.zoom.us/j/97892507343?pwd=TjVhcGlJVzc2VFZmbU9oOE11WVpzZz09)
-)          | [Signup for the kind of OH slot you want: Zoom or in-person](https://calendar.google.com/calendar/selfsched?sstoken=UUFzQ2RXR3dOVnZwfGRlZmF1bHR8Nzg4NGE1Yzc1NmM0NGJlNzUyZmNjMzgxNGUzYWQ1NzM)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
+| Instructor   | Jason Fleischer     |   [Lecture](https://ucsd.zoom.us/j/97892507343?pwd=TjVhcGlJVzc2VFZmbU9oOE11WVpzZz09)          | [Signup for the kind of OH slot you want: Zoom or in-person](https://calendar.google.com/calendar/selfsched?sstoken=UUFzQ2RXR3dOVnZwfGRlZmF1bHR8Nzg4NGE1Yzc1NmM0NGJlNzUyZmNjMzgxNGUzYWQ1NzM)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
 | TA 	         | Areeb Syed          | [A06-A07](https://ucsd.zoom.us/j/93746878731) (remote)| [WED 12-2 PM](https://ucsd.zoom.us/j/91804764453) / By appointment (remote)| aas050@ucsd.edu|
 | TA	         | Pooja Pathak        | [A01](https://ucsd.zoom.us/j/92981057446), [A05](https://ucsd.zoom.us/j/98007206877) (remote)  | [MON 4pm-6pm](https://ucsd.zoom.us/j/99600138341)/By appointment (remote)  | [pmpathak@ucsd.edu](mailto:pmpathak@ucsd.edu)   |
 | TA 	         | Stephen Jarrell     | [A04](https://ucsd.zoom.us/j/99127125109?pwd=eUJ6UVhwRk4rU0RCNm8xM2M3VXBBQT09) (remote)  | [WED 10am-12pm](https://ucsd.zoom.us/j/99127125109?pwd=eUJ6UVhwRk4rU0RCNm8xM2M3VXBBQT09)/By appointment (remote) | [njarrell@ucsd.edu](mailto:njarrell@ucsd.edu)   |
