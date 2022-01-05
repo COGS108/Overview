@@ -1,4 +1,4 @@
-v1.0 - 2022-01-05 - still subject to change!, check back regularly
+v1.01 - 2022-01-05 - still subject to change!, check back regularly
 
 # COGS 108: Data Science in Practice
 
@@ -52,8 +52,6 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA           | Matthew Feigelis    | [A02-A03](https://ucsd.zoom.us/j/99726557342) (remote)| TBD | mfeigelis@ucsd.edu  |
 | IA	         |  Jiazheng Bian      | None | [MON 5pm-6pm](https://ucsd.zoom.us/j/93343151780)/By appointment (remote) | [jibian@ucsd.edu](mailto:jibian@ucsd.edu) |
 | IA	         |  Sahithi Chimmula   |   |  |   |
-| IA	         |  Wenbo Hu           |   |  |   |
-| IA           |  Pavithra Pandian   |   |  |   |
 | IA           |  Luning Yang        |  None | [THUS 7pm-8pm](https://ucsd.zoom.us/j/99194275380)/By appointment (remote) | [l4yang@ucsd.edu](mailto:l4yang@ucsd.edu) 
 | IA           |  Ruoxuan Li         |  None | [TUES 4pm-5pm](https://ucsd.zoom.us/j/98565002417)/By appointment (remote) | [ruli@ucsd.edu](mailto:ruli@ucsd.edu)  |
 | IA           |  Jiayi Zhao         |  None | [TUES 5pm-6pm](https://ucsd.zoom.us/j/96085281848)/By appointment (remote) | [j4zhao@ucsd.edu](mailto:j4zhao@ucsd.edu)  |
