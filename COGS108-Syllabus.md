@@ -9,9 +9,10 @@ v1.0 - 2022-01-05 - still subject to change!, check back regularly
 ---
 
 **Lecture link (new version as of Jan 5, capable of hosting up to 500 people)**
+
 https://ucsd.zoom.us/j/97892507343?pwd=TjVhcGlJVzc2VFZmbU9oOE11WVpzZz09
-Meeting ID: 978 9250 7343
-Password: cogs108
+
+Meeting ID: 978 9250 7343 Password: cogs108
 
 
 **Table of Contents**
