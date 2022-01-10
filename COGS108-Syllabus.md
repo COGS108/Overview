@@ -1,4 +1,4 @@
-v1.01 - 2022-01-05 - still subject to change!, check back regularly
+v1.10 - 2022-01-10 - still subject to change!, check back regularly
 
 # COGS 108: Data Science in Practice
 
@@ -112,9 +112,8 @@ We also maintain [a list of readings that can provide insight into various data 
 | Discussion Labs | 16\%              | 8 out of 9 (1/wk)      |
 | Lecture Quizzes      | 8\%               | 8 out of 9 (1/wk)      |
 | Assignments          | 32\%		           | 4             |
-| Project Planning Survey* | 1\%		       | 1             |
 | Project Review*      | 5\%		           | 1             |
-| Project Proposal*    | 8\%		           | 1             |
+| Project Proposal*    | 9\%		           | 1             |
 | Project Checkpoints*   | 10\%              | 2             |
 | Final Report*        | 15%		           | 1             |
 | Final Video*         | 3\%		           | 1             |
