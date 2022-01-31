@@ -49,7 +49,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA 	         | Areeb Syed          | [A06-A07](https://ucsd.zoom.us/j/93746878731) (remote)| [WED 12-2 PM](https://ucsd.zoom.us/j/91804764453) / By appointment (remote)| aas050@ucsd.edu|
 | TA	         | Pooja Pathak        | [A01](https://ucsd.zoom.us/j/92981057446), [A05](https://ucsd.zoom.us/j/98007206877) (remote)  | [MON 4pm-6pm](https://ucsd.zoom.us/j/99600138341)/By appointment (remote)  | [pmpathak@ucsd.edu](mailto:pmpathak@ucsd.edu)   |
 | TA 	         | Stephen Jarrell     | [A04](https://ucsd.zoom.us/j/99127125109?pwd=eUJ6UVhwRk4rU0RCNm8xM2M3VXBBQT09) (remote)  | [WED 10am-12pm](https://ucsd.zoom.us/j/99127125109?pwd=eUJ6UVhwRk4rU0RCNm8xM2M3VXBBQT09)/By appointment (remote) | [njarrell@ucsd.edu](mailto:njarrell@ucsd.edu)   |
-| TA           | Matthew Feigelis    | [A02-A03](https://ucsd.zoom.us/j/99726557342) (remote)| [TUES 3-5 PM](https://ucsd.zoom.us/j/92086421659) / By appointment (remote) | mfeigelis@ucsd.edu  |
+| TA           | Matthew Feigelis    | [A02-A03](https://ucsd.zoom.us/j/99726557342) (remote)| [TUES 10-11:50 AM](https://ucsd.zoom.us/j/92086421659) / By appointment (remote) | mfeigelis@ucsd.edu  |
 | IA	         |  Jiazheng Bian      | None | [THUS 5pm-6pm](https://ucsd.zoom.us/j/93343151780)/By appointment (remote) | [jibian@ucsd.edu](mailto:jibian@ucsd.edu) |
 | IA	         |  Sahithi Chimmula   |   |  |   |
 | IA           |  Luning Yang        |  None | [THUS 7pm-8pm](https://ucsd.zoom.us/j/6569685700)/By appointment (remote) | [l4yang@ucsd.edu](mailto:l4yang@ucsd.edu) 
