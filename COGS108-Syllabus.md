@@ -54,7 +54,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | IA	         |  Sahithi Chimmula   |   |  |   |
 | IA           |  Luning Yang        |  None | [THUS 7pm-8pm](https://ucsd.zoom.us/j/6569685700)/By appointment (remote) | [l4yang@ucsd.edu](mailto:l4yang@ucsd.edu) 
 | IA           |  Ruoxuan Li         |  None | [TUES 4pm-5pm](https://ucsd.zoom.us/j/98565002417)/By appointment (remote) | [ruli@ucsd.edu](mailto:ruli@ucsd.edu)  |
-| IA           |  Jiayi Zhao         |  None | [TUES 5pm-6pm](https://ucsd.zoom.us/j/96085281848)/By appointment (remote) | [j4zhao@ucsd.edu](mailto:j4zhao@ucsd.edu)  |
+| IA           |  Jiayi Zhao         |  None | [WEDS 1pm-2pm](https://ucsd.zoom.us/j/96085281848)/By appointment (remote) | [j4zhao@ucsd.edu](mailto:j4zhao@ucsd.edu)  |
 | IA           |  Zhigang Lin        |  None | [FRI 5pm-6pm](https://ucsd.zoom.us/j/5280072289)/By appointment (remote) | [zhl069@ucsd.edu](mailto:zhl069@ucsd.edu)  |
 
 Lecture zoom link: https://ucsd.zoom.us/j/97892507343?pwd=TjVhcGlJVzc2VFZmbU9oOE11WVpzZz09
