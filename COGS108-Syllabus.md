@@ -47,7 +47,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         | Example to be changed  | [A01](https://ucsd.zoom.us/j/96285654809) (remote)    | [TUE 12pm-2pm](https://ucsd.zoom.us/j/91534135447)/By appointment (remote)  | [ta666@ucsd.edu](mailto:ta666@ucsd.edu)   |
 | TA 	         |      |   |  |   |
 | TA           |   Yueyan Tang  | A07  | FRI 3pm-5pm | yyt005@ucsd.edu  |
-| IA	         |        |   |  |   |
+| IA	         | Xiqiang Liu | ---  | [WED 4pm-5pm](https://ucsd.zoom.us/j/94947536204)/By appointment (remote) | [xil073@ucsd.edu](mailto:xil073@ucsd.edu)  |
 | IA	         |     |   |  |   |
 
 
