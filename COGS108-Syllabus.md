@@ -45,7 +45,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for the kind of OH slot you want: Zoom or in-person](https://calendar.google.com/calendar/selfsched?sstoken=UUFzQ2RXR3dOVnZwfGRlZmF1bHR8Nzg4NGE1Yzc1NmM0NGJlNzUyZmNjMzgxNGUzYWQ1NzM)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
 | TA	         | Example to be changed  | [A01](https://ucsd.zoom.us/j/96285654809) (remote)    | [TUE 12pm-2pm](https://ucsd.zoom.us/j/91534135447)/By appointment (remote)  | [ta666@ucsd.edu](mailto:ta666@ucsd.edu)   |
-| TA 	         | Shanay Shah    | |  |Friday 10am -12pm| shs004@ucsd.edu
+| TA 	         | Shanay Shah | | Friday 10am -12pm || shs004@ucsd.edu
 | TA           |   Yueyan Tang  | A07  | FRI 3pm-5pm | yyt005@ucsd.edu  |
 | IA	         | Xiqiang Liu | ---  | [WED 4pm-5pm](https://ucsd.zoom.us/j/94947536204)/By appointment (remote) | [xil073@ucsd.edu](mailto:xil073@ucsd.edu)  |
 | IA	         |     |   |  |   |
@@ -91,7 +91,7 @@ Anonymous Course Feedback: [Fill out this form](https://forms.gle/GFaUFUZYLnpQzE
 
 There are no required readings for this course; however, if you’re interested in learning more and reading about data science topics, we recommend the following texts as supplementary to the main elements of the course:
 
-- Grus J (2019, 2nd ed) Data Science from Scratch. This book takes you into HOWs and WHYs, rather than just learning to use a library you don't really understand.  This is the harder book, but you will grow tremendously working though it. [Can be accessed for free through your UCSD login](https://library.ucsd.edu/news-events/oreilly-for-higher-education/) 
+- Grus J (2019, 2nd ed) Data Science from Scratch. This book takes you into HOWs and WHYs, rather than just learning to use a library you don't really understand.  This is the harder book, but you will grow tremendously working though it. [Can be accessed for free through your UCSD login](https://library.ucsd.edu/news-events/oreilly-for-higher-education/)
 - Vanderplas, J (2018) [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook). Short and too the point. Both the text and the code are freely available on Github. Learn to use standard libraries to get things done.
 
 We also maintain [a list of readings that can provide insight into various data science topics](https://github.com/COGS108/Readings).
