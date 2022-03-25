@@ -44,16 +44,12 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for the kind of OH slot you want: Zoom or in-person](https://calendar.google.com/calendar/selfsched?sstoken=UUFzQ2RXR3dOVnZwfGRlZmF1bHR8Nzg4NGE1Yzc1NmM0NGJlNzUyZmNjMzgxNGUzYWQ1NzM)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
-| TA 	         | Areeb Syed          | [A01-A02](https://ucsd.zoom.us/j/99020871455) (remote)| [WED 12-2 PM](https://ucsd.zoom.us/j/97645843199) / By appointment (remote)| aas050@ucsd.edu|
-| TA	         | Pooja Pathak        | [A03](https://ucsd.zoom.us/j/96285654809) (remote)    | [TUE 12pm-2pm](https://ucsd.zoom.us/j/91534135447)/By appointment (remote)  | [pmpathak@ucsd.edu](mailto:pmpathak@ucsd.edu)   |
-| TA 	         | Stephen Jarrell     |   |  |   |
-| TA           | Matthew Feigelis    |   |  |   |
-| IA	         |  Jiazheng Bian      |   |  |   |
-| IA	         |  Sahithi Chimmula   |   |  |   |
-| IA           |  Luning Yang        |  None | [FRI 7pm-8pm](https://ucsd.zoom.us/j/6569685700)/By appointment (remote) | [l4yang@ucsd.edu](mailto:l4yang@ucsd.edu)
-| IA           |  Ruoxuan Li         |  None | [TUES 4pm-5pm](https://ucsd.zoom.us/j/98565002417)/By appointment (remote) | [ruli@ucsd.edu](mailto:ruli@ucsd.edu)  |
-| IA           |  Jiayi Zhao         |  None | [WEDS 1pm-2pm](https://ucsd.zoom.us/j/96085281848)/By appointment (remote) | [j4zhao@ucsd.edu](mailto:j4zhao@ucsd.edu)  |
-| IA           |  Zhigang Lin        |  None | [FRI 5pm-6pm](https://ucsd.zoom.us/j/5280072289)/By appointment (remote) | [zhl069@ucsd.edu](mailto:zhl069@ucsd.edu)  |
+| TA	         | Example to be changed  | [A01](https://ucsd.zoom.us/j/96285654809) (remote)    | [TUE 12pm-2pm](https://ucsd.zoom.us/j/91534135447)/By appointment (remote)  | [ta666@ucsd.edu](mailto:ta666@ucsd.edu)   |
+| TA 	         |      |   |  |   |
+| TA           |     |   |  |   |
+| IA	         |        |   |  |   |
+| IA	         |     |   |  |   |
+
 
 Lecture zoom link: https://ucsd.zoom.us/j/98141158504?pwd=V0N2ZHRiNlRXSTlUd3hKYytMNEljdz09
 
