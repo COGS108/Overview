@@ -1,5 +1,6 @@
+Preliminary syllabus and subject to change!
+v0.2 24 March 2022
 
-# PRELIMINARY SYLLABUS! SUBJECT TO CHANGE!!
 # COGS 108: Data Science in Practice
 
 **Spring 2022**  
@@ -8,6 +9,7 @@ also simultaneously on https://ucsd.zoom.us/j/98141158504?pwd=V0N2ZHRiNlRXSTlUd3
 Meeting Id: 981 4115 8504 Password: cogs108
 
 ---
+
 
 **Table of Contents**
 
@@ -48,10 +50,12 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA           | Matthew Feigelis    |   |  |   |
 | IA	         |  Jiazheng Bian      |   |  |   |
 | IA	         |  Sahithi Chimmula   |   |  |   |
-| IA	         |  Wenbo Hu           |   |  |   |
-| IA           |  Pavithra Pandian   |   |  |   |
-| IA           |  Luning Yang        |   |  |   |
+| IA           |  Luning Yang        |  None | [FRI 7pm-8pm](https://ucsd.zoom.us/j/6569685700)/By appointment (remote) | [l4yang@ucsd.edu](mailto:l4yang@ucsd.edu)
+| IA           |  Ruoxuan Li         |  None | [TUES 4pm-5pm](https://ucsd.zoom.us/j/98565002417)/By appointment (remote) | [ruli@ucsd.edu](mailto:ruli@ucsd.edu)  |
+| IA           |  Jiayi Zhao         |  None | [WEDS 1pm-2pm](https://ucsd.zoom.us/j/96085281848)/By appointment (remote) | [j4zhao@ucsd.edu](mailto:j4zhao@ucsd.edu)  |
+| IA           |  Zhigang Lin        |  None | [FRI 5pm-6pm](https://ucsd.zoom.us/j/5280072289)/By appointment (remote) | [zhl069@ucsd.edu](mailto:zhl069@ucsd.edu)  |
 
+Lecture zoom link: https://ucsd.zoom.us/j/98141158504?pwd=V0N2ZHRiNlRXSTlUd3hKYytMNEljdz09
 
 Course GitHub: https://github.com/COGS108  
 
@@ -106,9 +110,8 @@ We also maintain [a list of readings that can provide insight into various data 
 | Discussion Labs | 16\%              | 8 (1/wk)      |
 | Lecture Quizzes      | 8\%               | 8 out of 9 (1/wk)      |
 | Assignments          | 32\%		           | 4             |
-| Project Planning Survey* | 1\%		       | 1             |
 | Project Review*      | 5\%		           | 1             |
-| Project Proposal*    | 8\%		           | 1             |
+| Project Proposal*    | 9\%		           | 1             |
 | Project Checkpoints*   | 10\%              | 2             |
 | Final Report*        | 15%		           | 1             |
 | Final Video*         | 3\%		           | 1             |
@@ -120,11 +123,12 @@ We also maintain [a list of readings that can provide insight into various data 
 
 All grades will be released on Canvas. It is *your responsibility to check that your assignment was submitted, that your grade is accurate, and to get in touch if any are missing and/or you think there is a problem*.
 
-Extra credit worth up to 2% of the final grade will be awarded for
+Extra credit worth up to 2.5% of the final grade will be awarded for
 - Exceptional participation on Piazza: Roughly the top 3% of contributors will get 0.5% bonus to their final grade.  Starting/participating in good discussions, organizing things, answering questions, etc.   
 - Answering the pre & post course surveys will give 0.5% extra credit (0.25% each)
 - Attending both guest lectures either in-person or on Zoom is 0.25% extra credit  
 - Submitting at least one question to the queue for at least one of the guest lectures is 0.25% extra credit
+- Filling out all 7 of the weekly project progress surveys (0.5% of grade, see Project setion below)
 - If >75% of the students fill out CAPE at the end of the quarter there will be an extra 0.5% of the final grade for everyone
 
 Our grading scale is
@@ -180,7 +184,7 @@ Discussion sections are a place where you will be able to ask questions, get hel
 
 Week 1 discussion sections will be for finding group mates for the project. Regular discussion sections will begin Monday of week 2.
 
-| Section |  Date/Time | Location|
+| Section |  Date/Time | Location (ZOOM ONLY FOR NOW!) |
 |:--------|:-----------|:----------|
 | A01	| M	12-12:50a	| PCYNH	121 | 	 
 | A02 | M	2-2:50p	| PCYNH	121 | 	
@@ -255,11 +259,13 @@ Finding a group may be a tad trickier this quarter. As such, we'll offer additio
 
 You will submit who your group is via Google Form by the Friday of week 2 (see Course Schedule). One form will be submitted per group.
 
+If you do not signup for a group by the end of week 2 you will be randomly assigned a group. However you generally don't want that, you'll have more fun if you get on board with people who want to work on the same thing as you. Also in my experience the randomly assigned groups have more trouble than the ones students put together on their own.
+
 ### Project Components
 
 All project components are completed as a group and are described in the Project documentation: https://github.com/COGS108/Projects. This includes: 1) group survey 2) Previous Project Review 3) Project Proposal 4) Project Checkpoint #1: Data, 5) Project Checkpoint #2: EDA, 6) Final Project Report, 7) Final Project Video, and 8) Team Evaluation Survey.
 
-Starting week 3, there will be an *optional* weekly survey to be completed individually describing your project progress. Students who complete all 7 weeks' surveys will earn 1% extra credit to their final grade.
+Starting week 3, there will be an *optional* weekly survey to be completed individually describing your project progress. Students who complete all 7 weeks' surveys will earn 0.5% extra credit to their final grade.
 
 ---
 
@@ -273,29 +279,29 @@ Starting week 3, there will be an *optional* weekly survey to be completed indiv
 | 4/04  | 2    | M     | Version Control II         | --       | --              | Q1           |
 | 4/06  | 2	   | W     | Data & Intuition           | --       | --              | --           |
 | 4/08  | 2	   | F     | Data Wrangling (`pandas`)  | D1       | A1; Project Survey* | --       |
-| 4/11  | 3	   | M     | **No Class - MLK day**     | --       | --              | Q2           |
-| 4/13  | 3	   | W     | Ethics                     | --       | --              | --           |
-| 4/15  | 3	   | F     | Data Science ?s            | D2       | Project Review* | --           |
-| 4/18  | 4	   | M     | Dataviz I                  | --       | --              | Q3           |
-| 4/20  | 4	   | W     | Intro to Analysis          | --       | --              | --           |
-| 4/22  | 4	   | F     | Descriptive Analysis       | D3       | Project Proposal* | --         |
-| 4/25  | 5	   | M     | EDA                        | --       | --              | Q4           |
-| 4/27  | 5	   | W     | Inference I                | --       | --              | --           |   
-| 4/29  | 5	   | F     | Inference II               | D4       | A2              | --           |
-| 5/02  | 6	   | M     | Inference III              | --       | --              | Q5           |
-| 5/04  | 6	   | W     | Text Analysis I            | --       | --              | --           |
-| 5/06  | 6	   | F     | Text Analysis II           |   D5     | Checkpoint #1: Data* | --      |
-| 5/09  | 7	   | M     | Machine Learning I         | --       | --              | Q6           |
-| 5/11  | 7	   | W     | Machine Learning II        | --       | --              | --           |
-| 5/13  | 7	   | F     | Text + ML                  |   D6     | **A3**          | --           |
-| 5/16  | 8	   | M     | **No Class - President's day** | --   | --              | Q7           |  
-| 5/18  | 8	   | W     | Nonparametric              | --       | --              | --           |
-| 5/20  | 8	   | F     | Geospatial I               |   D7     | Checkpoint #2: EDA* |          |
-| 5/23  | 9	   | M     | Geospatial II              | --       | --              | Q8           |
-| 5/25  | 9	   | W     | Dimensionality Reduction   | --       | --              | --           |
-| 5/27  | 9	   | F     | How to be wrong            |   D8     | **A4**          | --           |
-| 5/30  | 10	 | M     | Guest lecture I            | --       | --              | Q9           |
-| 6/01  | 10	 | W     | Guest lecture II           | --       | --              | --           |
+| 4/11  | 3	   | M     | Ethics                     | --       | --              | Q2           |
+| 4/13  | 3	   | W     | Data Science ?s            | --       | --              | --           |
+| 4/15  | 3	   | F     | Dataviz I                  | D2       | Project Review* | --           |
+| 4/18  | 4	   | M     | Intro to Analysis          | --       | --              | Q3           |
+| 4/20  | 4	   | W     | Descriptive Analysis          | --       | --              | --           |
+| 4/22  | 4	   | F     | EDA        | D3       | Project Proposal* | --         |
+| 4/25  | 5	   | M     | Inference I                       | --       | --              | Q4           |
+| 4/27  | 5	   | W     | Inference II                | --       | --              | --           |   
+| 4/29  | 5	   | F     | Inference III               | D4       | A2              | --           |
+| 5/02  | 6	   | M     | Text Analysis I               | --       | --              | Q5           |
+| 5/04  | 6	   | W     | Text Analysis II            | --       | --              | --           |
+| 5/06  | 6	   | F     | Machine Learning I           |   D5     | Checkpoint #1: Data* | --      |
+| 5/09  | 7	   | M     | Machine Learning II         | --       | --              | Q6           |
+| 5/11  | 7	   | W     | Text + ML        | --       | --              | --           |
+| 5/13  | 7	   | F     | Nonparametric                  |   D6     | **A3**          | --           |
+| 5/16  | 8	   | M     | Geospatial I  | --   | --              | Q7           |  
+| 5/18  | 8	   | W     | Geospatial II              | --       | --              | --           |
+| 5/20  | 8	   | F     | Dimensionality Reduction              |   D7     | Checkpoint #2: EDA* |          |
+| 5/23  | 9	   | M     | How to be wrong              | --       | --              | Q8           |
+| 5/25  | 9	   | W     | Guest lecture I   | --       | --              | --           |
+| 5/27  | 9	   | F     | Guest lecture II           |   D8     | **A4**          | --           |
+| 5/30  | 10	 | M     | Memorial day - No lecture     | --       | --              | Q9           |
+| 6/01  | 10	 | W     | Something cool           | --       | --              | --           |
 | 6/03  | 10	 | F     | Data science jobs          |    D9    | --              | --           |
 | 6/06 | Finals | M   | --  | Final project*, video*, team eval survey | -- |
 
