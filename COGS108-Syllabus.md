@@ -272,10 +272,10 @@ Starting week 3, there will be an *optional* weekly survey to be completed indiv
 | -----:|:----:|:-----:|:-------------------        |:---------|:----------------|:-------------|
 | 2/28  | 1	   | M     | Welcome!                   | --       | --              | --           |
 | 2/30  | 1	   | W     | Python Review              | --       | --              | --           |  
-| 4/01  | 1	   | F     | Version Control I          | --       | --              | --           |
+| 4/01  | 1	   | F     | Version Control I          | --       | Practice assignment      | --           |
 | 4/04  | 2    | M     | Version Control II         | --       | --              | Q1           |
 | 4/06  | 2	   | W     | Data & Intuition           | --       | --              | --           |
-| 4/08  | 2	   | F     | Data Wrangling (`pandas`)  | D1       | A1; Project Survey* | --       |
+| 4/08  | 2	   | F     | Data Wrangling (`pandas`)  | D1       | A1; Group signup* | --       |
 | 4/11  | 3	   | M     | Ethics                     | --       | --              | Q2           |
 | 4/13  | 3	   | W     | Data Science ?s            | --       | --              | --           |
 | 4/15  | 3	   | F     | Dataviz I                  | D2       | Project Review* | --           |
