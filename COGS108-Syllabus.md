@@ -106,13 +106,13 @@ We also maintain [a list of readings that can provide insight into various data 
 | -------------: |:-----------------------:|:--------------------------|
 | Discussion Labs | 16\%              | 8 (1/wk)      |
 | Lecture Quizzes      | 8\%               | 8 out of 9 (1/wk)      |
-| Assignments          | 32\%		           | 4             |
+| Assignments (4@8% ea + 1@1%)         | 33\%		           | 5             |
 | Project Review*      | 5\%		           | 1             |
 | Project Proposal*    | 9\%		           | 1             |
 | Project Checkpoints*   | 10\%              | 2             |
 | Final Report*        | 15%		           | 1             |
 | Final Video*         | 3\%		           | 1             |
-| Team Evaluation Survey| 2\%		         | 1             |
+| Team Evaluation Survey| 1\%		         | 1             |
 
 \* Indicates Group Submission
 
