@@ -45,7 +45,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for the kind of OH slot you want: Zoom or in-person](https://calendar.google.com/calendar/selfsched?sstoken=UUFzQ2RXR3dOVnZwfGRlZmF1bHR8Nzg4NGE1Yzc1NmM0NGJlNzUyZmNjMzgxNGUzYWQ1NzM)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
 | TA	         | Shivani Bhakta  |  [A05-A06](https://ucsd.zoom.us/j/91390315465) (Hybrid) | [Wed 11am-1pm](https://ucsd.zoom.us/j/93922231856) (starting Week 2)   | s9bhakta@ucsd.edu   |
-| TA	         | Heeket Mehta  |  A03- A04 | Monday 2pm-4pm  | hmehta@ucsd.edu   |
+| TA	         | Heeket Mehta  |  A03- A04 | Monday 2pm-4pm (CSB 114) | hmehta@ucsd.edu   |
 | TA 	         | Shanay Shah |A01-A02 | Friday 10am -12pm (remote) |shs004@ucsd.edu| 
 | TA           |   Yueyan Tang  | A07  | FRI 3pm-5pm | yyt005@ucsd.edu  |
 | IA	         | Xiqiang Liu | ---  | [WED 4pm-5pm](https://ucsd.zoom.us/j/95528452127)/By appointment (remote) | [xil073@ucsd.edu](mailto:xil073@ucsd.edu)  |
