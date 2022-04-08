@@ -50,7 +50,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA           |   Yueyan Tang  | A07  | FRI 3pm-5pm | yyt005@ucsd.edu  |
 | IA	         | Xiqiang Liu | ---  | [WED 4pm-5pm](https://ucsd.zoom.us/j/95528452127)/By appointment (remote) | [xil073@ucsd.edu](mailto:xil073@ucsd.edu)  |
 | IA	         | Suzy Anil | ---  | [TUES 1-2pm](https://ucsd.zoom.us/j/3102664300)/By appointment (remote) | [sanil@ucsd.edu](mailto:sanil@ucsd.edu)  |
-| IA	         | Sizhe Fan | --- |[WED 4pm-5pm ](https://ucsd.zoom.us/j/94985677100) / By appointment (remote)|[sfan@ucsd.edu](mailto:sfan@ucsd.edu) |
+| IA	         | Sizhe Fan | --- |By appointment (remote)|[sfan@ucsd.edu](mailto:sfan@ucsd.edu) |
 
 
 Lecture zoom link: https://ucsd.zoom.us/j/98141158504?pwd=V0N2ZHRiNlRXSTlUd3hKYytMNEljdz09
