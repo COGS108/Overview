@@ -47,7 +47,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         | Shivani Bhakta  |  [A05-A06](https://ucsd.zoom.us/j/91390315465) (Hybrid) | [Wed 8am-10am](https://ucsd.zoom.us/j/93922231856) | s9bhakta@ucsd.edu   |
 | TA	         | Heeket Mehta  |  A03- A04 | Monday 2pm-4pm (CSB 114) | hmehta@ucsd.edu   |
 | TA 	         | Shanay Shah |A01-A02 | [Friday 11:30am -1:30pm](https://ucsd.zoom.us/j/5955001970) (remote) |shs004@ucsd.edu| 
-| TA           |   Yueyan Tang  | A07  | FRI 3PM-5PM(remote for W9)| yyt005@ucsd.edu  |
+| TA           |   Yueyan Tang  | A07  | FRI 3PM-5PM(APM B432)| yyt005@ucsd.edu  |
 | IA	         | Xiqiang Liu | ---  | [WED 4pm-5pm](https://ucsd.zoom.us/j/95528452127) (remote) | [xil073@ucsd.edu](mailto:xil073@ucsd.edu)  |
 | IA	         | Suzy Anil | ---  | [TUES 1-2pm](https://ucsd.zoom.us/j/3102664300)/By appointment (remote) | [sanil@ucsd.edu](mailto:sanil@ucsd.edu)  |
 | IA	         | Sizhe Fan | --- |By appointment (remote)|[sfan@ucsd.edu](mailto:sfan@ucsd.edu) |
