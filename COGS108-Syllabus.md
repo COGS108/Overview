@@ -300,7 +300,7 @@ Starting week 3, there will be an *optional* weekly survey to be completed indiv
 | 5/27  | 9	   | F     | Guest lecture II           |   D8     | **A4**          | --           |
 | 5/30  | 10	 | M     | Memorial day - No lecture     | --       | --              | Q9           |
 | 6/01  | 10	 | W     | Something cool           | --       | --              | --           |
-| 6/03  | 10	 | F     | Data science jobs          |    D9    | --              | --           |
+| 6/03  | 10	 | F     | Data science jobs          |       | --              | --           |
 | 6/06 | Finals | M   | --  | Final project*, video*, team eval survey | -- |
 
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
