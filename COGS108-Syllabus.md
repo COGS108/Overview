@@ -1,10 +1,10 @@
 Preliminary syllabus and subject to change!
-v0.2 24 March 2022
+v0.1 13 September 2022
 
 # COGS 108: Data Science in Practice
 
-**Spring 2022**  
-MWF 10-10:50am in-person at The Jeannie Auditorium (GAA), New Sixth College
+**Fall 2022**  
+MWF 10-10:50am in-person at Galbraith Hall 242
 also simultaneously on https://ucsd.zoom.us/j/98141158504?pwd=V0N2ZHRiNlRXSTlUd3hKYytMNEljdz09
 Meeting Id: 981 4115 8504 Password: cogs108
 
@@ -44,26 +44,26 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for the kind of OH slot you want: Zoom or in-person](https://calendar.google.com/calendar/selfsched?sstoken=UUFzQ2RXR3dOVnZwfGRlZmF1bHR8Nzg4NGE1Yzc1NmM0NGJlNzUyZmNjMzgxNGUzYWQ1NzM)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
-| TA	         | Shivani Bhakta  |  [A05-A06](https://ucsd.zoom.us/j/91390315465) (Hybrid) | [Wed 8am-10am](https://ucsd.zoom.us/j/93922231856) | s9bhakta@ucsd.edu   |
-| TA	         | Heeket Mehta  |  A03- A04 | Monday 2pm-4pm (CSB 114) | hmehta@ucsd.edu   |
-| TA 	         | Shanay Shah |A01-A02 | [Friday 11:30am -1:30pm](https://ucsd.zoom.us/j/5955001970) (remote) |shs004@ucsd.edu| 
-| TA           |   Yueyan Tang  | A07  | FRI 3PM-5PM(APM B432)| yyt005@ucsd.edu  |
-| IA	         | Xiqiang Liu | ---  | [WED 4pm-5pm](https://ucsd.zoom.us/j/95528452127) (remote) | [xil073@ucsd.edu](mailto:xil073@ucsd.edu)  |
-| IA	         | Suzy Anil | ---  | [TUES 1-2pm](https://ucsd.zoom.us/j/3102664300)/By appointment (remote) | [sanil@ucsd.edu](mailto:sanil@ucsd.edu)  |
-| IA	         | Sizhe Fan | --- |By appointment (remote)|[sfan@ucsd.edu](mailto:sfan@ucsd.edu) |
+| TA	         |                     |                  |               |               |
+| TA	         |                     |                  |               |               |
+| TA	         |                     |                  |               |               |
+| TA	         |                     |                  |               |               |
+| IA	         |                     |                  |               |               |
+| IA	         |                     |                  |               |               |
+| IA	         |                     |                  |               |               |
+| IA	         |                     |                  |               |               |
 
-
-Lecture zoom link: https://ucsd.zoom.us/j/98141158504?pwd=V0N2ZHRiNlRXSTlUd3hKYytMNEljdz09
+Lecture zoom link: https://ucsd.zoom.us/j/99741596334
 
 Course GitHub: https://github.com/COGS108  
 
-Course Piazza*: https://piazza.com/ucsd/spring2022/cogs108
+Course Piazza*: https://piazza.com/class/l7z9793pwed43l
 
-Course Canvas: https://canvas.ucsd.edu/courses/36591
+Course Canvas: https://canvas.ucsd.edu/courses/39457
 
 Assignment Submission: https://datahub.ucsd.edu  
 
-Anonymous Course Feedback: [Fill out this form](https://forms.gle/GFaUFUZYLnpQzEAW6)
+Anonymous Course Feedback: https://forms.gle/3xiCoRQYFaiBnMSu5
 
 *You will be able to post anonymously on Piazza; however, you will only be anonymous to your classmates. Your Instructor and TAs will be able to see who you are.
 
