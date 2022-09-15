@@ -193,7 +193,7 @@ The first discussion section will start on Fri Sep 30.  There will be no discuss
 
 ### Discussion section lab exercises
 
-Each week (starting week 2) there will be a short, guided lab exercise to review material from lecture and give hands-on programming experience.  These lab exercises will be released on the Friday BEFORE the corresponding lab section. Students will have a week to complete them, so they are due the Friday AFTER the corresponding lab section. There will be 8 discussion lab exercises. Each is worth 2 points.
+Each week there will be a short, guided lab exercise to review material from lecture and give hands-on programming experience.  These lab exercises will be released on the Wednesday BEFORE the corresponding lab section. Students will have a week to complete them, so they are due the Wednesday AFTER the corresponding lab section. There will be 8 discussion lab exercises. Each is worth 2 points.
 
 ---
 
