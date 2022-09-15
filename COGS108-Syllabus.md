@@ -1,12 +1,12 @@
 Preliminary syllabus and subject to change!
-v0.1 13 September 2022
+v0.2 15 September 2022
 
 # COGS 108: Data Science in Practice
 
 **Fall 2022**  
-MWF 10-10:50am in-person at Galbraith Hall 242
-also simultaneously on https://ucsd.zoom.us/j/98141158504?pwd=V0N2ZHRiNlRXSTlUd3hKYytMNEljdz09
-Meeting Id: 981 4115 8504 Password: cogs108
+MWF 10-10:50am in-person at Galbraith Hall 242 <br>
+alternatives to in person (please do not attend lecture if you are ill!) <br>
+https://podcast.ucsd.edu  or https://ucsd.zoom.us/j/99741596334 
 
 ---
 
@@ -43,7 +43,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
-| Instructor   | Jason Fleischer     |   ---         | [Signup for the kind of OH slot you want: Zoom or in-person](https://calendar.google.com/calendar/selfsched?sstoken=UUFzQ2RXR3dOVnZwfGRlZmF1bHR8Nzg4NGE1Yzc1NmM0NGJlNzUyZmNjMzgxNGUzYWQ1NzM)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
+| Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUFzQ2RXR3dOVnZwfGRlZmF1bHR8Nzg4NGE1Yzc1NmM0NGJlNzUyZmNjMzgxNGUzYWQ1NzM)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
 | TA	         |                     |                  |               |               |
 | TA	         |                     |                  |               |               |
 | TA	         |                     |                  |               |               |
@@ -158,7 +158,8 @@ That said, there is no component of your grade that is based on attendance or li
 
 # LECTURE
 
-Lectures are MWF 10-10:50am in The Jeannie (GAA) Auditorium. It is part of New Sixth College, located on the SE corner of the North Torrey Pines Living + Learning Neighborhood, just to the west of Peterson Hall, and just north of AP&M.
+Lectures are MWF 10-10:50am in Galbraith Hall 242. Click [here for a map to the building](https://blink.ucsd.edu/sponsor/advancement/advancement-services/stewardship/named-buildings/galbraith-hall.html).
+<!--The Jeannie (GAA) Auditorium. It is part of New Sixth College, located on the SE corner of the North Torrey Pines Living + Learning Neighborhood, just to the west of Peterson Hall, and just north of AP&M.-->
 
 In-person lectures will be offered as a hybrid class: they will be in-person, available synchronously online via Zoom, and recorded for your later viewing. Those on Zoom will be able to ask questions but may not be able to participate in some useful class exercises.
 
@@ -166,9 +167,7 @@ For in-person lectures **a negative symptom check from that day and a properly w
 
 Those concerns aside, don't let me scare you away from coming to lecture in-person: it is the most engaging way you can absorb the material and it gives you the best opportunity to be an active participant. Students who actively engage in the learning process do better than those who passively absorb material given to them. I hope that my strict illness policies encourage students who wish to attend in-person to do so.
 
-In-person lectures will be broadcast simultaneously [on this Zoom link](https://ucsd.zoom.us/j/98141158504?pwd=V0N2ZHRiNlRXSTlUd3hKYytMNEljdz09) If for some reason that link doesn't work, the Meeting ID is 989 4028 2726 and the password is cogs108. You can also use our Canvas page to start Zoom with the proper link.
-
-Every lecture will also be recorded and shared so that students who are not able to or choose not to watch during the scheduled class time are still able to receive and digest all class materials. Lecture recordings will be available on both podcast.ucsd.edu and on Canvas in the Media Gallery later on the day the live lecture is delivered.
+In-person lectures will be broadcast simultaneously on Zoom (see above links). You can also use our Canvas page to start Zoom. Every lecture will also be recorded and shared so that students who are not able to or choose not to watch during the scheduled class time are still able to receive and digest all class materials. Lecture recordings will be available on both podcast.ucsd.edu and on Canvas in the Media Gallery later on the day the live lecture is delivered.
 
 ### Lecture Quizzes
 
