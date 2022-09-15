@@ -179,17 +179,17 @@ At the end of each Friday, a quiz with ~10 questions will be released, covering 
 
 Discussion sections are a place where you will be able to ask questions, get help on technical topics, work on your group projects, and discuss the weekly lab exercises. If you are struggling with course material come to discussion section and/or office hours!
 
-Week 1 discussion sections will be for finding group mates for the project. Regular discussion sections will begin Monday of week 2.
+The first discussion section will start on Fri Sep 30.  There will be no discussion sections run until that date.
 
-| Section |  Date/Time | Location (ZOOM ONLY FOR NOW!) |
+| Section |  Date/Time | Location |
 |:--------|:-----------|:----------|
-| A01	| M	12-12:50a	| PCYNH	121 | 	 
-| A02 | M	2-2:50p	| PCYNH	121 | 	
-| A03	| W	12-12:50p	| PETER	103 | 	
-| A04	| W	1-1:50a	| PETER	103 | 	
-| A05	| W	2-2:50p | PCYNH	121	|
-| A06	| W	3-3:50p	| PCYNH	121 | 	
-| A07	| F	5-5:50p	| WLH	2111	|
+| A01	|	F	12:00p-12:50p	| HSS	1346 | 	 
+| A02 | M	12:00p-12:50p	| MANDE	B-150 | 	
+| A03	| M	1:00p-1:50p| HSS	1346 | 	
+| A04	| M	2:00p-2:50p	| HSS	1346 | 	
+| A05	| M	3:00p-3:50p | HSS	1346	|
+| A06	| M	4:00p-4:50p	| MANDE	B-150 | 	
+| A07	| M	5:00p-5:50p	| WLH	2111	|
 
 ### Discussion section lab exercises
 
