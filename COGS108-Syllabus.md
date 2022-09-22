@@ -44,7 +44,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUFzQ2RXR3dOVnZwfGRlZmF1bHR8Nzg4NGE1Yzc1NmM0NGJlNzUyZmNjMzgxNGUzYWQ1NzM)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
-| TA	         |                     |                  |               |               |
+| TA	         | Shanay Shah         | A05 M 3:00p-3:50p| Friday 10-12pm|[shs004@ucsd.edu](mailto:shs004@ucsd.edu)  |
 | TA	         |                     |                  |               |               |
 | TA	         |                     |                  |               |               |
 | TA	         |                     |                  |               |               |
