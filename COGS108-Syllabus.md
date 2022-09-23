@@ -48,7 +48,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         | Akshay Nagarajan    | A04 M 2:00p-2:50p, A06 M 4:00p-4:50p | Tue,Thu 9-10am [(zoom link)](https://ucsd.zoom.us/j/93413832793)| [anagaraj@ucsd.edu](mailto:anagaraj@ucsd.edu)              |
 | TA	         | Heeket Mehta        | A01 F 12:00p-12:50p, A03 M 1:00p-1:50p | Wednesday 8:30-10:30am| [hmehta@ucsd.edu](mailto:hmehta@ucsd.edu) |
 | TA	         |                     |                  |               |               |
-| IA	         | Winnie She          |                  |               |               | [y2she@ucsd.edu](mailto:y2she@ucsd.edu)
+| IA	         | Winnie She          | ---              | [Tue 8-9am](https://ucsd.zoom.us/j/9571658850) (remote)| [y2she@ucsd.edu](mailto:y2she@ucsd.edu) |
 | IA	         |                     |                  |               |               |
 | IA	         |                     |                  |               |               |
 | IA	         |                     |                  |               |               |
