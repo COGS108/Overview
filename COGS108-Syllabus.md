@@ -49,7 +49,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         | Heeket Mehta        | A01 F 12:00p-12:50p, A03 M 1:00p-1:50p | Wednesday 8:30-10:30am| [hmehta@ucsd.edu](mailto:hmehta@ucsd.edu) |
 | TA	         |                     |                  |               |               |
 | IA	         | Winnie She          | ---              | [Tue 8-9am](https://ucsd.zoom.us/j/9571658850) (remote)| [y2she@ucsd.edu](mailto:y2she@ucsd.edu) |
-| IA	         |                     |                  |               |               |
+| IA	         | Jason Chen          |                  |   email for appointments  |     [xic007@ucsd.edu](mailto:y2she@ucsd.edu)|
 | IA	         |                     |                  |               |               |
 | IA	         |                     |                  |               |               |
 
