@@ -117,7 +117,7 @@ We also maintain [a list of readings that can provide insight into various data 
 
 \* Indicates Group Submission
 
-**Final exam**: This course has no final exam. Do not show up on the date/time of the final exam.  Instead this course has a final project. The project deadline is Jun 6th at 11:59 PM
+**Final exam**: This course has no final exam. Do not show up on the date/time of the final exam.  Instead this course has a final project. The project deadline is Dec 9th at 11:59 PM
 
 All grades will be released on Canvas. It is *your responsibility to check that your assignment was submitted, that your grade is accurate, and to get in touch if any are missing and/or you think there is a problem*.
 
