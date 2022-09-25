@@ -51,7 +51,8 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | IA	         | Winnie She          | ---              | [Tue 8-9am](https://ucsd.zoom.us/j/9571658850) (remote)| [y2she@ucsd.edu](mailto:y2she@ucsd.edu) |
 | IA	         | Jason Chen          |                  |   email for appointments  |     [xic007@ucsd.edu](mailto:xic007@ucsd.edu)|
 | IA	         | Linghang Kong       |                  | [Fri 7-8pm](https://ucsd.zoom.us/j/8101919514) (remote)| [l3kong@ucsd.edu](mailto:l3kong@ucsd.edu)|
-| IA	         | Raunit Kohli        |                  | Thu 11am-12 (CSB 114)     | [rkohli@ucsd.edu](mailto:rkohli@ucsd.edu)    |
+| IA	         | Raunit Kohli        |                  | Thu 11am-12 (CSB 114)     | [rkohli@ucsd.edu](mailto:rkohli@ucsd.edu)     |
+| IA           | Christian Kim       |                  | [Thu 1-2pm](https://ucsd.zoom.us/j/6040142391) (remote) | [csk001@ucsd.edu](mailto:csk001@ucsd.edu) |
 
 Lecture zoom link: https://ucsd.zoom.us/j/99741596334
 
