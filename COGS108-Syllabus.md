@@ -53,6 +53,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | IA	         | Linghang Kong       |                  | [Fri 7-8pm](https://ucsd.zoom.us/j/8101919514) (remote)| [l3kong@ucsd.edu](mailto:l3kong@ucsd.edu)|
 | IA	         | Raunit Kohli        |                  | Thu 11am-12 (CSB 114)     | [rkohli@ucsd.edu](mailto:rkohli@ucsd.edu)     |
 | IA           | Christian Kim       |                  | Thu 1-2pm (CSB 114)       | [csk001@ucsd.edu](mailto:csk001@ucsd.edu) |
+| IA           | Cody Li             |                  | Tue 9-10am (CSB 114)      | [dol005@ucsd.edu](mailto:dol005@ucsd.edu) |
 
 Lecture zoom link: https://ucsd.zoom.us/j/99741596334
 
