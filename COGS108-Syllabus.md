@@ -46,8 +46,8 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUFzQ2RXR3dOVnZwfGRlZmF1bHR8Nzg4NGE1Yzc1NmM0NGJlNzUyZmNjMzgxNGUzYWQ1NzM)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
 | TA	         | Shanay Shah         | A05 M 3:00p-3:50p, A07 M 5:00p-5:50p| Friday 9-11am|[shs004@ucsd.edu](mailto:shs004@ucsd.edu)  |
 | TA	         | Akshay Nagarajan    | A04 M 2:00p-2:50p, A06 M 4:00p-4:50p | Tue,Thu 9-10am [(zoom link)](https://ucsd.zoom.us/j/93413832793)| [anagaraj@ucsd.edu](mailto:anagaraj@ucsd.edu)              |
-| TA	         | Heeket Mehta        | A01 F 12:00p-12:50p, A03 M 1:00p-1:50p | Wednesday 8:30-10:30am| [hmehta@ucsd.edu](mailto:hmehta@ucsd.edu) |
-| TA	         | Chaolan Lin         |                  | [Fri 8-10am](https://ucsd.zoom.us/j/95460575216) (remote)| [chlin@ucsd.edu](mailto:chlin@ucsd.edu)|
+| TA	         | Heeket Mehta        |A03 M 1:00p-1:50p | Wednesday 8:30-10:30am| [hmehta@ucsd.edu](mailto:hmehta@ucsd.edu) |
+| TA	         | Chaolan Lin         |A01 F 12:00p-12:50p | [Fri 8-10am](https://ucsd.zoom.us/j/95460575216) (remote)| [chlin@ucsd.edu](mailto:chlin@ucsd.edu)|
 | IA	         | Winnie She          | ---              | [Tue 8-9am](https://ucsd.zoom.us/j/9571658850) (remote)| [y2she@ucsd.edu](mailto:y2she@ucsd.edu) |
 | IA	         | Jason Chen          |                  |   email for appointments  |     [xic007@ucsd.edu](mailto:xic007@ucsd.edu)|
 | IA	         | Linghang Kong       |                  | [Fri 7-8pm](https://ucsd.zoom.us/j/8101919514) (remote)| [l3kong@ucsd.edu](mailto:l3kong@ucsd.edu)|
