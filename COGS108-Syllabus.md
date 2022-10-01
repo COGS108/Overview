@@ -276,31 +276,31 @@ Starting week 3, there will be an *optional* weekly survey to be completed indiv
 | 9/26/2022  | 1      | M   | Python Review            | \--            |         | \--                                        | \--              |
 | 9/28/2022  | 1      | W   | Version Control I        | \--            |         | \--                                        | \--              |
 | 9/30/2022  | 1      | F   | Version Control II       | D1             |         | Practice assignment                        | \--              |
-| 10/3/2022  | 2      | M   | Data & Intuition         | D1             |         |                                            | Q1               |
-| 10/5/2022  | 2      | W   | Data Wrangling (pandas)  | \--            | D1      | \--                                        | \--              |
-| 10/7/2022  | 2      | F   | Ethics                   | D2             |         | A1; Group Signup\*                         | \--              |
-| 10/10/2022 | 3      | M   | Data Science ?s          | D2             |         | \--                                        | Q2               |
-| 10/12/2022 | 3      | W   | Dataviz I                | \--            | D2      | \--                                        | \--              |
-| 10/14/2022 | 3      | F   | Intro to Analysis        |                |         | Project Review\*                           | \--              |
-| 10/17/2022 | 4      | M   | Descriptive Analysis     | D3             |         | \--                                        | Q3               |
+| 10/3/2022  | 2      | M   | Data & Intuition         | D1             |         | \--                                        | Q1               |
+| 10/5/2022  | 2      | W   | Data Wrangling (pandas)  | \--            |         | \--                                        | \--              |
+| 10/7/2022  | 2      | F   | Ethics                   | D2             | D1      | \--                                        | \--              |
+| 10/10/2022 | 3      | M   | Data Science ?s          | D2             |         | A1; Group Signup\*                         | Q2               |
+| 10/12/2022 | 3      | W   | Dataviz I                | \--            |         | \--                                        | \--              |
+| 10/14/2022 | 3      | F   | Intro to Analysis        | D3             | D2      | \--                                        | \--              |
+| 10/17/2022 | 4      | M   | Descriptive Analysis     | D3             |         | Project Review\*                           | Q3               |
 | 10/19/2022 | 4      | W   | EDA                      | \--            |         | \--                                        | \--              |
-| 10/21/2022 | 4      | F   | Inference I              | D3             |         | Project Proposal\*                         | \--              |
-| 10/24/2022 | 5      | M   | Inference II             | D4             |         | \--                                        | Q4               |
+| 10/21/2022 | 4      | F   | Inference I              | D4             | D3      | \--                                        | \--              |
+| 10/24/2022 | 5      | M   | Inference II             | D4             |         | Project Proposal\*                         | Q4               |
 | 10/26/2022 | 5      | W   | Inference III            | \--            |         | \--                                        | \--              |
-| 10/28/2022 | 5      | F   | Text Analysis I          | D4             |         | A2                                         | \--              |
-| 10/31/2022 | 6      | M   | Text Analysis II         | D5             |         | \--                                        | Q5               |
+| 10/28/2022 | 5      | F   | Text Analysis I          | D5             | D4      | \--                                        | \--              |
+| 10/31/2022 | 6      | M   | Text Analysis II         | D5             |         | A2                                         | Q5               |
 | 11/2/2022  | 6      | W   | Machine Learning I       | \--            |         | \--                                        | \--              |
-| 11/4/2022  | 6      | F   | Machine Learning II      | D5             |         | Checkpoint #1: Data\*                      | \--              |
-| 11/7/2022  | 7      | M   | Text + ML                | D6             |         | \--                                        | Q6               |
+| 11/4/2022  | 6      | F   | Machine Learning II      | D6             | D5      | \--                                        | \--              |
+| 11/7/2022  | 7      | M   | Text + ML                | D6             |         | Checkpoint #1: Data\*                      | Q6               |
 | 11/9/2022  | 7      | W   | Nonparametric            | \--            |         | \--                                        | \--              |
-| 11/11/2022 | 7      | F   | No class - Veterans day  | D6             |         | A3                                         | \--              |
-| 11/14/2022 | 8      | M   | Geospatial I             | D7             |         | \--                                        | Q7               |
+| 11/11/2022 | 7      | F   | No class - Veterans day  | \--            | D6      | \--                                        | \--              |
+| 11/14/2022 | 8      | M   | Geospatial I             | D7             |         | A3                                         | Q7               |
 | 11/16/2022 | 8      | W   | Geospatial II            | \--            |         | \--                                        | \--              |
-| 11/18/2022 | 8      | F   | Dimensionality Reduction | D7             |         | Checkpoint #2: EDA\*                       | \--              |
-| 11/21/2022 | 9      | M   | How to be wrong          | D8             |         | \--                                        | Q8               |
+| 11/18/2022 | 8      | F   | Dimensionality Reduction | D8             | D7      | \--                                        | \--              |
+| 11/21/2022 | 9      | M   | How to be wrong          | D8             |         | Checkpoint #2: EDA\*                       | Q8               |
 | 11/23/2022 | 9      | W   | How to be wrong II       | \--            |         | \--                                        | \--              |
-| 11/25/2022 | 9      | F   | No class - Thanksgiving  | D8             |         | A4                                         | \--              |
-| 11/28/2022 | 10     | M   | Guest lecture I          | \--            |         | \--                                        | Q9               |
+| 11/25/2022 | 9      | F   | No class - Thanksgiving  | \--            | D8      | \--                                        | \--              |
+| 11/28/2022 | 10     | M   | Guest lecture I          | Projects       |         | A4                                         | Q9               |
 | 11/30/2022 | 10     | W   | Guest lecture II         |                |         | \--                                        | \--              |
 | 12/2/2022  | 10     | F   | Data science jobs        |                |         | \--                                        | \--              |
 | 12/5/2022  | Finals | M   | \--                      |                |         | \--                                        |                  |
