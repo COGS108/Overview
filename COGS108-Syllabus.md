@@ -195,7 +195,7 @@ The first discussion section will start on Fri Sep 30.  There will be no discuss
 
 ### Discussion section lab exercises
 
-Each week there will be a short, guided lab exercise to review material from lecture and give hands-on programming experience.  These lab exercises will be released on the Wednesday BEFORE the corresponding lab section. Students will have a week to complete them, so they are due the Wednesday AFTER the corresponding lab section. There will be 8 discussion lab exercises. Each is worth 2 points.
+Each week there will be a short, guided lab exercise to review material from lecture and give hands-on programming experience.  These lab exercises will be released on the Wednesday BEFORE the corresponding lab section. Students will have ten (10) days to complete them, so they are due the Friday AFTER the corresponding lab section. There will be 8 discussion lab exercises. Each is worth 2 points.
 
 ---
 
@@ -215,7 +215,7 @@ Also, your instructional staff may not know the answer to everything off the top
 
 ### Turning In Assignments
 
-Assignments will be submitted individually on datahub. We’ll talk about the details for submission in class. Assignments will always be released at least a week before the assignment due date. On weeks with assignment deadlines, they will always be due Friday at 11:59 PM of the week specified (see Course Schedule below).
+Assignments will be submitted individually on datahub. We’ll talk about the details for submission in class. Assignments will always be released at least a week before the assignment due date. On weeks with assignment deadlines, they will always be due Monday at 11:59 PM of the week specified (see Course Schedule below).
 
 **Check to ensure that your file shows up under “Submitted assignments” on datahub after you click submit!!!**. If the file is the incorrect file, corrupted, or otherwise unreadable, we cannot grade it and we will mark your assignment as late. There will be at least a dozen people each quarter who tell say "I'm so sorry I forgot to click submit! Can I please get it graded without late?" And my answer will be no. Do not be that person!
 
@@ -253,10 +253,10 @@ Your course project will be completed in a group of 4-5 people. The reality of d
 Finding a group may be a tad trickier this quarter. As such, we'll offer additional support. Groups can be found in a few different ways:
 
 1. If you have people in the class you know you want to work with, chat with one another and if you're all on board, form a group.
-2. There will be time to find groups in discussion section during week 1.
+2. There will be time to find groups in discussion section during week 1 & 2.
 3. If you don't know people in the class or don't have people you want to work with, no problem. Piazza has a feature where you can look for group mates - check for that post and look through there to find group mates
 
-You will submit who your group is via Google Form by the Friday of week 2 (see Course Schedule). One form will be submitted per group.
+You will submit who your group is via Google Form by the Monday of week 3 (see Course Schedule). One form will be submitted per group.
 
 If you do not signup for a group by the end of week 2 you will be randomly assigned a group. However you generally don't want that, you'll have more fun if you get on board with people who want to work on the same thing as you. Also in my experience the randomly assigned groups have more trouble than the ones students put together on their own.
 
