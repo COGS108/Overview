@@ -48,7 +48,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         | Akshay Nagarajan    | A02 M 12-12:50p, A04 M 2:00p-2:50p| Tue,Thu 9-10am [(zoom link)](https://ucsd.zoom.us/j/93413832793)| [anagaraj@ucsd.edu](mailto:anagaraj@ucsd.edu)              |
 | TA	         | Heeket Mehta        |A06 M 4:00p-4:50p | Tuesday 6-8pm (CSB 114)| [hmehta@ucsd.edu](mailto:hmehta@ucsd.edu) |
 | TA	         | Chaolan Lin         |A01 F 12:00p-12:50p | [Fri 8-10am](https://ucsd.zoom.us/j/95460575216) (remote)| [chlin@ucsd.edu](mailto:chlin@ucsd.edu)|
-| IA	         | Winnie She          | ---              | [Tue 8-8:50am](https://ucsd.zoom.us/j/9571658850) (remote)| [y2she@ucsd.edu](mailto:y2she@ucsd.edu) |
+| IA	         | Winnie She          | ---              | [Tue 8-8:50am](https://ucsd.zoom.us/j/9571658850) (remote) **Nov 1st OH will be moved to Nov 3rd** | [y2she@ucsd.edu](mailto:y2she@ucsd.edu) |
 | IA	         | Jason Chen          |A03 M 1-1:50pm    |   email for appointments (No last-minute appointments please)  |     [xic007@ucsd.edu](mailto:xic007@ucsd.edu)|
 | IA	         | Linghang Kong       |                  | [Fri 7-8pm](https://ucsd.zoom.us/j/8101919514) (remote)| [l3kong@ucsd.edu](mailto:l3kong@ucsd.edu)|
 | IA	         | Raunit Kohli        |                  | Thu 11am-12 (CSB 114)     | [rkohli@ucsd.edu](mailto:rkohli@ucsd.edu)     |
