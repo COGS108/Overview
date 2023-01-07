@@ -1,10 +1,10 @@
 # Overview
 
-COGS 108 - Data Science in Practice - is a class offered by the Cognitive Science Department of UC San Diego, taught by Professors Bradley Voytek, Shannon Ellis, and Jason Fleischer. Here is an overview and map of the COGS 108 Organization, which hosts materials and assignments for the class.
+COGS 108 - Data Science in Practice - is a class offered by the Cognitive Science Department of UC San Diego, taught by Professors Bradley Voytek, Shannon Ellis, Jason Fleischer, and most recently Dr. Alex Simpkins. Here is an overview and map of the COGS 108 Organization, which hosts materials and assignments for the class.
 
 ## Syllabus 
 
-The most recent iteration of this class is Winter Quarter 2022, the **syllabus** for which is available [here](https://github.com/COGS108/Overview/blob/master/COGS108-Syllabus.md).
+The most recent iteration of this class is Winter Quarter 2023, the **syllabus** for which is available [here](https://github.com/COGS108/Overview/blob/master/COGS108-Syllabus.md).
 
 
 ## Lectures
