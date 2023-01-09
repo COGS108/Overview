@@ -9,7 +9,7 @@ The most recent iteration of this class is Winter Quarter 2023, the **syllabus**
 
 ## Lectures
 
-* [Slides and materials](https://github.com/COGS108/Lectures-Sp22) will be organized by week. All links to class videos, slides, and notebooks used MWF will be included here.
+* [Slides and materials](https://github.com/COGS108/Lectures-Wi23) will be organized by week. All links to class videos, slides, and notebooks used TuTh will be included here.
 
 ## Discussion Section
 
