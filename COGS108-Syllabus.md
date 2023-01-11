@@ -50,7 +50,7 @@ In this course, you will try many methods. You'll even be asked to implement a t
 | TA	| Tapan Sahni |TBA | TBA| [tsahni@ucsd.edu](mailto:tsahni@ucsd.edu)|
 | IA	| Xiaotong (Tony) | TBA | TBA| [x6zeng@ucsd.edu](mailto:x6zeng@ucsd.edu) |
 | IA	| Robert Kovar |TBA | TBA | [rkovar@ucsd.edu](mailto:rkovar@ucsd.edu)|
-| IA	| Tian Gao | |TBA | TBA | [tgao@ucsd.edu](mailto:tgao@ucsd.edu)|
+| IA	| Tian Gao | TBA | TBA | [tgao@ucsd.edu](mailto:tgao@ucsd.edu)|
 | IA	|Valli Nachiappan | TBA | TBA | [vnachiap@ucsd.edu](mailto:vnachiap@ucsd.edu) |
 | IA | Zikang Chen | TBA | TBA | [zic017@ucsd.edu](mailto:zic017@ucsd.edu) |
 | IA | Zairan Xiang | TBA | TBA | [zaxiang@ucsd.edu](mailto:zaxiang@ucsd.edu) |
