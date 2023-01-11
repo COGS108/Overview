@@ -43,7 +43,7 @@ In this course, you will try many methods. You'll even be asked to implement a t
 
 | Role | Name | Section | Office Hours | Contact | 
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
-| Instructor | Alex Simpkins | --- | [Signup for office hours](TBA) | [csimpkinsjr@ucsd.edu](mailto:&#99;&#115;&#105;&#109;&#112;&#107;&#105;&#110;&#115;&#106;&#114;&#64;&#117;&#99;&#115;&#100;&#46;&#101;&#100;&#117;) |
+| Instructor | Alex Simpkins | --- | [TBA](TBA) | [csimpkinsjr@ucsd.edu](mailto:&#99;&#115;&#105;&#109;&#112;&#107;&#105;&#110;&#115;&#106;&#114;&#64;&#117;&#99;&#115;&#100;&#46;&#101;&#100;&#117;) |
 | TA	| Matthew Fain | TBA| TBA |[mfain@ucsd.edu](mailto:mfain@ucsd.edu) |
 | TA	| Ruby Ying (Zhuojun) | TBA| TBA| [z5ying@ucsd.edu](mailto:z5ying@ucsd.edu) |
 | TA	| Aditya Jeswani |TBA | TBA| [ajeswani@ucsd.edu](mailto:ajeswani@ucsd.edu) |
