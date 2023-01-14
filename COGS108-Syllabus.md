@@ -65,7 +65,7 @@ Course Canvas: https://canvas.ucsd.edu/courses/44466
 
 Assignment Submission: https://datahub.ucsd.edu 
 
-Anonymous Course Feedback: TBA
+Anonymous Course Feedback: https://forms.gle/yTZWVHCYsCEqur1v5
 
 *You will be able to post anonymously on Piazza; however, you will only be anonymous to your classmates. Your Instructor and TAs will be able to see who you are.
 
