@@ -183,7 +183,7 @@ Discussion sections are a place where you will be able to ask questions, get hel
 
 The first discussion section will start on W Jan 18. There will be no discussion sections run until that date.
 
-| Section ID| LE/LA | Section | Date/Time | Location |
+| Section ID| LE/LA | Day | Section | Date/Time | Location |
 |100325|LA |A01|F  |11:00a-11:50a|CENTR|222  |
 |------|---|---|---|-------------|----------|
 |100327|LA |A02|F  |12:00p-12:50p|CENTR 222  |
