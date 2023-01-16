@@ -1,5 +1,5 @@
 Preliminary syllabus and subject to change!
-v0.1 9 January 2023
+v0.2 16 January 2023
 
 # COGS 108: Data Science in Practice
 
