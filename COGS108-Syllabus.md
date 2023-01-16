@@ -183,15 +183,15 @@ Discussion sections are a place where you will be able to ask questions, get hel
 
 The first discussion section will start on W Jan 18. There will be no discussion sections run until that date.
 
-| Section ID| LE/LA | Day | Section | Date/Time | Location |
-|100325|LA |A01|F  |11:00a-11:50a|CENTR|222  |
-|------|---|---|---|-------------|----------|
-|100327|LA |A02|F  |12:00p-12:50p|CENTR 222  |
-|100328|LA |A03|F  |1:00p-1:50p  |CENTR 222  |
-|100330|LA |A04|W  |9:00a-9:50a  |PCYNH 121  |
-|100340|LA |A05|M  |3:00p-3:50p  |MANDE B-150|
-|100341|LA |A06|W  |4:00p-4:50p  |PETER 102  |
-|100343|LA |A07|W  |5:00p-5:50p  |PETER 102  |
+|ID    |Le/La|Section|Day|Time         |Location|Room |
+|------|-----|-------|---|-------------|--------|-----|
+|100325|LA   |A01    |F  |11:00a-11:50a|CENTR   |222  |
+|100327|LA   |A02    |F  |12:00p-12:50p|CENTR   |222  |
+|100328|LA   |A03    |F  |1:00p-1:50p  |CENTR   |222  |
+|100330|LA   |A04    |W  |9:00a-9:50a  |PCYNH   |121  |
+|100340|LA   |A05    |M  |3:00p-3:50p  |MANDE   |B-150|
+|100341|LA   |A06    |W  |4:00p-4:50p  |PETER   |102  |
+|100343|LA   |A07    |W  |5:00p-5:50p  |PETER   |102  |
 
 ### Discussion section lab exercises
 
