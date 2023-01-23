@@ -55,6 +55,34 @@ In this course, you will try many methods. You'll even be asked to implement a t
 | IA | Zikang Chen | TBA | TBA | [zic017@ucsd.edu](mailto:zic017@ucsd.edu) |
 | IA | Zairan Xiang | TBA | TBA | [zaxiang@ucsd.edu](mailto:zaxiang@ucsd.edu) |
 
+(please see below for temporary table of office hours, this will be cleaned up later tonight)
+|Section|TA/IA           |Day      |Time             |Where                                                                 |Zoom link                                                                                                                                 |
+|-------|----------------|---------|-----------------|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+|A01    |Aditya Jeswani  |Tuesday  |2:00 - 3:30 pm   |https://ucsd.zoom.us/j/6384710441                                     |                                                                                                                                          |
+|A01    |Valli Nachiappan|Tuesday  |3:30 - 4:30pm    |https://us04web.zoom.us/j/5061781716                                  |                                                                                                                                          |
+|A01    |                |         |                 |                                                                      |                                                                                                                                          |
+|A02    |Tapan Sahni     |Thursday |5:30 - 7:00 pm   |https://ucsd.zoom.us/j/6600070189?pwd=VWhCOHdIRmpoL2RnYVZxdW1LL1ZvZz09|                                                                                                                                          |
+|A02    |Emily Xiang     |Friday   |1:00 - 2:00 pm   |CSB 114                                                               |                                                                                                                                          |
+|A02    |                |         |                 |                                                                      |                                                                                                                                          |
+|A03    |Tapan Sahni     |Friday   |4:30 - 6:00 pm   |CSB 114                                                               |                                                                                                                                          |
+|A03    |Valli Nachiappan|Wednesday|2:30 - 3:30 pm   |https://us04web.zoom.us/j/5061781716                                  |                                                                                                                                          |
+|A03    |                |         |                 |                                                                      |                                                                                                                                          |
+|A04    |Ruby Ying       |Monday   |09:00 - 10:00 am |https://ucsd.zoom.us/j/5836002673                                     |                                                                                                                                          |
+|A04    |Ruby Ying       |Monday   |10:00 - 11:00 am |https://ucsd.zoom.us/j/5836002673                                     |                                                                                                                                          |
+|A04    |Tian Gao        |Tuesday  |9:00 - 10:00 am  |Zoom                                                                  |                                                                                                                                          |
+|A05    |Zikang          |Wednesday|3:30 - 4:30 pm   |https://ucsd.zoom.us/j/4658277511                                     |                                                                                                                                          |
+|A05    |Aditya Jeswani  |Thursday |2:00 - 3:30 pm   |https://ucsd.zoom.us/j/6384710441                                     |                                                                                                                                          |
+|A05    |                |         |                 |                                                                      |                                                                                                                                          |
+|A06    |Matthew Fain    |Wednesday|8:00-9:00 am     |CSB 114                                                               |                                                                                                                                          |
+|A06    |Robbie Kovar    |Monday   |12:00-1:00       |https://ucsd.zoom.us/j/5680500310                                     |                                                                                                                                          |
+|A06    |                |         |                 |                                                                      |                                                                                                                                          |
+|A07    |Matthew Fain    |Wednesday|8:00-9:00 am     |CSB 114                                                               |https://www.google.com/url?q=https://ucsd.zoom.us/j/92895978180&sa=D&source=calendar&ust=1674583339422620&usg=AOvVaw2OWSokm2XJnjjRaZNVfaiw|
+|A07    |Tony Zeng       |Thursday |12:00-12:50 pm   |CSB 114                                                               |                                                                                                                                          |
+|A07    |                |         |                 |                                                                      |                                                                                                                                          |
+
+
+
+
 Lecture zoom link: TBA
 
 Course GitHub: https://github.com/COGS108 
