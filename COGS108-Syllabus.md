@@ -67,7 +67,7 @@ In this course, you will try many methods. You'll even be asked to implement a t
 |A04    |Ruby Ying       |Monday   |09:00 - 10:00 am |https://ucsd.zoom.us/j/5836002673                                                                                                                  |
 |A04    |Ruby Ying       |Monday   |10:00 - 11:00 am |https://ucsd.zoom.us/j/5836002673                                                                                                                  |
 |A04    |Tian Gao        |Tuesday  |9:00 - 10:00 am  |Zoom                                                                                                                                               |
-|A05    |Zikang          |Wednesday|3:30 - 4:30 pm   |https://ucsd.zoom.us/j/4658277511                                                                                                                  |
+|A05    |Zikang          |Monday & Wednesday|7:00 - 8:00 pm   |https://ucsd.zoom.us/j/4658277511                                                                                                                  |
 |A05    |Aditya Jeswani  |Thursday |2:00 - 3:30 pm   |https://ucsd.zoom.us/j/6384710441                                                                                                                  |
 |A06    |Matthew Fain    |Wednesday|8:00-9:00 am     |CSB 114                                                                                                                                            |
 |A06    |Robbie Kovar    |Monday   |12:00-1:00       |https://ucsd.zoom.us/j/5680500310                                                                                                                  |
