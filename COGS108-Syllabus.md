@@ -62,7 +62,7 @@ In this course, you will try many methods. You'll even be asked to implement a t
 |A01    |Valli Nachiappan|Tuesday  |3:30 - 4:30pm    |https://us04web.zoom.us/j/5061781716                                                                                                               |
 |A02    |Tapan Sahni     |Thursday |5:30 - 7:00 pm   |https://ucsd.zoom.us/j/6600070189?pwd=VWhCOHdIRmpoL2RnYVZxdW1LL1ZvZz09                                                                             |
 |A02    |Emily Xiang     |Friday   |1:00 - 2:00 pm   |CSB 114                                                                                                                                            |
-|A03    |Tapan Sahni     |Friday   |4:30 - 6:00 pm   |CSB 114                                                                                                                                            |
+|A03    |Tapan Sahni     |Friday   |6:00 - 7:30 pm   |CSB 114                                                                                                                                            |
 |A03    |Valli Nachiappan|Wednesday|2:30 - 3:30 pm   |https://us04web.zoom.us/j/5061781716                                                                                                               |
 |A04    |Ruby Ying       |Monday   |09:00 - 10:00 am |https://ucsd.zoom.us/j/5836002673                                                                                                                  |
 |A04    |Ruby Ying       |Monday   |10:00 - 11:00 am |https://ucsd.zoom.us/j/5836002673                                                                                                                  |
