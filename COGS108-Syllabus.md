@@ -55,7 +55,7 @@ In this course, you will try many methods. You'll even be asked to implement a t
 | IA | Zikang Chen | TBA | TBA | [zic017@ucsd.edu](mailto:zic017@ucsd.edu) |
 | IA | Zairan Xiang | TBA | TBA | [zaxiang@ucsd.edu](mailto:zaxiang@ucsd.edu) |
 
-(please see below for temporary table of office hours, this will be cleaned up later tonight)
+(please see below for temporary table of office hours, this will be cleaned up)
 |Section|TA/IA           |Day      |Time             |Where/zoom link                                                                                                                                    |
 |-------|----------------|---------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 |A01    |Aditya Jeswani  |Tuesday  |2:00 - 3:30 pm   |https://ucsd.zoom.us/j/6384710441                                                                                                                  |
@@ -131,9 +131,9 @@ We also maintain [a list of readings that can provide insight into various data 
 
 | | \% of Grade | # to submit |
 | -------------: |:-----------------------:|:--------------------------|
-| Discussion Labs | 16\% | 8 (1/wk) |
-| Lecture Quizzes | 8\% | 8 out of 9 (1/wk) |
-| Assignments (4@8% ea + 1@1%) | 33\%	| 5 |
+| Discussion Labs | 16\% | 5 |
+| Lecture Quizzes | 8\% | ~5 |
+| Assignments (3@10.67% ea + 1@10.67%) | 33\%	| 5 |
 | Project Review* | 5\%	| 1 |
 | Project Proposal* | 9\%	| 1 |
 | Project Checkpoints* | 10\% | 2 |
@@ -150,10 +150,9 @@ All grades will be released on Canvas. It is *your responsibility to check that 
 Extra credit worth up to 2.5% of the final grade will be awarded for
 - Exceptional participation on Piazza: Roughly the top 3% of contributors will get 0.5% bonus to their final grade. Starting/participating in good discussions, organizing things, answering questions, etc. 
 - Answering the pre & post course surveys will give 0.5% extra credit (0.25% each)
-- Attending both guest lectures either in-person or on Zoom is 0.25% extra credit 
-- Submitting at least one question to the queue for at least one of the guest lectures is 0.25% extra credit
+- Attending both guest lectures on Zoom is 0.25% extra credit 
 - Filling out all 7 of the weekly project progress surveys (0.5% of grade, see Project setion below)
-- If >75% of the students fill out CAPE at the end of the quarter there will be an extra 0.5% of the final grade for everyone
+- If >75% of the students fill out CAPE at the end of the quarter there will be an extra 0.5% of the final grade for everyone (1% if >85%)
 
 Our grading scale is
 
@@ -197,7 +196,7 @@ In-person lectures will be broadcast simultaneously on Zoom (see above links). Y
 
 ### Lecture Quizzes
 
-At the end of each Friday, a quiz with ~10 questions will be released, covering the material from lecture that week. The quiz will be due the following Friday. For example, the first quiz will be released Friday of week 1, covering week 1 material, and will be due the Friday at 11:59 PM of week 2. Each question is worth ~0.1 points and you will have a single, timed (15 min) attempt to complete. *There are no late extensions on quizzes*, but your lowest quiz score will be dropped.
+Regularly, a quiz with ~10 questions will be released, covering the material from lecture that week. The quiz will be due the following Friday. For example, the first quiz will be released Friday of week 1, covering week 1 material, and will be due the Friday at 11:59 PM of week 2. Each question is worth ~0.1 points (depending on the total number, 0.1 is for 10 total) and you will have a single, timed (15 min) attempt to complete (or as specified in the instructions). *There are no late extensions on quizzes*, but your lowest quiz score will be dropped.
 
 ---
 
@@ -219,7 +218,7 @@ The first discussion section will start on W Jan 18. There will be no discussion
 
 ### Discussion section lab exercises
 
-Each week there will be a short, guided lab exercise to review material from lecture and give hands-on programming experience. These lab exercises will be released on the Wednesday BEFORE the corresponding lab section. Students will have ten (10) days to complete them, so they are due the Friday AFTER the corresponding lab section. There will be 8 discussion lab exercises. Each is worth 2 points.
+Each week there will be a short, guided lab exercise to review material from lecture and give hands-on programming experience. These lab exercises will be released on the Wednesday BEFORE the corresponding lab section. Students will have ten (10) days to complete them, so they are due the Friday AFTER the corresponding lab section. There will be 5 discussion lab exercises. Each is worth 2 points.
 
 ---
 
