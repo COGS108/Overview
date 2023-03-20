@@ -293,13 +293,13 @@ Starting week 3, there will be an *optional* weekly survey to be completed indiv
 
 # COURSE SCHEDULE
 
-
+(Finals-week assignments schedule)
 |Day                     |Topic                                  |Assignment due                |
 |------------------------|---------------------------------------|------------------------------|
 |Sunday 3/19/23 @11:59pm |Assignment                             |A3p1                          |
-|Tuesday 3/21/23 @11:59pm|EDA Checkpoint for final project       |Checkpoint 2                  |
-|Friday 3/24/23 @11:59pm |Final project jupyter notebook         |Final project notebook        |
-|Friday 3/24/23 @11:59pm |Video summary of final project         |Final project video           |
+|Tuesday 3/21/23 @11:59pm|EDA Checkpoint for final project       |Checkpoint 2*                 |
+|Friday 3/24/23 @11:59pm |Final project jupyter notebook         |Final project notebook*       |
+|Friday 3/24/23 @11:59pm |Video summary of final project         |Final project video*          |
 |Friday 3/24/23 @11:59pm |Provide feedback to teammates          |Team evaluation survey        |
 |Sunday 3/26/23 @11:59pm |Optional extra credit assignment       |A3p2                          |
 |Sunday 3/26/23 @11:59pm |Optional lab                           |D6-EC                            |
