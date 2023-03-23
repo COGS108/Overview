@@ -44,10 +44,10 @@ In this course, you will try many methods. You'll even be asked to implement a t
 | Role | Name | Section | Office Hours | Contact | 
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor | Alex Simpkins | --- | TuTh 12:30-1pm CAT0125, Sat 2-3pm Price Cntr. ampitheater, by Aptmt. | [csimpkinsjr@ucsd.edu](mailto:&#99;&#115;&#105;&#109;&#112;&#107;&#105;&#110;&#115;&#106;&#114;&#64;&#117;&#99;&#115;&#100;&#46;&#101;&#100;&#117;) |
-| TA	| Matthew Fain | TBA| TBA |[mfain@ucsd.edu](mailto:mfain@ucsd.edu) |
-| TA	| Ruby Ying (Zhuojun) | TBA| TBA| [z5ying@ucsd.edu](mailto:z5ying@ucsd.edu) |
-| TA	| Aditya Jeswani |TBA | TBA| [ajeswani@ucsd.edu](mailto:ajeswani@ucsd.edu) |
 | TA	| Tapan Sahni |TBA | TBA| [tsahni@ucsd.edu](mailto:tsahni@ucsd.edu)|
+| TA	| Aditya Jeswani |TBA | TBA| [ajeswani@ucsd.edu](mailto:ajeswani@ucsd.edu) |
+| TA	| Ruby Ying (Zhuojun) | TBA| TBA| [z5ying@ucsd.edu](mailto:z5ying@ucsd.edu) |
+| TA	| Matthew Fain | TBA| TBA |[mfain@ucsd.edu](mailto:mfain@ucsd.edu) |
 | IA	| Xiaotong (Tony) | TBA | TBA| [x6zeng@ucsd.edu](mailto:x6zeng@ucsd.edu) |
 | IA	| Robert Kovar |TBA | TBA | [rkovar@ucsd.edu](mailto:rkovar@ucsd.edu)|
 | IA	| Tian Gao | TBA | TBA | [tgao@ucsd.edu](mailto:tgao@ucsd.edu)|
@@ -58,21 +58,21 @@ In this course, you will try many methods. You'll even be asked to implement a t
 (please see below for temporary table of office hours, this will be cleaned up)
 |Section|TA/IA           |Day      |Time             |Where/zoom link                                                                                                                                    |
 |-------|----------------|---------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-|A01    |Aditya Jeswani  |Tuesday  |2:00 - 3:30 pm   |https://ucsd.zoom.us/j/6384710441                                                                                                                  |
-|A01    |Valli Nachiappan|Tuesday  |3:30 - 4:30pm    |https://us04web.zoom.us/j/5061781716                                                                                                               |
-|A02    |Tapan Sahni     |Thursday |5:30 - 7:00 pm   |https://ucsd.zoom.us/j/6600070189?pwd=VWhCOHdIRmpoL2RnYVZxdW1LL1ZvZz09                                                                             |
-|A02    |Emily Xiang     |Friday   |1:00 - 2:00 pm   |CSB 114                                                                                                                                            |
-|A03    |Tapan Sahni     |Friday   |6:00 - 7:30 pm   |CSB 114                                                                                                                                            |
-|A03    |Valli Nachiappan|Wednesday|2:30 - 3:30 pm   |https://us04web.zoom.us/j/5061781716                                                                                                               |
-|A04    |Ruby Ying       |Monday   |09:00 - 10:00 am |https://ucsd.zoom.us/j/5836002673                                                                                                                  |
-|A04    |Ruby Ying       |Monday   |10:00 - 11:00 am |https://ucsd.zoom.us/j/5836002673                                                                                                                  |
-|A04    |Tian Gao        |Tuesday  |9:00 - 10:00 am  |Zoom                                                                                                                                               |
-|A05    |Zikang          |Monday & Wednesday|7:00 - 8:00 pm   |https://ucsd.zoom.us/j/4658277511                                                                                                                  |
-|A05    |Aditya Jeswani  |Thursday |2:00 - 3:30 pm   |https://ucsd.zoom.us/j/6384710441                                                                                                                  |
-|A06    |Matthew Fain    |Wednesday|8:00-9:00 am     |CSB 114                                                                                                                                            |
-|A06    |Robbie Kovar    |Monday   |12:00-1:00       |https://ucsd.zoom.us/j/5680500310                                                                                                                  |
-|A07    |Matthew Fain    |Wednesday|8:00-9:00 am     |CSB 114, https://www.google.com/url?q=https://ucsd.zoom.us/j/92895978180&sa=D&source=calendar&ust=1674583339422620&usg=AOvVaw2OWSokm2XJnjjRaZNVfaiw|
-|A07    |Tony Zeng       |Thursday |12:00-12:50 pm   |CSB 114                                                                                                                                            |
+|A01    |TA: [Aditya Jeswani](mailto:ajeswani@ucsd.edu)   |Tuesday  |2:00 - 3:30 pm   |https://ucsd.zoom.us/j/6384710441                                                                                                                  |
+|A01    |TA: [Valli Nachiappan](mailto:vnachiap@ucsd.edu)|Tuesday  |3:30 - 4:30pm    |https://us04web.zoom.us/j/5061781716                                                                                                               |
+|A02    |TA: [Tapan Sahni](mailto:tsahni@ucsd.edu)     |Thursday |5:30 - 7:00 pm   |https://ucsd.zoom.us/j/6600070189?pwd=VWhCOHdIRmpoL2RnYVZxdW1LL1ZvZz09                                                                             |
+|A02    |IA: [Emily Xiang](mailto:zaxiang@ucsd.edu)     |Friday   |1:00 - 2:00 pm   |CSB 114                                                                                                                                            |
+|A03    |TA: [Tapan Sahni](mailto:tsahni@ucsd.edu)     |Friday   |6:00 - 7:30 pm   |CSB 114                                                                                                                                            |
+|A03    |IA: Valli Nachiappan|Wednesday|2:30 - 3:30 pm   |https://us04web.zoom.us/j/5061781716                                                                                                               |
+|A04    |TA: Ruby Ying       |Monday   |09:00 - 10:00 am |https://ucsd.zoom.us/j/5836002673                                                                                                                  |
+|A04    |TA: Ruby Ying       |Monday   |10:00 - 11:00 am |https://ucsd.zoom.us/j/5836002673                                                                                                                  |
+|A04    |IA: Tian Gao        |Tuesday  |9:00 - 10:00 am  |Zoom                                                                                                                                               |
+|A05    |IA: Zikang          |Monday & Wednesday|7:00 - 8:00 pm   |https://ucsd.zoom.us/j/4658277511                                                                                                                  |
+|A05    |TA: Aditya Jeswani  |Thursday |2:00 - 3:30 pm   |https://ucsd.zoom.us/j/6384710441                                                                                                                  |
+|A06    |TA: Matthew Fain    |Wednesday|8:00-9:00 am     |CSB 114                                                                                                                                            |
+|A06    |IA: Robbie Kovar    |Monday   |12:00-1:00       |https://ucsd.zoom.us/j/5680500310                                                                                                                  |
+|A07    |TA: Matthew Fain    |Wednesday|8:00-9:00 am     |CSB 114, https://www.google.com/url?q=https://ucsd.zoom.us/j/92895978180&sa=D&source=calendar&ust=1674583339422620&usg=AOvVaw2OWSokm2XJnjjRaZNVfaiw|
+|A07    |IA: Tony Zeng       |Thursday |12:00-12:50 pm   |CSB 114                                                                                                                                            |
 
                                                                                                                  |
 
@@ -133,7 +133,7 @@ We also maintain [a list of readings that can provide insight into various data 
 | -------------: |:-----------------------:|:--------------------------|
 | Discussion Labs | 16\% | 5 |
 | Lecture Quizzes | 8\% | ~5 |
-| Assignments (3@10.67% ea + 1@10.67%) | 33\%	| 5 |
+| Assignments (3@11% ea + 1@11%) | 33\%	| 3 |
 | Project Review* | 5\%	| 1 |
 | Project Proposal* | 9\%	| 1 |
 | Project Checkpoints* | 10\% | 2 |
