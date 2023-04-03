@@ -54,7 +54,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 
 Course GitHub: https://github.com/COGS108  
 
-Course Campuswire*: https://campuswire.com/p/G91B371ED
+Course Campuswire*: https://campuswire.com/p/G91B371ED Group join code: 0714
 
 Course Canvas: https://canvas.ucsd.edu/courses/45023
 
