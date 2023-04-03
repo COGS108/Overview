@@ -1,12 +1,11 @@
-Preliminary syllabus and subject to change!
-v0.2 15 September 2022
+Preliminary syllabus and subject to change in the first two weeks!
+v0.01 1 April 2023
 
 # COGS 108: Data Science in Practice
 
-**Fall 2022**  
-MWF 10-10:50am in-person at Galbraith Hall 242 <br>
-alternatives to in person (please do not attend lecture if you are ill!) <br>
-https://podcast.ucsd.edu  or https://ucsd.zoom.us/j/99741596334 
+**Spring 2023**  
+MWF 10-10:50am in-person at PRICE	CENTER THEATRE <br>
+
 
 ---
 
@@ -44,30 +43,26 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUFzQ2RXR3dOVnZwfGRlZmF1bHR8Nzg4NGE1Yzc1NmM0NGJlNzUyZmNjMzgxNGUzYWQ1NzM)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
-| TA	         | Shanay Shah         | A05 M 3:00p-3:50p, A07 M 5:00p-5:50p| Wednesday 6-8pm [CSB 114] |[shs004@ucsd.edu](mailto:shs004@ucsd.edu)  |
-| TA	         | Akshay Nagarajan    | A02 M 12-12:50p, A04 M 2:00p-2:50p| Tue,Thu 9-10am [(zoom link)](https://ucsd.zoom.us/j/93413832793)| [anagaraj@ucsd.edu](mailto:anagaraj@ucsd.edu)              |
-| TA	         | Heeket Mehta        |A06 M 4:00p-4:50p | Tuesday 6-8pm (CSB 114)| [hmehta@ucsd.edu](mailto:hmehta@ucsd.edu) |
-| TA	         | Chaolan Lin         |A01 F 12:00p-12:50p | [Fri 8-10am](https://ucsd.zoom.us/j/95460575216) (remote)| [chlin@ucsd.edu](mailto:chlin@ucsd.edu)|
-| IA	         | Winnie She          | ---              | [Tue 8-8:50am](https://ucsd.zoom.us/j/9571658850) (remote) **Nov 1st OH will be moved to Nov 3rd** | [y2she@ucsd.edu](mailto:y2she@ucsd.edu) |
-| IA	         | Jason Chen          |A03 M 1-1:50pm    |   email for appointments (No last-minute appointments please)  |     [xic007@ucsd.edu](mailto:xic007@ucsd.edu)|
-| IA	         | Linghang Kong       |                  | [Fri 7-8pm](https://ucsd.zoom.us/j/8101919514) (remote)| [l3kong@ucsd.edu](mailto:l3kong@ucsd.edu)|
-| IA	         | Raunit Kohli        |                  | Thu 11am-12 (CSB 114)     | [rkohli@ucsd.edu](mailto:rkohli@ucsd.edu)     |
-| IA           | Christian Kim       |A03 M 1-1:50pm    | Thu 1-2pm (CSB 114)       | [csk001@ucsd.edu](mailto:csk001@ucsd.edu) |
-| IA           | Cody Li             |                  | Tue 9-10am (CSB 114)      | [dol005@ucsd.edu](mailto:dol005@ucsd.edu) |
+| TA	         | Shanay Shah         | TBD | TBD |  insert info              |
+| TA	         | Fuling Sun    | TBD | TBD |  insert info              |
+| TA	         | Heeket Mehta        | TBD | TBD |  insert info              |
+| TA	         | Ruby Ying         | TBD | TBD |  insert info              |
+| IA	         | Jinyi Zhao | TBD | TBD |  insert info              |
+| IA	         | Nathaniel Mackler      | TBD | TBD |  insert info              |
+| IA           | Cindy Wang | TBD | TBD |  insert info              |
 
-Lecture zoom link: https://ucsd.zoom.us/j/99741596334
 
 Course GitHub: https://github.com/COGS108  
 
-Course Piazza*: https://piazza.com/class/l7z9793pwed43l
+Course Campuswire*: https://campuswire.com/p/G91B371ED
 
-Course Canvas: https://canvas.ucsd.edu/courses/39457
+Course Canvas: https://canvas.ucsd.edu/courses/45023
 
 Assignment Submission: https://datahub.ucsd.edu  
 
-Anonymous Course Feedback: https://forms.gle/3xiCoRQYFaiBnMSu5
+Anonymous Course Feedback: https://forms.gle/MpFPqBLvnRtT2ytJ6
 
-*You will be able to post anonymously on Piazza; however, you will only be anonymous to your classmates. Your Instructor and TAs will be able to see who you are.
+*You will be able to post anonymously on Campuswire; however, you will only be anonymous to your classmates. Your Instructor and TAs will be able to see who you are.
 
 ---
 
@@ -124,7 +119,7 @@ We also maintain [a list of readings that can provide insight into various data 
 All grades will be released on Canvas. It is *your responsibility to check that your assignment was submitted, that your grade is accurate, and to get in touch if any are missing and/or you think there is a problem*.
 
 Extra credit worth up to 2.5% of the final grade will be awarded for
-- Exceptional participation on Piazza: Roughly the top 3% of contributors will get 0.5% bonus to their final grade.  Starting/participating in good discussions, organizing things, answering questions, etc.   
+- Exceptional participation on Campuswire: Roughly the top 3 - 5% of contributors will get 0.5% bonus to their final grade.  Starting/participating in good discussions, organizing things, answering questions, etc.   
 - Answering the pre & post course surveys will give 0.5% extra credit (0.25% each)
 - Attending both guest lectures either in-person or on Zoom is 0.25% extra credit  
 - Submitting at least one question to the queue for at least one of the guest lectures is 0.25% extra credit
@@ -150,9 +145,7 @@ Our grading scale is
 
 ### Attendance
 
-I continue to believe that attending in-person is the best way to learn for most people. Our goal is to make the lecture and discussion section worth your while to attend. But no one will be forced to, there is a pandemic and many extenuating circumstances. You're adults, you will know what fits your constraints and needs.
-
-The only exception is for the two planned guest lectures. If the situation permits live lectures, we will strongly encourage you to attend in-person so that we may show respect to our guests.  
+I continue to believe that attending in-person is the best way to learn for most people. Our goal is to make the lecture and discussion section worth your while to attend through interactive content and making it a good place to get questions answered. But you're adults, you will know what fits your constraints and needs.
 
 That said, there is no component of your grade that is based on attendance or live participation. DO NOT COME TO IN-PERSON CLASS IF YOU FEEL SNIFFLY OR SICK!!!  I really don't want our very large lecture hall to become a super-spreader event for any illnesses.
 
@@ -160,16 +153,7 @@ That said, there is no component of your grade that is based on attendance or li
 
 # LECTURE
 
-Lectures are MWF 10-10:50am in Galbraith Hall 242. Click [here for a map to the building](https://blink.ucsd.edu/sponsor/advancement/advancement-services/stewardship/named-buildings/galbraith-hall.html).
-<!--The Jeannie (GAA) Auditorium. It is part of New Sixth College, located on the SE corner of the North Torrey Pines Living + Learning Neighborhood, just to the west of Peterson Hall, and just north of AP&M.-->
-
-In-person lectures will be offered as a hybrid class: they will be in-person, available synchronously online via Zoom, and recorded for your later viewing. Those on Zoom will be able to ask questions but may not be able to participate in some useful class exercises.
-
-For in-person lectures **a negative symptom check from that day and a properly worn mask of the correct type are required to attend!** For more information please see [Return to Learn requirements for on-campus activities](https://returntolearn.ucsd.edu/return-to-campus/campus-repopulation/index.html).
-
-Those concerns aside, don't let me scare you away from coming to lecture in-person: it is the most engaging way you can absorb the material and it gives you the best opportunity to be an active participant. Students who actively engage in the learning process do better than those who passively absorb material given to them. I hope that my strict illness policies encourage students who wish to attend in-person to do so.
-
-In-person lectures will be broadcast simultaneously on Zoom (see above links). You can also use our Canvas page to start Zoom. Every lecture will also be recorded and shared so that students who are not able to or choose not to watch during the scheduled class time are still able to receive and digest all class materials. Lecture recordings will be available on both podcast.ucsd.edu and on Canvas in the Media Gallery later on the day the live lecture is delivered.
+Lectures are MWF 10-10:50am in Price Center Theater. 
 
 ### Lecture Quizzes
 
@@ -181,21 +165,21 @@ At the end of each Friday, a quiz with ~10 questions will be released, covering 
 
 Discussion sections are a place where you will be able to ask questions, get help on technical topics, work on your group projects, and discuss the weekly lab exercises. If you are struggling with course material come to discussion section and/or office hours!
 
-The first discussion section will start on Fri Sep 30.  There will be no discussion sections run until that date.
+The first discussion section will start on April 10th.  There will be no discussion sections run until that date.
 
 | Section |  Date/Time | Location |
 |:--------|:-----------|:----------|
-| A01	|	F	12:00p-12:50p	| HSS	1346 | 	 
-| A02 | M	12:00p-12:50p	| HSS	1346 | 	
-| A03	| M	1:00p-1:50p | HSS	1346 | 	
-| A04	| M	2:00p-2:50p	| HSS	1346 | 	
-| A05	| M	3:00p-3:50p | HSS	1346	|
-| A06	| M	4:00p-4:50p	| MANDE	B-150 | 	
-| A07	| M	5:00p-5:50p	| WLH	2111	|
+| A01	| W	5:00p-5:50p | PETER	103 | 
+| A02	| W	11:00a-11:50a	| MANDE	B-150 | 
+| A03	| M	1:00p-1:50p	| DIB	122 | 
+| A04	| M	2:00p-2:50p	| DIB	122 | 
+| A05	| W	2:00p-2:50p	| PCYNH	121 | 
+| A06	| W	3:00p-3:50p	| PCYNH	121 | 
+| A07	| W	4:00p-4:50p	| PETER	102 | 
 
 ### Discussion section lab exercises
 
-Each week there will be a short, guided lab exercise to review material from lecture and give hands-on programming experience.  These lab exercises will be released on the Wednesday BEFORE the corresponding lab section. Students will have ten (10) days to complete them, so they are due the Friday AFTER the corresponding lab section. There will be 8 discussion lab exercises. Each is worth 2 points.
+Each week there will be a short, guided lab exercise to review material from lecture and give hands-on programming experience.  These lab exercises will be released on the Wednesday BEFORE the corresponding lab section. Students will have ten (10) days to complete them, so they are due the Friday AFTER the corresponding lab section. There will be 8 discussion lab exercises. Each is worth 2 points. 
 
 ---
 
@@ -207,7 +191,7 @@ The practice of data science involves writing code to answer questions and accom
 
 That said, the first two assignments will be the simplest assignments and aim to get you up to speed in Python and familiar with `pandas`. If the first two assignments are particularly difficult for you, that’s ok. But, it’s then up to you to determine if you want to put in the work to make it through the rest of the quarter. **Assignments will take more time and be more difficult starting with the third assignment**.
 
-As assignments become more difficult, we don’t want you to get or feel totally lost. If you’ve thought long and hard, gone down a long rabbithole on Stack Overflow, and can’t even get a sense of what the next step may be, take a step away. Take a break. Then, come back and see if you can’t solve it with a refreshed mind. If you’re still totally stuck, ask on Piazza, talk to a classmate, and/or attend office hours for help.
+As assignments become more difficult, we don’t want you to get or feel totally lost. If you’ve thought long and hard, gone down a long rabbithole on Stack Overflow, and can’t even get a sense of what the next step may be, take a step away. Take a break. Then, come back and see if you can’t solve it with a refreshed mind. If you’re still totally stuck, ask on Campuswire, talk to a classmate, and/or attend office hours for help.
 
 With regards to asking questions of instructional staff, we’re here to help you, but there are way more students than there are instructors. So, help each other. Ask one another first. It’s awesome that we all have different backgrounds and experiences - let’s use that to our advantage. In fact, this is how the best data science gets done. Diverse minds solving a problem invariably improves the solution. Also, teaching something to someone else is the best way to determine if you really know something. So, it’s win-win. The person who’s stuck gets unstuck and the person who helped is more sure in their knowledge. Help one another! Section and office hours are meant to be collaborative.
 
@@ -219,30 +203,30 @@ Assignments will be submitted individually on datahub. We’ll talk about the de
 
 **Check to ensure that your file shows up under “Submitted assignments” on datahub after you click submit!!!**. If the file is the incorrect file, corrupted, or otherwise unreadable, we cannot grade it and we will mark your assignment as late. There will be at least a dozen people each quarter who tell say "I'm so sorry I forgot to click submit! Can I please get it graded without late?" And my answer will be no. Do not be that person!
 
-It is your responsibility to ensure that we receive a submission from you on datahub and that you submit the correct file (a Jupyter notebook with the .ipynb extension with the same file name as the assignment) for each assignment. If you identify that a mistake has been made, it is your responsibility to get in touch on Piazza should a problem arise. You will receive individualized feedback via email with your grade and feedback about a week after each assignment is due.
+It is your responsibility to ensure that we receive a submission from you on datahub and that you submit the correct file (a Jupyter notebook with the .ipynb extension with the same file name as the assignment) for each assignment. If you identify that a mistake has been made, it is your responsibility to get in touch on Campuswire should a problem arise. You will receive individualized feedback via email with your grade and feedback about a week after each assignment is due.
 
-### Assignment Questions on Piazza
+### Assignment Questions on Campuswire
 
-Piazza will be used for all general questions. For example, if you are confused by what a question is asking or are unsure where to start to look for the answer and need direction, Piazza is the place to go. However, when asking or answering questions on Piazza, code that answers assignment questions should **not** be provided. Instead, answer with suggestions as to what topics/ideas/lectures to look into or vague pseudocode that helps move the person asking the question in the right direction. For general programming questions (unrelated to the assignment answers), feel free to share minimal code segments.
+Campuswire will be used for all general questions. For example, if you are confused by what a question is asking or are unsure where to start to look for the answer and need direction, Campuswire is the place to go. However, when asking or answering questions on Campuswire, code that answers assignment questions should **not** be provided. Instead, answer with suggestions as to what topics/ideas/lectures to look into or vague pseudocode that helps move the person asking the question in the right direction. For general programming questions (unrelated to the assignment answers), feel free to share minimal code segments.
 
 ### Assignment Regrades
 
 We will work hard to grade everyone fairly and return assignments quickly. But, we know you also work hard and want you to receive the grade you’ve earned. Occasionally, grading mistakes do happen, and it's important to us to correct them.
 
-If you think there is a mistake in your grade, request a regrade within 72 hours of your receipt of the grade on Piazza via a *Private* note to "instructors" and use the "regrades" folder. [HOWTO for Piazza private notes here](https://support.piazza.com/support/solutions/articles/48000616669-post-a-private-note). This message should include evidence of why you think your answer was correct (i.e. a specific reference to something said in lecture) and should point to the specific part of the assignment in question.
+If you think there is a mistake in your grade, request a regrade within 72 hours of your receipt of the grade on Campuswire via a *Private* note to ALL instructors and use the "Regrade requests" folder.  This message should include evidence of why you think your answer was correct (i.e. a specific reference to something said in lecture) and should point to the specific part of the assignment in question.
 
 Note that points will *not* be rewarded if you fail to follow instructions. For example, if the instructions say to name the variable `orange` and you name it `ornage` (misspelled), you will not be rewarded credit upon regrade. This is because (1) following instructions and being detail-oriented is important and (2) there are hundreds of students taking the course this quarter. It would be an unfair burden to place on TAs if we didn’t have this policy.
 
 ---
+# In-person illness policy
+Please do not attend any in-person activity (lecture/section/office hours) if you are feeling ill, especially if you are sneezing/coughing and have a fever. If you feel mildly ill but without sneezing/coughing, or if you have bad allergies, then you may come to in-person events while wearing a well-fitting mask.  
+
 
 # LATE POLICY
 
 Lecture quizzes will not be accepted late.
 
-Assignments and discussion labs will be accepted at 75\% credit up to one week late.
-
-Every student receives 5 free late days with NO DEDUCTION for use on any assignment or lab exercise. Without penalty, you can turn in 5 work items one day late each, or 1 work item five days late, or any other combination.  When you turn in late we will automatically deduct from your late days until you have used them all.
-
+Assignments and labs will be accepted at 75% credit up to 3 days late. Every student receives 5 free late days with NO DEDUCTION for use on any assignment or lab exercise. Without penalty, you can turn in 5 work items one day late each, or 1 work item 3 days late and another 2 days late, or any other combination. 
 
 # COURSE PROJECT
 
@@ -254,7 +238,7 @@ Finding a group may be a tad trickier this quarter. As such, we'll offer additio
 
 1. If you have people in the class you know you want to work with, chat with one another and if you're all on board, form a group.
 2. There will be time to find groups in discussion section during week 1 & 2.
-3. If you don't know people in the class or don't have people you want to work with, no problem. Piazza has a feature where you can look for group mates - check for that post and look through there to find group mates
+3. If you don't know people in the class or don't have people you want to work with, no problem. Seek them out on Campuswire!
 
 You will submit who your group is via Google Form by the Monday of week 3 (see Course Schedule). One form will be submitted per group.
 
@@ -270,44 +254,41 @@ Starting week 3, there will be an *optional* weekly survey to be completed indiv
 
 # COURSE SCHEDULE
 
-|            | Week   | Day | Topic                    | Section covers | Lab due | Assignment due                             | Lecture quiz due |
-| ---------- | ------ | --- | ------------------------ | -------------- | ------- | ------------------------------------------ | ---------------- |
-| 9/23/2022  | 0      | F   | Welcome!                 | \--            |         | \--                                        | \--              |
-| 9/26/2022  | 1      | M   | Python Review            | \--            |         | \--                                        | \--              |
-| 9/28/2022  | 1      | W   | Version Control I        | \--            |         | \--                                        | \--              |
-| 9/30/2022  | 1      | F   | Version Control II       | D1             |         | Practice assignment                        | \--              |
-| 10/3/2022  | 2      | M   | Data & Intuition         | D1             |         | \--                                        | Q1               |
-| 10/5/2022  | 2      | W   | Data Wrangling (pandas)  | \--            |         | \--                                        | \--              |
-| 10/7/2022  | 2      | F   | Ethics                   | D2             | D1      | \--                                        | \--              |
-| 10/10/2022 | 3      | M   | Data Science ?s          | D2             |         | A1; Group Signup\*                         | Q2               |
-| 10/12/2022 | 3      | W   | Dataviz I                | \--            |         | \--                                        | \--              |
-| 10/14/2022 | 3      | F   | Intro to Analysis        | D3             | D2      | \--                                        | \--              |
-| 10/17/2022 | 4      | M   | Descriptive Analysis     | D3             |         | Project Review\*                           | Q3               |
-| 10/19/2022 | 4      | W   | EDA                      | \--            |         | \--                                        | \--              |
-| 10/21/2022 | 4      | F   | Inference I              | D4             | D3      | \--                                        | \--              |
-| 10/24/2022 | 5      | M   | Inference II             | D4             |         | Project Proposal\*                         | Q4               |
-| 10/26/2022 | 5      | W   | Inference III            | \--            |         | \--                                        | \--              |
-| 10/28/2022 | 5      | F   | Text Analysis I          | D5             | D4      | \--                                        | \--              |
-| 10/31/2022 | 6      | M   | Text Analysis II         | D5             |         | A2                                         | Q5               |
-| 11/2/2022  | 6      | W   | Machine Learning I       | \--            |         | \--                                        | \--              |
-| 11/4/2022  | 6      | F   | Machine Learning II      | D6             | D5      | \--                                        | \--              |
-| 11/7/2022  | 7      | M   | Text + ML                | D6             |         | Checkpoint #1: Data\*                      | Q6               |
-| 11/9/2022  | 7      | W   | Nonparametric            | \--            |         | \--                                        | \--              |
-| 11/11/2022 | 7      | F   | No class - Veterans day  | \--            | D6      | \--                                        | \--              |
-| 11/14/2022 | 8      | M   | Geospatial I             | D7             |         | A3                                         | Q7               |
-| 11/16/2022 | 8      | W   | Geospatial II            | \--            |         | \--                                        | \--              |
-| 11/18/2022 | 8      | F   | Dimensionality Reduction | D8             | D7      | \--                                        | \--              |
-| 11/21/2022 | 9      | M   | How to be wrong          | D8             |         | Checkpoint #2: EDA\*                       | Q8               |
-| 11/23/2022 | 9      | W   | How to be wrong II       | \--            |         | \--                                        | \--              |
-| 11/25/2022 | 9      | F   | No class - Thanksgiving  | \--            | D8      | \--                                        | \--              |
-| 11/28/2022 | 10     | M   | Guest lecture I          | Projects       |         | A4                                         | Q9               |
-| 11/30/2022 | 10     | W   | Guest lecture II         |                |         | \--                                        | \--              |
-| 12/2/2022  | 10     | F   | Data science jobs        |                |         | \--                                        | \--              |
-| 12/5/2022  | Finals | M   | \--                      |                |         | \--                                        |                  |
-| 12/7/2022  | Finals | W   | \--                      |                |         |                                            |                  |
-| 12/9/2022  | Finals | F   | \--                      |                |         | Final project\*, video\*, team eval survey |                  |
-
-
+|        | Week   | Day | Topic                    | Section covers | Lab due | Assignment due                                                 | Lecture quiz due |
+| ------ | ------ | --- | ------------------------ | -------------- | ------- | -------------------------------------------------------------- | ---------------- |
+| Apr-3  | 1      | M   | Welcome!                 | \--            |         |                                                                |                  |
+| Apr-5  | 1      | W   | Python Review            | \--            |         |                                                                |                  |
+| Apr-7  | 1      | F   | Version Control I        |                |         |                                                                |                  |
+| Apr-10 | 2      | M   | Version Control II       | D1             |         |                                                                | Q1               |
+| Apr-12 | 2      | W   | Data & Intuition         | D1             |         | Practice assignment, pre-course survey                         |                  |
+| Apr-14 | 2      | F   | Data Wrangling (pandas)  |                | D1      | \--                                                            |                  |
+| Apr-17 | 3      | M   | Ethics                   | D2             |         |                                                                | Q2               |
+| Apr-19 | 3      | W   | Data Science ?s          | D2             |         | A1; Group Signup\*                                             |                  |
+| Apr-21 | 3      | F   | Dataviz I                |                | D2      | \--                                                            |                  |
+| Apr-24 | 4      | M   | Intro to Analysis        | D3             |         |                                                                | Q3               |
+| Apr-26 | 4      | W   | EDA                      | D3             |         | Project Review\*                                               |                  |
+| Apr-28 | 4      | F   | EDA II                   |                | D3      | \--                                                            |                  |
+| May-1  | 5      | M   | Inference I              | D4             |         |                                                                | Q4               |
+| May-3  | 5      | W   | Inference II             | D4             |         | Project Proposal\*                                             |                  |
+| May-5  | 5      | F   | Inference III            |                | D4      | \--                                                            |                  |
+| May-8  | 6      | M   | Text Analysis I          | D5             |         |                                                                | Q5               |
+| May-10 | 6      | W   | Text Analysis II         | D5             |         | A2                                                             |                  |
+| May-12 | 6      | F   | Machine Learning I       |                | D5      | \--                                                            |                  |
+| May-15 | 7      | M   | Machine Learning II      | D6             |         | \--                                                            | Q6               |
+| May-17 | 7      | W   | Machine Learning III     | D6             |         | Checkpoint #1: Data\*                                          |                  |
+| May-19 | 7      | F   | Nonparametric            |                | D6      | \--                                                            |                  |
+| May-22 | 8      | M   | Nonparametric II         |                |         | \--                                                            | Q7               |
+| May-24 | 8      | W   | Geospatial I             | D7             |         | A3                                                             |                  |
+| May-26 | 8      | F   | Geospatial II            |                | D7      | \--                                                            |                  |
+| May-29 | 9      | M   | No class - Memorial Day  | D8             |         |                                                                | Q8               |
+| May-31 | 9      | W   | Dimensionality Reduction | D8             |         | Checkpoint #2: EDA\*                                           |                  |
+| Jun-3  | 9      | F   | How to be wrong          |                | D8      | \--                                                            |                  |
+| Jun-5  | 10     | M   | How to be wrong II       |                |         | \--                                                            | Q9               |
+| Jun-7  | 10     | W   | Tools or Guest lecture   | Projects       |         | A4                                                             |                  |
+| Jun-9  | 10     | F   | Data science jobs        |                |         | \--                                                            |                  |
+| Jun-12 | Finals | M   | NO FINAL EXAM            | Projects       |         | \--                                                            |                  |
+| Jun-14 | Finals | W   |                          |                |         | Final project\*, video\*, team eval survey, post-course survey |                  |
+| Jun-16 | Finals | F   |                          |                |         |
 
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
 
@@ -325,16 +306,23 @@ At all times, you should be considerate and respectful. Always refrain from deme
 
 If you have a concern, please speak with anyone on the instruction team (professor, TAs, or IAs). If you are uncomfortable doing so, that’s ok! The [OPHD](https://blink.ucsd.edu/HR/policies/sexual/OPHD.html) (Office for the Prevention of Sexual Harassment and Discrimination) and [CARE](https://care.ucsd.edu/) (confidential advocacy and education office for sexual violence and gender-based violence) are wonderful resources on campus.  
 
-### Academic Integrity
+### Academic integrity
+Don't cheat.  Please review academic integrity policies here.
 
-Don't cheat.
+YYou will work together on projects. You should help one another learn in general. Assignments and discussion labs should be completed individually, although you may seek help from your fellow students. However you may not give answers to each other at any time. THERE IS NO ASKING QUESTIONS OF EACH OTHER ON QUIZZES AND EXAMS!!
 
-You are encouraged to (and at times will have to) work together and help one another. However, you are personally responsible for the work you submit. For assignments, it is also your responsibility to ensure you understand everything your group has submitted and to make sure the correct file has been uploaded, that the upload is uncorrupted, and that it renders correctly. Projects may include ideas and code from other sources—but these other sources must be documented with clear attribution. Please review academic integrity policies [here](http://academicintegrity.ucsd.edu).
+Examples of good collaboration on assignments: 
+- Student posts non-working code to get help, others send a link to a good reference page in sklearn documentation, or point out the generic kind of mistake being made (e.g., you’ve messed up the order of operations). Nobody just writes the correct code for the student.
+- Student posts a question about a theory or concept.  If its not directly related to an assignment question you can choose to answer in full.  However, it’s generally more helpful for learning if you use the Socratic method: ask the student questions that lead them to find the answer themselves.  Also doing this helps you cement your own knowledge of the subject!  
+- Student posts a question about an assignment problem. Others  point out important principles that we have learned in class that can be used to solve it. They describe the important points, or mention important pitfalls to avoid. References to book pages, lecture slides, or lecture video times are helpful. Nobody posts the correct answer for the student.
 
+For group projects, you will work together but every person in the group is expected to understand every aspect of the project.  People may be asked to individually explain any aspect of the project and your grade may be reduced compared to the rest of the group if you are unable to do so. Projects may include ideas and code from other sources—but these other sources must be documented with clear attribution.
 
-Know that a third of the class typically feels overwhelmed at the start of the quarter. That said, the average is quite high in this course typically (A-). So, while we anticipate you all doing well in this course, if you are feeling lost or overwhelmed, that’s ok! Should that occur, we recommend: (1) asking questions in class, (2) attending office hours and/or (3) asking for help on Piazza.
+Know that a third of the class typically feels overwhelmed at the start of the quarter. That said, the average is quite high in this course typically (A-/B+). So, while we anticipate you all doing well in this course, if you are feeling lost or overwhelmed, that’s ok! Should that occur, we recommend: (1) asking questions in class, (2) attending office hours and/or (3) asking for help on Campuswire.
 
-Cheating and plagiarism have been and will be strongly penalized. If, for whatever reason, datahub is down or something else prohibits you from being able to turn in an assignment on time, immediately contact me by emailing your assignment by email ([jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu)), or else it will be graded as late.
+Cheating and plagiarism have been and will be strongly penalized. 
+ 
+
 
 ## Disability Access
 
@@ -356,19 +344,26 @@ If you need counseling or if you are in a mental crisis you can contact [CAPS](h
 
 ### Letters of recommendation
 
-TL;DR  If you're in this class and want a letter you can ask, but (a) the letter will not help you get into a top program, and (b) I will only write a double handful of those per quarter (so ask me early!). If you want good letters I advise you to work with multiple professors in programs outside of the class.
+TL;DR If you want a letter I advise you to work as an IA or RA or some other capacity with more than one professor. 
 
-If you are bound for graduate school you will probably need support and letters from professors or someone else who has done graduate training. Many students ask professors they have taken a class from (including me), but I want you to know this is a bad idea. You really want to get a letter from someone you have worked with more closely, who knows your talents and personality from experience working together with you over a long time.  You are one of hundreds of students I will have this quarter. TBH with relatively few exceptions I will not know you well. To get a solid letter from a prof, you want to be a research assistant, independent study, honors thesis advisee, or instructional assistant. If you are interested in grad school you need to have done the work before the beginning of senior year; letters are needed in Nov/Dec of your senior year for the following Fall admission.
+If you are bound for graduate school you will probably need support and letters from professors or someone else who has done graduate training. Many students ask professors they have taken a class from (including me), but I want you to know this is a bad idea. You really want to get a letter from someone you have worked with more closely, who knows your talents and personality from experience working together with you over a long time. You are one of hundreds of students I will have this quarter. TBH with relatively few exceptions I will not know you well. To get a solid letter from a prof, you want to be a research assistant, independent study, honors thesis advisee, or instructional assistant. If you are interested in grad school you need to have done the work before the beginning of senior year; letters are needed in Nov/Dec of your senior year for the following Fall admission.
 
-If you are just one of the hundreds of students in a class, almost every prof (including me) will write a letter that is roughly "I know STUDENT from CLASS where they got an A and often came to office hours and asked questions". That's the kind of letter which meets the bare minimum, and it may help you gain admission to some schools. But a top level grad program expects you to have done the things that will yield 3 much more detailed letters. So if you're an IA/RA/advisee, profs (including me) will write letters that go much much harder and into great detail about your qualities.  And that's what you want.  Also I want you to know that a detailed letter from someone not a professor (e.g., your manager when you did an internship related to your chosen field, the head of a volunteer organization you work with, a grad student you worked for on a research project, etc.) is probably better for your chances than a minimum letter from a professor.   
+If you are just one of the hundreds of students in a class, almost every prof (including me) will write a letter that is roughly "STUDENT was in my CLASS where they got an A+". Every graduate school admission committee in the world can read between the lines and see that this is not a good recommendation. Any kind of selective program will probably take a hard pass given a letter like that.
+
+But almost every prof (including me) will write letters that go much much harder and into great detail about your qualities if you are one of our assistants. And that kind of detailed, informative letter is what graduate admissions committees want to see.
+
+What if you don’t have the right history to get a detailed letter from a professor? I think that a detailed letter from another source is probably better for admissions than a minimum letter from a prof. Ask your manager from when you did an internship related to your chosen field, the head of a volunteer organization you work with, a grad student you worked for on a research project, etc.
+
+All that being said, if you're in this class, and want a minimum letter you can ask. But (a) the letter will not help you get into a top program, and (b) I will only write these for a double handful of students per quarter and I will not submit more than 8 letters per student, (c) I will only write a letter for you if you are in the top 10% of the grade distribution for your quarter.
+
 
 ### What should you call me?
 
-Most students call me Professor or Professor Fleischer or Dr. Fleischer. I'm also perfectly happy if you call me Jason, but not all professors are OK with that kind of informality. I would prefer you *not* address me as Mr. Fleischer; if you're going to use an honorific please use the one that people expect in the situation.
+Most students call me Professor or Professor Fleischer or Dr. Fleischer. If you’re into old skool slam dunks you can call me Dr. J. I'm also perfectly happy if you call me Jason, but not all professors are OK with that kind of informality. Please do not address me as Mr. Fleischer; if you're going to use an honorific please use the one that people expect in the situation.
 
 ### What I should call you
 
-I should call you by your preferred name, with the correct pronunciation and any honorific or pronouns you choose. Please correct me (either in the chat, out loud on zoom, or via email/Piazza after the fact...however you're most comfortable) if I ever make a mistake.
+I should call you by your preferred name, with the correct pronunciation and any honorific or pronouns you choose. Please correct me (either in the chat, out loud on zoom, or via email/Campuswire after the fact...however you're most comfortable) if I ever make a mistake.
 
 ### How to Get Your Question(s) Answered and/or Provide Feedback
 
@@ -378,12 +373,12 @@ That said, to ensure that we’re respecting their time, TAs and IAs have been i
 
 **If you have…**
 
-- **Questions about course content**: these are awesome! We want everyone to see them and have their questions answered too…so post these to Piazza!
-- **A technical assignment question**: Come to office hours (or post to Piazza). Answering technical questions is often best accomplished in person where we can discuss the question and talk through ideas. However, if that is not possible, post your question to Piazza. Be as specific as you can in the question you ask. And, for those answering, help your classmates as much as you can without just giving the answer. Help guide them, point them in a direction, provide pseudo code, but do not provide code that answers assignment questions.
-- **Been stuck on something for a while (>30min) and aren’t even really sure where to start**: Programming can be frustrating and it may not always be obvious what is going wrong or why something isn’t working. That’s ok - we’ve all been there! IF you are stuck, you can and should reach out for help, even if you aren’t exactly sure what your specific question is. To determine when to reach out, consider the 2-hour rule. This rule states that if you are stuck, work on that problem for an hour. Then, take a 30 minute break and do something else. When you come back after your break, try for another 30 minutes or so to solve your problem. If you are still completely stuck, stop and contact us (office hours, post on Piazza). If you don’t have a specific question, include the information you have (what you’re stuck on, the code you’ve been trying that hasn’t been happening, and/or the error messages you’ve been getting).
-- **Questions about course logistics**: First, check the syllabus. If the answer is not there, ask a classmate. If you still are unsure,  post on Piazza
-- **Questions about a grade**: For programming assignments, reply to the COGS 108 email directly; For project-related regrades, post a note to instructors on Piazza and select the ‘regrades’ tag. Include specifics as to why you feel you mistakenly/unfairly lost points in that post.
-- **A specific section-related question**: send a direct message on Piazza to your TA/IA
+- **Questions about course content**: these are awesome! We want everyone to see them and have their questions answered too…so post these to Campuswire!
+- **A technical assignment question**: Come to office hours (or post to Campuswire). Answering technical questions is often best accomplished in person where we can discuss the question and talk through ideas. However, if that is not possible, post your question to Campuswire. Be as specific as you can in the question you ask. And, for those answering, help your classmates as much as you can without just giving the answer. Help guide them, point them in a direction, provide pseudo code, but do not provide code that answers assignment questions.
+- **Been stuck on something for a while (>30min) and aren’t even really sure where to start**: Programming can be frustrating and it may not always be obvious what is going wrong or why something isn’t working. That’s ok - we’ve all been there! IF you are stuck, you can and should reach out for help, even if you aren’t exactly sure what your specific question is. To determine when to reach out, consider the 2-hour rule. This rule states that if you are stuck, work on that problem for an hour. Then, take a 30 minute break and do something else. When you come back after your break, try for another 30 minutes or so to solve your problem. If you are still completely stuck, stop and contact us (office hours, post on Campuswire). If you don’t have a specific question, include the information you have (what you’re stuck on, the code you’ve been trying that hasn’t been happening, and/or the error messages you’ve been getting).
+- **Questions about course logistics**: First, check the syllabus. If the answer is not there, ask a classmate. If you still are unsure,  post on Campuswire
+- **Questions about a grade**: For programming assignments, reply to the COGS 108 email directly; For project-related regrades, post a note to instructors on Campuswire and select the ‘regrades’ tag. Include specifics as to why you feel you mistakenly/unfairly lost points in that post.
+- **A specific section-related question**: send a direct message on Campuswire to your TA/IA
 - **Something super cool to share related to class**: feel free to email Prof Ellis or come to office hours. Be sure to include COG S108 in the email subject line and your full name in your message.
 - **Something you want to talk about in-depth**: meet in person during office hours or schedule a time to meet by email. Be sure to include COGS 108 in the email subject line.
 - **Some feedback about the course you want to share anonymously**: If you’ve been offended by an example in class, really liked or disliked a lesson, or wish there were something covered in class that wasn’t but would rather not share this publicly, etc., please fill out the anonymous [Google Form](https://forms.gle/GFaUFUZYLnpQzEAW6)
