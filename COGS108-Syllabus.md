@@ -46,7 +46,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         | Shanay Shah         | TBD | TBD |  insert info              |
 | TA	         | Fuling Sun    | TBD | TBD |  insert info              |
 | TA	         | Heeket Mehta        | TBD | TBD |  insert info              |
-| TA	         | Ruby Ying         | TBD | TBD |  insert info              |
+| TA	         | Ruby Ying         | TBD | this is a test |  insert info              |
 | IA	         | Jinyi Zhao | TBD | TBD |  insert info              |
 | IA	         | Nathaniel Mackler      | TBD | TBD |  insert info              |
 | IA           | Cindy Wang | TBD | TBD |  insert info              |
