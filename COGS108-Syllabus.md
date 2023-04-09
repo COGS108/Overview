@@ -43,7 +43,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2jgVJ7I9XV8tg6kso6uBZQbouxgzBohU3SkSo7TaNRhYF--9dGIh1d-h1tY5LN01K5m9WVFMiW)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
-| TA	         | Shanay Shah         | TBD | TBD |  insert info              |
+| TA	         | Shanay Shah         |  A05 - A06 | Monday 2-3pm & Tuesday 11-12pm  |  [shs004@ucsd.edu]              |
 | TA	         | Fuling Sun    | TBD | TBD |  insert info              |
 | TA	         | Heeket Mehta        | TBD | TBD |  insert info              |
 | TA	         | Ruby Ying         | TBD | this is a test |  insert info              |
