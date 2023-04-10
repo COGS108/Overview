@@ -45,7 +45,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2jgVJ7I9XV8tg6kso6uBZQbouxgzBohU3SkSo7TaNRhYF--9dGIh1d-h1tY5LN01K5m9WVFMiW)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
 | TA	         | Shanay Shah         |  A05 - A06 | Monday 2-3pm & Tuesday 11-12pm CSB 114 in person |  shs004@ucsd.edu              |
 | TA	         | Fuling Sun    | TBD | TBD |  insert info              |
-| TA	         | Heeket Mehta        | TBD | TBD |  insert info              |
+| TA	         | Heeket Mehta        | A01 & A07 | Friday 3pm - 5pm (CSB 114) |  insert info              |
 | TA	         | Ruby Ying         | A02 | Friday 2-5 pm on zoom (https://ucsd.zoom.us/j/5836002673) |  z5ying@ucsd.edu              |
 | IA	         | Jinyi Zhao | TBD | TBD |  insert info              |
 | IA	         | Nathaniel Mackler      |n/a|  Wednesday 7-7:50pm CSB 114, Zoom by Appt. |  nmackler@ucsd.edu      |
