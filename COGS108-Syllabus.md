@@ -46,7 +46,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         | Shanay Shah         |  A05 - A06 | Monday 2-3pm & Tuesday 11-12pm CSB 114 in person |  shs004@ucsd.edu              |
 | TA	         | Fuling Sun    | TBD | TBD |  insert info              |
 | TA	         | Heeket Mehta        | TBD | TBD |  insert info              |
-| TA	         | Ruby Ying         | TBD | this is a test |  insert info              |
+| TA	         | Ruby Ying         | A02 | Friday 2-5 pm on zoom (https://ucsd.zoom.us/j/5836002673) |  z5ying@ucsd.edu              |
 | IA	         | Jinyi Zhao | TBD | TBD |  insert info              |
 | IA	         | Nathaniel Mackler      | TBD | TBD |  insert info              |
 | IA           | Cindy Wang | TBD | TBD |  insert info              |
