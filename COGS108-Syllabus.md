@@ -43,7 +43,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2jgVJ7I9XV8tg6kso6uBZQbouxgzBohU3SkSo7TaNRhYF--9dGIh1d-h1tY5LN01K5m9WVFMiW)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
-| TA	         | Shanay Shah         |  A05 - A06 | Monday 2-3pm & Tuesday 3-4pm [CSB 114] in person |  shs004@ucsd.edu              |
+| TA	         | Shanay Shah         |  A05 - A06 | 2-3pm & Tuesday 3-4pm [CSB 114] in person |  shs004@ucsd.edu              |
 | TA	         | Fuling Sun    | A03 - A04 | Thursday 3-5pm (CSB 114) |  fulingsun AT ucsd.edu              |
 | TA	         | Heeket Mehta        | A01 & A07 | Friday 3pm - 5pm (CSB 114) |  hmehta@ucsd.edu              |
 | TA	         | Ruby Ying         | A02 | Friday 2-5 pm on zoom (https://ucsd.zoom.us/j/5836002673) |  z5ying@ucsd.edu              |
@@ -199,7 +199,7 @@ Also, your instructional staff may not know the answer to everything off the top
 
 ### Turning In Assignments
 
-Assignments will be submitted individually on datahub. We’ll talk about the details for submission in class. Assignments will always be released at least a week before the assignment due date. On weeks with assignment deadlines, they will always be due Monday at 11:59 PM of the week specified (see Course Schedule below).
+Assignments will be submitted individually on datahub. We’ll talk about the details for submission in class. Assignments will always be released at least a week before the assignment due date. On weeks with assignment deadlines, they will always be due Wednesday at 11:59 PM of the week specified (see Course Schedule below).
 
 **Check to ensure that your file shows up under “Submitted assignments” on datahub after you click submit!!!**. If the file is the incorrect file, corrupted, or otherwise unreadable, we cannot grade it and we will mark your assignment as late. There will be at least a dozen people each quarter who tell say "I'm so sorry I forgot to click submit! Can I please get it graded without late?" And my answer will be no. Do not be that person!
 
