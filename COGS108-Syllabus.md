@@ -49,7 +49,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         | Ruby Ying         | A02 | Friday 2-5 pm on zoom (https://ucsd.zoom.us/j/5836002673) |  z5ying@ucsd.edu              |
 | IA	         | Jinyi Zhao | A04 | Wednesday 11-12 pm (CSB 114), Zoom by Appt. |  jiz088@ucsd.edu              |
 | IA	         | Nathaniel Mackler      |n/a|  Wednesday 7-7:50pm CSB 114, Zoom by Appt. |  nmackler@ucsd.edu      |
-| IA           | Cindy Wang | A01 & A07 | Thursday 1-2 pm on zoom (https://ucsd.zoom.us/j/6186551118) |  xiw013@ucsd.edu              |
+| IA           | Cindy Wang | A01 & A07 | Thursday 6-7 pm on zoom (https://ucsd.zoom.us/j/6186551118) |  xiw013@ucsd.edu              |
 
 
 Course GitHub: https://github.com/COGS108  
