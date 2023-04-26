@@ -47,7 +47,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         | Fuling Sun    | A03 - A04 | Thursday 3-5pm (CSB 114) |  fulingsun AT ucsd.edu              |
 | TA	         | Heeket Mehta        | A01 & A07 | Friday 3pm - 5pm (CSB 114) |  hmehta@ucsd.edu              |
 | TA	         | Ruby Ying         | A02 | Friday 2-5 pm on zoom (https://ucsd.zoom.us/j/5836002673) |  z5ying@ucsd.edu              |
-| IA	         | Jinyi Zhao | A04 | Wednesday 11-12 pm (CSB 114), Zoom by Appt. |  jiz088@ucsd.edu              |
+| IA	         | Jinyi Zhao | A04 | Wednesday 11-12 pm on Zoom (https://ucsd.zoom.us/j/8520675282) |  jiz088@ucsd.edu              |
 | IA	         | Nathaniel Mackler      |n/a|  Wednesday 7-7:50pm CSB 114, Zoom by Appt. |  nmackler@ucsd.edu      |
 | IA           | Cindy Wang | A01 & A07 | Thursday 6-7 pm on zoom (https://ucsd.zoom.us/j/6186551118) |  xiw013@ucsd.edu              |
 
