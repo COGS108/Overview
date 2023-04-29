@@ -323,6 +323,17 @@ Know that a third of the class typically feels overwhelmed at the start of the q
 Cheating and plagiarism have been and will be strongly penalized. 
  
 
+### Pollicy on using LLM programming assistance
+
+I believe that LLM assistance can help a good programmer work more efficiently. I also believe that LLM assistance will probably slow down the development of a beginning programmer into a good programmer.  
+
+My advice: if you struggle to conceptualize how you want to write a program you should probably NOT use an LLM.  If you can immediately imagine how to solve it, but you just want alternative viewpoints to consider or help writing it faster, I think it's fine to use LLMs.
+
+If you use a LLM to help you program I am fine as long as:
+- you cite the use
+- you don't assume LLM code is working and just hand in without checking
+- you understand that programming with LLMs still requires you to do programming. But instead of creating code from scratch (the part many people enjoy) you will need to do debugging and unit testing (the part many people don't like)
+- you understand that you may be asked to explain your code at any time, and certainly will be asked if you ask for a regrade.Iif you can't explain how your code works and why the design is that way you may lose points
 
 ## Disability Access
 
