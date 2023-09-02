@@ -1,10 +1,10 @@
 Preliminary syllabus and subject to change in the first two weeks!
-v0.01 1 April 2023
+v0.01 01-Sept-23
 
 # COGS 108: Data Science in Practice
 
-**Spring 2023**  
-MWF 10-10:50am in-person at PRICE	CENTER THEATRE <br>
+**Fall 2023**  
+
 
 
 ---
@@ -28,12 +28,12 @@ MWF 10-10:50am in-person at PRICE	CENTER THEATRE <br>
 
 # COURSE OVERVIEW
 
-This hands-on, practical course is intended to get you experience working on data science projects. This class goes beyond the appreciation for data and data science you (may have) learned in COGS 9 by *doing* the same things we talked about theoretically in that introductory course. Doing is rarely so simple. You will likely attempt to do something, do it wrong, learn from your mistakes, and with a bit of luck and skill, eventually succeed. That’s just part of the scientific process, and data science is no exception. This course is all about the *practice* of data science.
+This hands-on, practical course is intended to get you experience working on data science projects.  You may have theoretical knowledge from other courses, but here we are going to implement. Doing something is rarely simple.  You will likely attempt to do something, do it wrong, learn from your mistakes, and with a bit of luck and skill, eventually succeed. That’s just part of the scientific process, and data science is no exception. This course is all about the *practice* of data science.
 
 In focusing on the practice, there is theory that won’t be discussed and mathematical proofs that won’t be done. That is by design. In particular:
 
 1. There are entire courses dedicated to each of the topics we’ll cover. To have time to do anything, we can’t teach all the details in a single course.
-2. Experts in each of these domains are out there and excited to teach you the nitty gritty about each topic.
+2. Experts in each of these domains are out there and excited to teach you the nitty gritty about each topic.  TAKE THOSE OPPORTUNITIES... the theory we are skipping is important and useful!!
 3. We’re promoting data literacy. We believe that everyone who is data literate is at an advantage as they go out into the modern world. Data literacy is not limited to those who are computational gurus or math prodigies. You do not have to be either of those to excel at this course.
 
 In this course, you will try many methods. You’ll even be asked to implement a technique that has not been explicitly taught. Again, this is by design. As a data scientist, you’ll regularly be asked to step outside of your comfort zone and into something new. Our goal is to get you as comfortable as possible in that space now. We want to provide you with a technical and a data science mindset that will allow you to ask the right questions for the problem at hand and set off alarm bells when something in your dataset or analysis is “off.”
@@ -43,24 +43,29 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2jgVJ7I9XV8tg6kso6uBZQbouxgzBohU3SkSo7TaNRhYF--9dGIh1d-h1tY5LN01K5m9WVFMiW)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
-| TA	         | Shanay Shah         |  A05 - A06 | Monday 2-3pm & Tuesday 3-4pm [CSB 114] in person |  shs004@ucsd.edu              |
-| TA	         | Fuling Sun    | A03 - A04 | Thursday 3-5pm (CSB 114) |  fulingsun AT ucsd.edu              |
-| TA	         | Heeket Mehta        | A01 & A07 | Friday 3pm - 5pm (CSB 114) |  hmehta@ucsd.edu              |
-| TA	         | Ruby Ying         | A02 | Friday 2-4 pm on zoom (https://ucsd.zoom.us/j/5836002673) |  z5ying@ucsd.edu              |
-| IA	         | Jinyi Zhao | A04 | Wednesday 11-12 pm on Zoom (https://ucsd.zoom.us/j/8520675282) |  jiz088@ucsd.edu              |
-| IA	         | Nathaniel Mackler      |n/a|  Wednesday 7-7:50pm CSB 114, Zoom by Appt. |  nmackler@ucsd.edu      |
-| IA           | Cindy Wang | A01 & A07 | Thursday 6-7 pm on zoom (https://ucsd.zoom.us/j/6186551118) |  xiw013@ucsd.edu              |
+| TA	         | new TAs fill in your name         |  fill in your section|  fill in your office hours |  fill in your email             |
+| TA	         | new TAs fill in your name         |  fill in your section|  fill in your office hours |  fill in your email             |
+| TA	         | new TAs fill in your name         |  fill in your section|  fill in your office hours |  fill in your email             |
+| TA	         | new TAs fill in your name         |  fill in your section|  fill in your office hours |  fill in your email             |
+| TA	         | new TAs fill in your name         |  fill in your section|  fill in your office hours |  fill in your email             |
+| TA	         | new TAs fill in your name         |  fill in your section|  fill in your office hours |  fill in your email             |
+| IA	         | new IAs fill in your name         |  fill in your section or n/a |  fill in your office hours |  fill in your email             |
+| IA	         | new IAs fill in your name         |  fill in your section or n/a |  fill in your office hours |  fill in your email             |
+| IA	         | new IAs fill in your name         |  fill in your section or n/a |  fill in your office hours |  fill in your email             |
+| IA	         | new IAs fill in your name         |  fill in your section or n/a |  fill in your office hours |  fill in your email             |
+| IA	         | new IAs fill in your name         |  fill in your section or n/a |  fill in your office hours |  fill in your email             |
+| IA	         | new IAs fill in your name         |  fill in your section or n/a |  fill in your office hours |  fill in your email             |
 
 
 Course GitHub: https://github.com/COGS108  
 
-Course Campuswire*: https://campuswire.com/p/G91B371ED Group join code: 0714
+Course Campuswire*: ** NEED TO SETUP FOR THE NEW QUARTER **
 
-Course Canvas: https://canvas.ucsd.edu/courses/45023
+Course Canvas:  ** NEED TO SETUP FOR THE NEW QUARTER **
 
 Assignment Submission: https://datahub.ucsd.edu  
 
-Anonymous Course Feedback: https://forms.gle/MpFPqBLvnRtT2ytJ6
+Anonymous Course Feedback:  ** NEED TO SETUP FOR THE NEW QUARTER **
 
 *You will be able to post anonymously on Campuswire; however, you will only be anonymous to your classmates. Your Instructor and TAs will be able to see who you are.
 
@@ -77,7 +82,7 @@ Anonymous Course Feedback: https://forms.gle/MpFPqBLvnRtT2ytJ6
 
 # COURSE MATERIALS
 - There is no textbook
-- Python (>= 3.7) and Jupyter Notebooks.  You may fulfill this by any of the following
+- Python (>= 3.9) and a recent version of Jupyter Notebooks.  You may fulfill this by any of the following
   - Datahub (please use Datahub for assignments! other options are OK for project)
   - A local copy on your own computer (we recommend the Anaconda distribution)
   - Cloud services such as Google Colab, Microsoft Azure, etc. These all have a free tier or free hours before billing.  
@@ -91,7 +96,7 @@ Anonymous Course Feedback: https://forms.gle/MpFPqBLvnRtT2ytJ6
 There are no required readings for this course; however, if you’re interested in learning more and reading about data science topics, we recommend the following texts as supplementary to the main elements of the course:
 
 - Grus J (2019, 2nd ed) Data Science from Scratch. This book takes you into HOWs and WHYs, rather than just learning to use a library you don't really understand.  This is the harder book, but you will grow tremendously working though it. [Can be accessed for free through your UCSD login](https://library.ucsd.edu/news-events/oreilly-for-higher-education/)
-- Vanderplas, J (2018) [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook). Short and too the point. Both the text and the code are freely available on Github. Learn to use standard libraries to get things done.
+- Vanderplas, J (2023, 2nd ed) [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook). Short and too the point. Both the text and the code are freely available on Github. Learn to use standard libraries to get things done.
 
 We also maintain [a list of readings that can provide insight into various data science topics](https://github.com/COGS108/Readings).
 
@@ -114,7 +119,7 @@ We also maintain [a list of readings that can provide insight into various data 
 
 \* Indicates Group Submission
 
-**Final exam**: This course has no final exam. Do not show up on the date/time of the final exam.  Instead this course has a final project. The project deadline is Dec 9th at 11:59 PM
+**Final exam**: This course has no final exam. Do not show up on the date/time of the final exam.  Instead this course has a final project/
 
 All grades will be released on Canvas. It is *your responsibility to check that your assignment was submitted, that your grade is accurate, and to get in touch if any are missing and/or you think there is a problem*.
 
@@ -142,18 +147,22 @@ Our grading scale is
 | D   | < 70 % to 60% |
 | F   | < 60 % |
 
+Know that a third of the class typically feels overwhelmed at the start of the quarter. That said, the average is quite high in this course (typically A-). So, while we anticipate you all doing well in this course, if you are feeling lost or overwhelmed, that’s ok! Should that occur, we recommend: (1) asking questions in class, (2) attending office hours and/or (3) asking for help on Campuswire.
 
 ### Attendance
 
-I continue to believe that attending in-person is the best way to learn for most people. Our goal is to make the lecture and discussion section worth your while to attend through interactive content and making it a good place to get questions answered. But you're adults, you will know what fits your constraints and needs.
+I continue to believe that attending in-person is the best way to learn for most people. Our goal is to make the lecture and discussion section worth your while to attend through interactive content and making it a good place to get questions answered. We will also be trying out active learning paradigms this quarter. There will be some live coding exercises both as individuals and some think-pair-share setups.
 
-That said, there is no component of your grade that is based on attendance or live participation. DO NOT COME TO IN-PERSON CLASS IF YOU FEEL SNIFFLY OR SICK!!!  I really don't want our very large lecture hall to become a super-spreader event for any illnesses.
+But you're adults, you will know what fits your constraints and needs.  If you can't come or this is not the best use of your time, that's fine. There is no component of your grade that is based on attendance or live participation. DO NOT COME TO IN-PERSON CLASS IF YOU FEEL SNIFFLY OR SICK!!!  I really don't want our very large lecture hall to become a super-spreader event for any illnesses.
 
 ---
 
 # LECTURE
 
-Lectures are MWF 10-10:50am in Price Center Theater. 
+This quarter we are running two lecture sections to keep up with demand.  For the first day of class please attend the lecture section you are assigned to.  After we see whether its possible to allow people to attend whichever session they prefer.  While the same material will be covered in each section, I reserve the right to approach it slighlty differently in each one.
+
+LE A00 MWF	9:00a-9:50a	Warren Lecture Hall - WLH 2001
+LE B00 MWF	2:00p-2:50p	Peterson Hall - PETER	110
 
 ### Lecture Quizzes
 
@@ -165,27 +174,36 @@ At the end of each Friday, a quiz with ~10 questions will be released, covering 
 
 Discussion sections are a place where you will be able to ask questions, get help on technical topics, work on your group projects, and discuss the weekly lab exercises. If you are struggling with course material come to discussion section and/or office hours!
 
-The first discussion section will start on April 10th.  There will be no discussion sections run until that date.
+The first discussion section will start on .  There will be no discussion sections run until that date.
 
-| Section |  Date/Time | Location |
-|:--------|:-----------|:----------|
-| A01	| W	5:00p-5:50p | PETER	103 | 
-| A02	| W	11:00a-11:50a	| MANDE	B-150 | 
-| A03	| M	1:00p-1:50p	| DIB	122 | 
-| A04	| M	2:00p-2:50p	| DIB	122 | 
-| A05	| W	2:00p-2:50p	| PCYNH	121 | 
-| A06	| W	3:00p-3:50p	| PCYNH	121 | 
-| A07	| W	4:00p-4:50p	| PETER	102 | 
+| Section |  Time and Location |
+|:--------|:---------------------|
+| A01	|	F	10:00a-10:50a CSB	005 |
+| A02	| F	3:00p-3:50p	CSB	005 | 
+| A03	| F	4:00p-4:50p	CSB	005 | 
+| A04	| M	2:00p-2:50p	PETER	102 | 
+| A05	| M	3:00p-3:50p	WLH	2205  | 
+| A06	| Cancelled  | 
+| A07	| M	7:00p-7:50p	CENTR	222  | 
+| A08	| F	5:00p-5:50p	PCYNH	120 | 
+| B01	|	W	9:00a-9:50a	DIB	122 |
+| B02	| W	10:00a-10:50a	DIB	122 | 
+| B03	| W	11:00a-11:50a	DIB	122 | 
+| B04	| F	5:00p-5:50p	CSB	005 | 
+| B05	| F	6:00p-6:50p	CSB	005  | 
+
 
 ### Discussion section lab exercises
 
-Each week there will be a short, guided lab exercise to review material from lecture and give hands-on programming experience.  These lab exercises will be released on the Wednesday BEFORE the corresponding lab section. Students will have ten (10) days to complete them, so they are due the Friday AFTER the corresponding lab section. There will be 8 discussion lab exercises. Each is worth 2 points. 
+Each week there will be a short lab exercise to review material from lecture and give hands-on programming experience. You can work on these exercises in your lab sections, and your section leaders will be happy to help guide you towards the correct answers.  Or if you don't need help you can complete them on your own and never come to lab.  If you wish to work collaboratively on lab exercises you may do so, but please realize that this is your time to practice and learn new skills with low stakes. If someone else does it for you its hard to practice and learn!
+
+Lab exercises will be due on Wednesdays and released one week before they are due. Each one is worth 2 points. 
 
 ---
 
 # ASSIGNMENTS
 
-Assignments are hands-on in this course. They will be completed individually in Jupyter Notebooks and both released and submitted on datahub.
+If lab exercises are low stakes and you can get lots of help, then assignments are high stakes and you can only get minimal help. They will be completed **individually** in Jupyter Notebooks and both released and submitted on datahub.
 
 The practice of data science involves writing code to answer questions and accomplish tasks. Thus, to get practice, your assignments will require you to use Python to do just that. Not everything will be explicitly mapped out step-by-step for you. This is intentional. Figuring things out when it’s not entirely clear what to do next is part of the practice here. You’ll attempt things that won’t work and become comfortable with this. You’ll get stuck and work to get unstuck. Not quite knowing exactly what’s going on at all times is part of the process. And, to be honest, part of the job of being a data scientist.
 
@@ -193,21 +211,18 @@ That said, the first two assignments will be the simplest assignments and aim to
 
 As assignments become more difficult, we don’t want you to get or feel totally lost. If you’ve thought long and hard, gone down a long rabbithole on Stack Overflow, and can’t even get a sense of what the next step may be, take a step away. Take a break. Then, come back and see if you can’t solve it with a refreshed mind. If you’re still totally stuck, ask on Campuswire, talk to a classmate, and/or attend office hours for help.
 
-With regards to asking questions of instructional staff, we’re here to help you, but there are way more students than there are instructors. So, help each other. Ask one another first. It’s awesome that we all have different backgrounds and experiences - let’s use that to our advantage. In fact, this is how the best data science gets done. Diverse minds solving a problem invariably improves the solution. Also, teaching something to someone else is the best way to determine if you really know something. So, it’s win-win. The person who’s stuck gets unstuck and the person who helped is more sure in their knowledge. Help one another! Section and office hours are meant to be collaborative.
+With regards to asking questions of instructional staff, we’re here to help you, but there are way more students than there are instructors. So, help each other. In fact, this is how the best data science gets done. Diverse minds solving a problem invariably improves the solution. Also, teaching something to someone else is the best way to determine if you really know something. So, it’s win-win. The person who’s stuck gets unstuck and the person who helped is more sure in their knowledge. Help one another! Section and office hours are meant to be collaborative.
 
-Also, your instructional staff may not know the answer to everything off the top of their head right away. There is an entire field of data science topics and programming out there - we’ll do our best to help and show you where to look and how to figure out the answer (or steer you in a different direction if your approach is going to lead you in a messy and intractable direction), but know that we may not have all the answers.
+But how should you help one another on assignments? You should: ask a question that leads the student to figure it out for themselves, point out the correct principle/theory that applies in this case, provide a link to an explanation, or a chunk of psuedo-code.  You should not: provide the full answer or code they can just copy/paste.
 
 ### Turning In Assignments
 
-Assignments will be submitted individually on datahub. We’ll talk about the details for submission in class. Assignments will always be released at least a week before the assignment due date. On weeks with assignment deadlines, they will always be due Wednesday at 11:59 PM of the week specified (see Course Schedule below).
+Assignments will be submitted individually on datahub. We’ll talk about the details for submission in class. Assignments will always be released a week before the assignment due date. On weeks with assignment deadlines, they will always be due Wednesday at 11:59 PM of the week specified (see Course Schedule below).
 
 **Check to ensure that your file shows up under “Submitted assignments” on datahub after you click submit!!!**. If the file is the incorrect file, corrupted, or otherwise unreadable, we cannot grade it and we will mark your assignment as late. There will be at least a dozen people each quarter who tell say "I'm so sorry I forgot to click submit! Can I please get it graded without late?" And my answer will be no. Do not be that person!
 
 It is your responsibility to ensure that we receive a submission from you on datahub and that you submit the correct file (a Jupyter notebook with the .ipynb extension with the same file name as the assignment) for each assignment. If you identify that a mistake has been made, it is your responsibility to get in touch on Campuswire should a problem arise. You will receive individualized feedback via email with your grade and feedback about a week after each assignment is due.
 
-### Assignment Questions on Campuswire
-
-Campuswire will be used for all general questions. For example, if you are confused by what a question is asking or are unsure where to start to look for the answer and need direction, Campuswire is the place to go. However, when asking or answering questions on Campuswire, code that answers assignment questions should **not** be provided. Instead, answer with suggestions as to what topics/ideas/lectures to look into or vague pseudocode that helps move the person asking the question in the right direction. For general programming questions (unrelated to the assignment answers), feel free to share minimal code segments.
 
 ### Assignment Regrades
 
@@ -230,25 +245,16 @@ Assignments and labs will be accepted at 75% credit up to 3 days late. Every stu
 
 # COURSE PROJECT
 
-Your course project will be completed in a group of 4-5 people. The reality of data science is that you will have to work with others. You’ll need to work together to communicate effectively, manage time, organize your projects, and accomplish a goal. People will have different knowledge and skills sets. It is your job as a group to work together to figure out how to maximize each group member’s skills to make sure that your differences are helpful to accomplishing your goal, rather than a hindrance. For example, some of you will find the programming aspects of the class assignments very easy, while others will struggle. Alternatively, some of you may find experimental research and hypothesis testing intuitive, while others find it confusing and frustrating. It is best for your project if you choose a team with a mix of background and experience.
+Your course project will be completed in an assigned group of 4-5 people. The reality of data science is that you will have to work with others on a team you didn't get to pick. You’ll need to work together to communicate effectively, manage time, organize your projects, and accomplish a goal. People will have different knowledge and skills sets. It is your job as a group to work together to figure out how to maximize each group member’s skills to make sure that your differences are helpful to accomplishing your goal, rather than a hindrance. For example, some of you will find the programming aspects of the class assignments very easy, while others will struggle. Alternatively, some of you may find experimental research and hypothesis testing intuitive, while others find it confusing and frustrating.
 
-### Finding A Group
+Probably the most important way to start a team off on the right foot is to discuss expectations of how you will work together.  How will you divide up the work? How often and where will you meet? How will you communicate with each other? What's the maximum amount of time it should take for someone to respond to a message?  How will you double check that things that need to happen did happen? If there is a problem meeting a deadline how should the person responsible let others know, and then how should the rest of the team react? There are many possible answers to these questions, and there are many more questions about expectations that you might want to ask yourselves. Your team should decide what's right for you, _and then write down these expectations in a place that the team will often see it_.  Trust me, this will help things go more smoothly.  
 
-Finding a group may be a tad trickier this quarter. As such, we'll offer additional support. Groups can be found in a few different ways:
-
-1. If you have people in the class you know you want to work with, chat with one another and if you're all on board, form a group.
-2. There will be time to find groups in discussion section during week 1 & 2.
-3. If you don't know people in the class or don't have people you want to work with, no problem. Seek them out on Campuswire!
-
-You will submit who your group is via Google Form by the Monday of week 3 (see Course Schedule). One form will be submitted per group.
-
-If you do not signup for a group by the end of week 2 you will be randomly assigned a group. However you generally don't want that, you'll have more fun if you get on board with people who want to work on the same thing as you. Also in my experience the randomly assigned groups have more trouble than the ones students put together on their own.
 
 ### Project Components
 
-All project components are completed as a group and are described in the Project documentation: https://github.com/COGS108/Projects. This includes: 1) group survey 2) Previous Project Review 3) Project Proposal 4) Project Checkpoint #1: Data, 5) Project Checkpoint #2: EDA, 6) Final Project Report, 7) Final Project Video, and 8) Team Evaluation Survey.
+These project components are completed and submitted *as a group* and are described in the Project documentation: https://github.com/COGS108/Projects. This includes: 1) Previous Project Review 2) Project Proposal 3) Project Checkpoint #1: Data, 4) Project Checkpoint #2: EDA, 5) Final Project Report, and 6) Final Project Video
 
-Starting week 3, there will be an *optional* weekly survey to be completed individually describing your project progress. Students who complete all 7 weeks' surveys will earn 0.5% extra credit to their final grade.
+There are also components of the project that must be completed individually. Starting week 3, there will be an *optional* weekly survey to be completed individually describing your project progress. Students who complete all 7 weeks' surveys will earn 0.5% extra credit to their final grade. At the end of the course there is a team evaluation survey... this is your opportunity to let us know if a teammate did not contribute 
 
 ---
 
@@ -256,39 +262,40 @@ Starting week 3, there will be an *optional* weekly survey to be completed indiv
 
 |        | Week   | Day | Topic                    | Section covers | Lab due | Assignment due                                                 | Lecture quiz due |
 | ------ | ------ | --- | ------------------------ | -------------- | ------- | -------------------------------------------------------------- | ---------------- |
-| Apr-3  | 1      | M   | Welcome!                 | \--            |         |                                                                |                  |
-| Apr-5  | 1      | W   | Python Review            | \--            |         |                                                                |                  |
-| Apr-7  | 1      | F   | Version Control I        |                |         |                                                                |                  |
-| Apr-10 | 2      | M   | Version Control II       | D1             |         |                                                                | Q1               |
-| Apr-12 | 2      | W   | Data & Intuition         | D1             |         | Practice assignment, pre-course survey                         |                  |
-| Apr-14 | 2      | F   | Data Wrangling (pandas)  |                | D1      | \--                                                            |                  |
-| Apr-17 | 3      | M   | Ethics                   | D2             |         |                                                                | Q2               |
-| Apr-19 | 3      | W   | Data Science ?s          | D2             |         | A1; Group Signup\*                                             |                  |
-| Apr-21 | 3      | F   | Dataviz I                |                | D2      | \--                                                            |                  |
-| Apr-24 | 4      | M   | Intro to Analysis        | D3             |         |                                                                | Q3               |
-| Apr-26 | 4      | W   | EDA                      | D3             |         | Project Review\*                                               |                  |
-| Apr-28 | 4      | F   | EDA II                   |                | D3      | \--                                                            |                  |
-| May-1  | 5      | M   | Inference I              | D4             |         |                                                                | Q4               |
-| May-3  | 5      | W   | Inference II             | D4             |         | Project Proposal\*                                             |                  |
-| May-5  | 5      | F   | Inference III            |                | D4      | \--                                                            |                  |
-| May-8  | 6      | M   | Text Analysis I          | D5             |         |                                                                | Q5               |
-| May-10 | 6      | W   | Text Analysis II         | D5             |         | A2                                                             |                  |
-| May-12 | 6      | F   | Machine Learning I       |                | D5      | \--                                                            |                  |
-| May-15 | 7      | M   | Machine Learning II      | D6             |         | \--                                                            | Q6               |
-| May-17 | 7      | W   | Machine Learning III     | D6             |         | Checkpoint #1: Data\*                                          |                  |
-| May-19 | 7      | F   | Nonparametric            |                | D6      | \--                                                            |                  |
-| May-22 | 8      | M   | Nonparametric II         |                |         | \--                                                            | Q7               |
-| May-24 | 8      | W   | Geospatial I             | D7             |         | A3                                                             |                  |
-| May-26 | 8      | F   | Geospatial II            |                | D7      | \--                                                            |                  |
-| May-29 | 9      | M   | No class - Memorial Day  | D8             |         |                                                                | Q8               |
-| May-31 | 9      | W   | Dimensionality Reduction | D8             |         | Checkpoint #2: EDA\*                                           |                  |
-| Jun-3  | 9      | F   | How to be wrong          |                | D8      | \--                                                            |                  |
-| Jun-5  | 10     | M   | How to be wrong II       |                |         | \--                                                            | Q9               |
-| Jun-7  | 10     | W   | Tools or Guest lecture   | Projects       |         | A4                                                             |                  |
-| Jun-9  | 10     | F   | Data science jobs        |                |         | \--                                                            |                  |
-| Jun-12 | Finals | M   | NO FINAL EXAM            | Projects       |         | \--                                                            |                  |
-| Jun-14 | Finals | W   |                          |                |         | Final project\*, video\*, team eval survey, post-course survey |                  |
-| Jun-16 | Finals | F   |                          |                |         |
+| Sep-29 | 0      | F   | Welcome!                 | \--            |         |                                                                |                  |
+| Oct-02 | 1      | M   | Python Review            | \--            |         |                                                                |                  |
+| Oct-04 | 1      | W   | Version Control I        | \--            |         |                                                                |                  |
+| Oct-06 | 1      | F   | Version Control II       | D1             |         |                                                                | Q1               |
+| Oct-09 | 2      | M   | Data & Intuition         | D1             |         | Practice assignment, pre-course survey                         |                  |
+| Oct-11 | 2      | W   | Data Wrangling (pandas)  | D1             | D1      | \--                                                            |                  |
+| Oct-13 | 2      | F   | Ethics                   | D2             |         |                                                                | Q2               |
+| Oct-16 | 3      | M   | Data Science ?s          | D2             |         | A1                                                             |                  |
+| Oct-18 | 3      | W   | Dataviz I                | D2             | D2      | \--                                                            |                  |
+| Oct-20 | 3      | F   | Intro to Analysis        | D3             |         |                                                                | Q3               |
+| Oct-23 | 4      | M   | EDA                      | D3             |         | Project Review\*                                               |                  |
+| Oct-25 | 4      | W   | EDA II                   | D3             | D3      | \--                                                            |                  |
+| Oct-27 | 4      | F   | Inference I              | D4             |         |                                                                | Q4               |
+| Oct-30 | 5      | M   | Inference II             | D4             |         | Project Proposal\*                                             |                  |
+| Nov-01 | 5      | W   | Inference III            | D4             | D4      | \--                                                            |                  |
+| Nov-03 | 5      | F   | Text Analysis I          | D5             |         |                                                                | Q5               |
+| Nov-06 | 6      | M   | Text Analysis II         | D5             |         | A2                                                             |                  |
+| Nov-08 | 6      | W   | Machine Learning I       | D5             | D5      | \--                                                            |                  |
+| Nov-10 | 6      | F   | No class - Veterans Day  | D6             |         | \--                                                            | Q6               |
+| Nov-13 | 7      | M   | Machine Learning II      | D6             |         | Checkpoint #1: Data\*                                          |                  |
+| Nov-15 | 7      | W   | Machine Learning III     | D6             | D6      | \--                                                            |                  |
+| Nov-17 | 7      | F   | Nonparametric            | D7             |         | \--                                                            | Q7               |
+| Nov-20 | 8      | M   | Nonparametric II         | D7             |         | A3                                                             |                  |
+| Nov-22 | 8      | W   | Geospatial I             | D7             | D7      | \--                                                            |                  |
+| Nov-24 | 8      | F   | No class - Thanksgiving  | D8             |         |                                                                | Q8               |
+| Nov-27 | 9      | M   | Geospatial II            | D8             |         | Checkpoint #2: EDA\*                                           |                  |
+| Nov-29 | 9      | W   | Dimensionality Reduction | D8             | D8      | \--                                                            |                  |
+| Dec-01 | 9      | F   | How to be wrong          | Projects       |         | \--                                                            | Q9               |
+| Dec-04 | 10     | M   | How to be wrong II       | Projects       |         | A4                                                             |                  |
+| Dec-06 | 10     | W   | Tools or Guest lecture   | Projects       |         | \--                                                            |                  |
+| Dec-08 | 10     | F   | Data science jobs        |                |         | \--                                                            |                  |
+| Dec-11 | Finals | M   |                          |                |         | \--                                                            |                  |
+| Dec-13 | Finals | W   | NO FINAL EXAM            |                |         | Final project\*, video\*, team eval survey, post-course survey |                  |
+| Dec-15 | Finals | F   |                          |                |         |                                                                |                  |
 
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
 
@@ -309,7 +316,8 @@ If you have a concern, please speak with anyone on the instruction team (profess
 ### Academic integrity
 Don't cheat.  Please review academic integrity policies here.
 
-YYou will work together on projects. You should help one another learn in general. Assignments and discussion labs should be completed individually, although you may seek help from your fellow students. However you may not give answers to each other at any time. THERE IS NO ASKING QUESTIONS OF EACH OTHER ON QUIZZES AND EXAMS!!
+YYou will work together on projects. You should help one another learn in general.  Assignments and discussion labs should be completed individually, although you may seek help from your fellow students. However you may not give answers to each other at any time. In discussion labs its ok to be much more leading and provide more of the answer.  In assignments you should be more careful about how much detail you are providing in your help to others.
+
 
 Examples of good collaboration on assignments: 
 - Student posts non-working code to get help, others send a link to a good reference page in sklearn documentation, or point out the generic kind of mistake being made (e.g., you’ve messed up the order of operations). Nobody just writes the correct code for the student.
@@ -317,8 +325,6 @@ Examples of good collaboration on assignments:
 - Student posts a question about an assignment problem. Others  point out important principles that we have learned in class that can be used to solve it. They describe the important points, or mention important pitfalls to avoid. References to book pages, lecture slides, or lecture video times are helpful. Nobody posts the correct answer for the student.
 
 For group projects, you will work together but every person in the group is expected to understand every aspect of the project.  People may be asked to individually explain any aspect of the project and your grade may be reduced compared to the rest of the group if you are unable to do so. Projects may include ideas and code from other sources—but these other sources must be documented with clear attribution.
-
-Know that a third of the class typically feels overwhelmed at the start of the quarter. That said, the average is quite high in this course typically (A-/B+). So, while we anticipate you all doing well in this course, if you are feeling lost or overwhelmed, that’s ok! Should that occur, we recommend: (1) asking questions in class, (2) attending office hours and/or (3) asking for help on Campuswire.
 
 Cheating and plagiarism have been and will be strongly penalized. 
  
@@ -365,7 +371,7 @@ But almost every prof (including me) will write letters that go much much harder
 
 What if you don’t have the right history to get a detailed letter from a professor? I think that a detailed letter from another source is probably better for admissions than a minimum letter from a prof. Ask your manager from when you did an internship related to your chosen field, the head of a volunteer organization you work with, a grad student you worked for on a research project, etc.
 
-All that being said, if you're in this class, and want a minimum letter you can ask. But (a) the letter will not help you get into a top program, and (b) I will only write these for a double handful of students per quarter and I will not submit more than 8 letters per student, (c) I will only write a letter for you if you are in the top 10% of the grade distribution for your quarter.
+All that being said, if you want a minimum letter you can ask. But (a) the letter will not help you get into a top program, and (b) I will only write these for a double handful of students per quarter and I will not submit more than 8 letters per student, (c) I will only write a letter for you if you are in the top 10% of the grade distribution for your quarter.
 
 
 ### What should you call me?
