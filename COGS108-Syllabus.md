@@ -159,10 +159,10 @@ But you're adults, you will know what fits your constraints and needs.  If you c
 
 # LECTURE
 
-This quarter we are running two lecture sections to keep up with demand.  For the first day of class please attend the lecture section you are assigned to.  After we see whether its possible to allow people to attend whichever session they prefer.  While the same material will be covered in each section, I reserve the right to approach it slighlty differently in each one.
+This quarter we are running two lecture sections to keep up with demand.  For the first day of class please attend the lecture section you are assigned to.  After that we will see whether its possible to allow people to attend whichever session they prefer... do not just start doing this unless I say its OK in lecture/canvas/here.  While the same material will be covered in each section, I reserve the right to approach it slighlty differently in each one.
 
-LE A00 MWF	9:00a-9:50a	Warren Lecture Hall - WLH 2001
-LE B00 MWF	2:00p-2:50p	Peterson Hall - PETER	110
+| LE A00 | MWF	9:00a-9:50a	| Warren Lecture Hall - WLH 2001 |
+| LE B00 | MWF	2:00p-2:50p	| Peterson Hall - PETER	110 |
 
 ### Lecture Quizzes
 
