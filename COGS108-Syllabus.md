@@ -1,5 +1,5 @@
 Preliminary syllabus and subject to change in the first two weeks!
-v0.01 01-Sept-23
+v0.02 22-Sept-23
 
 # COGS 108: Data Science in Practice
 
@@ -200,7 +200,7 @@ The first discussion section will start on .  There will be no discussion sectio
 
 Each week there will be a short lab exercise to review material from lecture and give hands-on programming experience. You can work on these exercises in your lab sections, and your section leaders will be happy to help guide you towards the correct answers.  Or if you don't need help you can complete them on your own and never come to lab.  If you wish to work collaboratively on lab exercises you may do so, but please realize that this is your time to practice and learn new skills with low stakes. If someone else does it for you its hard to practice and learn!
 
-Lab exercises will be due on Wednesdays and released one week before they are due. Each one is worth 2 points. 
+Lab exercises will be due on Fridays 11:59PM and released one week before they are due. If lab exercises are due on a holiday (Veteran's day, Thanksgiving) then they will be accepted until the following Monday that week.  Each lab exercise is worth 2 points. 
 
 ---
 
@@ -262,43 +262,42 @@ There are also components of the project that must be completed individually. St
 ---
 
 # COURSE SCHEDULE
+|        | Week   | Day    | Topic                   | Section covers | Lab due  | Assignment due | Lecture quiz due  |
+|--------|--------|-------|--------------------------|----------|----------------|--------------------------------------------------------------|
+| Sep-29 | 0      | F     | Welcome!                 | --       |                |                                                              |    |
+| Oct-02 | 1      | M     | Python Review            | --       |                |                                                              |    |
+| Oct-04 | 1      | W     | Version Control I        | --       |                |                                                              |    |
+| Oct-06 | 1      | F     | Version Control II       | --       |                |                                                              |    |
+| Oct-09 | 2      | M     | Data & Intuition         | D1       |                |                                                              | Q1 |
+| Oct-11 | 2      | W     | Data Wrangling (pandas)  | D1       |                | Practice assignment, pre-course survey                       |    |
+| Oct-13 | 2      | F     | Ethics                   | D1       | D1             |                                                              |    |
+| Oct-16 | 3      | M     | Data Science questions   | D2       |                |                                                              | Q2 |
+| Oct-18 | 3      | W     | Dataviz I                | D2       |                | A1                                                           |    |
+| Oct-20 | 3      | F     | Intro to Analysis        | D2       | D2             |                                                              |    |
+| Oct-23 | 4      | M     | EDA                      | D3       |                |                                                              | Q3 |
+| Oct-25 | 4      | W     | EDA II                   | D3       |                | Project Review*                                              |    |
+| Oct-27 | 4      | F     | Inference I              | D3       | D3             |                                                              |    |
+| Oct-30 | 5      | M     | Inference II             | D4       |                |                                                              | Q4 |
+| Nov-01 | 5      | W     | Inference III            | D4       |                | Project Proposal*                                            |    |
+| Nov-03 | 5      | F     | Text Analysis I          | D4       | D4             |                                                              |    |
+| Nov-06 | 6      | M     | Text Analysis II         | D5       |                |                                                              | Q5 |
+| Nov-08 | 6      | W     | Machine Learning I       | D5       |                | A2                                                           |    |
+| Nov-10 | 6      | F     | No class - Veterans Day  | D5       | delayed        |                                                              |    |
+| Nov-13 | 7      | M     | Machine Learning II      | D6       | D5             |                                                              | Q6 |
+| Nov-15 | 7      | W     | Machine Learning III     | D6       |                | Checkpoint #1: Data*                                         |    |
+| Nov-17 | 7      | F     | Nonparametric            | D6       | D6             |                                                              |    |
+| Nov-20 | 8      | M     | Nonparametric II         | D7       |                |                                                              | Q7 |
+| Nov-22 | 8      | W     | Geospatial I             | D7       |                | A3                                                           |    |
+| Nov-24 | 8      | F     | No class - Thanksgiving  | D7       | delayed        |                                                              |    |
+| Nov-27 | 9      | M     | Geospatial II            | D8       | D7             |                                                              | Q8 |
+| Nov-29 | 9      | W     | Dimensionality Reduction | D8       |                | Checkpoint #2: EDA*                                          |    |
+| Dec-01 | 9      | F     | How to be wrong          | D8       | D8             |                                                              |    |
+| Dec-04 | 10     | M     | How to be wrong II       | Projects |                |                                                              | Q9 |
+| Dec-06 | 10     | W     | Tools or Guest lecture   | Projects |                | A4                                                           |    |
+| Dec-08 | 10     | F     | Data science jobs        | Projects |                |                                                              |    |
+| Dec-11 | Finals | M     |                          |          |                |                                                              |    |
+| Dec-13 | Finals | W     | NO FINAL EXAM            |          |                | Final project*, video*, team eval survey, post-course survey |
 
-|        | Week   | Day | Topic                    | Section covers | Lab due | Assignment due                                                 | Lecture quiz due |
-| ------ | ------ | --- | ------------------------ | -------------- | ------- | -------------------------------------------------------------- | ---------------- |
-| Sep-29 | 0      | F   | Welcome!                 | \--            |         |                                                                |                  |
-| Oct-02 | 1      | M   | Python Review            | \--            |         |                                                                |                  |
-| Oct-04 | 1      | W   | Version Control I        | \--            |         |                                                                |                  |
-| Oct-06 | 1      | F   | Version Control II       | D1             |         |                                                                | Q1               |
-| Oct-09 | 2      | M   | Data & Intuition         | D1             |         | Practice assignment, pre-course survey                         |                  |
-| Oct-11 | 2      | W   | Data Wrangling (pandas)  | D1             | D1      | \--                                                            |                  |
-| Oct-13 | 2      | F   | Ethics                   | D2             |         |                                                                | Q2               |
-| Oct-16 | 3      | M   | Data Science ?s          | D2             |         | A1                                                             |                  |
-| Oct-18 | 3      | W   | Dataviz I                | D2             | D2      | \--                                                            |                  |
-| Oct-20 | 3      | F   | Intro to Analysis        | D3             |         |                                                                | Q3               |
-| Oct-23 | 4      | M   | EDA                      | D3             |         | Project Review\*                                               |                  |
-| Oct-25 | 4      | W   | EDA II                   | D3             | D3      | \--                                                            |                  |
-| Oct-27 | 4      | F   | Inference I              | D4             |         |                                                                | Q4               |
-| Oct-30 | 5      | M   | Inference II             | D4             |         | Project Proposal\*                                             |                  |
-| Nov-01 | 5      | W   | Inference III            | D4             | D4      | \--                                                            |                  |
-| Nov-03 | 5      | F   | Text Analysis I          | D5             |         |                                                                | Q5               |
-| Nov-06 | 6      | M   | Text Analysis II         | D5             |         | A2                                                             |                  |
-| Nov-08 | 6      | W   | Machine Learning I       | D5             | D5      | \--                                                            |                  |
-| Nov-10 | 6      | F   | No class - Veterans Day  | D6             |         | \--                                                            | Q6               |
-| Nov-13 | 7      | M   | Machine Learning II      | D6             |         | Checkpoint #1: Data\*                                          |                  |
-| Nov-15 | 7      | W   | Machine Learning III     | D6             | D6      | \--                                                            |                  |
-| Nov-17 | 7      | F   | Nonparametric            | D7             |         | \--                                                            | Q7               |
-| Nov-20 | 8      | M   | Nonparametric II         | D7             |         | A3                                                             |                  |
-| Nov-22 | 8      | W   | Geospatial I             | D7             | D7      | \--                                                            |                  |
-| Nov-24 | 8      | F   | No class - Thanksgiving  | D8             |         |                                                                | Q8               |
-| Nov-27 | 9      | M   | Geospatial II            | D8             |         | Checkpoint #2: EDA\*                                           |                  |
-| Nov-29 | 9      | W   | Dimensionality Reduction | D8             | D8      | \--                                                            |                  |
-| Dec-01 | 9      | F   | How to be wrong          | Projects       |         | \--                                                            | Q9               |
-| Dec-04 | 10     | M   | How to be wrong II       | Projects       |         | A4                                                             |                  |
-| Dec-06 | 10     | W   | Tools or Guest lecture   | Projects       |         | \--                                                            |                  |
-| Dec-08 | 10     | F   | Data science jobs        |                |         | \--                                                            |                  |
-| Dec-11 | Finals | M   |                          |                |         | \--                                                            |                  |
-| Dec-13 | Finals | W   | NO FINAL EXAM            |                |         | Final project\*, video\*, team eval survey, post-course survey |                  |
-| Dec-15 | Finals | F   |                          |                |         |                                                                |                  |
 
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
 
