@@ -49,7 +49,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         | new TAs fill in your name         |  fill in your section|  fill in your office hours |  fill in your email             |
 | TA	         | new TAs fill in your name         |  fill in your section|  fill in your office hours |  fill in your email             |
 | TA	         | new TAs fill in your name         |  fill in your section|  fill in your office hours |  fill in your email             |
-| IA	         | Alexandra Hernandez         |  B01 |  Mon, 11:00am-12:00pm (room TBD) |  arh003@ucsd.edu   
+| IA	         | Alexandra Hernandez         |  B01 |  [Mon and Wed, 11:00am-12:00pm, Sign Up Here](https://calendar.app.google/vvPSSAVH9uNJfi4D8) |  arh003@ucsd.edu   
 | IA	         | Dhathry Doppalapudi         |  n/a |  [Thurs, 6:30-7:30pm](https://us05web.zoom.us/j/81617024531?pwd=bWY4TrFltPrf4rcIhfuBBJ033UsRzL.1) |  ddoppala@ucsd.edu             |
 | IA	         | new IAs fill in your name         |  fill in your section or n/a |  fill in your office hours |  fill in your email             |
 | IA	         | new IAs fill in your name         |  fill in your section or n/a |  fill in your office hours |  fill in your email             |
