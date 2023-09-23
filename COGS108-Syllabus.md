@@ -50,7 +50,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         | new TAs fill in your name         |  fill in your section|  fill in your office hours |  fill in your email             |
 | TA	         | new TAs fill in your name         |  fill in your section|  fill in your office hours |  fill in your email             |
 | IA	         | Alexandra Hernandez         |  B01 |  fill in your office hours |  arh003@ucsd.edu   
-| IA	         | Dhathry Doppalapudi         |  n/a |  Wednesday, 6:30-7:30pm |  ddoppala@ucsd.edu             |
+| IA	         | Dhathry Doppalapudi         |  n/a |  Thurs, 6:30-7:30pm |  ddoppala@ucsd.edu             |
 | IA	         | new IAs fill in your name         |  fill in your section or n/a |  fill in your office hours |  fill in your email             |
 | IA	         | new IAs fill in your name         |  fill in your section or n/a |  fill in your office hours |  fill in your email             |
 | IA	         | new IAs fill in your name         |  fill in your section or n/a |  fill in your office hours |  fill in your email             |
