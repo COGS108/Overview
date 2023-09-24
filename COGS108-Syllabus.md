@@ -128,7 +128,7 @@ Extra credit worth up to 2.5% of the final grade will be awarded for
 - Answering the pre & post course surveys will give 0.5% extra credit (0.25% each)
 - Attending both guest lectures either in-person or on Zoom is 0.25% extra credit  
 - Submitting at least one question to the queue for at least one of the guest lectures is 0.25% extra credit
-- Filling out all 7 of the weekly project progress surveys (0.5% of grade, see Project setion below)
+- Filling out all 7 of the weekly project progress surveys (0.5% of grade, see Project section below)
 - If >75% of the students fill out CAPE at the end of the quarter there will be an extra 0.5% of the final grade for everyone
 
 Our grading scale is
@@ -159,7 +159,7 @@ But you're adults, you will know what fits your constraints and needs.  If you c
 
 # LECTURE
 
-This quarter we are running two lecture sections to keep up with demand.  For the first day of class please attend the lecture section you are assigned to.  After that we will see whether its possible to allow people to attend whichever session they prefer... do not just start doing this unless I say its OK in lecture/canvas/here.  While the same material will be covered in each section, I reserve the right to approach it slighlty differently in each one.
+This quarter we are running two lecture sections to keep up with demand.  For the first day of class please attend the lecture section you are assigned to.  After that we will see whether its possible to allow people to attend whichever session they prefer... do not just start doing this unless I say its OK in lecture/canvas/here.  While the same material will be covered in each section, I reserve the right to approach it slightly differently in each one.
 
 |   which   |   when    |   where        |
 |--------|------------------|---------------------------------|
@@ -216,7 +216,7 @@ As assignments become more difficult, we don’t want you to get or feel totally
 
 With regards to asking questions of instructional staff, we’re here to help you, but there are way more students than there are instructors. So, help each other. In fact, this is how the best data science gets done. Diverse minds solving a problem invariably improves the solution. Also, teaching something to someone else is the best way to determine if you really know something. So, it’s win-win. The person who’s stuck gets unstuck and the person who helped is more sure in their knowledge. Help one another! Section and office hours are meant to be collaborative.
 
-But how should you help one another on assignments? You should: ask a question that leads the student to figure it out for themselves, point out the correct principle/theory that applies in this case, provide a link to an explanation, or a chunk of psuedo-code.  You should not: provide the full answer or code they can just copy/paste.
+But how should you help one another on assignments? You should: ask a question that leads the student to figure it out for themselves, point out the correct principle/theory that applies in this case, provide a link to an explanation, or a chunk of pseudo-code.  You should not: provide the full answer or code they can just copy/paste.
 
 ### Turning In Assignments
 
@@ -263,7 +263,7 @@ There are also components of the project that must be completed individually. St
 
 # COURSE SCHEDULE
 |        | Week   | Day    | Topic                   | Section covers | Lab due  | Assignment due | Lecture quiz due  |
-|--------|--------|-------|--------------------------|----------|----------------|--------------------------------------------------------------|
+|--------|--------|-------|--------------------------|----------|----------------|--------------------------------------------------------------|----|
 | Sep-29 | 0      | F     | Welcome!                 | --       |                |                                                              |    |
 | Oct-02 | 1      | M     | Python Review            | --       |                |                                                              |    |
 | Oct-04 | 1      | W     | Version Control I        | --       |                |                                                              |    |
@@ -296,7 +296,7 @@ There are also components of the project that must be completed individually. St
 | Dec-06 | 10     | W     | Tools or Guest lecture   | Projects |                | A4                                                           |    |
 | Dec-08 | 10     | F     | Data science jobs        | Projects |                |                                                              |    |
 | Dec-11 | Finals | M     |                          |          |                |                                                              |    |
-| Dec-13 | Finals | W     | NO FINAL EXAM            |          |                | Final project*, video*, team eval survey, post-course survey |
+| Dec-13 | Finals | W     | NO FINAL EXAM            |          |                | Final project*, video*, team eval survey, post-course survey |    |
 
 
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
@@ -318,7 +318,7 @@ If you have a concern, please speak with anyone on the instruction team (profess
 ### Academic integrity
 Don't cheat.  Here are some [flyers on important aspects of academic integrity every student should know](https://academicintegrity.ucsd.edu/excel-integrity/Resources%20.html). You can also obtain deeper training from Academic Integrity, click around their website and explore!
 
-YYou will work together on projects. You should help one another learn in general.  Assignments and discussion labs should be completed individually, although you may seek help from your fellow students. However you may not give answers to each other at any time. In discussion labs its ok to be much more leading and provide more of the answer.  In assignments you should be more careful about how much detail you are providing in your help to others.
+You will work together on projects. You should help one another learn in general.  Assignments and discussion labs should be completed individually, although you may seek help from your fellow students. However you may not give answers to each other at any time. In discussion labs its ok to be much more leading and provide more of the answer.  In assignments you should be more careful about how much detail you are providing in your help to others.
 
 
 Examples of good collaboration on assignments: 
@@ -331,7 +331,7 @@ For group projects, you will work together but every person in the group is expe
 Cheating and plagiarism have been and will be strongly penalized. 
  
 
-### Pollicy on using AI programming assistance
+### Policy on using AI programming assistance
 
 I believe that using large language models (LLMs) or other kinds of AIs can help a good programmer work more efficiently. I also believe that using AI assistance will probably slow down the development of a beginning programmer into a good programmer.  
 
@@ -343,11 +343,11 @@ You can use AI to help you program as long as you:
 - understand that programming with LLMs still requires you to do programming. But instead of creating code from scratch (the part many people enjoy) you will need to do debugging and unit testing (the part many people don't like)
 - you understand that you may be asked to explain your code at any time. If you can't explain how your code works and why the design is that way you may lose points
 
-## Pollicy on using AI writing assistance
+## Policy on using AI writing assistance
 
 My beliefs here mirror the section on programming, but with an important extra problem.
 
-I believe using LLMs can help a good writer work more efficiently. I also believe that using AI assistance will probably slow down the development of a poor writer. Evem worse, current LLMs tend to produce B+ writing and C+ thinking and arguments. 
+I believe using LLMs can help a good writer work more efficiently. I also believe that using AI assistance will probably slow down the development of a poor writer. Even worse, current LLMs tend to produce B+ writing and C+ thinking and arguments. 
 
 IMO the only way to use LLMs for writing and thinking is to use them the same way you would a teammate with unreliable writing skills.  Bounce ideas off the AI. Let it produce writing and then read it with a critical eye.  Carefully edit the output to remove poor logic, false citations that don't exist, trite expressions, and poor rhetoric.  Given that its an AI you can ask it to produce the output multiple times and start from the best of the lot... then edit mercilessly. 
 
