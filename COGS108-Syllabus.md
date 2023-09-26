@@ -52,7 +52,8 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | IA	         | Alexandra Hernandez         |  B01 |  [Mon and Wed, 11:00am-12:00pm, Sign Up Here](https://calendly.com/alexandrarh/office-hours) |  arh003@ucsd.edu   
 | IA	         | Dhathry Doppalapudi         |  n/a |  [Thurs, 6:30-7:30pm](https://us05web.zoom.us/j/81617024531?pwd=bWY4TrFltPrf4rcIhfuBBJ033UsRzL.1) |  ddoppala@ucsd.edu             |
 | IA	         | Andy Chow                   |  n/a |  [Tue and Thu, 3:00-4:00pm](https://ucsd.zoom.us/j/93430347858?pwd=SkVyR3kyZk5VNzJYNm8rb1dMcGpCZz09) |  shchow@ucsd.edu             |
-| IA	         | new IAs fill in your name         |  fill in your section or n/a |  fill in your office hours |  fill in your email             |
+| IA	         | Shilpa Chowbey         |  n/a |  [Fri, 11:30-12:30](https://us04web.zoom.us/j/3282834484?pwd=emY4eGlSTmRGL1hvUjVJRXVRVnQ1QT09
+) |  schowbey@ucsd.edu             |
 | IA	         | new IAs fill in your name         |  fill in your section or n/a |  fill in your office hours |  fill in your email             |
 | IA	         | new IAs fill in your name         |  fill in your section or n/a |  fill in your office hours |  fill in your email             |
 
