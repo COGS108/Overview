@@ -46,7 +46,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         | Yuanjia (Scott) Yang         |  B02/B03|  [Sign-Up TUE/THU 3PM-430PM](https://calendar.app.google/kPtYBkbZiczUAQAZ8) |  yuy004@ucsd.edu             |
 | TA	         | Boning(Bonnie) Yang         |  A02/A03 | Fri 2-3 pm, 7-8pm: https://ucsd.zoom.us/j/99225359989| boyang@ucsd.edu             |
 | TA	         | Joshua Chen         |  A08 |  fill in your office hours |  jpc005@ucsd.edu             |
-| TA	         | new TAs fill in your name         |  fill in your section|  fill in your office hours |  fill in your email             |
+| TA	         | Digvijay Bansal         |  A01 |  Tue/Thu 5-6:30pm https://ucsd.zoom.us/j/8484019685 |  dbansal@ucsd.edu             |
 | TA	         | new TAs fill in your name         |  fill in your section|  fill in your office hours |  fill in your email             |
 | TA	         | new TAs fill in your name         |  fill in your section|  fill in your office hours |  fill in your email             |
 | IA	         | Alexandra Hernandez         |  B01 |  [Mon and Wed, 11:00am-12:00pm, Sign Up Here](https://calendly.com/alexandrarh/office-hours) |  arh003@ucsd.edu   
