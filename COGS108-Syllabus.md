@@ -58,13 +58,13 @@ In this course, you will try many methods. You’ll even be asked to implement a
 
 Course GitHub: https://github.com/COGS108  
 
-Course Campuswire*: ** NEED TO SETUP FOR THE NEW QUARTER **
+Course Campuswire*: https://campuswire.com/p/G160521FD join code is 9411
 
-Course Canvas:  ** NEED TO SETUP FOR THE NEW QUARTER **
+Course Canvas: https://canvas.ucsd.edu/courses/48733
 
 Assignment Submission: https://datahub.ucsd.edu  
 
-Anonymous Course Feedback:  ** NEED TO SETUP FOR THE NEW QUARTER **
+Anonymous Course Feedback:  https://forms.gle/yAYq38iCXAfxx8pp9
 
 *You will be able to post anonymously on Campuswire; however, you will only be anonymous to your classmates. Your Instructor and TAs will be able to see who you are.
 
