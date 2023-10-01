@@ -48,6 +48,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         | Joshua Chen         |  A08 |  Tue/Fri 6:30 - 7:30  https://us05web.zoom.us/j/2345926446?pwd=UTFscHQ1eGdTUnFtWjkyYlJTTngzQT09 |  jpc005@ucsd.edu             |
 | TA	         | Digvijay Bansal         |  A01 |  Tue/Thu 5-6:30pm Sign Up: https://calendar.app.google/HSQNLHRgLDsdxgVw6 CSB 114 on THU 6-7PM |  dbansal@ucsd.edu             |
 | TA	         | Xinze (Jason) Chen         |  A04/A07 | Tue/Thu 1-2 pm https://ucsd.zoom.us/j/7655404965?pwd=OWx1c2dGNDNEWjR5S0FQS29COWtsQT09 |  xic007@ucsd.edu             |     |
+| TA	         | Zhuojun (Ruby) Ying        |  B04/B05 | Fri 3-5 pm: https://ucsd.zoom.us/j/92848831751 | z5ying@ucsd.edu             |
 | IA	         | Alexandra Hernandez         |  B01 |  [Mon and Wed, 11:00am-12:00pm, Sign Up Here](https://calendly.com/alexandrarh/office-hours) |  arh003@ucsd.edu   
 | IA	         | Dhathry Doppalapudi         |  n/a |  [Thurs, 6:30-7:30pm](https://us05web.zoom.us/j/81617024531?pwd=bWY4TrFltPrf4rcIhfuBBJ033UsRzL.1) |  ddoppala@ucsd.edu             |
 | IA	         | Andy Chow                   |  n/a |  [Tue and Thu, 4:00-5:00pm](https://ucsd.zoom.us/j/93430347858?pwd=SkVyR3kyZk5VNzJYNm8rb1dMcGpCZz09) |  shchow@ucsd.edu             |
