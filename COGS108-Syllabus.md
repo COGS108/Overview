@@ -45,7 +45,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2jgVJ7I9XV8tg6kso6uBZQbouxgzBohU3SkSo7TaNRhYF--9dGIh1d-h1tY5LN01K5m9WVFMiW)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
 | TA	         | Yuanjia (Scott) Yang         |  B02/B03|  [Sign-Up TUE/THU 3PM-430PM](https://calendar.app.google/kPtYBkbZiczUAQAZ8) |  yuy004@ucsd.edu             |
 | TA	         | Boning(Bonnie) Yang         |  A02/A03 | Mon 4-5:30 pm: https://ucsd.zoom.us/j/92848831751 | boyang@ucsd.edu             |
-| TA	         | Joshua Chen         |  A08 |  fill in your office hours |  jpc005@ucsd.edu             |
+| TA	         | Joshua Chen         |  A08 |  Tue/Fri 6:30 - 7:30  https://us05web.zoom.us/j/2345926446?pwd=UTFscHQ1eGdTUnFtWjkyYlJTTngzQT09 |  jpc005@ucsd.edu             |
 | TA	         | Digvijay Bansal         |  A01 |  Tue/Thu 5-6:30pm https://ucsd.zoom.us/j/8484019685 |  dbansal@ucsd.edu             |
 | TA	         | Xinze (Jason) Chen         |  A04/A07 | Tue/Thu 1-2 pm https://ucsd.zoom.us/j/7655404965?pwd=OWx1c2dGNDNEWjR5S0FQS29COWtsQT09 |  xic007@ucsd.edu             |     |
 | IA	         | Alexandra Hernandez         |  B01 |  [Mon and Wed, 11:00am-12:00pm, Sign Up Here](https://calendly.com/alexandrarh/office-hours) |  arh003@ucsd.edu   
