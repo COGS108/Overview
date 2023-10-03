@@ -47,7 +47,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         | Boning(Bonnie) Yang         |  A02/A03 | Mon 4-5:30 pm Sign Up: https://ucsd.zoom.us/j/92848831751 | boyang@ucsd.edu             |
 | TA	         | Joshua Chen         |  A08 |  Tue/Fri 6:30 - 7:30  https://us05web.zoom.us/j/2345926446?pwd=UTFscHQ1eGdTUnFtWjkyYlJTTngzQT09 |  jpc005@ucsd.edu             |
 | TA	         | Digvijay Bansal         |  A01 |  Tue/Thu 5-6:30pm Sign Up: https://calendar.app.google/HSQNLHRgLDsdxgVw6 CSB 114 on THU 6-7PM |  dbansal@ucsd.edu             |
-| TA	         | Xinze (Jason) Chen         |  A04/A07 | Tue/Thu 4-5 pm (https://calendar.app.google/bFMcTbC68irwxhvb7) |  xic007@ucsd.edu             |     |
+| TA	         | Xinze (Jason) Chen         |  A04/A07 | Tue/Thu 4-5 pm [Signup for office hours](https://calendar.app.google/bFMcTbC68irwxhvb7) |  xic007@ucsd.edu             |     |
 | TA	         | Zhuojun (Ruby) Ying        |  B04/B05 | Fri 2-4 pm: [Sign up for office hours](https://calendar.app.google/FKiuvcRPEPgR7vJD7) | z5ying@ucsd.edu             |
 | IA	         | Alexandra Hernandez         |  B01 |  [Mon and Wed, 11:00am-12:00pm, Sign Up Here](https://calendly.com/alexandrarh/office-hours) |  arh003@ucsd.edu   
 | IA	         | Dhathry Doppalapudi         |  n/a |  [Thurs, 6:30-7:30pm](https://us05web.zoom.us/j/81617024531?pwd=bWY4TrFltPrf4rcIhfuBBJ033UsRzL.1) |  ddoppala@ucsd.edu             |
