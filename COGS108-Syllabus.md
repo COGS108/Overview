@@ -51,10 +51,9 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         | Zhuojun (Ruby) Ying        |  B04/B05 | Fri 2-4 pm: [Sign up for office hours](https://calendar.app.google/FKiuvcRPEPgR7vJD7) | z5ying@ucsd.edu             |
 | IA	         | Alexandra Hernandez         |  B01 |  [Mon and Wed, 11:00am-12:00pm, Sign Up Here](https://calendly.com/alexandrarh/office-hours) |  arh003@ucsd.edu   
 | IA	         | Dhathry Doppalapudi         |  n/a |  [Thurs, 6:30-7:30pm](https://us05web.zoom.us/j/81617024531?pwd=bWY4TrFltPrf4rcIhfuBBJ033UsRzL.1) |  ddoppala@ucsd.edu             |
-| IA	         | Andy Chow                   |  n/a |  [Tue and Thu, 4:00-5:00pm](https://ucsd.zoom.us/j/93430347858?pwd=SkVyR3kyZk5VNzJYNm8rb1dMcGpCZz09) |  shchow@ucsd.edu             |
+| IA	         | Andy Chow                   |  n/a |  [Tue and Thu, 4:00-5:00pm](https://calendar.app.google/F8avXqYFstqdjcgv6) |  shchow@ucsd.edu             |
 | IA	         | Shilpa Chowbey         |  n/a |  [Fri, 11:30am-12:30pm](https://us04web.zoom.us/j/3282834484?pwd=emY4eGlSTmRGL1hvUjVJRXVRVnQ1QT09) |  schowbey@ucsd.edu             |
 | IA	         | Raunit Kohli         |  A05 |  [Wed and Fri, 3:30-4:30pm](https://ucsd.zoom.us/j/97788659206) |  rkohli@ucsd.edu             |
-| IA	         | new IAs fill in your name         |  fill in your section or n/a |  fill in your office hours |  fill in your email             |
 
 
 Course GitHub: https://github.com/COGS108  
