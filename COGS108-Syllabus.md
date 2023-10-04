@@ -54,6 +54,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | IA	         | Andy Chow                   |  n/a |  [Tue and Thu, 4:00-5:00pm](https://calendar.app.google/F8avXqYFstqdjcgv6) |  shchow@ucsd.edu             |
 | IA	         | Shilpa Chowbey         |  n/a |  [Fri, 11:30am-12:30pm](https://us04web.zoom.us/j/3282834484?pwd=emY4eGlSTmRGL1hvUjVJRXVRVnQ1QT09) |  schowbey@ucsd.edu             |
 | IA	         | Raunit Kohli         |  A05 |  [Wed and Fri, 3:30-4:30pm](https://ucsd.zoom.us/j/97788659206) |  rkohli@ucsd.edu             |
+| IA	         | Jiayi Dong        |  n/a |  [Fri, 10:00-11:00am](https://ucsd.zoom.us/j/5425748050) |  j3dong@ucsd.edu             |
 
 
 Course GitHub: https://github.com/COGS108  
