@@ -123,11 +123,10 @@ We also maintain [a list of readings that can provide insight into various data 
 
 All grades will be released on Canvas. It is *your responsibility to check that your assignment was submitted, that your grade is accurate, and to get in touch if any are missing and/or you think there is a problem*.
 
-Extra credit worth up to 2.5% of the final grade will be awarded for
+Extra credit worth up to 2% of the final grade will be awarded for
 - Exceptional participation on Campuswire: Roughly the top 3 - 5% of contributors will get 0.5% bonus to their final grade.  Starting/participating in good discussions, organizing things, answering questions, etc.   
 - Answering the pre & post course surveys will give 0.5% extra credit (0.25% each)
-- Attending both guest lectures either in-person or on Zoom is 0.25% extra credit  
-- Submitting at least one question to the queue for at least one of the guest lectures is 0.25% extra credit
+- Attending guest lecture(s) in-person is 0.25% extra credit  
 - Filling out all 7 of the weekly project progress surveys (0.5% of grade, see Project section below)
 - If >75% of the students fill out CAPE at the end of the quarter there will be an extra 0.5% of the final grade for everyone
 
