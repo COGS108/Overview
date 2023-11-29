@@ -1,5 +1,4 @@
-Preliminary syllabus and subject to change in the first two weeks!
-v0.02 22-Sept-23
+v0.04 27-Nov-23
 
 # COGS 108: Data Science in Practice
 
