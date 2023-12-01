@@ -290,8 +290,8 @@ There are also components of the project that must be completed individually. St
 | Nov-27 | 9      | M   | Geospatial II            | D8             | D7      |                                                                | Q8               |
 | Nov-29 | 9      | W   | Dimensionality Reduction | D8             |         | Checkpoint #2: EDA\*                                           |                  |
 | Dec-01 | 9      | F   | How to be wrong          | D8             | D8      |                                                                |                  |
-| Dec-04 | 10     | M   | How to be wrong II       | Projects       |         |                                                                | Q9               |
-| Dec-06 | 10     | W   | Tools or Guest lecture   | Projects       |         | A4                                                             |                  |
+| Dec-04 | 10     | M   | Guest lecture: Kyle Shannon| Projects       |         |                                                                | Q9               |
+| Dec-06 | 10     | W   | How to be wrong II       | Projects       |         | A4                                                             |                  |
 | Dec-08 | 10     | F   | Data science jobs        | Projects       |         |                                                                |                  |
 | Dec-11 | Finals | M   |                          |                |         |                                                                |                  |
 | Dec-13 | Finals | W   | NO FINAL EXAM            |                |         | Final project\*, video\*, team eval survey, post-course survey |
