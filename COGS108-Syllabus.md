@@ -1,4 +1,4 @@
-v0.01 04-Jan-2023 (draft)
+v0.01 04-Jan-2024 (draft)
 
 # COGS 108: Data Science in Practice
 
@@ -264,48 +264,48 @@ In the vast majority of groups, all individuals will receive the same score for 
 ---
 
 # COURSE SCHEDULE
-| Date  | Week | Day | Topic                           | Lab due | Lecture quiz due | Assignment due          |
-|-------|------|-----|---------------------------------|---------|------------------|--------------------------|
-| Jan-8 | 1    | M   | Welcome!                        | --      |                  |                          |
-| Jan-10| 1    | W   | Python Review                   | --      |                  |                          |
-| Jan-12| 1    | F   | Version Control I               | --      |                  |                          |
-| Jan-14| 1    | Su  |                                 |         | Q1               |                          |
-| Jan-15| 2    | M   | No Class - MLK                   | --      |                  |                          |
-| Jan-17| 2    | W   | Version Control II              | D1      |                  |                          |
-| Jan-19| 2    | F   | Data & Intuition                | D1      |                  |                          |
-| Jan-21| 2    | Su  |                                 |         | Q2               | A1, Pre-course survey    |
-| Jan-22| 3    | M   | Data Wrangling (pandas)         | D2      |                  |                          |
-| Jan-24| 3    | W   | Ethics                          | D2      |                  |                          |
-| Jan-26| 3    | F   | Guest Lecture - Brendan Tomoschuk| D2     |                  |                          |
-| Jan-28| 3    | Su  |                                 |         | Q3               |                          |
-| Jan-29| 4    | M   | Data Science questions           | D3      |                  |                          |
-| Jan-31| 4    | W   | Dataviz                         | D3      |                  |                          |
-| Feb-2 | 4    | F   | Intro to Analysis                | D3      |                  |                          |
-| Feb-4 | 4    | Su  |                                 |         | Q4               | A2, Project Review\*      |
-| Feb-5 | 5    | M   | EDA I                           | D4      |                  |                          |
-| Feb-7 | 5    | W   | EDA II                          | D4      |                  |                          |
-| Feb-09| 5    | F   | Inference I                     | D4      |                  |                          |
-| Feb-11| 5    | Su  |                                 |         | Q5               | Project Proposal\*, mid-course survey |
-| Feb-12| 6    | M   | Inference II                    | D5      |                  |                          |
-| Feb-14| 6    | W   | Inference III                   | D5      |                  |                          |
-| Feb-16| 6    | F   | Guest Lecture (tentative)        | D5      |                  |                          |
-| Feb-18| 6    | Su  |                                 |         | Q6               | A3                       |
-| Feb-19| 7    | M   | No Class - President's Day       | --      |                  |                          |
-| Feb-21| 7    | W   | Text Analysis I                  | D6      |                  |                          |
-| Feb-23| 7    | F   | Text Analysis II                 | D6      |                  |                          |
-| Feb-25| 7    | Su  |                                 |         | Q7               | Checkpoint #1: Data\*     |
-| Feb-26| 8    | M   | Machine Learning I               | D7      |                  |                          |
-| Feb-28| 8    | W   | Machine Learning II              | D7      |                  |                          |
-| Mar-1 | 8    | F   | Text + ML                        | D7      |                  |                          |
-| Mar-3 | 8    | Su  |                                 |         | Q8               | A4                       |
-| Mar-4 | 9    | M   | Nonparametric Analysis           | D8      |                  |                          |
-| Mar-6 | 9    | W   | Geospatial I                     | D8      |                  |                          |
-| Mar-8 | 9    | F   | Geospatial II                    | D8      |                  |                          |
-| Mar-10| 9    | Su  |                                 |         | Q9               | Checkpoint #2: EDA\*      |
-| Mar-11| 10   | M   | How to Be Wrong                  | Projects|                  |                          |
-| Mar-13| 10   | W   | Communication                   | Projects|                  |                          |
-| Mar-15| 10   | F   | Data Science Jobs                | Projects|                  |                          |
-| Mar-20| Finals| W   | Final Project Due                |         |                  | Final project\*, video\*, team eval survey, post-course survey |
+| Date   | Week | Day | Topic                         | Lab due       | Lecture quiz due | Assignment due                         |
+|--------|------|-----|-------------------------------|---------------|-------------------|----------------------------------------|
+| Jan-8  | 1    | M   | Welcome!                      |               |                   |                                        |
+| Jan-10 | 1    | W   | Python Review                 |               |                   |                                        |
+| Jan-12 | 1    | F   | Version Control I             |               |                   |                                        |
+| Jan-14 | 1    | Su  |                               |               | Q1                |                                        |
+| Jan-15 | 2    | M   | No Class - MLK                 |               |                   |                                        |
+| Jan-17 | 2    | W   | Version Control II            |               |                   |                                        |
+| Jan-19 | 2    | F   | Data & Intuition              |               |                   |                                        |
+| Jan-21 | 2    | Su  |                               | D1            | Q2            | A1, Pre-course survey                   |
+| Jan-22 | 3    | M   | Data Wrangling (pandas)       |               |                   |                                        |
+| Jan-24 | 3    | W   | Ethics                        |               |                   |                                        |
+| Jan-26 | 3    | F   | Guest Lecture - Brendan Tomoschuk |               |                   |                                        |
+| Jan-28 | 3    | Su  |                               | D2            | Q3            |                                        |
+| Jan-29 | 4    | M   | Data Science questions         |               |                   |                                        |
+| Jan-31 | 4    | W   | Dataviz                       |               |                   |                                        |
+| Feb-2  | 4    | F   | Intro to Analysis              |               |                   |                                        |
+| Feb-4  | 4    | Su  |                               | D3            | Q4            | A2, Project Review*                     |
+| Feb-5  | 5    | M   | EDA I                         |               |                   |                                        |
+| Feb-7  | 5    | W   | EDA II                        |               |                   |                                        |
+| Feb-09 | 5    | F   | Inference I                    |               |                   |                                        |
+| Feb-11 | 5    | Su  |                               | D4            | Q5            | Project Proposal*, mid-course survey   |
+| Feb-12 | 6    | M   | Inference II                   |               |                   |                                        |
+| Feb-14 | 6    | W   | Inference III                  |               |                   |                                        |
+| Feb-16 | 6    | F   | Guest Lecture (tentative)      |               |                   |                                        |
+| Feb-18 | 6    | Su  |                               | D5            | Q6            | A3                                     |
+| Feb-19 | 7    | M   | No Class - President's Day     |               |                   |                                        |
+| Feb-21 | 7    | W   | Text Analysis I                |               |                   |                                        |
+| Feb-23 | 7    | F   | Text Analysis II               |               |                   |                                        |
+| Feb-25 | 7    | Su  |                               | D6            | Q7            | Checkpoint #1: Data*                   |
+| Feb-26 | 8    | M   | Machine Learning I             |               |                   |                                        |
+| Feb-28 | 8    | W   | Machine Learning II            |               |                   |                                        |
+| Mar-1  | 8    | F   | Text + ML                      |               |                   |                                        |
+| Mar-3  | 8    | Su  |                               | D7            | Q8            | A4                                     |
+| Mar-4  | 9    | M   | Nonparametric Analysis         |               |                   |                                        |
+| Mar-6  | 9    | W   | Geospatial I                   |               |                   |                                        |
+| Mar-8  | 9    | F   | Geospatial II                  |               |                   |                                        |
+| Mar-10 | 9    | Su  |                               | D8            | Q9            | Checkpoint #2: EDA*                    |
+| Mar-11 | 10   | M   | How to Be Wrong                |               |                   |                                        |
+| Mar-13 | 10   | W   | Communication                  |               |                   |                                        |
+| Mar-15 | 10   | F   | Data Science Jobs              |               |                   |                                        |
+
 
 
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
