@@ -1,4 +1,9 @@
-v0.01 04-Jan-2024 (draft)
+---
+output:
+  pdf_document: default
+---
+
+v1.00 16-Jan-2024
 
 # COGS 108: Data Science in Practice
 
@@ -39,22 +44,22 @@ In this course, you will try many methods. You'll even be asked to implement a t
 
 # COURSE STAFF
 
-| Role        | Name               | Section  | Office Hour s |
+| Role        | Name               | Section  | Office Hours |
 |------------:|:-------------------|:---------|:--------------|
-| Instructor | Shannon Ellis       | --       | Fri 10AM-12PM |
-| TA         | Yueying Dong        |          | TBD           |
-| TA         | Matthew Feigelis    |          | TBD           |
-| TA         | Yueyan Tang         |          | TBD           |
-| TA         | James Michaelov     |          | TBD           |
-| TA         | Kunal Rustagi       |          | TBD           |
-| TA         | Samyak Mehta        |          | TBD           |
-| IA         | Siddhant Joshi      |          | --            |
-| IA         | Yanxiong Chen       |          | --            |
-| IA         | Shenova Davis       |          | --            |
-| IA         | Zhicheng Wang       |          | --            |
-| IA         | Jietao Xie          |          | --            |
-| IA         | Nate del Rosario    |          | --            |
-| IA         | Eric Song           |          | --            |
+| Instructor | Shannon Ellis       | --       | Fri 10AM-12PM (CSB 243) |
+| TA         | Yueying Dong        | W 11AM (PCYNH 120); 12PM (PCYNH 121) | Mon 11-12 (Copa Vida Coffee) |
+| TA         | Yueyan Tang         | M 8AM; F 8AM (PETER 103) | Monday 9A-10AM (M.O.M’s Cafe)  |
+| TA         | Kunal Rustagi       | F 5PM; 6PM (DIB	121) | Monday 5-6pm (CSB 114) |
+| TA         | Samyak Mehta        | F 5PM; 6PM (WLH	2207) | Tu 11A–12PM  (CSB 114) |
+| TA         | James Michaelov     | Th 5PM; 6PM (PCYNH 120)| Wednesday 3-4pm (SSRB 204) |
+| TA         | Matthew Feigelis    | M 1PM; F 3PM (PETER 103) | Fri 1:30-2:30PM (SSRB 239) |
+| IA         | Siddhant (Sid) Joshi| --         | --            |
+| IA         | Devin Chen          | Fri 6PM (WLH	2207) | --            |
+| IA         | Shenova Davis       | Th 5PM; 6PM (PCYNH 120) | --            |
+| IA         | Zhicheng Wang       | --         | --            |
+| IA         | Steven Xie          | Fri 5PM (WLH	2207) | --            |
+| IA         | Nate del Rosario    | M 1PM; F 3PM (PETER 103)  | --            |
+| IA         | Eric Song           | W 11AM (PCYNH 120); 12P  (PCYNH 121) | --            |
 
 
 Course GitHub: https://github.com/COGS108  
@@ -126,7 +131,7 @@ Our grading scale is:
 
 |    |                  |
 |:----|:-----------------|
-| A+  | &ge; 97%      |
+| A+  | >= 97%      |
 | A  | < 97% to 94%  |
 | A-  | < 94% to 90% |
 | B+  | < 90 % to 87% |
@@ -249,7 +254,7 @@ Probably the most important way to start a team off on the right foot is to disc
 
 ### Project Components
 
-These project components are completed and submitted *as a group* and are described in the Project documentation: https://github.com/COGS108/Projects. This includes: 1) Previous Project Review 2) Project Proposal 3) Project Checkpoint #1: Data, 4) Project Checkpoint #2: EDA, 5) Final Project Report, and 6) Final Project Video.
+These project components are completed and submitted *as a group* and are described in the Project documentation: https://github.com/COGS108/Projects/tree/wi24. This includes: 1) Previous Project Review 2) Project Proposal 3) Project Checkpoint #1: Data, 4) Project Checkpoint #2: EDA, 5) Final Project Report, and 6) Final Project Video.
 
 At the end of the course there is a *required* team evaluation survey...this is your opportunity to provide feedback and let us know if a teammate did not contribute. Each student will submit a survey.
 
