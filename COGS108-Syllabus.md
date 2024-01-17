@@ -46,19 +46,19 @@ In this course, you will try many methods. You'll even be asked to implement a t
 
 | Role        | Name               | Section  | Office Hours |
 |------------:|:-------------------|:---------|:--------------|
-| Instructor | Shannon Ellis       | --       | Fri 10AM-12PM (CSB 243) |
-| TA         | Yueying Dong        | W 11AM (PCYNH 120); 12PM (PCYNH 121) | Mon 11-12 (Copa Vida Coffee) |
-| TA         | Yueyan Tang         | M 8AM; F 8AM (PETER 103) | Monday 9A-10AM (M.O.M’s Cafe)  |
-| TA         | Kunal Rustagi       | F 5PM; 6PM (DIB	121) | Monday 5-6pm (CSB 114) |
+| Instructor | Shannon Ellis       | --       | F 10AM-12PM (CSB 243) |
+| TA         | Yueying Dong        | W 11AM (PCYNH 120); 12PM (PCYNH 121) | M 11-12 (Copa Vida Coffee) |
+| TA         | Yueyan Tang         | M 8AM; F 8AM (PETER 103) | M 9A-10AM (M.O.M’s Cafe)  |
+| TA         | Kunal Rustagi       | F 5PM; 6PM (DIB	121) | M 5-6pm (Zoom link on Canvas) |
 | TA         | Samyak Mehta        | F 5PM; 6PM (WLH	2207) | Tu 11A–12PM  (CSB 114) |
-| TA         | James Michaelov     | Th 5PM; 6PM (PCYNH 120)| Wednesday 3-4pm (SSRB 204) |
-| TA         | Matthew Feigelis    | M 1PM; F 3PM (PETER 103) | Fri 1:30-2:30PM (SSRB 239) |
+| TA         | James Michaelov     | Th 5PM; 6PM (PCYNH 120)| W 3-4pm (SSRB 204) |
+| TA         | Matthew Feigelis    | M 1PM (PCYNH 120); F 3PM (WLH 2111) | F 1:30-2:30PM (SSRB 239) |
 | IA         | Siddhant (Sid) Joshi| --         | --            |
-| IA         | Devin Chen          | Fri 6PM (WLH	2207) | --            |
+| IA         | Devin Chen          | F 6PM (WLH	2207) | --            |
 | IA         | Shenova Davis       | Th 5PM; 6PM (PCYNH 120) | --            |
 | IA         | Zhicheng Wang       | --         | --            |
-| IA         | Steven Xie          | Fri 5PM (WLH	2207) | --            |
-| IA         | Nate del Rosario    | M 1PM; F 3PM (PETER 103)  | --            |
+| IA         | Steven Xie          | F 5PM (WLH	2207) | --            |
+| IA         | Nate del Rosario    | M 1PM (PCYNH 120); F 3PM (WLH 2111)  | --            |
 | IA         | Eric Song           | W 11AM (PCYNH 120); 12P  (PCYNH 121) | --            |
 
 
