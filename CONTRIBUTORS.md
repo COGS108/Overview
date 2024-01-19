@@ -10,6 +10,7 @@ The following people have contributed to this organization / class:
 - Prof. Jason Fleischer (Fa21)
 
 ### Teaching Assistants
+(Note to self for wi24: add staff)
 - Akshansh Chalal (Wi19, Sp19, Fa19)
 - Thomas Donoghue (Sp17, Wi18)
 - Matt Feigelis (Wi20, Sp20)
