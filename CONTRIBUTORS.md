@@ -5,7 +5,7 @@ This organization is developed for the class 'Data Science in Practice', taught 
 The following people have contributed to this organization / class:
 
 ### Faculty
-- Prof. Shannon Ellis (Sp19, Wi19, Sp20, Fa20, Wi21, Sp21)
+- Prof. Shannon Ellis (Sp19, Wi19, Sp20, Fa20, Wi21, Sp21, Wi24)
 - Prof. Bradley Voytek (Sp17, Wi18)
 - Prof. Jason Fleischer (Fa21)
 
