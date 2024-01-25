@@ -3,7 +3,7 @@ output:
   pdf_document: default
 ---
 
-v1.00 16-Jan-2024
+v1.01 25-Jan-2024
 
 # COGS 108: Data Science in Practice
 
@@ -275,18 +275,18 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Jan-10 | 1    | W   | Python Review                 |               |                   |                                        |
 | Jan-12 | 1    | F   | Version Control I             |               |                   |                                        |
 | Jan-14 | 1    | Su  |                               |               | Q1                |                                        |
-| Jan-15 | 2    | M   | No Class - MLK                 |               |                   |                                        |
+| Jan-15 | 2    | M   | No Class - MLK                |               |                   |                                        |
 | Jan-17 | 2    | W   | Version Control II            |               |                   |                                        |
-| Jan-19 | 2    | F   | Data Wrangling (pandas)  |               |                   |                                        |
-| Jan-21 | 2    | Su  | Data & Intuition                                          | D1            | Q2            | A1, Pre-course survey                   |
-| Jan-22 | 3    | M   |        |               |                   |                                        |
-| Jan-24 | 3    | W   | Ethics                        |               |                   |                                        |
+| Jan-19 | 2    | F   | Data Wrangling (pandas)       |               |                   |                                        |
+| Jan-21 | 2    | Su  |                               | D1            | Q2                | A1, Pre-course survey                   |
+| Jan-22 | 3    | M   | Data Wrangling (pandas)       |               |                   |                                        |
+| Jan-24 | 3    | W   | Data & Intuition                        |               |                   |                                        |
 | Jan-26 | 3    | F   | Guest Lecture - Brendan Tomoschuk |               |                   |                                        |
 | Jan-28 | 3    | Su  |                               | D2            | Q3            |                                        |
-| Jan-29 | 4    | M   | Data Science questions         |               |                   |                                        |
-| Jan-31 | 4    | W   | Dataviz                       |               |                   |                                        |
-| Feb-2  | 4    | F   | Intro to Analysis              |               |                   |                                        |
-| Feb-4  | 4    | Su  |                               | D3            | Q4            | A2, Project Review*                     |
+| Jan-29 | 4    | M   | Dataviz I                     |               |                   |                                        |
+| Jan-31 | 4    | W   | Dataviz II                    |               |                   |                                        |
+| Feb-2  | 4    | F   | Ethics, Questions & Analysis  |               |                   |                                        |
+| Feb-4  | 4    | Su  |                               | D3            | Q4                | A2, Project Review*                     |
 | Feb-5  | 5    | M   | EDA I                         |               |                   |                                        |
 | Feb-7  | 5    | W   | EDA II                        |               |                   |                                        |
 | Feb-09 | 5    | F   | Inference I                    |               |                   |                                        |
