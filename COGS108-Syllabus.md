@@ -3,7 +3,7 @@ output:
   pdf_document: default
 ---
 
-v1.01 25-Jan-2024
+v1.03 13-Feb-2024
 
 # COGS 108: Data Science in Practice
 
@@ -171,7 +171,7 @@ Note that attendance is not required because you know what fits your constraints
 
 ### Lecture Quizzes
 
-At the end of each Friday, a quiz with ~10 questions will be released, covering the material from lecture that week. The quiz will be due that Sunday at 11:59 PM. For example, the first quiz will be released Friday of week 1, covering week 1 material, and will be due two days later at 11:59 PM. Each question is worth ~0.1 points and you will have a single, timed (15 min) attempt to complete. *There are no late extensions on quizzes*, but your lowest quiz score will be dropped.
+At the end of each Friday, a quiz with ~10 questions will be released, covering the material from lecture that week. The quiz will be due that Sunday at 11:59 PM. For example, the first quiz will be released Friday of week 1, covering week 1 material, and will be due two days later at 11:59 PM. Each question is worth ~0.1 points and you will have a single, timed (15 min) attempt to complete. The quizzes are open-notes and open Internet. *There are no late extensions on quizzes*, but your lowest quiz score will be dropped.
 
 ---
 
@@ -293,18 +293,18 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Feb-11 | 5    | Su  |                               | D4            | Q5            | Project Proposal*, mid-course survey   |
 | Feb-12 | 6    | M   | Inference II                   |               |                   |                                        |
 | Feb-14 | 6    | W   | Inference III                  |               |                   |                                        |
-| Feb-16 | 6    | F   | Guest Lecture (tentative)      |               |                   |                                        |
-| Feb-18 | 6    | Su  |                               | D5            | Q6            | A3                                     |
+| Feb-16 | 6    | F   | Guest Lecture (Michael Baluja)      |               |                   |                                        |
+| Feb-18 | 6    | Su  |                               | D5            | Q6                 |                                      |
 | Feb-19 | 7    | M   | No Class - President's Day     |               |                   |                                        |
-| Feb-21 | 7    | W   | Text Analysis I                |               |                   |                                        |
+| Feb-21 | 7    | W   | Text Analysis I                |               |                   | A3                                       |
 | Feb-23 | 7    | F   | Text Analysis II               |               |                   |                                        |
 | Feb-25 | 7    | Su  |                               | D6            | Q7            | Checkpoint #1: Data*                   |
 | Feb-26 | 8    | M   | Machine Learning I             |               |                   |                                        |
 | Feb-28 | 8    | W   | Machine Learning II            |               |                   |                                        |
 | Mar-1  | 8    | F   | Text + ML                      |               |                   |                                        |
-| Mar-3  | 8    | Su  |                               | D7            | Q8            | A4                                     |
+| Mar-3  | 8    | Su  |                               | D7            | Q8                 |                                      |
 | Mar-4  | 9    | M   | Nonparametric Analysis         |               |                   |                                        |
-| Mar-6  | 9    | W   | Geospatial I                   |               |                   |                                        |
+| Mar-6  | 9    | W   | Geospatial I                   |               |                   | A4                                       |
 | Mar-8  | 9    | F   | Geospatial II                  |               |                   |                                        |
 | Mar-10 | 9    | Su  |                               | D8            | Q9            | Checkpoint #2: EDA*                    |
 | Mar-11 | 10   | M   | How to Be Wrong                |               |                   |                                        |
