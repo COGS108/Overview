@@ -3,7 +3,7 @@ output:
   pdf_document: default
 ---
 
-v1.03 13-Feb-2024
+v1.04 26-Feb-2024
 
 # COGS 108: Data Science in Practice
 
@@ -52,7 +52,7 @@ In this course, you will try many methods. You'll even be asked to implement a t
 | TA         | Kunal Rustagi       | F 5PM; F 6PM (DIB	121) | M 5-6pm (Zoom link on Canvas) |
 | TA         | Samyak Mehta        | F 5PM; F 6PM (WLH	2207) | Tu 11A–12PM  (CSB 114) |
 | TA         | James Michaelov     | Th 5PM; Th 6PM (PCYNH 120)| W 3-4pm (SSRB 204) |
-| TA         | Matthew Feigelis    | M 1PM (PCYNH 120); F 3PM (WLH 2111) | F 1:30-2:30PM (SSRB 239) |
+| TA         | Matthew Feigelis    | M 1PM (PCYNH 120); F 3PM (WLH 2111) | F 1:30-2:30PM (Copa Vida) |
 | IA         | Siddhant (Sid) Joshi| --         | --            |
 | IA         | Devin Chen          | F 6PM (WLH	2207) | --            |
 | IA         | Shenova Davis       | Th 5PM; Th 6PM (PCYNH 120) | --            |
@@ -119,7 +119,7 @@ Anonymous Course Feedback:  https://goo.gl/forms/2nXnDNbgYuS1OsGF2
 
 **Grades**: All grades will be released on Canvas. It is *your responsibility to check that your assignment was submitted, that your grade is accurate, and to get in touch if any are missing and/or you think there is a problem*.
 
-**Due Dates**: For keeping things simple for you all, all due dates each week will be **Sundays at 11:59 PM**. Please DO NOT wait until Sunday at 11:50 PM each week to start everything that is due.
+**Due Dates**: For keeping things simple for you all, all due dates each week will be **Sundays at 11:59 PM**. Please DO NOT wait until Sunday at 11:50 PM each week to start everything that is due. (Edit 2/14: A3 and A4 will be due the Wed of weeks 7 and 9)
 
 Extra credit worth up to 2% of the final grade will be awarded for:
 - Attending at least 75% of lectures (starting lecture 2; excluding guest lectures) (0.5% of grade, see Lecture section below)
@@ -263,6 +263,8 @@ Finally, starting week 3, there will be an *optional* weekly survey to be comple
 ### Project Grading
 
 Each project group will be graded by the same staff member throughout the quarter. You will know who your grader is, and they'll be very familiar with your project, so they'll be a great resource as you complete your project. It's best to think of them as a manager; you won't go to them first (that's what your group mates are for), but they're there for guidance. Given different groups will have different graders, grading will use a standardized rubric and adjustments will be made if one grader is harsher than another to ensure consistency across graders. 
+
+Additionally, points lost on the proposal, checkpoint #1, and checkpoint #2 will be automatically re-earned in subsequent submissions upon improvement of the place where points were initially lost. For example, if you lose points on the Ethics section on the proposal but then improve that in your Final Report, those points will be returned automatically.  
 
 In the vast majority of groups, all individuals will receive the same score for each project component; however, if there is evidence of a group member failing to participate fully, individuals can receive a lower grade relative to their group. The same is true in the other direction. If there is evidence of a group member going above and beyond, their individual score can be increased relative to the group. 
 
