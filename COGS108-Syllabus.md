@@ -3,7 +3,7 @@ output:
   pdf_document: default
 ---
 
-v1.04 26-Feb-2024
+v1.05 28-Feb-2024
 
 # COGS 108: Data Science in Practice
 
@@ -119,7 +119,7 @@ Anonymous Course Feedback:  https://goo.gl/forms/2nXnDNbgYuS1OsGF2
 
 **Grades**: All grades will be released on Canvas. It is *your responsibility to check that your assignment was submitted, that your grade is accurate, and to get in touch if any are missing and/or you think there is a problem*.
 
-**Due Dates**: For keeping things simple for you all, all due dates each week will be **Sundays at 11:59 PM**. Please DO NOT wait until Sunday at 11:50 PM each week to start everything that is due. (Edit 2/14: A3 and A4 will be due the Wed of weeks 7 and 9)
+**Due Dates**: For keeping things simple for you all, all due dates each week will be **Sundays at 11:59 PM**. Please DO NOT wait until Sunday at 11:50 PM each week to start everything that is due. (Edit: A3 and A4 will be due the Wed of weeks 7 and 10)
 
 Extra credit worth up to 2% of the final grade will be awarded for:
 - Attending at least 75% of lectures (starting lecture 2; excluding guest lectures) (0.5% of grade, see Lecture section below)
@@ -306,11 +306,11 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Mar-1  | 8    | F   | Text + ML                      |               |                   |                                        |
 | Mar-3  | 8    | Su  |                               | D7            | Q8                 |                                      |
 | Mar-4  | 9    | M   | Nonparametric Analysis         |               |                   |                                        |
-| Mar-6  | 9    | W   | Geospatial I                   |               |                   | A4                                       |
+| Mar-6  | 9    | W   | Geospatial I                   |               |                   |                                       |
 | Mar-8  | 9    | F   | Geospatial II                  |               |                   |                                        |
 | Mar-10 | 9    | Su  |                               | D8            | Q9            | Checkpoint #2: EDA*                    |
 | Mar-11 | 10   | M   | How to Be Wrong                |               |                   |                                        |
-| Mar-13 | 10   | W   | Communication                  |               |                   |                                        |
+| Mar-13 | 10   | W   | Communication                  |               |                   |  A4                                        |
 | Mar-15 | 10   | F   | Data Science Jobs              |               |                   |                                        |
 
 
