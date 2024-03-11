@@ -3,7 +3,7 @@ output:
   pdf_document: default
 ---
 
-v1.05 28-Feb-2024
+v1.06 10-Mar-2024
 
 # COGS 108: Data Science in Practice
 
@@ -309,8 +309,8 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Mar-6  | 9    | W   | Geospatial I                   |               |                   |                                       |
 | Mar-8  | 9    | F   | Geospatial II                  |               |                   |                                        |
 | Mar-10 | 9    | Su  |                               | D8            | Q9            | Checkpoint #2: EDA*                    |
-| Mar-11 | 10   | M   | How to Be Wrong                |               |                   |                                        |
-| Mar-13 | 10   | W   | Communication                  |               |                   |  A4                                        |
+| Mar-11 | 10   | M   | Communication                 |               |                   |                                        |
+| Mar-13 | 10   | W   | How to Be Wrong                |               |                   |  A4                                        |
 | Mar-15 | 10   | F   | Data Science Jobs              |               |                   |                                        |
 
 
