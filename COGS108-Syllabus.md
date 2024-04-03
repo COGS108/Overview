@@ -42,7 +42,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.app.google/RoadDP23hFD5JpuW9)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
-| TA	         | your name here       |  your section here |  your office hours here |  your email here   |
+| TA	         | Joshua Chen      |  A02, A03 |  [Signup for office hours](https://calendar.app.google/NUcF5LafHedTU2GCA) |  [jpc005@ucsd.edu](mailto:jpc005@ucsd.edu)  |
 | TA	         | your name here       |  your section here |  your office hours here |  your email here   |
 | TA	         | your name here       |  your section here |  your office hours here |  your email here   |
 | TA	         | your name here       |  your section here |  your office hours here |  your email here   |
