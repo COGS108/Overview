@@ -255,32 +255,32 @@ There are also components of the project that must be completed individually. St
 | Apr-1  | 1      | M   | Welcome!                     | \--            |         |                                                                |                  |
 | Apr-03 | 1      | W   | Version Control I            | Python review  |         |                                                                |                  |
 | Apr-05 | 1      | F   | Version Control II           | Python review  |         |                                                                |                  |
-| Apr-08 | 2      | M   | Data & Intuition I           | \--            |         |                                                                |                  |
-| Apr-10 | 2      | W   | Data & Intuition II          | D1             |         |                                                                | Q1               |
+| Apr-08 | 2      | M   | Data & Intuition I           | \--            |         |                                                                | Q1               |
+| Apr-10 | 2      | W   | Data & Intuition II          | D1             |         |                                                                |                  |
 | Apr-12 | 2      | F   | Data Wrangling (pandas)      | D1             |         | Practice assignment, pre-course survey                         |                  |
-| Apr-15 | 3      | M   | Ethics                       |                | D1      | GitHub ID                                                      |                  |
-| Apr-17 | 3      | W   | Data Science questions       | D2             |         |                                                                | Q2               |
+| Apr-15 | 3      | M   | Ethics                       |                | D1      |                                                                | Q2               |
+| Apr-17 | 3      | W   | Data Science questions       | D2             |         | GitHub ID, Group signup                                        |                  |
 | Apr-19 | 3      | F   | Data viz principles          | D2             |         | A1                                                             |                  |
-| Apr-22 | 4      | M   | Intro to analysis            |                | D2      |                                                                |                  |
-| Apr-24 | 4      | W   | EDA                          | D3             |         |                                                                | Q3               |
+| Apr-22 | 4      | M   | Intro to analysis            |                | D2      |                                                                | Q3               |
+| Apr-24 | 4      | W   | EDA                          | D3             |         |                                                                |                  |
 | Apr-26 | 4      | F   | EDA II                       | D3             |         | Project Review\*                                               |                  |
-| Apr-29 | 5      | M   | Inference I                  |                | D3      |                                                                |                  |
-| May-1  | 5      | W   | Inference II                 | D4             |         |                                                                | Q4               |
+| Apr-29 | 5      | M   | Inference I                  |                | D3      |                                                                | Q4               |
+| May-1  | 5      | W   | Inference II                 | D4             |         |                                                                |                  |
 | May-03 | 5      | F   | Inference III                | D4             |         | Project Proposal\*                                             |                  |
-| May-06 | 6      | M   | Inference IV - Nonparametric |                | D4      |                                                                |                  |
-| May-08 | 6      | W   | Text Analysis I              | D5             |         |                                                                | Q5               |
+| May-06 | 6      | M   | Inference IV - Nonparametric |                | D4      |                                                                | Q5               |
+| May-08 | 6      | W   | Text Analysis I              | D5             |         |                                                                |                  |
 | May-10 | 6      | F   | Text Analysis II             | D5             |         | A2                                                             |                  |
-| May-13 | 7      | M   | Machine Learning I           |                | D5      |                                                                |                  |
-| May-15 | 7      | W   | Machine Learning II          | D6             |         |                                                                | Q6               |
+| May-13 | 7      | M   | Machine Learning I           |                | D5      |                                                                | Q6               |
+| May-15 | 7      | W   | Machine Learning II          | D6             |         |                                                                |                  |
 | May-17 | 7      | F   | Machine Learning III         | D6             |         | Checkpoint #1: Data\*                                          |                  |
-| May-20 | 8      | M   | Machine Learning IV          |                | D6      |                                                                |                  |
-| May-22 | 8      | W   | Dimensionality Reduction     | D7             |         |                                                                | Q7               |
+| May-20 | 8      | M   | Machine Learning IV          |                | D6      |                                                                | Q7               |
+| May-22 | 8      | W   | Dimensionality Reduction     | D7             |         |                                                                |                  |
 | May-24 | 8      | F   | Geospatial I                 | D7             |         | A3                                                             |                  |
-| May-27 | 9      | M   | No class - Memorial day      |                | delayed |                                                                |                  |
-| May-29 | 9      | W   | Geospatial II                | D8             | D7      |                                                                | Q8               |
+| May-27 | 9      | M   | No class - Memorial day      |                | delayed |                                                                | Q8               |
+| May-29 | 9      | W   | Geospatial II                | D8             | D7      |                                                                |                  |
 | May-31 | 9      | F   | How to be wrong              | D8             |         | Checkpoint #2: EDA\*                                           |                  |
-| Jun-03 | 10     | M   | How to be wrong II           |                | D8      |                                                                |                  |
-| Jun-05 | 10     | W   | Guest lecture                | Projects       |         |                                                                | Q9               |
+| Jun-03 | 10     | M   | How to be wrong II           |                | D8      |                                                                | Q9               |
+| Jun-05 | 10     | W   | Guest lecture                | Projects       |         |                                                                |                  |
 | Jun-07 | 10     | F   | Data science jobs            | Projects       |         | A4                                                             |                  |
 | Jun-10 | Finals | M   | NO FINAL EXAM                |                |         |                                                                |                  |
 | Jun-12 | Finals | W   |                              |                |         | Final project\*, video\*, team eval survey, post-course survey |                  |
