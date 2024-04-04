@@ -43,7 +43,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.app.google/RoadDP23hFD5JpuW9)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
 | TA	         | Joshua Chen      |  A02, A03 | M/Th 6:30 - 8:00 PM [Signup for office hours](https://calendar.app.google/NUcF5LafHedTU2GCA) |  [jpc005@ucsd.edu](mailto:jpc005@ucsd.edu)  |
-| TA	         | your name here       |  your section here |  your office hours here |  your email here   |
+| TA	         | Zoe He       |  A06, A07 | [Signup for office hours](https://calendar.app.google/E1D5FVtT1Gms4XtX7)  |  [wah016@ucsd.edu](mailto:wah016@ucsd.edu)   |
 | TA	         | your name here       |  your section here |  your office hours here |  your email here   |
 | TA	         | your name here       |  your section here |  your office hours here |  your email here   |
 | IA	         | Ben Bao              |  A03, A06          |  ---                    |  tibao@ucsd.edu    |
