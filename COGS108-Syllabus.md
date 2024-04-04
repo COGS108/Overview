@@ -47,7 +47,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         | your name here       |  your section here |  your office hours here |  your email here   |
 | TA	         | your name here       |  your section here |  your office hours here |  your email here   |
 | IA	         | Ben Bao              |  A03, A06          |  ---                    |  tibao@ucsd.edu    |
-| IA	         | Fatima Dong       |  A01, AO5 |  --- |  fdong@ucsd.edu   |
+| IA	         | Fatima Dong       |  A01, A05 |  --- |  fdong@ucsd.edu   |
 | IA	         | your name here       |  your section here |  your office hours here |  your email here   |
 | IA	         | Ricky(Ruiqi) Zhu      |  A02, A04 |  --- | r2zhu@ucsd.edu   |
 
