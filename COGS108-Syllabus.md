@@ -48,7 +48,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         | your name here       |  your section here |  your office hours here |  your email here   |
 | IA	         | Ben Bao              |  A03, A06          |  ---                    |  tibao@ucsd.edu    |
 | IA	         | Fatima Dong       |  A01, A05 |  --- |  fdong@ucsd.edu   |
-| IA	         | your name here       |  your section here |  your office hours here |  your email here   |
+| IA	         | Shreya Musini       |  A07 | Th 11:00 am - 12:00 pm [Sign up for office hours](https://calendar.app.google/8aBE9R3jpi5A7AUQ7) | shmusini@ucsd.edu  |
 | IA	         | Ricky(Ruiqi) Zhu      |  A02, A04 |  --- | r2zhu@ucsd.edu   |
 
 Course GitHub: https://github.com/COGS108  
