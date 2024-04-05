@@ -44,7 +44,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.app.google/RoadDP23hFD5JpuW9)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
 | TA	         | Joshua Chen      |  A02, A03 | M/Th 6:30 - 8:00 PM [Signup for office hours](https://calendar.app.google/NUcF5LafHedTU2GCA) |  [jpc005@ucsd.edu](mailto:jpc005@ucsd.edu)  |
 | TA	         | Zoe He       |  A06, A07 | [Signup for office hours](https://calendar.app.google/E1D5FVtT1Gms4XtX7)  |  [wah016@ucsd.edu](mailto:wah016@ucsd.edu)   |
-| TA	         | your name here       |  your section here |  your office hours here |  your email here   |
+| TA	         | Fuling Sun       |  A04 |  Th 8:00 PM - 10:00 PM [Sign up for office hours](https://calendar.app.google/KYZyiHrQCpbY9V3W7) |  [fulingsun@ucsd.edu](mailto:fulingsun@ucsd.edu)   |
 | TA	         | your name here       |  your section here |  your office hours here |  your email here   |
 | IA	         | Ben Bao              |  A03, A06          |  ---                    |  tibao@ucsd.edu    |
 | IA	         | Fatima Dong       |  A01, A05 |  --- |  fdong@ucsd.edu   |
@@ -171,13 +171,13 @@ The first discussion section will start in Week 1 with a Python review.  After t
 
 | Section |  Time and Location |
 |:--------|:---------------------|
-| A01	|	 |
-| A02	|  | 
-| A03	|  | 
-| A04	|  | 
-| A05	|  | 
-| A06	|  | 
-| A07	|  | 
+| A01	|	F 4:00p-4:50p, WLH 2205 |
+| A02	| F 5:00p-5:50p, WLH 2205 | 
+| A03	| F 6:00p-6:50p, WLH 2205 | 
+| A04	| W 1:00p-1:50p, PETER 103 | 
+| A05	| F 12:00p-12:50p, PETER 103 | 
+| A06	| W 3:00p-3:50p, PETER 103 | 
+| A07	| W 4:00p-4:50p, PETER 103 | 
 
 
 
