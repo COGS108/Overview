@@ -45,7 +45,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         | Joshua Chen      |  A02, A03 | M/Th 6:30 - 8:00 PM [Signup for office hours](https://calendar.app.google/NUcF5LafHedTU2GCA) |  [jpc005@ucsd.edu](mailto:jpc005@ucsd.edu)  |
 | TA	         | Zoe He       |  A06, A07 | [Signup for office hours](https://calendar.app.google/E1D5FVtT1Gms4XtX7)  |  [wah016@ucsd.edu](mailto:wah016@ucsd.edu)   |
 | TA	         | Fuling Sun       |  A04 |  Th 8:00 PM - 10:00 PM [Sign up for office hours](https://calendar.app.google/KYZyiHrQCpbY9V3W7) |  [fulingsun@ucsd.edu](mailto:fulingsun@ucsd.edu)   |
-| TA	         | your name here       |  your section here |  your office hours here |  your email here   |
+| TA	         | Dev Hayatpur       |  A01, A05 |  Tu 9:00 AM - 11:00 AM [Sign up for office hours](https://calendar.app.google/Xb1qCxKCsEfjCFKg7) |  [dshayatpur@ucsd.edu](mailto:dshayatpur@ucsd.edu)   |
 | IA	         | Ben Bao              |  A03, A06          |  ---                    |  tibao@ucsd.edu    |
 | IA	         | Fatima Dong       |  A01, A05 |  --- |  fdong@ucsd.edu   |
 | IA	         | Shreya Musini       |  A07 | Th 11:00 am - 12:00 pm [Sign up for office hours](https://calendar.app.google/8aBE9R3jpi5A7AUQ7) | shmusini@ucsd.edu  |
