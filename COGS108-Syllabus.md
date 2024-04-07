@@ -236,7 +236,19 @@ PLEASE NOTE while your pool of late days is 7, your maximum lateness on any sing
 
 # COURSE PROJECT
 
-Your course project will be completed in an assigned group of 4-5 people. The reality of data science is that you will have to work with others on a team you didn't get to pick. You’ll need to work together to communicate effectively, manage time, organize your projects, and accomplish a goal. People will have different knowledge and skills sets. It is your job as a group to work together to figure out how to maximize each group member’s skills to make sure that your differences are helpful to accomplishing your goal, rather than a hindrance. For example, some of you will find the programming aspects of the class assignments very easy, while others will struggle. Alternatively, some of you may find experimental research and hypothesis testing intuitive, while others find it confusing and frustrating.
+Your course project will be completed in a group of 4-5 people. The reality of data science is that you will have to work with others. You’ll need to work together to communicate effectively, manage time, organize your projects, and accomplish a goal. People will have different knowledge and skills sets. It is your job as a group to work together to figure out how to maximize each group member’s skills to make sure that your differences are helpful to accomplishing your goal, rather than a hindrance. For example, some of you will find the programming aspects of the class assignments very easy, while others will struggle. Alternatively, some of you may find experimental research and hypothesis testing intuitive, while others find it confusing and frustrating. It is best for your project if you choose a team with a mix of background and experience.
+
+### Finding A Group
+
+Finding a group may be a tad trickier this quarter. As such, we'll offer additional support. Groups can be found in a few different ways:
+
+1. If you have people in the class you know you want to work with, chat with one another and if you're all on board, form a group.
+2. There will be time to find groups in discussion section during week 1 & 2.
+3. If you don't know people in the class or don't have people you want to work with, no problem. Seek them out on Campuswire!
+
+You will submit who your group is via Google Form by the Wednesday of week 3 (see Course Schedule). One form will be submitted per group.
+
+If you do not signup for a group you will be randomly assigned a group. However you generally don't want that, you'll have more fun if you get on board with people who want to work on the same thing as you. Also in my experience the randomly assigned groups have more trouble than the ones students put together on their own.
 
 Probably the most important way to start a team off on the right foot is to discuss expectations of how you will work together.  How will you divide up the work? How often and where will you meet? How will you communicate with each other? What's the maximum amount of time it should take for someone to respond to a message?  How will you double check that things that need to happen did happen? If there is a problem meeting a deadline how should the person responsible let others know, and then how should the rest of the team react? There are many possible answers to these questions, and there are many more questions about expectations that you might want to ask yourselves. Your team should decide what's right for you, _and then write down these expectations in a place that the team will often see it_.  Trust me, this will help things go more smoothly.  
 
