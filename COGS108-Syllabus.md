@@ -50,7 +50,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | IA	         | Fatima Dong       |  A01, A05 |  --- |  fdong@ucsd.edu   |
 | IA	         | Shreya Musini       |  A07 | Th 11:00 am - 12:00 pm [Sign up for office hours](https://calendar.app.google/8aBE9R3jpi5A7AUQ7) | shmusini@ucsd.edu  |
 | IA	         | Ricky(Ruiqi) Zhu      |  A02, A04 |  --- | r2zhu@ucsd.edu   |
-| IA	         | Dhathry Doppalapudi      | ---  | Wed 7-8pm [Sign up here](https://calendly.com/ddoppala/cogs108) | ddoppala@ucsd.edu   |
+| IA	         | Dhathry Doppalapudi      | ---  | --- | ddoppala@ucsd.edu   |
 
 Course GitHub: https://github.com/COGS108  
 
