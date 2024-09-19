@@ -1,4 +1,5 @@
 v0.01 19-September-2024
+**WARNING!!! This is a draft syllabus and subject to potentially major changes before the end of Week 1**
 
 # COGS 108: Data Science in Practice
 
