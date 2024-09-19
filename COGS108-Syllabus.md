@@ -1,9 +1,8 @@
-v0.01 01-April-2024
+v0.01 19-September-2024
 
 # COGS 108: Data Science in Practice
 
-**Spring 2024**  
-
+**Fall 2024**  
 
 
 ---
@@ -42,25 +41,30 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.app.google/RoadDP23hFD5JpuW9)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
-| TA	         | Joshua Chen      |  A02, A03 | M/Th 6:30 - 8:00 PM [Signup for office hours](https://calendar.app.google/NUcF5LafHedTU2GCA) |  [jpc005@ucsd.edu](mailto:jpc005@ucsd.edu)  |
-| TA	         | Zoe He       |  A06, A07 | [Signup for office hours](https://calendar.app.google/E1D5FVtT1Gms4XtX7)  |  [wah016@ucsd.edu](mailto:wah016@ucsd.edu)   |
-| TA	         | Fuling Sun       |  A04 |  Th 8:00 PM - 10:00 PM [Sign up for office hours](https://calendar.app.google/KYZyiHrQCpbY9V3W7) |  [fulingsun@ucsd.edu](mailto:fulingsun@ucsd.edu)   |
-| TA	         | Dev Hayatpur       |  A01, A05 |  Tu 9:00 AM - 11:00 AM [Sign up for office hours](https://calendar.app.google/Xb1qCxKCsEfjCFKg7) |  [dshayatpur@ucsd.edu](mailto:dshayatpur@ucsd.edu)   |
-| IA	         | Ben Bao              |  A03, A06          |  ---                    |  tibao@ucsd.edu    |
-| IA	         | Fatima Dong       |  A01, A05 |  --- |  fdong@ucsd.edu   |
-| IA	         | Shreya Musini       |  A07 | Th 11:00 am - 12:00 pm [Sign up for office hours](https://calendar.app.google/8aBE9R3jpi5A7AUQ7) | shmusini@ucsd.edu  |
-| IA	         | Ricky(Ruiqi) Zhu      |  A02, A04 |  --- | r2zhu@ucsd.edu   |
-| IA	         | Dhathry Doppalapudi      | ---  | --- | ddoppala@ucsd.edu   |
+| TA	         |  name     |  your section | your OH/link |  your email |
+| TA	         |  name     |  your section | your OH/link |  your email |
+| TA	         |  name     |  your section | your OH/link |  your email |
+| TA	         |  name     |  your section | your OH/link |  your email |
+| TA	         |  name     |  your section | your OH/link |  your email |
+| TA	         |  name     |  your section | your OH/link |  your email |
+| TA	         |  name     |  your section | your OH/link |  your email |
+| IA	         |  name     |  your section | your OH/link |  your email |
+| IA	         |  name     |  your section | your OH/link |  your email |
+| IA	         |  name     |  your section | your OH/link |  your email |
+| IA	         |  name     |  your section | your OH/link |  your email |
+| IA	         |  name     |  your section | your OH/link |  your email |
+| IA	         |  name     |  your section | your OH/link |  your email |
+| IA	         |  name     |  your section | your OH/link |  your email |
 
 Course GitHub: https://github.com/COGS108  
 
-Course Campuswire*: https://campuswire.com/p/GFAD9349E  join code is 5891
+Course Campuswire*: TODO NEW LINK 
 
-Course Canvas: https://canvas.ucsd.edu/courses/48733
+Course Canvas: TODO NEW LINK 
 
 Assignment Submission: https://datahub.ucsd.edu  
 
-Anonymous Course Feedback:  https://forms.gle/yAYq38iCXAfxx8pp9
+Anonymous Course Feedback:  TODO NEW LINK 
 
 *You will be able to post anonymously on Campuswire; however, you will only be anonymous to your classmates. Your Instructor and TAs will be able to see who you are.
 
@@ -118,12 +122,13 @@ We also maintain [a list of readings that can provide insight into various data 
 
 All grades will be released on Canvas. It is *your responsibility to check that your assignment was submitted, that your grade is accurate, and to get in touch if any are missing and/or you think there is a problem*.
 
-Extra credit worth up to 2% of the final grade will be awarded for
-- Exceptional participation on Campuswire: Roughly the top 3 - 5% of contributors will get 0.5% bonus to their final grade.  Starting/participating in good discussions, organizing things, answering questions, etc.   
-- Answering the pre & post course surveys will give 0.5% extra credit (0.25% each)
-- Attending guest lecture(s) in-person is 0.25% extra credit  
+Extra credit worth up to 3% of the final grade will be awarded for
+- Exceptional participation on Campuswire: Roughly the top 3 - 5% of contributors will get 0.5% bonus to their final grade.  Starting/participating in good discussions, organizing things, answering questions, etc.
+- Being present for >= 2/3 of the in class exercises will net 0.5% bonus to the final grade
+- Answering the pre & post course surveys will give 0.5% extra credit (0.25% each for 0.5% total)
+- Attending guest lecture(s) in-person is 0.5% extra credit  
 - Filling out all 7 of the weekly project progress surveys (0.5% of grade, see Project section below)
-- If >75% of the students fill out CAPE at the end of the quarter there will be an extra 0.5% of the final grade for everyone
+- If >75% of the students fill out SET (teaching evaluation) at the end of the quarter there will be an extra 0.5% of the final grade for everyone
 
 Our grading scale is
 
@@ -147,14 +152,20 @@ Know that a third of the class typically feels overwhelmed at the start of the q
 
 I continue to believe that attending in-person is the best way to learn for most people. Our goal is to make the lecture and discussion section worth your while to attend through interactive content and making it a good place to get questions answered. We will also be trying out active learning paradigms this quarter. There will be some live coding exercises both as individuals and some think-pair-share setups.
 
-But you're adults, you will know what fits your constraints and needs.  If you can't come or this is not the best use of your time, that's fine. There is no component of your grade that is based on attendance or live participation. DO NOT COME TO IN-PERSON CLASS IF YOU FEEL SNIFFLY OR SICK!!!  I really don't want our very large lecture hall to become a super-spreader event for any illnesses.
+But you're adults, you will know what fits your constraints and needs.  If you can't come or this is not the best use of your time, that's fine. DO NOT COME TO IN-PERSON CLASS IF YOU FEEL SNIFFLY OR SICK!!!  I really don't want our very large lecture hall to become a super-spreader event for any illnesses.
 
 ---
 
 # LECTURE
-MWF 10am in person in the Jeannie Auditorium, New Sixth College. 
 
-Please bring a smartphone or tablet or laptop for occaisional live polling via Google Form. Up to 0.5% extra credit will be given for attendance as measured by the number of such exercises you participate in during class. Full extra credit will consist of participating in > 2/3 of lectures that have these exercises (not all lectures have exercises!)
+This quarter there are two sections of lecture. For the first two weeks please attend the section you were assigned.  After that there will probably be enough free seats for you to attend the section you prefer, and I'm ok with that.  I will podcast one of the two sections.
+
+| Section |  Time and Location |
+|:--------|:---------------------|
+| A00 | 10AM MWF Galbraith Hall 242 |
+| B00 | 2PM  MWF York 2722 |
+
+Please bring a smartphone or tablet or laptop to lecture for occaisional live polling via Google Form. Up to 0.5% extra credit will be given for attendance as measured by the number of such exercises you participate in during class. Full extra credit will consist of participating in > 2/3 of lectures that have these exercises (not all lectures have exercises!)
 
 DO NOT COME TO LECTURE IF YOU ARE ILL! You won't miss your attendance extra credit if you take some time off.
 
@@ -172,14 +183,20 @@ The first discussion section will start in Week 1 with a Python review.  After t
 
 | Section |  Time and Location |
 |:--------|:---------------------|
-| A01	|	F 4:00p-4:50p, WLH 2205 |
-| A02	| F 5:00p-5:50p, WLH 2205 | 
-| A03	| F 6:00p-6:50p, WLH 2205 | 
-| A04	| W 1:00p-1:50p, PETER 103 | 
-| A05	| F 12:00p-12:50p, PETER 103 | 
-| A06	| W 3:00p-3:50p, PETER 103 | 
-| A07	| W 4:00p-4:50p, PETER 103 | 
-
+| A01	|	M 11:00a-11:50a	CENTR	222 |
+| A02	|	M 12:00p-12:50p	CENTR	222 |
+| A03	|	M 12:00p-12:50p	WLH	2111 |
+| A04	|	M 2:00p-2:50p	CSB	5 |
+| A05	|	M 3:00p-3:50p	CSB	5 |
+| A06	|	M 4:00p-4:50p	PETER	102 |
+| A07	|	W 2:00p-2:50p	CSB	5 |
+| B01	|	W	9:00a-9:50a	YORK	4080A |
+| B02	|	F	3:00p-3:50p	PCYNH	120 |
+| B03	|	F	4:00p-4:50p	PCYNH	120 |
+| B04	|	W	4:00p-4:50p	DIB	122 |
+| B05	|	W	5:00p-5:50p	WLH	2207 |
+| B06	|	W	3:00p-3:50p	CSB	4 |
+| B07	|	W	6:00p-6:50p	WLH	2207 |
 
 
 ### Discussion section lab exercises
@@ -263,41 +280,43 @@ There are also components of the project that must be completed individually. St
 ---
 
 # COURSE SCHEDULE
-|        | Week   | Day | Topic                        | Section covers | Lab due | Assignment due                                                 | Lecture quiz due |
+| Date   | Week   | Day | Lecture topic                | Section covers | Lab due | Assignment due                                                 | Lecture quiz due |
 | ------ | ------ | --- | ---------------------------- | -------------- | ------- | -------------------------------------------------------------- | ---------------- |
-| Apr-1  | 1      | M   | Welcome!                     | \--            |         |                                                                |                  |
-| Apr-03 | 1      | W   | Version Control I            | Python review  |         |                                                                |                  |
-| Apr-05 | 1      | F   | Version Control II           | Python review  |         |                                                                |                  |
-| Apr-08 | 2      | M   | Data & Intuition I           | \--            |         |                                                                | Q1               |
-| Apr-10 | 2      | W   | Data & Intuition II          | D1             |         |                                                                |                  |
-| Apr-12 | 2      | F   | Data Wrangling (pandas)      | D1             |         | Practice assignment, pre-course survey                         |                  |
-| Apr-15 | 3      | M   | Ethics                       |                | D1      |                                                                | Q2               |
-| Apr-17 | 3      | W   | Data Science questions       | D2             |         | GitHub ID, Group signup                                        |                  |
-| Apr-19 | 3      | F   | Data viz principles          | D2             |         | A1                                                             |                  |
-| Apr-22 | 4      | M   | Intro to analysis            |                | D2      |                                                                | Q3               |
-| Apr-24 | 4      | W   | EDA                          | D3             |         |                                                                |                  |
-| Apr-26 | 4      | F   | EDA II                       | D3             |         | Project Review\*                                               |                  |
-| Apr-29 | 5      | M   | Inference I                  |                | D3      |                                                                | Q4               |
-| May-1  | 5      | W   | Inference II                 | D4             |         |                                                                |                  |
-| May-03 | 5      | F   | Inference III                | D4             |         | Project Proposal\*                                             |                  |
-| May-06 | 6      | M   | Inference IV - Nonparametric |                | D4      |                                                                | Q5               |
-| May-08 | 6      | W   | Text Analysis I              | D5             |         |                                                                |                  |
-| May-10 | 6      | F   | Text Analysis II             | D5             |         | A2                                                             |                  |
-| May-13 | 7      | M   | Machine Learning I           |                | D5      |                                                                | Q6               |
-| May-15 | 7      | W   | Machine Learning II          | D6             |         |                                                                |                  |
-| May-17 | 7      | F   | Machine Learning III         | D6             |         | Checkpoint #1: Data\*                                          |                  |
-| May-20 | 8      | M   | Machine Learning IV          |                | D6      |                                                                | Q7               |
-| May-22 | 8      | W   | Dimensionality Reduction     | D7             |         |                                                                |                  |
-| May-24 | 8      | F   | Geospatial I                 | D7             |         | A3                                                             |                  |
-| May-27 | 9      | M   | No class - Memorial day      |                | delayed |                                                                | Q8               |
-| May-29 | 9      | W   | Geospatial II                | D8             | D7      |                                                                |                  |
-| May-31 | 9      | F   | How to be wrong              | D8             |         | Checkpoint #2: EDA\*                                           |                  |
-| Jun-03 | 10     | M   | How to be wrong II           |                | D8      |                                                                | Q9               |
-| Jun-05 | 10     | W   | Guest lecture                | Projects       |         |                                                                |                  |
-| Jun-07 | 10     | F   | Data science jobs            | Projects       |         | A4                                                             |                  |
-| Jun-10 | Finals | M   | NO FINAL EXAM                |                |         |                                                                |                  |
-| Jun-12 | Finals | W   |                              |                |         | Final project\*, video\*, team eval survey, post-course survey |                  |
-| Jun-14 | Finals | F   |                              |                |         |
+| Sep-27 | 0      | F   | Welcome!                     | NO LAB WEEK 0  |         |                                                                |                  |
+| Sep-30 | 1      | M   | Version Control I            | Python review  |         |                                                                |                  |
+| Oct-02 | 1      | W   | Version Control II           | Python review  |         |                                                                |                  |
+| Oct-04 | 1      | F   | Data & Intuition I           | Python review  |         |                                                                |                  |
+| Oct-07 | 2      | M   | Data & Intuition II          | D1             |         |                                                                | Q1               |
+| Oct-9  | 2      | W   | Data Wrangling (pandas)      | D1             |         | Practice assignment, pre-course survey                         |                  |
+| Oct-11 | 2      | F   | Ethics                       | D1             | D1      |                                                                |                  |
+| Oct-14 | 3      | M   | Data Science questions       | D2             |         | GitHub ID, Group signup                                        | Q2               |
+| Oct-16 | 3      | W   | Data viz principles          | D2             |         | A1                                                             |                  |
+| Oct-18 | 3      | F   | Intro to analysis            | D2             | D2      |                                                                |                  |
+| Oct-21 | 4      | M   | EDA                          | D3             |         |                                                                | Q3               |
+| Oct-23 | 4      | W   | EDA II                       | D3             |         | Project Review\*                                               |                  |
+| Oct-25 | 4      | F   | Inference I                  | D3             | D3      |                                                                |                  |
+| Oct-28 | 5      | M   | Inference II                 | D4             |         |                                                                | Q4               |
+| Oct-30 | 5      | W   | Inference III                | D4             |         | Project Proposal\*                                             |                  |
+| Nov-01 | 5      | F   | Inference IV - Nonparametric | D4             | D4      |                                                                |                  |
+| Nov-04 | 6      | M   | Text Analysis I              | D5             |         |                                                                | Q5               |
+| Nov-06 | 6      | W   | Text Analysis II             | D5             |         | A2                                                             |                  |
+| Nov-8  | 6      | F   | Machine Learning I           | D5             | D5      |                                                                |                  |
+| Nov-11 | 7      | M   | No class - Veterans day      | D6             |         |                                                                | Q6               |
+| Nov-13 | 7      | W   | Machine Learning II          | D6             |         | Checkpoint #1: Data\*                                          |                  |
+| Nov-15 | 7      | F   | Machine Learning III         | D6             | D6      |                                                                |                  |
+| Nov-18 | 8      | M   | Machine Learning IV          | D7             |         |                                                                | Q7               |
+| Nov-20 | 8      | W   | Dimensionality Reduction     | D7             |         | A3                                                             |                  |
+| Nov-22 | 8      | F   | Geospatial II                | D7             | D7      |                                                                |                  |
+| Nov-25 | 9      | M   | How to be wrong              | D8             |         |                                                                | Q8               |
+| Nov-27 | 9      | W   | How to be wrong II           | D8             |         | Checkpoint #2: EDA\*                                           |                  |
+| Nov-29 | 9      | F   | No class - Thanksgiving      | D8             | D8      |                                                                |                  |
+| Dec-02 | 10     | M   | Algorithms                   | Projects       |         |                                                                | Q9               |
+| Dec-04 | 10     | W   | Guest lecture                | Projects       |         | A4                                                             |                  |
+| Dec-06 | 10     | F   | Data science jobs            | Projects       |         |                                                                |                  |
+| Dec-9  | Finals | M   | NO FINAL EXAM                |                |         |                                                                |                  |
+| Dec-11 | Finals | W   | NO FINAL EXAM                |                |         | Final project\*, video\*, team eval survey, post-course survey |                  |
+| Dec-13 | Finals | F   | NO FINAL EXAM                |                |         |                                                                |                  |
+
 
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
 
@@ -378,24 +397,26 @@ If you need counseling or if you are in a mental crisis you can contact [CAPS](h
 
 TL;DR If you want a letter I advise you to work as an IA or RA or some other capacity with more than one professor. 
 
-If you are bound for graduate school you will probably need support and letters from professors or someone else who has done graduate training. Many students ask professors they have taken a class from (including me), but I want you to know this is a bad idea. You really want to get a letter from someone you have worked with more closely, who knows your talents and personality from experience working together with you over a long time. You are one of hundreds of students I will have this quarter. TBH with relatively few exceptions I will not know you well. To get a solid letter from a prof, you want to be a research assistant, independent study, honors thesis advisee, or instructional assistant. If you are interested in grad school you need to have done the work before the beginning of senior year; letters are needed in Nov/Dec of your senior year for the following Fall admission.
+If you are bound for graduate school you will probably need letters from 2 or 3 people. Many students ask professors they have taken a class from, but I want you to know this is a bad idea. You really want to get a letter from someone you have worked with more closely, who knows your talents and personality from experience working together with you over a long time. You are one of hundreds of students I will have this quarter. TBH with relatively few exceptions I will not know you well. To get a solid letter from a prof, you want to be a research assistant, independent study, honors thesis advisee, or instructional assistant. If you are interested in grad school you need to have done the work _before_ the beginning of senior year; letters are needed in Nov/Dec of your senior year for the following Fall admission.
 
-If you are just one of the hundreds of students in a class, almost every prof (including me) will write a letter that is roughly "STUDENT was in my CLASS where they got an A+". Every graduate school admission committee in the world can read between the lines and see that this is not a good recommendation. Any kind of selective program will probably take a hard pass given a letter like that.
+If you are just one of the hundreds of students in a class, then most profs (including me) probably won't write you a letter.  If they do, at best you will get a letter that is roughly "STUDENT was in my CLASS where they got an A+". Every graduate school admission committee in the world can read between the lines and see that this is not a good recommendation. Any kind of selective program will probably take a hard pass given a letter like that.
 
-But almost every prof (including me) will write letters that go much much harder and into great detail about your qualities if you are one of our assistants. And that kind of detailed, informative letter is what graduate admissions committees want to see.
+If you are an assistant (research/instructional/etc) or an honors advisee then your mentor will definitely write you a letter.  And the letter you will go much much harder and into great detail about your qualities. And that kind of detailed, informative letter is what graduate admissions committees want to see.
 
-What if you don’t have the right history to get a detailed letter from a professor? I think that a detailed letter from another source is probably better for admissions than a minimum letter from a prof. Ask your manager from when you did an internship related to your chosen field, the head of a volunteer organization you work with, a grad student you worked for on a research project, etc.
+What if you don’t have the right history to get a detailed letter from a professor? I think that a detailed letter from another source is probably better for admissions than a minimum letter from a prof. Ask your manager from when you did an internship related to your chosen field, the head of a volunteer organization you work with, a grad student you worked for on a research project, etc.  Someone that has been to grad school is best, but even someone without grad experience who knows you well is a potentially useful letter.
 
-All that being said, if you want a minimum letter you can ask. But (a) the letter will not help you get into a top program, and (b) I will only write these for a double handful of students per quarter and I will not submit more than 8 letters per student, (c) I will only write a letter for you if you are in the top 10% of the grade distribution for your quarter.
+WARNING:  I have had to scale back my minimum letter writing for students in my class.  You can ask, I will probably say no.  Because of other time commitments I will only write minimum letters for a handful of students per quarter  who were in the top 10% of the grade distribution.  And because this class is so easy, don't assume just because you have an A+ that you are in that top 10%.
 
 
 ### What should you call me?
 
-Most students call me Professor or Professor Fleischer or Dr. Fleischer. If you’re into old skool slam dunks you can call me Dr. J. I'm also perfectly happy if you call me Jason, but not all professors are OK with that kind of informality. Please do not address me as Mr. Fleischer; if you're going to use an honorific please use the one that people expect in the situation.
+Most students call me Professor Fleischer or Dr. Fleischer. My last name is pronounced "fly-sure". My pronouns are he/him.
+
+If you’re into old skool slam dunks you can call me Dr. J. I'm also perfectly happy if you call me Jason, but not all professors are OK with that kind of informality. Please do not address me as Mr. Fleischer; if you're going to use an honorific please use the one that people expect in the situation.
 
 ### What I should call you
 
-I should call you by your preferred name, with the correct pronunciation and any honorific or pronouns you choose. Please correct me (either in the chat, out loud on zoom, or via email/Campuswire after the fact...however you're most comfortable) if I ever make a mistake.
+I should call you by your preferred name, with the correct pronunciation and any honorific or pronouns you choose. Please correct me if I ever make a mistake.
 
 ### How to Get Your Question(s) Answered and/or Provide Feedback
 
@@ -413,4 +434,4 @@ That said, to ensure that we’re respecting their time, TAs and IAs have been i
 - **A specific section-related question**: send a direct message on Campuswire to your TA/IA
 - **Something super cool to share related to class**: feel free to email Prof Ellis or come to office hours. Be sure to include COG S108 in the email subject line and your full name in your message.
 - **Something you want to talk about in-depth**: meet in person during office hours or schedule a time to meet by email. Be sure to include COGS 108 in the email subject line.
-- **Some feedback about the course you want to share anonymously**: If you’ve been offended by an example in class, really liked or disliked a lesson, or wish there were something covered in class that wasn’t but would rather not share this publicly, etc., please fill out the anonymous [Google Form](https://forms.gle/GFaUFUZYLnpQzEAW6)
+- **Some feedback about the course you want to share anonymously**: If you’ve been offended by an example in class, really liked or disliked a lesson, or wish there were something covered in class that wasn’t but would rather not share this publicly, etc., please fill out the anonymous [Google Form -- TODO]()
