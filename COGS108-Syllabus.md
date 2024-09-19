@@ -177,9 +177,13 @@ At the end of each Friday, a quiz with ~10 questions will be released, covering 
 
 # DISCUSSION SECTION
 
+*THERE IS NO SECTION WEEK 0!!!* 
+
 Discussion sections are a place where you will be able to ask questions, get help on technical topics, work on your group projects, and discuss the weekly lab exercises. If you are struggling with course material come to discussion section and/or office hours!
 
 The first discussion section will start in Week 1 with a Python review.  After that week sections will concentrate on helping students with the weekly exercises and assignments.
+
+For the first two weeks please attend the section you were assigned.  After that there will probably be enough free seats for you to attend the section you prefer, and I'm ok with that. 
 
 | Section |  Time and Location |
 |:--------|:---------------------|
