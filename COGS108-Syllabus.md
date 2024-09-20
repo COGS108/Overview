@@ -1,4 +1,5 @@
 v0.01 19-September-2024
+
 **WARNING!!! This is a draft syllabus and subject to potentially major changes before the end of Week 1**
 
 # COGS 108: Data Science in Practice
@@ -31,9 +32,9 @@ This hands-on, practical course is intended to get you experience working on dat
 
 In focusing on the practice, there is theory that won’t be discussed and mathematical proofs that won’t be done. That is by design. In particular:
 
-1. There are entire courses dedicated to each of the topics we’ll cover. To have time to do anything, we can’t teach all the details in a single course.
-2. Experts in each of these domains are out there and excited to teach you the nitty gritty about each topic.  TAKE THOSE OPPORTUNITIES... the theory we are skipping is important and useful!!
-3. We’re promoting data literacy. We believe that everyone who is data literate is at an advantage as they go out into the modern world. Data literacy is not limited to those who are computational gurus or math prodigies. You do not have to be either of those to excel at this course.
+- There are entire courses dedicated to each of the topics we’ll cover. To have time to do anything, we can’t teach all the details in a single course.
+-  Experts in each of these domains are out there and excited to teach you the nitty gritty about each topic.  TAKE THOSE OPPORTUNITIES... the theory we are skipping is important and useful!
+- We’re promoting data literacy. We believe that everyone who is data literate is at an advantage as they go out into the modern world. Data literacy is not limited to those who are computational gurus or math prodigies. You do not have to be either of those to excel at this course.
 
 In this course, you will try many methods. You’ll even be asked to implement a technique that has not been explicitly taught. Again, this is by design. As a data scientist, you’ll regularly be asked to step outside of your comfort zone and into something new. Our goal is to get you as comfortable as possible in that space now. We want to provide you with a technical and a data science mindset that will allow you to ask the right questions for the problem at hand and set off alarm bells when something in your dataset or analysis is “off.”
 
@@ -41,7 +42,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
-| Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.app.google/RoadDP23hFD5JpuW9)          | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
+| Instructor   | Jason Fleischer     |   ---         | [Signup for private office hours](https://calendar.app.google/RoadDP23hFD5JpuW9) or come to open office hours 11am - noon Wed CSB 257 | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
 | TA	         |  name     |  your section | your OH/link |  your email |
 | TA	         |  name     |  your section | your OH/link |  your email |
 | TA	         |  name     |  your section | your OH/link |  your email |
@@ -61,7 +62,7 @@ Course GitHub: https://github.com/COGS108
 
 Course Campuswire*: TODO NEW LINK 
 
-Course Canvas: TODO NEW LINK 
+Course Canvas: https://canvas.ucsd.edu/courses/58615
 
 Assignment Submission: https://datahub.ucsd.edu  
 
@@ -83,12 +84,12 @@ Anonymous Course Feedback:  TODO NEW LINK
 # COURSE MATERIALS
 - There is no textbook
 - Python (>= 3.9) and a recent version of Jupyter Notebooks.  You may fulfill this by any of the following
-  - Datahub (please use Datahub for assignments! other options are OK for project)
+  - Datahub
   - A local copy on your own computer (we recommend the Anaconda distribution)
   - Cloud services such as Google Colab, Microsoft Azure, etc. These all have a free tier or free hours before billing.  
 - git and a GitHub login
   - If you prefer a GUI feel free to use SourceTree, GitHub Desktop, etc
-- All course materials will be provided on GitHub and datahub
+- All other course materials will be provided on GitHub and datahub
 
 
 ### Optional Readings:
@@ -151,9 +152,9 @@ Know that a third of the class typically feels overwhelmed at the start of the q
 
 ### Attendance
 
-I continue to believe that attending in-person is the best way to learn for most people. Our goal is to make the lecture and discussion section worth your while to attend through interactive content and making it a good place to get questions answered. We will also be trying out active learning paradigms this quarter. There will be some live coding exercises both as individuals and some think-pair-share setups.
+I continue to believe that attending in-person is the best way to learn for most people. Our goal is to make the lecture and discussion section worth your while to attend through interactive content and making it a good place to get questions answered. We will also be trying out active learning paradigms this quarter. There will be some live coding exercises both as individuals and some think-pair-share setups.  If you can't come to a particular class session or two that's fine, but if you're planning to never come I think you're making a mistake.
 
-But you're adults, you will know what fits your constraints and needs.  If you can't come or this is not the best use of your time, that's fine. DO NOT COME TO IN-PERSON CLASS IF YOU FEEL SNIFFLY OR SICK!!!  I really don't want our very large lecture hall to become a super-spreader event for any illnesses.
+BUT DO NOT COME TO IN-PERSON CLASS IF YOU FEEL SICK!!!  I really don't want our very large lecture hall to become a super-spreader event for any illnesses.
 
 ---
 
