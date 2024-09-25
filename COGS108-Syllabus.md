@@ -1,4 +1,4 @@
-v0.01 19-September-2024
+v0.02 25-September-2024
 
 **WARNING!!! This is a draft syllabus and subject to potentially major changes before the end of Week 1**
 
@@ -60,15 +60,13 @@ In this course, you will try many methods. You’ll even be asked to implement a
 
 Course GitHub: https://github.com/COGS108  
 
-Course Campuswire*: TODO NEW LINK 
+Course discussion, Q&A and regrades: EDSTEM link?
 
 Course Canvas: https://canvas.ucsd.edu/courses/58615
 
 Assignment Submission: https://datahub.ucsd.edu  
 
-Anonymous Course Feedback:  TODO NEW LINK 
-
-*You will be able to post anonymously on Campuswire; however, you will only be anonymous to your classmates. Your Instructor and TAs will be able to see who you are.
+Anonymous Course Feedback:  https://forms.gle/MnBrvofZY7YxnwYMA
 
 ---
 
