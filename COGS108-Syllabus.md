@@ -43,7 +43,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.app.google/RoadDP23hFD5JpuW9) | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
-| TA	         |  name     |  your section | your OH/link |  your email |
+| TA	         |  Scott (Yuanjia) Yang     |  your section | your OH/link |  [yuy004@ucsd.edu](mailto:yuy004@ucsd.edu) |
 | TA	         |  name     |  your section | your OH/link |  your email |
 | TA	         |  name     |  your section | your OH/link |  your email |
 | TA	         |  name     |  your section | your OH/link |  your email |
