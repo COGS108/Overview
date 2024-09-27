@@ -46,7 +46,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |  Scott (Yuanjia) Yang     |  A04/05 | [Wed 430-530PM, Thur 330-430PM, signup required](https://calendar.app.google/6hvhBtQePrb8nrUeA) |  [yuy004@ucsd.edu](mailto:yuy004@ucsd.edu) |
 | TA	         |  Yueyan Tang     |  your section | your OH/link |  yyt005@ucsd.edu |
 | TA	         |  Zheng Zeng     |  your section | your OH/link |  zhz094@ucsd.edu |
-| TA	         |  name     |  your section | your OH/link |  your email |
+| TA	         |  Ted (Zeyu) Feng     |  B02/03 | TBD |  zef007@ucsd.edu |
 | TA	         |  name     |  your section | your OH/link |  your email |
 | TA	         |  name     |  your section | your OH/link |  your email |
 | TA	         |  name     |  your section | your OH/link |  your email |
