@@ -51,7 +51,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |  name     |  your section | your OH/link |  your email |
 | TA	         |  name     |  your section | your OH/link |  your email |
 | IA	         |  Ziyao Zhou     |  your section | your OH/link |  ziz075@ucsd.edu |
-| IA	         |  name     |  your section | your OH/link |  your email |
+| IA	         |  Vicky Li     |  B03 | TBD |  yil164@ucsd.edu |
 | IA	         |  name     |  your section | your OH/link |  your email |
 | IA	         |  name     |  your section | your OH/link |  your email |
 | IA	         |  name     |  your section | your OH/link |  your email |
