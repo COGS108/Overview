@@ -52,8 +52,8 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |  name     |  your section | your OH/link |  your email |
 | IA	         |  Ziyao Zhou     |  your section | your OH/link |  ziz075@ucsd.edu |
 | IA	         |  Vicky Li     |  B03 | TBD |  yil164@ucsd.edu |
-| IA	         |  name     |  your section | your OH/link |  your email |
-| IA	         |  name     |  your section | your OH/link |  your email |
+| IA	         |  Nikta Shinde |  A07/B06 | TDB |  n1shinde@ucsd.edu |
+| IA	         |  Ana Maria Baboescu  |  A07/B06 | TBD |  ababoescu@ucsd.edu |
 | IA	         |  name     |  your section | your OH/link |  your email |
 | IA	         |  name     |  your section | your OH/link |  your email |
 | IA	         |  name     |  your section | your OH/link |  your email |
