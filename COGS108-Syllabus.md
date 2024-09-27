@@ -47,7 +47,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |  Yueyan Tang     |  your section | your OH/link |  yyt005@ucsd.edu |
 | TA	         |  Zheng Zeng     |  your section | your OH/link |  zhz094@ucsd.edu |
 | TA	         |  Ted (Zeyu) Feng     |  B02/03 | TBD |  zef007@ucsd.edu |
-| TA	         |  name     |  your section | your OH/link |  your email |
+| TA	         |  Ruby (Zhuojun) Ying     |  A01/B01 | [Fri 8-10am, signup required](https://calendar.google.com/calendar/appointments/schedules/AcZssZ1ZF85DvauB4r0zIQ26XXFm_-YIBUFbt3Aa82abZkVWYtYp1RKqPGJ_o0cByaZnsT4B6_hi8az2) |  z5ying@ucsd.edu |
 | TA	         |  name     |  your section | your OH/link |  your email |
 | TA	         |  name     |  your section | your OH/link |  your email |
 | IA	         |  Ziyao Zhou     |  your section | your OH/link |  ziz075@ucsd.edu |
