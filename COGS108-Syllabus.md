@@ -55,7 +55,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | IA	         |  Kevin Tran     |  your section | your OH/link |  ket003@ucsd.edu |
 | IA	         |  Nikita Shinde     |  A07/B06 | Mon 6-7PM, Location TBD (with Ana) |  n1shinde@ucsd.edu |
 | IA	         |  Ana Maria Baboescu     |  A07/B06 | Mon 6-7PM, Location TBD (with Nikita) |  ababoescu@ucsd.edu |
-| IA	         |  Oishani Bandopadhyay    |  A06 | [Wed 5-6pm on Zoom (https://ucsd.zoom.us/j/95609813395)] | obandopadhyay@ucsd.edu |
+| IA	         |  Oishani Bandopadhyay    |  A06 | [Wed 5-6pm on Zoom](https://ucsd.zoom.us/j/95609813395) | obandopadhyay@ucsd.edu |
 | IA	         |  name     |  your section | your OH/link |  your email |
 
 Course GitHub: https://github.com/COGS108  
