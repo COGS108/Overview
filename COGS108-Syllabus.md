@@ -45,7 +45,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.app.google/RoadDP23hFD5JpuW9) | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
 | TA	         |  Scott (Yuanjia) Yang     |  A04/05 | [Wed 430-530PM, Thur 330-430PM, signup required](https://calendar.app.google/6hvhBtQePrb8nrUeA) |  [yuy004@ucsd.edu](mailto:yuy004@ucsd.edu) |
 | TA	         |  Yueyan Tang     |  A02/06 | Mon 1-3pm APM 2839 |  yyt005@ucsd.edu |
-| TA	         |  Zheng Zeng     |  your section | your OH/link |  zhz094@ucsd.edu |
+| TA	         |  Zheng Zeng     |  A03/B04 | [Mon 9-11am on Zoom](https://ucsd.zoom.us/my/zhz094) |  zhz094@ucsd.edu |
 | TA	         |  Ted (Zeyu) Feng     |  B02/03 | TBD |  zef007@ucsd.edu |
 | TA	         |  Ruby (Zhuojun) Ying     |  A01/B01 | [Fri 8-10am, signup required](https://calendar.google.com/calendar/appointments/schedules/AcZssZ1ZF85DvauB4r0zIQ26XXFm_-YIBUFbt3Aa82abZkVWYtYp1RKqPGJ_o0cByaZnsT4B6_hi8az2) |  z5ying@ucsd.edu |
 | TA	         |  name     |  your section | your OH/link |  your email |
