@@ -50,7 +50,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |  Ruby (Zhuojun) Ying     |  A01/B01 | [Fri 8-10am, signup required](https://calendar.google.com/calendar/appointments/schedules/AcZssZ1ZF85DvauB4r0zIQ26XXFm_-YIBUFbt3Aa82abZkVWYtYp1RKqPGJ_o0cByaZnsT4B6_hi8az2) |  z5ying@ucsd.edu |
 | TA	         |  Samyak Mehta     |  B05/B07 | Wed 3-5pm, CSB 114 |  sam012@ucsd.edu |
 | TA	         |  name     |  your section | your OH/link |  your email |
-| IA	         |  Ziyao Zhou     |  your section | your OH/link |  ziz075@ucsd.edu |
+| IA	         |  Ziyao Zhou     |  A04 | [Tue 9AM-10AM on Zoom](https://us04web.zoom.us/j/72591110777?pwd=kLqpI3k6TskWcLBquIFduRwC1j0RFt.1) |  ziz075@ucsd.edu |
 | IA	         |  Vicky Li     |  B03 | TBD |  yil164@ucsd.edu |
 | IA	         |  Kevin Tran     |  your section | [Mon 10AM-11AM on Zoom](https://ucsd.zoom.us/j/95770482902) |  ket003@ucsd.edu |
 | IA	         |  Nikita Shinde     |  A07/B06 | STARTING WEEK 2 Mon 6-7PM, Location TBD (with Ana) |  n1shinde@ucsd.edu |
