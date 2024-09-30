@@ -43,7 +43,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.app.google/RoadDP23hFD5JpuW9) | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
-| TA	         |  Scott (Yuanjia) Yang     |  A04/05 | [Wed 430-530PM, Thur 330-430PM, signup required](https://calendar.app.google/6hvhBtQePrb8nrUeA) |  [yuy004@ucsd.edu](mailto:yuy004@ucsd.edu) |
+| TA	         |  Scott (Yuanjia) Yang     |  A04/05 | [Wed 430-530PM (Remote), Thur 400-500PM (in person at CSB114), signup required](https://calendar.app.google/6hvhBtQePrb8nrUeA) |  [yuy004@ucsd.edu](mailto:yuy004@ucsd.edu) |
 | TA	         |  Yueyan Tang     |  A02/06 | [Mon 1-3pm signup required](https://ucsd.zoom.us/meeting/register/tJMlceysrDosHdVAkLdjSF5GEdI4AH4ZQyMj) |  yyt005@ucsd.edu |
 | TA	         |  Zheng Zeng     |  A03/B04 | [Mon & Thur 9-11am on Zoom](https://ucsd.zoom.us/my/zhz094) |  zhz094@ucsd.edu |
 | TA	         |  Ted (Zeyu) Feng     |  B02/03 | TBD |  zef007@ucsd.edu |
