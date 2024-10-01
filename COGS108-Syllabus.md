@@ -46,7 +46,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |  Scott (Yuanjia) Yang     |  A04/05 | [Wed 430-530PM (Remote), Thur 400-500PM (in person at CSB114), signup required](https://calendar.app.google/6hvhBtQePrb8nrUeA) |  [yuy004@ucsd.edu](mailto:yuy004@ucsd.edu) |
 | TA	         |  Yueyan Tang     |  A02/06 | [Mon 1-3pm signup required](https://ucsd.zoom.us/meeting/register/tJMlceysrDosHdVAkLdjSF5GEdI4AH4ZQyMj) |  yyt005@ucsd.edu |
 | TA	         |  Zheng Zeng     |  A03/B04 | [Mon 9-11am on Zoom](https://ucsd.zoom.us/my/zhz094) |  zhz094@ucsd.edu |
-| TA	         |  Ted (Zeyu) Feng     |  B02/03 | Tue 5-7PM, in person at CSB114 |  zef007@ucsd.edu |
+| TA	         |  Ted (Zeyu) Feng     |  B02/03 | Tue 5-7PM, in person at CSB114(Starting Week 2)|  zef007@ucsd.edu |
 | TA	         |  Ruby (Zhuojun) Ying     |  A01/B01 | [Fri 8-10am, signup required](https://calendar.google.com/calendar/appointments/schedules/AcZssZ1ZF85DvauB4r0zIQ26XXFm_-YIBUFbt3Aa82abZkVWYtYp1RKqPGJ_o0cByaZnsT4B6_hi8az2) |  z5ying@ucsd.edu |
 | TA	         |  Samyak Mehta     |  B05/B07 | Wed 3-5pm, CSB 114 |  sam012@ucsd.edu |
 | TA	         |  name     |  your section | your OH/link |  your email |
