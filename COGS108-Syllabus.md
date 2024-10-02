@@ -49,14 +49,13 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |  Ted (Zeyu) Feng     |  B02/03 | Tue 5-7PM, in person at CSB114(Starting Week 2)|  zef007@ucsd.edu |
 | TA	         |  Ruby (Zhuojun) Ying     |  A01/B01 | [Fri 8-10am, signup required](https://calendar.google.com/calendar/appointments/schedules/AcZssZ1ZF85DvauB4r0zIQ26XXFm_-YIBUFbt3Aa82abZkVWYtYp1RKqPGJ_o0cByaZnsT4B6_hi8az2) |  z5ying@ucsd.edu |
 | TA	         |  Samyak Mehta     |  B05/B07 | Wed 3-5pm, CSB 114 |  sam012@ucsd.edu |
-| TA	         |  name     |  your section | your OH/link |  your email |
 | IA	         |  Ziyao Zhou     |  A04 | [Tue 9AM-10AM on Zoom](https://us04web.zoom.us/j/72591110777?pwd=kLqpI3k6TskWcLBquIFduRwC1j0RFt.1) |  ziz075@ucsd.edu |
 | IA	         |  Vicky Li     |  B03 | [Wed 5-6pm on Zoom](https://ucsd.zoom.us/j/8866034138?pwd=S0tRbjdwcWVqQjBHTDBIQnJvTVI3UT09) |  yil164@ucsd.edu |
 | IA	         |  Kevin Tran     |  your section | [Mon 10AM-11AM on Zoom](https://ucsd.zoom.us/j/95770482902) |  ket003@ucsd.edu |
 | IA	         |  Nikita Shinde     |  A07/B06 | STARTING WEEK 2 Mon 6-7PM, Location TBD (with Ana) |  n1shinde@ucsd.edu |
 | IA	         |  Ana Maria Baboescu  |  A07/B06 | STARTING WEEK 2 Mon 6-7PM, Location TBD (with Nikita) |  ababoescu@ucsd.edu |
 | IA	         |  Oishani Bandopadhyay    |  A06 | [Wed 5-6pm on Zoom](https://ucsd.zoom.us/j/95609813395) | obandopadhyay@ucsd.edu |
-| IA	         |  Kang Gun Ham     | A01 | Wed 11:30AM-12:30PM on [Zoom](https://ucsd.zoom.us/j/99395273833)|  kham@ucsd.edu |
+| IA	         |  Kang Gun Ham     | A01/B01 | Wed 11:30AM-12:30PM on [Zoom](https://ucsd.zoom.us/j/99395273833)|  kham@ucsd.edu |
 | IA	         |  Vinuthna Hasthi  |  A06 | [Wed 12-1pm on Zoom](https://ucsd.zoom.us/j/2413394838?pwd=NlhQejJxUXp3d28waTlkb21NSXcvdz09) | vhasthi@ucsd.edu |
 
 Course GitHub: https://github.com/COGS108  
