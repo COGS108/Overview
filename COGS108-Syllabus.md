@@ -1,4 +1,4 @@
-v0.02 25-September-2024
+v0.1 4-October-2024
 
 **WARNING!!! This is a draft syllabus and subject to potentially major changes before the end of Week 1**
 
@@ -110,8 +110,8 @@ We also maintain [a list of readings that can provide insight into various data 
 | Lecture Quizzes      | 8\%               | 8 out of 9 (1/wk)      |
 | Assignments (4@8% ea + 1@1%)         | 33\%		           | 5             |
 | Project Review*      | 5\%		           | 1             |
-| Project Proposal*    | 8\%		           | 1             |
-| Project Checkpoints*   | 8\%              | 2             |
+| Project Proposal*    | 9\%		           | 1             |
+| Project Checkpoints*  | 5\%              | 2             |
 | Final Report*        | 15%		           | 1             |
 | Final Video*         | 3\%		           | 1             |
 | Team Evaluation Survey| 1\%		         | 1             |
