@@ -52,8 +52,8 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | IA	         |  Ziyao Zhou     |  A04 | [Tue 9AM-10AM on Zoom](https://us04web.zoom.us/j/72591110777?pwd=kLqpI3k6TskWcLBquIFduRwC1j0RFt.1) |  ziz075@ucsd.edu |
 | IA	         |  Vicky Li     |  B03 | [Wed 5-6pm on Zoom](https://ucsd.zoom.us/j/8866034138?pwd=S0tRbjdwcWVqQjBHTDBIQnJvTVI3UT09) |  yil164@ucsd.edu |
 | IA	         |  Kevin Tran     |  A05 | [Tue 4PM-5PM on Zoom](https://ucsd.zoom.us/j/95770482902) |  ket003@ucsd.edu |
-| IA	         |  Nikita Shinde     |  A07/B06 | STARTING WEEK 2 Mon 6-7PM, Location TBD (with Ana) |  n1shinde@ucsd.edu |
-| IA	         |  Ana Maria Baboescu  |  A07/B06 | STARTING WEEK 2 Mon 6-7PM, Location TBD (with Nikita) |  ababoescu@ucsd.edu |
+| IA	         |  Nikita Shinde     |  A07/B06 | Mon 6-7PM Hybrid, in-person: Wong Avery 205, [Zoom](https://ucsd.zoom.us/j/5722716770?pwd=OS9vaXlHUHQ3MmdXVWFqWnljZW9Ddz09) (with Ana) |  n1shinde@ucsd.edu |
+| IA	         |  Ana Maria Baboescu  |  A07/B06 | Mon 6-7PM Hybrid, in-person: Wong Avery 205, [Zoom](https://ucsd.zoom.us/j/5722716770?pwd=OS9vaXlHUHQ3MmdXVWFqWnljZW9Ddz09)(with Nikita) |  ababoescu@ucsd.edu |
 | IA	         |  Oishani Bandopadhyay    |  A06 | [Wed 5-6pm on Zoom](https://ucsd.zoom.us/j/95609813395) | obandopadhyay@ucsd.edu |
 | IA	         |  Kang Gun Ham     | A01/B01 | Wed 11:00AM-12:00PM on [Zoom](https://ucsd.zoom.us/j/91210416910)|  kham@ucsd.edu |
 | IA	         |  Vinuthna Hasthi  |  A06 | [Wed 12-1pm on Zoom](https://ucsd.zoom.us/j/2413394838?pwd=NlhQejJxUXp3d28waTlkb21NSXcvdz09) | vhasthi@ucsd.edu |
