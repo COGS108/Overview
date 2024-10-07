@@ -111,7 +111,7 @@ We also maintain [a list of readings that can provide insight into various data 
 | Assignments (4@8% ea + 1@1%)         | 33\%		           | 5             |
 | Project Review*      | 5\%		           | 1             |
 | Project Proposal*    | 9\%		           | 1             |
-| Project Checkpoints*  | 5\%              | 2             |
+| Project Checkpoints* (2@5% ea)  | 10\%              | 2             |
 | Final Report*        | 15%		           | 1             |
 | Final Video*         | 3\%		           | 1             |
 | Team Evaluation Survey| 1\%		         | 1             |
