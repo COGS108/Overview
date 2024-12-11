@@ -49,6 +49,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |  Ted (Zeyu) Feng     |  B02/03 | Tue, Thu 5-6PM, in person at CSB114(Starting Week 2)|  zef007@ucsd.edu |
 | TA	         |  Ruby (Zhuojun) Ying     |  A01/B01 | [Fri 8-10am, signup required](https://calendar.google.com/calendar/appointments/schedules/AcZssZ1ZF85DvauB4r0zIQ26XXFm_-YIBUFbt3Aa82abZkVWYtYp1RKqPGJ_o0cByaZnsT4B6_hi8az2) |  z5ying@ucsd.edu |
 | TA	         |  Samyak Mehta     |  B05/B07 | Wed 3-4:50pm, CSB 114 |  sam012@ucsd.edu |
+| TA	         |  Reuben Chatterjee     |  - | - |  rchatterjee@ucsd.edu |
 | IA	         |  Ziyao Zhou     |  A04 | [Tue 9AM-10AM on Zoom](https://us04web.zoom.us/j/72591110777?pwd=kLqpI3k6TskWcLBquIFduRwC1j0RFt.1) |  ziz075@ucsd.edu |
 | IA	         |  Vicky Li     |  B03 | [Wed 5-6pm on Zoom](https://ucsd.zoom.us/j/8866034138?pwd=S0tRbjdwcWVqQjBHTDBIQnJvTVI3UT09) |  yil164@ucsd.edu |
 | IA	         |  Kevin Tran     |  A05 | [Tue 4PM-5PM on Zoom](https://ucsd.zoom.us/j/95770482902) |  ket003@ucsd.edu |
