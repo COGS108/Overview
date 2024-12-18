@@ -4,12 +4,12 @@ COGS 108 - Data Science in Practice - is a class offered by the Cognitive Scienc
 
 ## Syllabus 
 
-The most recent iteration of this class is Winter 2024 quarter, the **syllabus** for which is available [here](https://github.com/COGS108/Overview/blob/wi24/COGS108-Syllabus.md).
+The most recent iteration of this class is Winter 2025 quarter, the **syllabus** for which is available [here](https://github.com/COGS108/Overview/blob/wi25/COGS108-Syllabus.md).
 
 
 ## Lectures
 
-* [Slides and materials](https://github.com/COGS108/Lectures-Ellis/tree/wi24) will be organized by week. All links to class videos, slides, and notebooks used MWF will be included here.
+* [Slides and materials](https://github.com/COGS108/Lectures-Ellis/tree/wi25) will be organized by week. All links to class videos, slides, and notebooks used MWF will be included here.
 
 ## Discussion Section
 
@@ -26,13 +26,13 @@ A suggested [reading list](https://github.com/COGS108/Readings) (recommended, bu
 
 ## Final Projects
 
-A core component of the class is completing a group project. Some example projects from the [Spring 2017](https://github.com/COGS108/FinalProjects-Sp17), [Winter 2018](https://github.com/COGS108/FinalProjects-Wi18), [Spring 2019](https://github.com/COGS108/FinalProjects-Sp19), [Fall 2019](https://github.com/COGS108/FinalProjects-Fa19), [Winter 2020](https://github.com/COGS108/FinalProjects-Wi20), [Spring 2020](https://github.com/COGS108/FinalProjects-Sp20), [Fall 2020](https://github.com/COGS108/FinalProjects-Fa20), [Winter 2021](https://github.com/COGS108/FinalProjects-Wi21), [Spring 2021](https://github.com/COGS108/FinalProjects-Sp21), [Fall 2021](https://github.com/COGS108/FinalProjects-Fa21), [Winter 2022](https://github.com/COGS108/FinalProjects-Wi22) iterations of the class are available
+A core component of the class is completing a group project. Details about the final project can be found [here](https://github.com/COGS108/Projects/tree/wi25).
 
 ---
 
 ## A reminder about time: 
 
-These assignments are intermingled with your project proposal, checkpoints and final project (due finals week). This is an assignment-heavy course load to get you as much practice as possible. This will require good time management and planning on your part. Start planning ahead now to avoid late submissions and issues later in the quarter.
+Assignments are intermingled with your project proposal, checkpoints and final project (due finals week). This is an assignment-heavy course load to get you as much practice as possible. This will require good time management and planning on your part. Start planning ahead now to avoid late submissions and issues later in the quarter.
 
 ---
 ## License 
