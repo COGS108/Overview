@@ -1,4 +1,4 @@
-v0.01 18-Dec-2025
+v0.02 01-Jan-2025
 
 # COGS 108: Data Science in Practice
 
@@ -41,7 +41,7 @@ In this course, you will try many methods. You'll even be asked to implement a t
 
 | Role        | Name               | Section  | Office Hours |
 |------------:|:-------------------|:---------|:--------------|
-| Instructor | Shannon Ellis       | --       | TBD           |
+| Instructor | Shannon Ellis       | --       | Fri 10A-12P (location TBD) |
 | TA         | Yueying Dong        | TBD      | TBD           |
 | TA         | Yueyan Tang         | TBD      | TBD           |
 | TA         | Liz Kaplan          | TBD      | TBD           |
@@ -60,7 +60,7 @@ In this course, you will try many methods. You'll even be asked to implement a t
 
 Course GitHub: https://github.com/COGS108  
 
-Course Piazza*: link coming soon (can be accessed directly from Canvas)
+Course Ed*: https://edstem.org/us/courses/70671/discussion 
 
 Course Canvas: https://canvas.ucsd.edu/courses/62380
 
@@ -68,7 +68,7 @@ Assignment Submission: https://datahub.ucsd.edu
 
 Anonymous Course Feedback:  https://goo.gl/forms/2nXnDNbgYuS1OsGF2
 
-*You will be able to post anonymously on Piazza; however, you will only be anonymous to your classmates. Your Instructor and TAs will be able to see who you are.
+*You will be able to post anonymously on Ed; however, you will only be anonymous to your classmates. Your Instructor and TAs will be able to see who you are.
 
 ---
 
@@ -145,7 +145,7 @@ Our grading scale is:
 | D   | < 70 % to 60% |
 | F   | < 60 % |
 
-Know that a third of the class typically feels overwhelmed at the start of the quarter. That said, the average is quite high in this course (typically A-). So, while we anticipate you all doing well in this course, if you are feeling lost or overwhelmed, that's ok! Should that occur, we recommend: (1) asking questions in class, (2) attending office hours and/or (3) asking for help on Piazza.
+Know that a third of the class typically feels overwhelmed at the start of the quarter. That said, the average is quite high in this course (typically A-). So, while we anticipate you all doing well in this course, if you are feeling lost or overwhelmed, that's ok! Should that occur, we recommend: (1) asking questions in class, (2) attending office hours and/or (3) asking for help on Ed.
 
 
 ---
@@ -158,10 +158,10 @@ Lecture will be podcast. You'll be able to view both/either lecture.
 
 | which  |   when           |   where        |
 |--------|------------------|---------------------------------|
-| LE A00 | MWF	9:00a-9:50a	| Catalyst - CTL 0125 |
+| LE A00 | MWF	9:00a-9:50a	| Peterson Hall - PETER	108 |
 | LE B00 | MWF	2:00p-2:50p	| Peterson Hall - PETER	108 |
 
-Please bring a smartphone or tablet or laptop to lecture for occaisional live polling via Google Form. Up to 0.5% extra credit will be given for attendance as measured by the number of such exercises you participate in during class. Full extra credit will consist of participating in > 2/3 of lectures that have these exercises (not all lectures have exercises!).
+Please bring a smartphone or tablet or laptop to lecture for occasional live polling via Google Form. Up to 0.5% extra credit will be given for attendance as measured by the number of such exercises you participate in during class. Full extra credit will consist of participating in > 2/3 of lectures that have these exercises (not all lectures have exercises!).
 
 ## Attendance 
 
@@ -191,13 +191,13 @@ Please note that there are two Monday holidays this quarter. If you are in a Mon
 |------|-----|------------|----------|-------|
 | A04  | M   | 2:00p-2:50p   | CSB    | 004   |
 | A05  | M   | 3:00p-3:50p  | CSB    | 004   |
-| A01  | F   | 11:00a-11:50a | CSB    | 005   |
 | B01  | W   | 10:00a-10:50a  | CSB      | 004  |
 | B02  | W   | 11:00a-11:50a  | CSB      | 004  |
 | B03  | W   | 12:00p-12:50p  | CSB      | 004  |
 | B04  | W   | 1:00p-1:50p  | CSB      | 004   |
 | B05  | W   | 3:00p-3:50p  | CSB      | 004   |
 | A06  | W   | 4:00p-4:50p  | PETER    | 104   |
+| A01  | F   | 11:00-11:50a | CSB    | 005   |
 | A02  | F   | 12:00p-12:50p | CSB    | 004   |
 | A01  | F   | 1:00p-1:50p   | CSB    | 004   |
 | A07  | F   | 4:00p-4:50p  | PETER    | 102   |
@@ -221,7 +221,7 @@ The practice of data science involves writing code to answer questions and accom
 
 That said, the first two assignments will be the simplest assignments and aim to get you up to speed in Python and familiar with `pandas`. If the first two assignments are particularly difficult for you, that's ok. But, it's then up to you to determine if you want to put in the work to make it through the rest of the quarter. **Assignments will take more time and be more difficult starting with the third assignment**.
 
-As assignments become more difficult, we don't want you to get or feel totally lost. If you've thought long and hard, gone down a long rabbithole using ChatGPT, and can't even get a sense of what the next step may be, take a step away. Take a break. Then, come back and see if you can't solve it with a refreshed mind. If you're still totally stuck, ask on Piazza, talk to a classmate, and/or attend office hours for help.
+As assignments become more difficult, we don't want you to get or feel totally lost. If you've thought long and hard, gone down a long rabbithole using ChatGPT, and can't even get a sense of what the next step may be, take a step away. Take a break. Then, come back and see if you can't solve it with a refreshed mind. If you're still totally stuck, ask on Ed, talk to a classmate, and/or attend office hours for help.
 
 With regards to asking questions of instructional staff, we're here to help you, but there are way more students than there are instructors. So, help each other. In fact, this is how the best data science gets done. Diverse minds solving a problem invariably improves the solution. Also, teaching something to someone else is the best way to determine if you really know something. So, it's win-win. The person who's stuck gets unstuck and the person who helped is more sure in their knowledge. Help one another! Section and office hours are meant to be collaborative.
 
@@ -237,7 +237,7 @@ Assignments will be submitted individually on datahub. We'll talk about the deta
 
 We will work hard to grade everyone fairly and return assignments quickly. But, we know you also work hard and want you to receive the grade you've earned. Occasionally, grading mistakes do happen, and it's important to us to correct them.
 
-If you think there is a mistake in your grade, request a regrade within 72 hours of your receipt of the grade on Piazza via a *private* note to instructors and use the "regrades" tag.  This message should include evidence of why you think your answer was correct (i.e. a specific reference to something said in lecture) and should point to the specific part of the assignment in question.
+If you think there is a mistake in your grade, request a regrade within 72 hours of your receipt of the grade on Ed via a *private* note to instructors and use the "regrades" tag.  This message should include evidence of why you think your answer was correct (i.e. a specific reference to something said in lecture) and should point to the specific part of the assignment in question.
 
 Note that points will *not* be rewarded if you fail to follow instructions. For example, if the instructions say to name the variable `orange` and you name it `ornage` (misspelled), you will not be rewarded credit upon regrade. This is because (1) following instructions and being detail-oriented is important and (2) there are hundreds of students taking the course this quarter. It would be an unfair burden to place on TAs if we didn't have this policy.
 
@@ -247,7 +247,7 @@ Lecture quizzes will not be accepted late.
 
 Assignments and labs will be accepted up to 5 days late with a 25% late penalty taken off your grade. **Every student receives 7 free late days with NO DEDUCTION for use on any assignment or lab exercise.** Without penalty, you can turn in 7 work items one day late each, or 1 work item 3 days late and another 4 days late, or any other combination.
 
-PLEASE NOTE while your pool of late days is 7, your maximum lateness on any single assignment is 5 days. These late days are intended for use when you are behind and need an extra day, illness, family emergencies, mental health crises, etc.. You will not be given more late days.
+PLEASE NOTE while your pool of late days is 7, your maximum lateness on any single assignment is 5 days. These late days are intended for use when you are behind and need an extra day, illness, family emergencies, mental health crises, etc. 
 
 ---
 
@@ -261,13 +261,13 @@ Finding a group may be a tad trickier this quarter. As such, we'll offer additio
 
 1. If you have people in the class you know you want to work with, chat with one another and if you're all on board, form a group.
 2. There will be time to find groups in discussion section during week 1 & 2.
-3. If you don't know people in the class or don't have people you want to work with, no problem. Seek them out on Piazza!
+3. If you don't know people in the class or don't have people you want to work with, no problem. Seek them out on Ed!
 
 You will submit who your group is via Google Form by the Sunday after week 2 (see Course Schedule). One form will be submitted per group.
 
-If you do not signup for a group you will be randomly assigned a group. However you generally don't want that, you'll have more fun if you get on board with people who want to work on the same thing as you. Also in my experience the randomly assigned groups have more trouble than the ones students put together on their own.
+If you do not sign up for a group, you will be randomly assigned a group. However you generally don't want that. You'll have more fun if you get on board with people who want to work on the same thing as you. Also in my experience the randomly assigned groups have more trouble than the ones students put together on their own.
 
-### Getting STarted 
+### Getting Started 
 
 Probably the most important way to start a team off on the right foot is to discuss expectations of how you will work together.  How will you divide up the work? How often and where will you meet? How will you communicate with each other? What's the maximum amount of time it should take for someone to respond to a message?  How will you double check that things that need to happen did happen? If there is a problem meeting a deadline how should the person responsible let others know, and then how should the rest of the team react? There are many possible answers to these questions, and there are many more questions about expectations that you might want to ask yourselves. Your team should decide what's right for you, _and then write down these expectations in a place that the team will often see it_.  This will help things go more smoothly.  
 
@@ -281,9 +281,9 @@ Finally, starting week 3, there will be an *optional* weekly survey to be comple
 
 ### Project Grading
 
-Each project group will be graded by the same staff member2 throughout the quarter. You will know who your graders are, and they'll be very familiar with your project, so they'll be a great resource as you complete your project. It's best to think of them as a manager; you won't go to them first (that's what your group mates are for), but they're there for guidance. Given different groups will have different graders, grading will use a standardized rubric and adjustments will be made if one grader is harsher than another to ensure consistency across graders. 
+Each project group will be graded by the same staff members throughout the quarter. You will know who your graders are, and they'll be very familiar with your project, so they'll be a great resource as you complete your project. It's best to think of them as a manager; you won't go to them first (that's what your group mates are for), but they're there for guidance. Given different groups will have different graders, grading will use a standardized rubric and adjustments will be made if one grader is harsher than another to ensure consistency across graders. 
 
-Additionally, points lost on a previous submission can be recuperated on a subsequent submission. For example, if you lose points on the Ethics section on the proposal but then improve that in your First Checkpoint, those points will be returned automatically. However, points can only be recuperated on the following submission. So, if an issue exists in the proposal and remains in the *second* checkpoint, points will not be returned.
+Additionally, 50% of points lost on a previous submission can be recuperated on the next submission. For example, if you lose points on the Ethics section on the proposal but then improve that in your First Checkpoint, those points will be returned automatically. However, points can only be recuperated on the following submission. So, if an issue exists in the proposal and remains in the *second* checkpoint, no points will not be returned.
 
 In the vast majority of groups, all individuals will receive the same score for each project component; however, if there is evidence of a group member failing to participate fully, individuals can receive a lower grade relative to their group. The same is true in the other direction. If there is evidence of a group member going above and beyond, their individual score can be increased relative to the group. 
 
@@ -294,8 +294,8 @@ In the vast majority of groups, all individuals will receive the same score for 
 |--------|------|-----|-------------------------------|---------------|-------------------|----------------------------------------|
 | Jan-6  | 1    | M   | Welcome!                      |               |                   |                                        |
 | Jan-8 | 1    | W   | Version Control I                |               |                   |                                        |
-| Jan-12 | 1    | F   | Version Control II             |               |                   |                                        |
-| Jan-11 | 1    | Su  |                               |               | Q1                |                                        |
+| Jan-10 | 1    | F   | Version Control II             |               |                   |                                        |
+| Jan-12 | 1    | Su  |                               |               | Q1                |                                        |
 | Jan-13 | 2    | M   | Data & Intuition I                |               |                   |                                        |
 | Jan-15 | 2    | W   | Data & Intuition II            |               |                   |                                        |
 | Jan-17 | 2    | F   | Data Wrangling (pandas)       |               |                   |                                        |
@@ -304,11 +304,11 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Jan-22 | 3    | W   | Ethics                        |               |                   |                                        |
 | Jan-24 | 3    | F   | Data Science Questions |               |                   |                                        |
 | Jan-26 | 3    | Su  |                               | D2            | Q3            |                                        |
-| Jan-27 | 4    | M   | Dataviz principles                     |               |                   |                                        |
-| Jan-29 | 4    | W   | Intro to analysis                    |               |                   |                                        |
-| Jan-31  | 4    | F   | EDA I  |               |                   |                                        |
+| Jan-27 | 4    | M   | "Guest Lecture" (remote)                     |               |                   |                                        |
+| Jan-29 | 4    | W   | Dataviz principles                     |               |                   |                                        |
+| Jan-31  | 4    | F   | Intro to Analysis   |               |                   |                                        |
 | Feb-2  | 4    | Su  |                               | D3            | Q4                | A2, Project Review*                     |
-| Feb-3  | 5    | M   | EDA II                         |               |                   |                                        |
+| Feb-3  | 5    | M   | EDA                          |               |                   |                                        |
 | Feb-5  | 5    | W   | Inference I                         |               |                   |                                        |
 | Feb-7 | 5    | F   | Inference II                    |               |                   |                                        |
 | Feb-9 | 5    | Su  |                               | D4            | Q5            | Project Proposal*, mid-course survey   |
@@ -435,12 +435,12 @@ That said, to ensure that we're respecting their time, TAs and IAs have been ins
 
 **If you have…**
 
-- **Questions about course content**: these are awesome! We want everyone to see them and have their questions answered too…so post these to Piazza!
-- **A technical assignment question**: Come to office hours (or post to Piazza). Answering technical questions is often best accomplished in person where we can discuss the question and talk through ideas. However, if that is not possible, post your question to Piazza. Be as specific as you can in the question you ask. And, for those answering, help your classmates as much as you can without just giving the answer. Help guide them, point them in a direction, provide pseudo code, but do not provide code that answers assignment questions.
-- **Been stuck on something for a while (>30min) and aren't even really sure where to start**: Programming can be frustrating and it may not always be obvious what is going wrong or why something isn't working. That's ok - we've all been there! IF you are stuck, you can and should reach out for help, even if you aren't exactly sure what your specific question is. To determine when to reach out, consider the 2-hour rule. This rule states that if you are stuck, work on that problem for an hour. Then, take a 30 minute break and do something else. When you come back after your break, try for another 30 minutes or so to solve your problem. If you are still completely stuck, stop and contact us (office hours, post on Piazza). If you don't have a specific question, include the information you have (what you're stuck on, the code you've been trying that hasn't been happening, and/or the error messages you've been getting).
-- **Questions about course logistics**: First, check the syllabus. If the answer is not there, ask a classmate. If you still are unsure,  post on Piazza.
-- **Questions about a grade**: Post a **private** note to instructors on Piazza and select the 'regrades' tag. Include specifics as to why you feel you mistakenly/unfairly lost points in that post.
-- **A specific section-related question**: send a direct message on Piazza to your TA/IA
+- **Questions about course content**: these are awesome! We want everyone to see them and have their questions answered too…so post these to Ed!
+- **A technical assignment question**: Come to office hours (or post to Ed). Answering technical questions is often best accomplished in person where we can discuss the question and talk through ideas. However, if that is not possible, post your question to Ed. Be as specific as you can in the question you ask. And, for those answering, help your classmates as much as you can without just giving the answer. Help guide them, point them in a direction, provide pseudo code, but do not provide code that answers assignment questions.
+- **Been stuck on something for a while (>30min) and aren't even really sure where to start**: Programming can be frustrating and it may not always be obvious what is going wrong or why something isn't working. That's ok - we've all been there! IF you are stuck, you can and should reach out for help, even if you aren't exactly sure what your specific question is. To determine when to reach out, consider the 2-hour rule. This rule states that if you are stuck, work on that problem for an hour. Then, take a 30 minute break and do something else. When you come back after your break, try for another 30 minutes or so to solve your problem. If you are still completely stuck, stop and contact us (office hours, post on Ed). If you don't have a specific question, include the information you have (what you're stuck on, the code you've been trying that hasn't been happening, and/or the error messages you've been getting).
+- **Questions about course logistics**: First, check the syllabus. If the answer is not there, ask a classmate. If you still are unsure,  post on Ed.
+- **Questions about a grade**: Post a **private** note to instructors on Ed and select the 'regrades' tag. Include specifics as to why you feel you mistakenly/unfairly lost points in that post.
+- **A specific section-related question**: send a direct message on Ed to your TA/IA
 - **Something super cool to share related to class**: feel free to email Prof Ellis or come to office hours. Be sure to include COGS 108 in the email subject line and your full name in your message.
 - **Something you want to talk about in-depth**: meet in person during office hours or schedule a time to meet by email. Be sure to include COGS 108 in the email subject line.
 - **Some feedback about the course you want to share anonymously**: If you've been offended by an example in class, really liked or disliked a lesson, or wish there were something covered in class that wasn't but would rather not share this publicly, etc., please fill out the anonymous [Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF2)
