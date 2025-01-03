@@ -1,4 +1,4 @@
-v0.02 01-Jan-2025
+v0.03 02-Jan-2025
 
 # COGS 108: Data Science in Practice
 
@@ -37,26 +37,7 @@ In focusing on the practice, there is theory that won't be discussed and mathema
 
 In this course, you will try many methods. You'll even be asked to implement a technique that has not been explicitly taught. Again, this is by design. As a data scientist, you'll regularly be asked to step outside of your comfort zone and into something new. Our goal is to get you as comfortable as possible in that space now. We want to provide you with a technical and a data science mindset that will allow you to ask the right questions for the problem at hand and set off alarm bells when something in your dataset or analysis is “off.”
 
-# COURSE STAFF
-
-| Role        | Name               | Section  | Office Hours |
-|------------:|:-------------------|:---------|:--------------|
-| Instructor | Shannon Ellis       | --       | Fri 10A-12P (location TBD) |
-| TA         | Yueying Dong        | TBD      | TBD           |
-| TA         | Yueyan Tang         | TBD      | TBD           |
-| TA         | Liz Kaplan          | TBD      | TBD           |
-| TA         | Divya Prabhu        | TBD      | TBD           |
-| TA         | Reuben Chatterjee   | TBD      | TBD           |
-| TA         | Tori Hennessy       | TBD      | TBD           |
-| TA         | Jon Ahern           | TBD      | TBD           |
-| TA         | Tyler Chang         | TBD      | TBD           |
-| IA         | Ashley Chavarria    | TBD      | --            |
-| IA         | Zifan Luo           | TBD      | --            |
-| IA         | Shrieyaa Sekar Jayanthi| TBD      | --            |
-| IA         | Will Kim            | TBD      | --            |
-| IA         | Sehee Kim           | TBD      | --            |
-| IA         | Ruiqi (Ricky) Zhu   | TBD      | --            |
-
+# COURSE LINKS
 
 Course GitHub: https://github.com/COGS108  
 
@@ -161,7 +142,6 @@ Lecture will be podcast. You'll be able to view both/either lecture.
 | LE A00 | MWF	9:00a-9:50a	| Peterson Hall - PETER	108 |
 | LE B00 | MWF	2:00p-2:50p	| Peterson Hall - PETER	108 |
 
-Please bring a smartphone or tablet or laptop to lecture for occasional live polling via Google Form. Up to 0.5% extra credit will be given for attendance as measured by the number of such exercises you participate in during class. Full extra credit will consist of participating in > 2/3 of lectures that have these exercises (not all lectures have exercises!).
 
 ## Attendance 
 
@@ -169,6 +149,7 @@ You are free to attend either lecture section at any point. Note that the same m
 
 We believe that attending in-person is the best way to learn for most people. Our goal is to make the lecture and discussion section worth your while to attend through interactive content and making it a good place to get questions answered. We also use active learning paradigms (live coding, think-pair-share, etc.) where you learn most through active participation (which requires attendance). 
 
+Please bring a smartphone or tablet or laptop to lecture for occasional live polling via Google Form. Up to 0.5% extra credit will be given for attendance as measured by the number of such exercises you participate in during class. Full extra credit will consist of participating in > 2/3 of lectures that have these exercises (not all lectures have exercises!).
 
 ## Lecture Quizzes
 
@@ -180,11 +161,11 @@ At the end of each Friday, a quiz with ~10 questions will be released, covering 
 
 Discussion sections are a place where you will be able to ask questions, get help on technical topics, work on your group projects, meet classmates to work with on the group project, and complete the weekly lab exercises. If you are struggling with course material, come to discussion section and/or office hours!
 
-The first discussion section will start Mon of week 1 with a Python review. After that week sections will concentrate on helping students with the weekly exercises and assignments.
+The first discussion section will start Wed of week 1 with a Python review. After that week sections will concentrate on helping students with the weekly exercises and assignments.
 
 Students are encouraged to attend the discussion section to which they've enrolled; however, if you cannot attend that section, please feel free to attend a section that works for you. You do not need to let anyone know that you're attending a different section. That said, if any one section becomes too crowded, we'll revisit this policy. (Historically, it has not been an issue.)
 
-Please note that there are two Monday holidays this quarter. If you are in a Monday section, please note that in weeks 3 and 7, if you want to attend section, you'll have to plan to attend a different-than-usual section.
+Please note that there are two Monday holidays this quarter. If you are in a Monday section, on those weeks, if you want to attend section, you'll have to plan to attend a different-than-usual section.
 
 
 | Section | Day | Time       | Location | Room  |
@@ -209,7 +190,7 @@ Please note that there are two Monday holidays this quarter. If you are in a Mon
 
 Each week there will be a short lab exercise to review material from lecture and give hands-on programming experience. You can work on these exercises in your lab sections, and your section leaders will be happy to help guide you towards the correct answers.  Or, if you don't need help, you can complete them on your own and never come to lab.  If you wish to work collaboratively on lab exercises you may do so, but please realize that this is your time to practice and learn new skills with low stakes. If someone else does it for you, it's hard to practice and learn!
 
-Lab exercises will be due on Sundays 11:59PM and released on the prior Friday (more than one week before they are due). Each lab exercise is worth 2 points. There is no late deadline for labs as answers are posted after labs are due.
+Lab exercises will be due on Sundays 11:59PM and released on the prior Friday (more than one week before they are due). Each lab exercise is worth 2 points. 
 
 ---
 
@@ -237,13 +218,13 @@ Assignments will be submitted individually on datahub. We'll talk about the deta
 
 We will work hard to grade everyone fairly and return assignments quickly. But, we know you also work hard and want you to receive the grade you've earned. Occasionally, grading mistakes do happen, and it's important to us to correct them.
 
-If you think there is a mistake in your grade, request a regrade within 72 hours of your receipt of the grade on Ed via a *private* note to instructors and use the "regrades" tag.  This message should include evidence of why you think your answer was correct (i.e. a specific reference to something said in lecture) and should point to the specific part of the assignment in question.
+If you think there is a mistake in your grade, request a regrade within 72 hours of your receipt of the grade on Ed via a *private* note to staff and use the "regrades" tag.  This message should include evidence of why you think your answer was correct (i.e. a specific reference to something said in lecture) and should point to the specific part of the assignment in question.
 
 Note that points will *not* be rewarded if you fail to follow instructions. For example, if the instructions say to name the variable `orange` and you name it `ornage` (misspelled), you will not be rewarded credit upon regrade. This is because (1) following instructions and being detail-oriented is important and (2) there are hundreds of students taking the course this quarter. It would be an unfair burden to place on TAs if we didn't have this policy.
 
 # Late Policy
 
-Lecture quizzes will not be accepted late.
+Lecture quizzes will not be accepted late, but the lowest quiz is dropped.
 
 Assignments and labs will be accepted up to 5 days late with a 25% late penalty taken off your grade. **Every student receives 7 free late days with NO DEDUCTION for use on any assignment or lab exercise.** Without penalty, you can turn in 7 work items one day late each, or 1 work item 3 days late and another 4 days late, or any other combination.
 
@@ -253,7 +234,7 @@ PLEASE NOTE while your pool of late days is 7, your maximum lateness on any sing
 
 # COURSE PROJECT
 
-Your course project will be completed in a group of 4-5 people. The reality of data science is that you will have to work with others on a team you didn't get to pick. You'll need to work together to communicate effectively, manage time, organize your projects, and accomplish a goal. People will have different knowledge and skills sets. It is your job as a group to work together to figure out how to maximize each group member's skills to make sure that your differences are helpful to accomplishing your goal, rather than a hindrance. For example, some of you will find the programming aspects of the class assignments very easy, while others will struggle. Alternatively, some of you may find experimental research and hypothesis testing intuitive, while others find it confusing and frustrating. It is best for your project if you choose a team with a mix of background and experience.
+Your course project will be completed in a group of 4-5 people. The reality of data science is that most projects are completed in teams. You'll need to work together to communicate effectively, manage time, organize your projects, and accomplish a goal. People will have different knowledge and skills sets. It is your job as a group to work together to figure out how to maximize each group member's skills to make sure that your differences are helpful to accomplishing your goal, rather than a hindrance. For example, some of you will find the programming aspects of the class assignments very easy, while others will struggle. Alternatively, some of you may find experimental research and hypothesis testing intuitive, while others find it confusing and frustrating. It is best for your project if you choose a team with a mix of background and experience.
 
 ### Finding A Group
 
@@ -283,7 +264,7 @@ Finally, starting week 3, there will be an *optional* weekly survey to be comple
 
 Each project group will be graded by the same staff members throughout the quarter. You will know who your graders are, and they'll be very familiar with your project, so they'll be a great resource as you complete your project. It's best to think of them as a manager; you won't go to them first (that's what your group mates are for), but they're there for guidance. Given different groups will have different graders, grading will use a standardized rubric and adjustments will be made if one grader is harsher than another to ensure consistency across graders. 
 
-Additionally, 50% of points lost on a previous submission can be recuperated on the next submission. For example, if you lose points on the Ethics section on the proposal but then improve that in your First Checkpoint, those points will be returned automatically. However, points can only be recuperated on the following submission. So, if an issue exists in the proposal and remains in the *second* checkpoint, no points will not be returned.
+Additionally, 50% of points lost on a previous submission can be recuperated on the next submission. For example, if you lose points on the Ethics section on the proposal but then improve that in your First Checkpoint, those points will be returned automatically. However, points can only be recuperated on the following submission. So, if an issue exists in the proposal and remains in the *second* checkpoint, no lost points will not be returned. However, all sections are read and graded on the Final Project submission, so you will eventually want to improve all sections.
 
 In the vast majority of groups, all individuals will receive the same score for each project component; however, if there is evidence of a group member failing to participate fully, individuals can receive a lower grade relative to their group. The same is true in the other direction. If there is evidence of a group member going above and beyond, their individual score can be increased relative to the group. 
 
@@ -439,7 +420,7 @@ That said, to ensure that we're respecting their time, TAs and IAs have been ins
 - **A technical assignment question**: Come to office hours (or post to Ed). Answering technical questions is often best accomplished in person where we can discuss the question and talk through ideas. However, if that is not possible, post your question to Ed. Be as specific as you can in the question you ask. And, for those answering, help your classmates as much as you can without just giving the answer. Help guide them, point them in a direction, provide pseudo code, but do not provide code that answers assignment questions.
 - **Been stuck on something for a while (>30min) and aren't even really sure where to start**: Programming can be frustrating and it may not always be obvious what is going wrong or why something isn't working. That's ok - we've all been there! IF you are stuck, you can and should reach out for help, even if you aren't exactly sure what your specific question is. To determine when to reach out, consider the 2-hour rule. This rule states that if you are stuck, work on that problem for an hour. Then, take a 30 minute break and do something else. When you come back after your break, try for another 30 minutes or so to solve your problem. If you are still completely stuck, stop and contact us (office hours, post on Ed). If you don't have a specific question, include the information you have (what you're stuck on, the code you've been trying that hasn't been happening, and/or the error messages you've been getting).
 - **Questions about course logistics**: First, check the syllabus. If the answer is not there, ask a classmate. If you still are unsure,  post on Ed.
-- **Questions about a grade**: Post a **private** note to instructors on Ed and select the 'regrades' tag. Include specifics as to why you feel you mistakenly/unfairly lost points in that post.
+- **Questions about a grade**: Post a **private** note to staff on Ed and select the 'regrades' tag. Include specifics as to why you feel you mistakenly/unfairly lost points in that post.
 - **A specific section-related question**: send a direct message on Ed to your TA/IA
 - **Something super cool to share related to class**: feel free to email Prof Ellis or come to office hours. Be sure to include COGS 108 in the email subject line and your full name in your message.
 - **Something you want to talk about in-depth**: meet in person during office hours or schedule a time to meet by email. Be sure to include COGS 108 in the email subject line.
