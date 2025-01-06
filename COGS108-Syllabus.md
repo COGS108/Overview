@@ -1,13 +1,10 @@
-v0.03 02-Jan-2025
+v1.00 05-Jan-2025 (DRAFT)
 
 # COGS 108: Data Science in Practice
 
 **Winter 2025**  
 
-
-
 ---
-
 
 **Table of Contents**
 
@@ -23,7 +20,6 @@ v0.03 02-Jan-2025
 - [Other Good Stuff](#OTHER-GOOD-STUFF)
 
 <!-- toc -->
-
 
 # COURSE OVERVIEW
 
@@ -106,7 +102,7 @@ We also maintain [a list of readings that can provide insight into various data 
 **Due Dates**: For keeping things simple for you all, all due dates each week will be **Sundays at 11:59 PM**. Please DO NOT wait until Sunday at 11:50 PM each week to start everything that is due.
 
 Extra credit worth up to 1.5% of the final grade will be awarded for:
-- Being present for >= 2/3 of the in class exercises will net 0.5% bonus to the final grade
+- Each day students attend class with an in-class exercise will grant a small amount of extra credit; students present for all will net 0.5% bonus to the final grade. 
 - Answering the mid- & post-course surveys will give 0.5% extra credit (0.25% each)
 - Filling out the weekly project progress surveys is 0.5% of grade (0.07% each, see Project section below)
 
@@ -149,7 +145,7 @@ You are free to attend either lecture section at any point. Note that the same m
 
 We believe that attending in-person is the best way to learn for most people. Our goal is to make the lecture and discussion section worth your while to attend through interactive content and making it a good place to get questions answered. We also use active learning paradigms (live coding, think-pair-share, etc.) where you learn most through active participation (which requires attendance). 
 
-Please bring a smartphone or tablet or laptop to lecture for occasional live polling via Google Form. Up to 0.5% extra credit will be given for attendance as measured by the number of such exercises you participate in during class. Full extra credit will consist of participating in > 2/3 of lectures that have these exercises (not all lectures have exercises!).
+Please bring a smartphone or tablet or laptop to lecture for occasional live polling via Google Form and/or Kahoot!. Each exercise completed will grant a small amount of extra credit, with up to 0.5% extra credit earned (for those who attend all classes).
 
 ## Lecture Quizzes
 
@@ -296,9 +292,9 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Feb-10 | 6    | M   | Inference III                   |               |                   |                                        |
 | Feb-12 | 6    | W   | Inference IV - nonparametric                  |               |                   |                                        |
 | Feb-14 | 6    | F   | Text Analysis I      |               |                   |                                        |
-| Feb-16 | 6    | Su  |                               | D5            | Q6                 |                                      |
+| Feb-16 | 6    | Su  |                               | D5            | Q6                 | A3                                     |
 | Feb-17 | 7    | M   | No Class - President's Day     |               |                   |                                        |
-| Feb-19 | 7    | W   | Text Analysis II                |               |                   | A3                                       |
+| Feb-19 | 7    | W   | Text Analysis II                |               |                   |                                        |
 | Feb-21 | 7    | F   | Machine Learning I               |               |                   |                                        |
 | Feb-23 | 7    | Su  |                               | D6            | Q7            | Checkpoint #1: Data*                   |
 | Feb-24 | 8    | M   | Machine Learning II             |               |                   |                                        |
@@ -312,6 +308,7 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Mar-10 | 10   | M   | Communication                 |               |                   |                                        |
 | Mar-13 | 10   | W   | How to Be Wrong                |               |                   |                                          |
 | Mar-14 | 10   | F   | Data Science Jobs              |               |                   |                                        |
+| Mar-19 | Finals   | W   |               |               |                   | Final report & video*, Team eval survey, post-course survey                                       |
 
 
 
