@@ -1,4 +1,4 @@
-v1.00 05-Jan-2025 (DRAFT)
+v1.01 08-Jan-2025 (DRAFT)
 
 # COGS 108: Data Science in Practice
 
@@ -37,7 +37,7 @@ In this course, you will try many methods. You'll even be asked to implement a t
 
 Course GitHub: https://github.com/COGS108  
 
-Course Ed*: https://edstem.org/us/courses/70671/discussion 
+Course Ed*: https://edstem.org/us/courses/70671/discussion (find join link on Canvas homepage)
 
 Course Canvas: https://canvas.ucsd.edu/courses/62380
 
