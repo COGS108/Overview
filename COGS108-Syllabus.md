@@ -1,4 +1,4 @@
-v1.01 08-Jan-2025 (DRAFT)
+v1.03 09-Jan-2025
 
 # COGS 108: Data Science in Practice
 
