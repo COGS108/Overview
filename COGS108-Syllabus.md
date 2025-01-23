@@ -1,4 +1,4 @@
-v1.03 09-Jan-2025
+v1.04 22-Jan-2025
 
 # COGS 108: Data Science in Practice
 
@@ -279,10 +279,10 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Jan-19 | 2    | Su  |                               | D1            | Q2                | A1, Pre-course survey, Group signup*                   |
 | Jan-20 | 3    | M   | No Class - MLK       |               |                   |                                        |
 | Jan-22 | 3    | W   | Ethics                        |               |                   |                                        |
-| Jan-24 | 3    | F   | Data Science Questions |               |                   |                                        |
+| Jan-24 | 3    | F   | Dataviz principles |               |                   |                                        |
 | Jan-26 | 3    | Su  |                               | D2            | Q3            |                                        |
 | Jan-27 | 4    | M   | "Guest Lecture" (remote)                     |               |                   |                                        |
-| Jan-29 | 4    | W   | Dataviz principles                     |               |                   |                                        |
+| Jan-29 | 4    | W   | Data Science Questions                     |               |                   |                                        |
 | Jan-31  | 4    | F   | Intro to Analysis   |               |                   |                                        |
 | Feb-2  | 4    | Su  |                               | D3            | Q4                | A2, Project Review*                     |
 | Feb-3  | 5    | M   | EDA                          |               |                   |                                        |
