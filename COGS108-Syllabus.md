@@ -1,4 +1,4 @@
-v1.05 28-Jan-2025
+v1.06 09-Feb-2025
 
 # COGS 108: Data Science in Practice
 
@@ -254,7 +254,7 @@ These project components are completed and submitted *as a group* and are descri
 
 At the end of the course there is a *required* team evaluation survey...this is your opportunity to provide feedback and let us know if a teammate did not contribute. Each student will submit a survey.
 
-Finally, starting week 3, there will be an *optional* weekly survey to be completed individually describing your project progress. Students will earn a small amount of extra credit for each survey completed such that students who complete all 7 weeks' surveys will earn 0.5% extra credit to their final grade.  
+Finally, starting the week after proposals are due, there will be an *optional* weekly survey to be completed individually describing your project progress. Students will earn a small amount of extra credit for each survey completed such that students who complete all weeks' surveys will earn 0.5% extra credit to their final grade.  
 
 ### Project Grading
 
