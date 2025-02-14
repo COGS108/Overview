@@ -1,4 +1,4 @@
-v1.06 09-Feb-2025
+v1.07 14-Feb-2025
 
 # COGS 108: Data Science in Practice
 
@@ -292,7 +292,7 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Feb-10 | 6    | M   | Inference III                   |               |                   |                                        |
 | Feb-12 | 6    | W   | Inference IV - nonparametric                  |               |                   |                                        |
 | Feb-14 | 6    | F   | Text Analysis I      |               |                   |                                        |
-| Feb-16 | 6    | Su  |                               | D5            | Q6                 | A3                                     |
+| Feb-17 | 7    | M  | (Deadline extended; announced 2/14)                               | D5            | Q6                 | A3                                     |
 | Feb-17 | 7    | M   | No Class - President's Day     |               |                   |                                        |
 | Feb-19 | 7    | W   | Text Analysis II                |               |                   |                                        |
 | Feb-21 | 7    | F   | Machine Learning I               |               |                   |                                        |
