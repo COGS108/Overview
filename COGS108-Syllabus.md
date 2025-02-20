@@ -1,4 +1,4 @@
-v1.07 14-Feb-2025
+v1.08 20-Feb-2025
 
 # COGS 108: Data Science in Practice
 
@@ -285,21 +285,21 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Jan-29 | 4    | W   |  Catch up: Ethics + Viz       |               |                   |                                        |
 | Jan-31  | 4    | F   | Data Science Questions   |               |                   |                                        |
 | Feb-2  | 4    | Su  |                               | D3            | Q4                | A2, Project Review*                     |
-| Feb-3  | 5    | M   | Intro to Analysis & EDA       |               |                   |                                        |
-| Feb-5  | 5    | W   | Inference I                         |               |                   |                                        |
-| Feb-7 | 5    | F   | Inference II                    |               |                   |                                        |
+| Feb-3  | 5    | M   | Intro to Analysis & EDA I       |               |                   |                                        |
+| Feb-5  | 5    | W   | EDA II                        |               |                   |                                        |
+| Feb-7 | 5    | F   | Inference I                    |               |                   |                                        |
 | Feb-9 | 5    | Su  |                               | D4            | Q5            | Project Proposal*, mid-course survey   |
-| Feb-10 | 6    | M   | Inference III                   |               |                   |                                        |
-| Feb-12 | 6    | W   | Inference IV - nonparametric                  |               |                   |                                        |
-| Feb-14 | 6    | F   | Text Analysis I      |               |                   |                                        |
+| Feb-10 | 6    | M   | Inference II                   |               |                   |                                        |
+| Feb-12 | 6    | W   | Inference III                  |               |                   |                                        |
+| Feb-14 | 6    | F   | Inference IV - nonparametric      |               |                   |                                        |
 | Feb-17 | 7    | M  | (Deadline extended; announced 2/14)                               | D5            | Q6                 | A3                                     |
 | Feb-17 | 7    | M   | No Class - President's Day     |               |                   |                                        |
-| Feb-19 | 7    | W   | Text Analysis II                |               |                   |                                        |
-| Feb-21 | 7    | F   | Machine Learning I               |               |                   |                                        |
+| Feb-19 | 7    | W   | Text Analysis I                |               |                   |                                        |
+| Feb-21 | 7    | F   | Text Analysis II (remote)               |               |                   |                                        |
 | Feb-23 | 7    | Su  |                               | D6            | Q7            | Checkpoint #1: Data*                   |
-| Feb-24 | 8    | M   | Machine Learning II             |               |                   |                                        |
-| Feb-26 | 8    | W   | Machine Learning III            |               |                   |                                        |
-| Feb-28  | 8    | F   | Machine Learning IV                      |               |                   |                                        |
+| Feb-24 | 8    | M   | Machine Learning I             |               |                   |                                        |
+| Feb-26 | 8    | W   | Machine Learning II            |               |                   |                                        |
+| Feb-28  | 8    | F   | Machine Learning III                      |               |                   |                                        |
 | Mar-2  | 8    | Su  |                               | D7            | Q8                 |                                      |
 | Mar-3  | 9    | M   | Dimensionality Reduction         |               |                   |                                        |
 | Mar-5  | 9    | W   | Geospatial I                   |               |                   |                                       |
