@@ -1,4 +1,4 @@
-v1.08 20-Feb-2025
+v1.09 02-Mar-2025
 
 # COGS 108: Data Science in Practice
 
@@ -301,7 +301,7 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Feb-26 | 8    | W   | Machine Learning II            |               |                   |                                        |
 | Feb-28  | 8    | F   | Machine Learning III                      |               |                   |                                        |
 | Mar-2  | 8    | Su  |                               | D7            | Q8                 |                                      |
-| Mar-3  | 9    | M   | Dimensionality Reduction         |               |                   |                                        |
+| Mar-3  | 9    | M   | Machine Learning IV         |               |                   |                                        |
 | Mar-5  | 9    | W   | Geospatial I                   |               |                   |                                       |
 | Mar-7  | 9    | F   | Geospatial II                  |               |                   |                                        |
 | Mar-9 | 9    | Su  |                               | D8            | Q9            | A4, Checkpoint #2: EDA*                    |
