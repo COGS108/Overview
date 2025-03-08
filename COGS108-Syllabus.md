@@ -1,4 +1,4 @@
-v1.09 02-Mar-2025
+v1.10 07-Mar-2025
 
 # COGS 108: Data Science in Practice
 
@@ -304,9 +304,9 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Mar-3  | 9    | M   | Machine Learning IV         |               |                   |                                        |
 | Mar-5  | 9    | W   | Geospatial I                   |               |                   |                                       |
 | Mar-7  | 9    | F   | Geospatial II                  |               |                   |                                        |
-| Mar-9 | 9    | Su  |                               | D8            | Q9            | A4, Checkpoint #2: EDA*                    |
+| Mar-9 | 9    | Su  |                               | D8            | Q9            | Checkpoint #2: EDA*                    |
 | Mar-10 | 10   | M   | Communication                 |               |                   |                                        |
-| Mar-13 | 10   | W   | How to Be Wrong                |               |                   |                                          |
+| Mar-13 | 10   | W   | How to Be Wrong                |               |                   | A4 (changed 3/7)                                         |
 | Mar-14 | 10   | F   | Data Science Jobs              |               |                   |                                        |
 | Mar-19 | Finals   | W   |               |               |                   | Final report & video*, Team eval survey, post-course survey                                       |
 
