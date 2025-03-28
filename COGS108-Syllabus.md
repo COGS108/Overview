@@ -43,27 +43,30 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.app.google/RoadDP23hFD5JpuW9) | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
-| TA	         |  Scott (Yuanjia) Yang     |  A04/05 | [Wed 430-530PM (Remote), Thur 400-500PM (in person at CSB114), signup required](https://calendar.app.google/6hvhBtQePrb8nrUeA) |  [yuy004@ucsd.edu](mailto:yuy004@ucsd.edu) |
-| TA	         |  Yueyan Tang     |  A02/06 | [Mon 1-3pm signup required](https://ucsd.zoom.us/meeting/register/tJMlceysrDosHdVAkLdjSF5GEdI4AH4ZQyMj) |  yyt005@ucsd.edu |
-| TA	         |  Zheng Zeng     |  A03/B04 | [Mon 9-11am on Zoom](https://ucsd.zoom.us/my/zhz094) |  zhz094@ucsd.edu |
-| TA	         |  Ted (Zeyu) Feng     |  B02/03 | Tue, Thu 5-6PM, in person at CSB114(Starting Week 2)|  zef007@ucsd.edu |
-| TA	         |  Ruby (Zhuojun) Ying     |  A01/B01 | [Fri 8-10am, signup required](https://calendar.google.com/calendar/appointments/schedules/AcZssZ1ZF85DvauB4r0zIQ26XXFm_-YIBUFbt3Aa82abZkVWYtYp1RKqPGJ_o0cByaZnsT4B6_hi8az2) |  z5ying@ucsd.edu |
-| TA	         |  Samyak Mehta     |  B05/B07 | Wed 3-4:50pm, CSB 114 |  sam012@ucsd.edu |
 | TA	         |  Reuben Chatterjee     |  - | - |  rchatterjee@ucsd.edu |
-| IA	         |  Ziyao Zhou     |  A04 | [Tue 9AM-10AM on Zoom](https://us04web.zoom.us/j/72591110777?pwd=kLqpI3k6TskWcLBquIFduRwC1j0RFt.1) |  ziz075@ucsd.edu |
-| IA	         |  Vicky Li     |  B03 | [Wed 5-6pm on Zoom](https://ucsd.zoom.us/j/8866034138?pwd=S0tRbjdwcWVqQjBHTDBIQnJvTVI3UT09) |  yil164@ucsd.edu |
-| IA	         |  Kevin Tran     |  A05 | [Tue 4PM-5PM on Zoom](https://ucsd.zoom.us/j/95770482902) |  ket003@ucsd.edu |
-| IA	         |  Nikita Shinde     |  A07/B06 | Mon 6-7PM [Zoom](https://ucsd.zoom.us/j/5722716770?pwd=OS9vaXlHUHQ3MmdXVWFqWnljZW9Ddz09) (with Ana) |  n1shinde@ucsd.edu |
-| IA	         |  Ana Maria Baboescu  |  A07/B06 | Mon 6-7PM [Zoom](https://ucsd.zoom.us/j/5722716770?pwd=OS9vaXlHUHQ3MmdXVWFqWnljZW9Ddz09)(with Nikita) |  ababoescu@ucsd.edu |
-| IA	         |  Oishani Bandopadhyay    |  A06 | [Wed 3-4pm on Zoom](https://ucsd.zoom.us/j/95609813395) | obandopadhyay@ucsd.edu |
-| IA	         |  Kang Gun Ham     | A01/B01 | Wed 11:00AM-12:00PM on [Zoom](https://ucsd.zoom.us/j/91210416910)|  kham@ucsd.edu |
-| IA	         |  Vinuthna Hasthi  |  A06 | [Wed 12-1pm on Zoom](https://ucsd.zoom.us/j/2413394838?pwd=NlhQejJxUXp3d28waTlkb21NSXcvdz09) | vhasthi@ucsd.edu |
+| TA	         |  Zheng Zeng     |  A03/B04 | [Mon 9-11am on Zoom](https://ucsd.zoom.us/my/zhz094) |  zhz094@ucsd.edu |
+| TA	         |  Ruby (Zhuojun) Ying     |  A01/B01 | [Fri 8-10am, signup required](https://calendar.google.com/calendar/appointments/schedules/AcZssZ1ZF85DvauB4r0zIQ26XXFm_-YIBUFbt3Aa82abZkVWYtYp1RKqPGJ_o0cByaZnsT4B6_hi8az2) |  z5ying@ucsd.edu |
+| TA	         |     |  - | - |   |
+| TA	         |     |  - | - |   |
+| TA	         |     |  - | - |   |
+| TA	         |     |  - | - |   |
+| TA	         |     |  - | - |   |
+| IA	         |     |  - | - |   |
+| IA	         |     |  - | - |   |
+| IA	         |     |  - | - |   |
+| IA	         |     |  - | - |   |
+| IA	         |     |  - | - |   |
+| IA	         |     |  - | - |   |
+| IA	         |     |  - | - |   |
+| IA	         |     |  - | - |   |
+
+
 
 Course GitHub: https://github.com/COGS108  
 
-Course discussion, Q&A and regrades: https://edstem.org/us/courses/67982/ (make sure you accept the email invitation you were sent!)
+Course discussion, Q&A and regrades: [Link to join Ed](https://edstem.org/us/join/an6dhT), 
 
-Course Canvas: https://canvas.ucsd.edu/courses/58615
+Course Canvas: https://canvas.ucsd.edu/courses/64550
 
 Assignment Submission: https://datahub.ucsd.edu  
 
@@ -129,7 +132,7 @@ Extra credit worth up to 3% of the final grade will be awarded for
 - Answering the pre & post course surveys will give 0.5% extra credit (0.25% each for 0.5% total)
 - Attending guest lecture(s) in-person is 0.5% extra credit  
 - Filling out all 7 of the weekly project progress surveys (0.5% of grade, see Project section below)
-- If >75% of the students fill out SET (teaching evaluation) at the end of the quarter there will be an extra 0.5% of the final grade for everyone
+- If >2/3 of the students fill out SET teaching evaluations at the end of the quarter there will be an extra 0.5% of the final grade for everyone.  BTW this EC criteria has not been met since the zoom classes of the pandemic, why won't the current generation of students actually fill out evals?
 
 Our grading scale is
 
@@ -163,8 +166,8 @@ This quarter there are two sections of lecture. For the first two weeks please a
 
 | Section |  Time and Location |
 |:--------|:---------------------|
-| A00 | 10AM MWF Galbraith Hall 242 |
-| B00 | 2PM  MWF York 2722 |
+| A00 | 9AM MWF Peterson 108 |
+| B00 | 2PM  MWF Peterson 108 |
 
 Please bring a smartphone or tablet or laptop to lecture for occaisional live polling via Google Form. Up to 0.5% extra credit will be given for attendance as measured by the number of such exercises you participate in during class. Full extra credit will consist of participating in > 2/3 of lectures that have these exercises (not all lectures have exercises!)
 
@@ -182,26 +185,26 @@ At the end of each Friday, a quiz with ~10 questions will be released, covering 
 
 Discussion sections are a place where you will be able to ask questions, get help on technical topics, work on your group projects, and discuss the weekly lab exercises. If you are struggling with course material come to discussion section and/or office hours!
 
-The first discussion section will start in Week 1 with a Python review.  After that week sections will concentrate on helping students with the weekly exercises and assignments.
+The first discussion section will start in Week 1 with a Python review.  After that week sections will concentrate on helping students with the weekly lab exercises and assignments.
 
 For the first two weeks please attend the section you were assigned.  After that there will probably be enough free seats for you to attend the section you prefer, and I'm ok with that. 
 
 | Section |  Time and Location |
 |:--------|:---------------------|
-| A01	|	M 11:00a-11:50a	CENTR	222 |
-| A02	|	M 12:00p-12:50p	CENTR	222 |
-| A03	|	M 12:00p-12:50p	WLH	2111 |
-| A04	|	M 2:00p-2:50p	CSB	5 |
-| A05	|	M 3:00p-3:50p	CSB	5 |
-| A06	|	M 4:00p-4:50p	PETER	102 |
-| A07	|	W 2:00p-2:50p	CSB	5 |
-| B01	|	W	9:00a-9:50a	YORK	4080A |
-| B02	|	F	3:00p-3:50p	PCYNH	120 |
-| B03	|	F	4:00p-4:50p	PCYNH	120 |
-| B04	|	W	4:00p-4:50p	DIB	122 |
-| B05	|	W	5:00p-5:50p	WLH	2207 |
-| B06	|	W	3:00p-3:50p	CSB	4 |
-| B07	|	W	6:00p-6:50p	WLH	2207 |
+| A01	|	M	11:00a-11:50a	WLH	2207 |
+| A02	|	M	1:00p-1:50p	DIB	121 |
+| A03	|	F	1:00p-1:50p	DIB	121  |
+| A04	|	W	6:00p-6:50p	WLH	2207 |
+| A05	|	F	4:00p-4:50p	WLH	2207  |
+| A06	|	F	5:00p-5:50p	WLH	2207  |
+| A07	|	F	6:00p-6:50p	WLH	2207  |
+| B01	|	F	9:00a-9:50a	CSB	4  |
+| B02	|	F	10:00a-10:50a	CSB	4 |
+| B03	|	F	11:00a-11:50a	CSB	5  |
+| B04	|	W	4:00p-4:50p	PETER	102  |
+| B05	|	W	6:00p-6:50p	PETER	102  |
+| B06	|	F	4:00p-4:50p	PETER	103  |
+| B07	|	F	6:00p-6:50p	PETER	102  |
 
 
 ### Discussion section lab exercises
@@ -285,43 +288,41 @@ There are also components of the project that must be completed individually. St
 ---
 
 # COURSE SCHEDULE
-| Date   | Week   | Day | Lecture topic                | Section covers | Lab due | Assignment due                                                 | Lecture quiz due |
+|        | Week   | Day | Lecture topic                | Section covers | Lab due | Assignment due                                                 | Lecture quiz due |
 | ------ | ------ | --- | ---------------------------- | -------------- | ------- | -------------------------------------------------------------- | ---------------- |
-| Sep-27 | 0      | F   | Welcome!                     | NO LAB WEEK 0  |         |                                                                |                  |
-| Sep-30 | 1      | M   | Version Control I            | Python review  |         |                                                                |                  |
-| Oct-02 | 1      | W   | Version Control II           | Python review  |         |                                                                |                  |
-| Oct-04 | 1      | F   | Data & Intuition I           | Python review  |         |                                                                |                  |
-| Oct-07 | 2      | M   | Data & Intuition II          | D1             |         |                                                                | Q1               |
-| Oct-9  | 2      | W   | Data Wrangling (pandas)      | D1             |         | Practice assignment, pre-course survey                         |                  |
-| Oct-11 | 2      | F   | Ethics                       | D1             | D1      |                                                                |                  |
-| Oct-14 | 3      | M   | Data Science questions       | D2             |         | GitHub ID, Group signup                                        | Q2               |
-| Oct-16 | 3      | W   | Data viz principles          | D2             |         | A1                                                             |                  |
-| Oct-18 | 3      | F   | Intro to analysis            | D2             | D2      |                                                                |                  |
-| Oct-21 | 4      | M   | EDA                          | D3             |         |                                                                | Q3               |
-| Oct-23 | 4      | W   | EDA II                       | D3             |         | Project Review\*                                               |                  |
-| Oct-25 | 4      | F   | Inference I                  | D3             | D3      |                                                                |                  |
-| Oct-28 | 5      | M   | Inference II                 | D4             |         |                                                                | Q4               |
-| Oct-30 | 5      | W   | Inference III                | D4             |         | Project Proposal\*                                             |                  |
-| Nov-01 | 5      | F   | Inference IV - Nonparametric | D4             | D4      |                                                                |                  |
-| Nov-04 | 6      | M   | Text Analysis I              | D5             |         |                                                                | Q5               |
-| Nov-06 | 6      | W   | Text Analysis II             | D5             |         | A2                                                             |                  |
-| Nov-8  | 6      | F   | Machine Learning I           | D5             | D5      |                                                                |                  |
-| Nov-11 | 7      | M   | No class - Veterans day      | D6             |         |                                                                | Q6               |
-| Nov-13 | 7      | W   | Machine Learning II          | D6             |         | Checkpoint #1: Data\*                                          |                  |
-| Nov-15 | 7      | F   | Machine Learning III         | D6             | D6      |                                                                |                  |
-| Nov-18 | 8      | M   | Machine Learning IV          | D7             |         |                                                                | Q7               |
-| Nov-20 | 8      | W   | Dimensionality Reduction     | D7             |         | A3                                                             |                  |
-| Nov-22 | 8      | F   | Geospatial II                | D7             | D7      |                                                                |                  |
-| Nov-25 | 9      | M   | How to be wrong              | D8             |         |                                                                | Q8               |
-| Nov-27 | 9      | W   | How to be wrong II           | D8             |         | Checkpoint #2: EDA\*                                           |                  |
-| Nov-29 | 9      | F   | No class - Thanksgiving      | D8             | D8      |                                                                |                  |
-| Dec-02 | 10     | M   | Algorithms                   | Projects       |         |                                                                | Q9               |
-| Dec-04 | 10     | W   | Guest lecture                | Projects       |         | A4                                                             |                  |
-| Dec-06 | 10     | F   | Data science jobs            | Projects       |         |                                                                |                  |
-| Dec-9  | Finals | M   | NO FINAL EXAM                |                |         |                                                                |                  |
-| Dec-11 | Finals | W   | NO FINAL EXAM                |                |         | Final project\*, video\*, team eval survey, post-course survey |                  |
-| Dec-13 | Finals | F   | NO FINAL EXAM                |                |         |                                                                |                  |
-
+| Mar-31 | 1      | M   | Welcome!                     | Python review  |         |                                                                |                  |
+| Apr-02 | 1      | W   | Version Control I            | Python review  |         |                                                                |                  |
+| Apr-04 | 1      | F   | Version Control II           | Python review  |         |                                                                |                  |
+| Apr-07 | 2      | M   | Data & Intuition I           | D1             |         |                                                                | Q1               |
+| Apr-09 | 2      | W   | Data & Intuition II          | D1             |         | Practice assignment, pre-course survey                         |                  |
+| Apr-11 | 2      | F   | Data Wrangling (pandas)      | D1             | D1      |                                                                |                  |
+| Apr-14 | 3      | M   | Ethics                       | D2             |         |                                                                | Q2               |
+| Apr-16 | 3      | W   | Data Science questions       | D2             |         | A1, GitHub ID, Group signup                                    |                  |
+| Apr-18 | 3      | F   | Data viz principles          | D2             | D2      |                                                                |                  |
+| Apr-21 | 4      | M   | Intro to analysis            | D3             |         |                                                                | Q3               |
+| Apr-23 | 4      | W   | EDA                          | D3             |         | Project Review\*                                               |                  |
+| Apr-25 | 4      | F   | EDA II                       | D3             | D3      |                                                                |                  |
+| Apr-28 | 5      | M   | Inference I                  | D4             |         |                                                                | Q4               |
+| Apr-30 | 5      | W   | Inference II                 | D4             |         | Project Proposal\*                                             |                  |
+| May-02 | 5      | F   | Inference III                | D4             | D4      |                                                                |                  |
+| May-05 | 6      | M   | Inference IV - Nonparametric | D5             |         |                                                                | Q5               |
+| May-07 | 6      | W   | Text Analysis I              | D5             |         | A2                                                             |                  |
+| May-09 | 6      | F   | Text Analysis II             | D5             | D5      |                                                                |                  |
+| May-12 | 7      | M   | Machine Learning I           | D6             |         |                                                                | Q6               |
+| May-14 | 7      | W   | Machine Learning II          | D6             |         | Checkpoint #1: Data\*                                          |                  |
+| May-16 | 7      | F   | Machine Learning III         | D6             | D6      |                                                                |                  |
+| May-19 | 8      | M   | Machine Learning IV          | D7             |         |                                                                | Q7               |
+| May-21 | 8      | W   | Dimensionality Reduction     | D7             |         | A3                                                             |                  |
+| May-23 | 8      | F   | Geospatial                   | D7             | D7      |                                                                |                  |
+| May-26 | 9      | M   | No class - Memorial day      | D8             |         |                                                                | Q8               |
+| May-28 | 9      | W   | How to be wrong              | D8             |         | Checkpoint #2: EDA\*                                           |                  |
+| May-30 | 9      | F   | How to be wrong II           | D8             | D8      |                                                                |                  |
+| Jun-02 | 10     | M   | Algorithms                   | Projects       |         |                                                                | Q9               |
+| Jun-04 | 10     | W   | Guest lecture                | Projects       |         | A4                                                             |                  |
+| Jun-06 | 10     | F   | Data science jobs            | Projects       |         |                                                                |                  |
+| Jun-09 | Finals | M   | NO FINAL EXAM                |                |         |                                                                |                  |
+| Jun-11 | Finals | W   | NO FINAL EXAM                |                |         |                                                                |                  |
+| Jun-13 | Finals | F   | NO FINAL EXAM                |                |         | Final project\*, video\*, team eval survey, post-course survey |              |
 
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
 
