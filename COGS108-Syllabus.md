@@ -1,10 +1,10 @@
-v0.1 4-October-2024
+v0.1 31-March-2025
 
 **WARNING!!! This is a draft syllabus and subject to potentially major changes before the end of Week 1**
 
 # COGS 108: Data Science in Practice
 
-**Fall 2024**  
+**Spring 2025**  
 
 
 ---
