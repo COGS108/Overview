@@ -46,7 +46,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |  Reuben Chatterjee     |  - | - |  rchatterjee@ucsd.edu |
 | TA	         |  Zheng Zeng     |  A04/A05 | [Mon 9-11am on Zoom (signup required)](https://calendar.app.google/EMDNqgYmk7K455gz5) |  zhz094@ucsd.edu |
 | TA	         |  Ruby (Zhuojun) Ying     |  A01/B01 | [Fri 8-10am, signup required](https://calendar.google.com/calendar/appointments/schedules/AcZssZ1ZF85DvauB4r0zIQ26XXFm_-YIBUFbt3Aa82abZkVWYtYp1RKqPGJ_o0cByaZnsT4B6_hi8az2) |  z5ying@ucsd.edu |
-| TA	         |     |  - | - |   |
+| TA	         |  Alessandro "Ollie" D'Amico   |  A06/A07 | [Fri 1-3PM on Zoom (signup required)](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3-xXFS4WVzu0oeZBL0y1McaTE5MOkHIch3h1lvL_vWns5DTNQLFzVd8EINTNcyUBEuxvKkin_e?gv=true)| adamico@ucsd.edu  |
 | TA	         |     |  - | - |   |
 | TA	         |     |  - | - |   |
 | TA	         |     |  - | - |   |
