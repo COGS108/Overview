@@ -51,7 +51,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |     |  - | - |   |
 | TA	         |     |  - | - |   |
 | TA	         |     |  - | - |   |
-| IA	         |     |  - | - |   |
+| IA	         |  Annalise Ahn   |  B04 | Thurs 2-3PM on [Zoom](https://ucsd.zoom.us/my/anahn) |  anahn@ucsd.edu |
 | IA	         |     |  - | - |   |
 | IA	         |     |  - | - |   |
 | IA	         |     |  - | - |   |
