@@ -56,7 +56,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | IA	         |  Alec Slim   |  A04 | Thurs 1-2PM on [Zoom](https://ucsd.zoom.us/my/alecslim) |  awslim@ucsd.edu  |
 | IA	         |  Kristoffer Alejo   |  A02 | Mon 12-1PM in CSB 114 | kalejo@ucsd.edu  |
 | IA	         |  Miles Davis   |  A06 | Wed 11AM-12PM on [Zoom](https://ucsd.zoom.us/j/8310840482) | midavis@ucsd.edu  |
-| IA	         |     |  - | - |   |
+| IA	         |  Aatyanth Thimma Udayakumar   |  B03/B06 | Mon 3-4 on [Zoom](https://ucsd.zoom.us/j/94828914712)| athimmaudayakumar@ucsd.edu  |
 | IA	         |     |  - | - |   |
 | IA	         |     |  - | - |   |
 
