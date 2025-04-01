@@ -53,7 +53,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |     |  - | - |   |
 | IA	         |  Annalise Ahn   |  B04 | Thurs 2-3PM on [Zoom](https://ucsd.zoom.us/my/anahn) |  anahn@ucsd.edu |
 | IA	         |   Nandini Bohra  |  A01 | Tue 6-7PM on [Zoom](https://us05web.zoom.us/j/82248774955?pwd=Y7UaacPa0vCHw57L7Rotmsr6gprTEA.1) | nbohra@ucsd.edu  |
-| IA	         |     |  - | - |   |
+| IA	         |  Alec Slim   |  A04 | Thurs 1-2PM on [Zoom](https://ucsd.zoom.us/my/alecslim) |  awslim@ucsd.edu  |
 | IA	         |     |  - | - |   |
 | IA	         |     |  - | - |   |
 | IA	         |     |  - | - |   |
