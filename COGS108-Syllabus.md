@@ -48,7 +48,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |  Ruby (Zhuojun) Ying     |  A01/B01 | [Fri 8-10am, signup required](https://calendar.google.com/calendar/appointments/schedules/AcZssZ1ZF85DvauB4r0zIQ26XXFm_-YIBUFbt3Aa82abZkVWYtYp1RKqPGJ_o0cByaZnsT4B6_hi8az2) |  z5ying@ucsd.edu |
 | TA	         |  Alessandro "Ollie" D'Amico   |  A06/A07 | [Fri 1-3PM on Zoom (signup required)](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3-xXFS4WVzu0oeZBL0y1McaTE5MOkHIch3h1lvL_vWns5DTNQLFzVd8EINTNcyUBEuxvKkin_e?gv=true)| adamico@ucsd.edu  |
 | TA	         |  Felipe Lorenzi   |  A01/A02 | [Tue 1-3PM on Zoom (signup required)](https://calendar.app.google/ZZEMevjv4P8ZUmcm8)| florenzi@ucsd.edu  |
-| TA	         |     |  - | - |   |
+| TA	         |  Alokita Karmokar   |  B05/B07 | [Tue 3-5 PM on Zoom, starting week 2] (https://ucsd.zoom.us/j/96637274923)|  akarmokar@ucsd.edu |
 | TA	         |     |  - | - |   |
 | TA	         |     |  - | - |   |
 | IA	         |  Annalise Ahn   |  B04 | Thurs 2-3PM on [Zoom](https://ucsd.zoom.us/my/anahn) |  anahn@ucsd.edu |
