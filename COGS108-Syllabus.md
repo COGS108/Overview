@@ -211,7 +211,7 @@ For the first two weeks please attend the section you were assigned.  After that
 
 Each week there will be a short lab exercise to review material from lecture and give hands-on programming experience. You can work on these exercises in your lab sections, and your section leaders will be happy to help guide you towards the correct answers.  Or if you don't need help you can complete them on your own and never come to lab.  If you wish to work collaboratively on lab exercises you may do so, but please realize that this is your time to practice and learn new skills with low stakes. If someone else does it for you its hard to practice and learn!
 
-Lab exercises will be due on Mondays 11:59PM and released one week before they are due. If lab exercises are due on a holiday (Veteran's day, Thanksgiving) then they will be accepted until the following non-holiday day that week.  Each lab exercise is worth 2 points. 
+Lab exercises will be due on Fridays 11:59PM and released one week before they are due. If lab exercises are due on a holiday (Veteran's day, Thanksgiving) then they will be accepted until the following non-holiday day that week.  Each lab exercise is worth 2 points. 
 
 ---
 
