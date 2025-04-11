@@ -46,7 +46,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |  Reuben Chatterjee     |  A03/B06 | Wednesday 3-5 PM on Google Meet, [Book a slot](https://calendar.app.google/mazHtQXrfZPM6V756) |  rchatterjee@ucsd.edu |
 | TA	         |  Zheng Zeng     |  A04/A05 | [Mon 9-11am on Zoom (signup required)](https://calendar.app.google/EMDNqgYmk7K455gz5) |  zhz094@ucsd.edu |
 | TA	         |  Ruby (Zhuojun) Ying     |  B01/B2 | [Tues 3-5pm, signup required](https://calendar.app.google/JgkANzBFBd76ihLr9) |  z5ying@ucsd.edu |
-| TA	         |  Alessandro "Ollie" D'Amico   |  [A06/A07](https://ucsd.zoom.us/my/ollied) | [Fri 1-3PM on Zoom (signup required)](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3-xXFS4WVzu0oeZBL0y1McaTE5MOkHIch3h1lvL_vWns5DTNQLFzVd8EINTNcyUBEuxvKkin_e?gv=true)| adamico@ucsd.edu  |
+| TA	         |  Alessandro "Ollie" D'Amico   |  [A06/A07](https://ucsd.zoom.us/j/94595660887) | [Fri 1-3PM on Zoom (signup required)](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3-xXFS4WVzu0oeZBL0y1McaTE5MOkHIch3h1lvL_vWns5DTNQLFzVd8EINTNcyUBEuxvKkin_e?gv=true)| adamico@ucsd.edu  |
 | TA	         |  Felipe Lorenzi   |  A01/A02 | [Tue 1-3PM on Zoom (signup required)](https://calendar.app.google/ZZEMevjv4P8ZUmcm8)| florenzi@ucsd.edu  |
 | TA	         |  Alokita Karmokar   |  B05/B07 | [Tue 3-5 PM on Zoom, starting week 2](https://ucsd.zoom.us/j/96637274923)|  akarmokar@ucsd.edu |
 | TA	         |  Jason Chen   |  B03/B04 | [Thu 3-5PM on Zoom (signup required)](https://calendar.app.google/WtSA9SmNFpq8Fup49) | xic007@ucsd.edu |
