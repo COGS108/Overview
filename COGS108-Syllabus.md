@@ -46,8 +46,8 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |  Reuben Chatterjee     |  A03/B06 | Wednesday 3-5 PM on Google Meet, [Book a slot](https://calendar.app.google/mazHtQXrfZPM6V756) |  rchatterjee@ucsd.edu |
 | TA	         |  Zheng Zeng     |  A04/A05 | [Mon 9-11am on Zoom (signup required)](https://calendar.app.google/EMDNqgYmk7K455gz5) |  zhz094@ucsd.edu |
 | TA	         |  Ruby (Zhuojun) Ying     |  B01/B2 | [Tues 3-5pm, signup required](https://calendar.app.google/JgkANzBFBd76ihLr9) |  z5ying@ucsd.edu |
-| TA	         |  Alessandro "Ollie" D'Amico   |  A06/A07 | [Fri 1-3PM on Zoom (signup required)](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3-xXFS4WVzu0oeZBL0y1McaTE5MOkHIch3h1lvL_vWns5DTNQLFzVd8EINTNcyUBEuxvKkin_e?gv=true)| adamico@ucsd.edu  |
-| TA	         |  Felipe Lorenzi   |  A01/A02 | [Tue 1-3PM on Zoom (signup required)](https://calendar.app.google/ZZEMevjv4P8ZUmcm8)| florenzi@ucsd.edu  |
+| TA	         |  Alessandro "Ollie" D'Amico   |  [A06/A07](https://ucsd.zoom.us/j/94595660887) | [Fri 1-3PM on Zoom (signup required)](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3-xXFS4WVzu0oeZBL0y1McaTE5MOkHIch3h1lvL_vWns5DTNQLFzVd8EINTNcyUBEuxvKkin_e?gv=true)| adamico@ucsd.edu  |
+| TA	         |  Felipe Lorenzi   |  A01/A02 | [Tue & Thu 1-2PM on Zoom (signup required)](https://calendar.app.google/ZZEMevjv4P8ZUmcm8)| florenzi@ucsd.edu  |
 | TA	         |  Alokita Karmokar   |  B05/B07 | [Tue 3-5 PM on Zoom, starting week 2](https://ucsd.zoom.us/j/96637274923)|  akarmokar@ucsd.edu |
 | TA	         |  Jason Chen   |  B03/B04 | [Thu 3-5PM on Zoom (signup required)](https://calendar.app.google/WtSA9SmNFpq8Fup49) | xic007@ucsd.edu |
 | TA	         |     |  - | - |   |
@@ -55,7 +55,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | IA	         |   Nandini Bohra  |  A01 | Tue 6-7PM on [Zoom](https://us05web.zoom.us/j/82248774955?pwd=Y7UaacPa0vCHw57L7Rotmsr6gprTEA.1) | nbohra@ucsd.edu  |
 | IA	         |  Alec Slim   |  A04 | Thurs 1-2PM on [Zoom](https://ucsd.zoom.us/my/alecslim) |  awslim@ucsd.edu  |
 | IA	         |  Kristoffer Alejo   |  A02 | Mon 11-12PM in CSB 114 | kalejo@ucsd.edu  |
-| IA	         |  Miles Davis   |  A06 | Wed 11AM-12PM on [Zoom](https://ucsd.zoom.us/j/8310840482) | midavis@ucsd.edu  |
+| IA	         |  Miles Davis   |  A06/A07 | Wed 11AM-12PM on [Zoom](https://ucsd.zoom.us/j/8310840482) | midavis@ucsd.edu  |
 | IA	         |  Aatyanth Thimma Udayakumar   |  B03/B06 | Mon 3-4PM on [Zoom](https://ucsd.zoom.us/j/94828914712)| athimmaudayakumar@ucsd.edu  |
 | IA	         |  Jiawei Li   |  A03 | Fri 11-12PM in CSB114 / on [Zoom](https://uchealth.zoom.us/j/86182869016) | jil237@ucsd.edu  |
 | IA	         |     |  - | - |   |
