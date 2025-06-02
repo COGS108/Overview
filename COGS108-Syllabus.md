@@ -321,8 +321,8 @@ There are also components of the project that must be completed individually. St
 | Jun-04 | 10     | W   | Guest lecture                | Projects       |         | A4                                                             |                  |
 | Jun-06 | 10     | F   | Data science jobs            | Projects       |         |                                                                |                  |
 | Jun-09 | Finals | M   | NO FINAL EXAM                |                |         |                                                                |                  |
-| Jun-11 | Finals | W   | NO FINAL EXAM                |                |         |                                                                |                  |
-| Jun-13 | Finals | F   | NO FINAL EXAM                |                |         | Final project\*, video\*, team eval survey, post-course survey |              |
+| Jun-11 | Finals | W   | NO FINAL EXAM                |                |         | Final project\*, video\*, team eval survey, post-course survey                                                               |                  |
+| Jun-13 | Finals | F   | NO FINAL EXAM                |                |         |  |              |
 
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
 
