@@ -1,10 +1,8 @@
-v0.1 31-March-2025
-
-**WARNING!!! This is a draft syllabus and subject to potentially major changes before the end of Week 1**
+v0.01 Sep 22 2025 **WARNING!!! This is a draft syllabus and subject to potentially major changes before the end of Week 1**
 
 # COGS 108: Data Science in Practice
 
-**Spring 2025**  
+**Fall 2025**  
 
 
 ---
@@ -43,30 +41,29 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.app.google/RoadDP23hFD5JpuW9) | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
-| TA	         |  Reuben Chatterjee     |  A03/B06 | Wednesday 3-5 PM on Google Meet, [Book a slot](https://calendar.app.google/mazHtQXrfZPM6V756) |  rchatterjee@ucsd.edu |
-| TA	         |  Zheng Zeng     |  A04/A05 | [Mon 9-11am on Zoom (signup required)](https://calendar.app.google/EMDNqgYmk7K455gz5) |  zhz094@ucsd.edu |
-| TA	         |  Ruby (Zhuojun) Ying     |  B01/B2 | [Tues 3-5pm, signup required](https://calendar.app.google/JgkANzBFBd76ihLr9) |  z5ying@ucsd.edu |
-| TA	         |  Alessandro "Ollie" D'Amico   |  [A06/A07](https://ucsd.zoom.us/j/94595660887) | [Fri 1-3PM on Zoom (signup required)](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3-xXFS4WVzu0oeZBL0y1McaTE5MOkHIch3h1lvL_vWns5DTNQLFzVd8EINTNcyUBEuxvKkin_e?gv=true)| adamico@ucsd.edu  |
-| TA	         |  Felipe Lorenzi   |  A01/A02 | [Tue & Thu 1-2PM on Zoom (signup required)](https://calendar.app.google/ZZEMevjv4P8ZUmcm8)| florenzi@ucsd.edu  |
-| TA	         |  Alokita Karmokar   |  B05/B07 | [Tue 3-5 PM on Zoom, starting week 2](https://ucsd.zoom.us/j/96637274923)|  akarmokar@ucsd.edu |
-| TA	         |  Jason Chen   |  B03/B04 | [Thu 3-5PM on Zoom (signup required)](https://calendar.app.google/WtSA9SmNFpq8Fup49) | xic007@ucsd.edu |
-| TA	         |     |  - | - |   |
-| IA	         |  Annalise Ahn   |  B04 | Thurs 2-3PM on [Zoom](https://ucsd.zoom.us/my/anahn) |  anahn@ucsd.edu |
-| IA	         |   Nandini Bohra  |  A01 | Tue 6-7PM on [Zoom](https://us05web.zoom.us/j/82248774955?pwd=Y7UaacPa0vCHw57L7Rotmsr6gprTEA.1) | nbohra@ucsd.edu  |
-| IA	         |  Alec Slim   |  A04 | Thurs 1-2PM on [Zoom](https://ucsd.zoom.us/my/alecslim) |  awslim@ucsd.edu  |
-| IA	         |  Kristoffer Alejo   |  A02 | Mon 11-12PM in CSB 114 | kalejo@ucsd.edu  |
-| IA	         |  Miles Davis   |  A06/A07 | Wed 11AM-12PM on [Zoom](https://ucsd.zoom.us/j/8310840482) | midavis@ucsd.edu  |
-| IA	         |  Aatyanth Thimma Udayakumar   |  B03/B06 | Mon 3-4PM on [Zoom](https://ucsd.zoom.us/j/94828914712)| athimmaudayakumar@ucsd.edu  |
-| IA	         |  Jiawei Li   |  A03 | Fri 11-12PM in CSB114 / on [Zoom](https://uchealth.zoom.us/j/86182869016) | jil237@ucsd.edu  |
-| IA	         |     |  - | - |   |
+| TA	         |     your info here  |   |  |  |
+| TA	         |     your info here  |   |  |  |
+| TA	         |     your info here  |   |  |  |
+| TA	         |     your info here  |   |  |  |
+| TA	         |     your info here  |   |  |  |
+| TA	         |     your info here  |   |  |  |
+| TA	         |     your info here  |   |  |  |
+| TA	         |     your info here  |   |  |  |
+| PLA	         |    your info here |   |  |   |
+| PLA	         |    your info here |   |  |   |
+| PLA	         |    your info here |   |  |   |
+| PLA	         |    your info here |   |  |   |
+| PLA	         |    your info here |   |  |   |
+| PLA	         |    your info here |   |  |   |
+
 
 
 
 Course GitHub: https://github.com/COGS108  
 
-Course discussion, Q&A and regrades: [Link to join Ed](https://edstem.org/us/join/an6dhT), 
+Course discussion, Q&A and regrades: [Link to join Ed]() ***TODO**, 
 
-Course Canvas: https://canvas.ucsd.edu/courses/64550
+Course Canvas: ***TODO**
 
 Assignment Submission: https://datahub.ucsd.edu  
 
@@ -90,7 +87,7 @@ Anonymous Course Feedback:  https://forms.gle/MnBrvofZY7YxnwYMA
   - A local copy on your own computer (we recommend the Anaconda distribution)
   - Cloud services such as Google Colab, Microsoft Azure, etc. These all have a free tier or free hours before billing.  
 - git and a GitHub login
-  - If you prefer a GUI feel free to use SourceTree, GitHub Desktop, etc
+  - If you prefer a GUI feel free to use GitHub Desktop, SourceTree, VS Code, etc.
 - All other course materials will be provided on GitHub and datahub
 
 
@@ -100,6 +97,7 @@ There are no required readings for this course; however, if you’re interested 
 
 - Grus J (2019, 2nd ed) Data Science from Scratch. This book takes you into HOWs and WHYs, rather than just learning to use a library you don't really understand.  This is the harder book, but you will grow tremendously working though it. [Can be accessed for free through your UCSD login](https://library.ucsd.edu/news-events/oreilly-for-higher-education/)
 - Vanderplas, J (2023, 2nd ed) [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook). Short and too the point. Both the text and the code are freely available on Github. Learn to use standard libraries to get things done.
+- Frankel, A (2020) [Data Science In Pratice](https://afraenkel.github.io/ds-in-practice/content/introduction.html). Lecture notes for DSC 80 which has substantial overlap with this course
 
 We also maintain [a list of readings that can provide insight into various data science topics](https://github.com/COGS108/Readings).
 
@@ -108,21 +106,21 @@ We also maintain [a list of readings that can provide insight into various data 
 
 # GRADING
 
-|                | \% of Grade          	 | # to submit |
-| -------------: |:-----------------------:|:--------------------------|
-| Discussion Labs | 16\%              | 8 (1/wk)      |
-| Lecture Quizzes      | 8\%               | 8 out of 9 (1/wk)      |
-| Assignments (4@8% ea + 1@1%)         | 33\%		           | 5             |
-| Project Review*      | 5\%		           | 1             |
-| Project Proposal*    | 9\%		           | 1             |
-| Project Checkpoints* (2@5% ea)  | 10\%              | 2             |
-| Final Report*        | 15%		           | 1             |
-| Final Video*         | 3\%		           | 1             |
-| Team Evaluation Survey| 1\%		         | 1             |
+|                        | number | each | % of grade |
+| ---------------------- | ------ | ---- | ----------- |
+| Labs                   | 8      | 2%   | 16%         |
+| Quizzes                | 8      | 1%   | 8%          |
+| Assignments            | 4      | 6%   | 24%         |
+| Project Review\*       | 1      | 2%   | 2%          |
+| Project Proposal\*     | 1      | 10%  | 10%         |
+| Project Checkpoints\*  | 2      | 10%  | 20%         |
+| Final Report\*         | 1      | 15%  | 15%         |
+| Final Video\*          | 1      | 4%   | 4%          |
+| Team Evaluation Survey | 1      | 1%   | 1%          |
 
 \* Indicates Group Submission
 
-**Final exam**: This course has no final exam. Do not show up on the date/time of the final exam.  Instead this course has a final project/
+**Final exam**: This course has no final exam. Do not show up on the date/time of the final exam.  Instead this course has a final project.
 
 All grades will be released on Canvas. It is *your responsibility to check that your assignment was submitted, that your grade is accurate, and to get in touch if any are missing and/or you think there is a problem*.
 
