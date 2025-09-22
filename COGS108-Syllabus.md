@@ -61,11 +61,11 @@ In this course, you will try many methods. You’ll even be asked to implement a
 
 Course GitHub: https://github.com/COGS108  
 
-Course discussion, Q&A and regrades: [Link to join Ed]() ***TODO**, 
+Course discussion, Q&A and regrades: [Link to join Ed](https://edstem.org/us/join/zGpRaJ)  
 
 Course Canvas: ***TODO**
 
-Assignment Submission: https://datahub.ucsd.edu  
+Assignment and lab submission: https://datahub.ucsd.edu  
 
 Anonymous Course Feedback:  https://forms.gle/MnBrvofZY7YxnwYMA
 
