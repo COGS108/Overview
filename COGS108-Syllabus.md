@@ -63,7 +63,7 @@ Course GitHub: https://github.com/COGS108
 
 Course discussion, Q&A and regrades: [Link to join Ed](https://edstem.org/us/join/zGpRaJ)  
 
-Course Canvas: ***TODO**
+Course Canvas: https://canvas.ucsd.edu/courses/68403
 
 Assignment and lab submission: https://datahub.ucsd.edu  
 
@@ -93,11 +93,14 @@ Anonymous Course Feedback:  https://forms.gle/MnBrvofZY7YxnwYMA
 
 ### Optional Readings:
 
-There are no required readings for this course; however, if you’re interested in learning more and reading about data science topics, we recommend the following texts as supplementary to the main elements of the course:
+There are no required readings for this course; however, this may be very helpful if you're struggling with material in the course
+
+ - Frankel, A (2020) [Data Science In Pratice](https://afraenkel.github.io/ds-in-practice/content/introduction.html). Lecture notes for DSC 80 which has substantial overlap with this course
+- Vanderplas, J (2023, 2nd ed) [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook). Short and too the point. Both the text and the code are freely available on Github. Learn to use standard libraries to get things done.
+ 
+If you’re interested in learning more and reading about data science topics, we recommend the following texts as supplementary to the main elements of the course:
 
 - Grus J (2019, 2nd ed) Data Science from Scratch. This book takes you into HOWs and WHYs, rather than just learning to use a library you don't really understand.  This is the harder book, but you will grow tremendously working though it. [Can be accessed for free through your UCSD login](https://library.ucsd.edu/news-events/oreilly-for-higher-education/)
-- Vanderplas, J (2023, 2nd ed) [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook). Short and too the point. Both the text and the code are freely available on Github. Learn to use standard libraries to get things done.
-- Frankel, A (2020) [Data Science In Pratice](https://afraenkel.github.io/ds-in-practice/content/introduction.html). Lecture notes for DSC 80 which has substantial overlap with this course
 
 We also maintain [a list of readings that can provide insight into various data science topics](https://github.com/COGS108/Readings).
 
@@ -164,8 +167,8 @@ This quarter there are two sections of lecture. For the first two weeks please a
 
 | Section |  Time and Location |
 |:--------|:---------------------|
-| A00 | 9AM MWF Peterson 108 |
-| B00 | 2PM  MWF Peterson 108 |
+| A00 | 10AM MWF [Jeannie Auditorium](https://map.concept3d.com/?id=1005#!s/JEANN_Main?ct/18312) |
+| B00 | 2PM  MWF [Galbraith 242](https://map.concept3d.com/?id=1005#!s/GH_Main?ct/18312) |
 
 Please bring a smartphone or tablet or laptop to lecture for occaisional live polling via Google Form. Up to 0.5% extra credit will be given for attendance as measured by the number of such exercises you participate in during class. Full extra credit will consist of participating in > 2/3 of lectures that have these exercises (not all lectures have exercises!)
 
@@ -173,7 +176,7 @@ DO NOT COME TO LECTURE IF YOU ARE ILL! You won't miss your attendance extra cred
 
 ### Lecture Quizzes
 
-At the end of each Friday, a quiz with ~10 questions will be released, covering the material from lecture that week. The quiz will be due the following Monday. For example, the first quiz will be released Friday of week 1, covering week 1 material, and will be due the Monday at 11:59 PM of week 2. Each question is worth ~0.1 points and you will have a single, timed (20 min) attempt to complete. *There are no late extensions on quizzes*, but your lowest quiz score will be dropped.
+At the end of each Friday, a quiz with 10-20 questions will be released, covering the material from lecture that week. The quiz will be due the following Monday. For example, the first quiz will be released Friday of week 1, covering week 1 material, and will be due the Monday at 11:59 PM of week 2. If you miss a question you will have one chance to retake it for credit. *YOU CANNOT TAKE or RETAKE A QUIZ LATE*, but your lowest quiz score (for instance if you miss a quiz) will be dropped.
 
 ---
 
@@ -187,22 +190,25 @@ The first discussion section will start in Week 1 with a Python review.  After t
 
 For the first two weeks please attend the section you were assigned.  After that there will probably be enough free seats for you to attend the section you prefer, and I'm ok with that. 
 
-| Section |  Time and Location |
-|:--------|:---------------------|
-| A01	|	M	11:00a-11:50a	WLH	2207 |
-| A02	|	M	1:00p-1:50p	DIB	121 |
-| A03	|	F	1:00p-1:50p	DIB	121  |
-| A04	|	W	6:00p-6:50p	WLH	2207 |
-| A05	|	F	4:00p-4:50p	WLH	2207  |
-| A06	|	F	5:00p-5:50p	WLH	2207  |
-| A07	|	F	6:00p-6:50p	WLH	2207  |
-| B01	|	F	9:00a-9:50a	CSB	4  |
-| B02	|	F	10:00a-10:50a	CSB	4 |
-| B03	|	F	11:00a-11:50a	CSB	5  |
-| B04	|	W	4:00p-4:50p	PETER	102  |
-| B05	|	W	6:00p-6:50p	PETER	102  |
-| B06	|	F	4:00p-4:50p	PETER	103  |
-| B07	|	F	6:00p-6:50p	PETER	102  |
+| Section |  Time and Location | TA   |
+|:--------|:-------------------|:-----|
+| A01	|	M 11:00a-11:50a [CSB 5](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | Shreya Musini |
+| A02	|	M 12:00p-12:50p [CSB 4](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | Shreya Musini |
+| A03	| M 1:00p-1:50p  [RWAC 115](https://map.concept3d.com/?id=1005#!s/RWAC_Main?ct/18312) | Zheng Zeng |
+| A04	|	M 2:00p-2:50p   [CSB 4](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)    |  Liz Kaplan |
+| A05	|	 M  3:00p-3:50p  [DIB 122](https://map.concept3d.com/?id=1005#!s/DIB_Main?ct/18312)  | TBD |
+| A06	|	M 4:00p-4:50p    [DIB 121](https://map.concept3d.com/?id=1005#!s/DIB_Main?ct/18312)  | Ruby Ying |
+| A07	|	  M 5:00p-5:50p   [DIB 121](https://map.concept3d.com/?id=1005#!s/DIB_Main?ct/18312)  | Ruby Ying |
+| A08 | M 9:00a-9:50a   [CSB 4](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)  | Zheng Zeng |
+| B01	|	W 9:00a-9:50a [DIB 121](https://map.concept3d.com/?id=1005#!s/DIB_Main?ct/18312)   | Susmit Singh |
+| B02	|	 W 10:00a-10:50a [CSB 4](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)  | Susmit Singh|
+| B03	|	 W 11:00a-11:50a [RWAC 115](https://map.concept3d.com/?id=1005#!s/RWAC_Main?ct/18312)   | TBD |
+| B04	|   W 12:00p-12:50p [PCYNH 121](https://map.concept3d.com/?id=1005#!s/PCYNH_Main?ct/18312) | Kate Rebello|
+| B05	|	  W 1:00p-1:50p   [CSB 4](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) |Kate Rebello |
+| B06	|	 W 3:00p-3:50p   [CSB 5](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)  | Liz Kaplan|
+| B07	|	 W 4:00p-4:50p   [CSB 4](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)  | Jason Chen|
+| B08	|	 W 5:00p-5:50p   [CSB 4](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)  | Jason Chen |
+
 
 
 ### Discussion section lab exercises
@@ -286,41 +292,7 @@ There are also components of the project that must be completed individually. St
 ---
 
 # COURSE SCHEDULE
-|        | Week   | Day | Lecture topic                | Section covers | Lab due | Assignment due                                                 | Lecture quiz due |
-| ------ | ------ | --- | ---------------------------- | -------------- | ------- | -------------------------------------------------------------- | ---------------- |
-| Mar-31 | 1      | M   | Welcome!                     | Python review  |         |                                                                |                  |
-| Apr-02 | 1      | W   | Version Control I            | Python review  |         |                                                                |                  |
-| Apr-04 | 1      | F   | Version Control II           | Python review  |         |                                                                |                  |
-| Apr-07 | 2      | M   | Data & Intuition I           | D1             |         |                                                                | Q1               |
-| Apr-09 | 2      | W   | Data & Intuition II          | D1             |         | Practice assignment, pre-course survey                         |                  |
-| Apr-11 | 2      | F   | Data Wrangling (pandas)      | D1             | D1      |                                                                |                  |
-| Apr-14 | 3      | M   | Ethics                       | D2             |         |                                                                | Q2               |
-| Apr-16 | 3      | W   | Data Science questions       | D2             |         | A1, GitHub ID, Group signup                                    |                  |
-| Apr-18 | 3      | F   | Data viz principles          | D2             | D2      |                                                                |                  |
-| Apr-21 | 4      | M   | Intro to analysis            | D3             |         |                                                                | Q3               |
-| Apr-23 | 4      | W   | EDA                          | D3             |         | Project Review\*                                               |                  |
-| Apr-25 | 4      | F   | EDA II                       | D3             | D3      |                                                                |                  |
-| Apr-28 | 5      | M   | Inference I                  | D4             |         |                                                                | Q4               |
-| Apr-30 | 5      | W   | Inference II                 | D4             |         | Project Proposal\*                                             |                  |
-| May-02 | 5      | F   | Inference III                | D4             | D4      |                                                                |                  |
-| May-05 | 6      | M   | Inference IV - Nonparametric | D5             |         |                                                                | Q5               |
-| May-07 | 6      | W   | Text Analysis I              | D5             |         | A2                                                             |                  |
-| May-09 | 6      | F   | Text Analysis II             | D5             | D5      |                                                                |                  |
-| May-12 | 7      | M   | Machine Learning I           | D6             |         |                                                                | Q6               |
-| May-14 | 7      | W   | Machine Learning II          | D6             |         | Checkpoint #1: Data\*                                          |                  |
-| May-16 | 7      | F   | Machine Learning III         | D6             | D6      |                                                                |                  |
-| May-19 | 8      | M   | Machine Learning IV          | D7             |         |                                                                | Q7               |
-| May-21 | 8      | W   | Dimensionality Reduction     | D7             |         | A3                                                             |                  |
-| May-23 | 8      | F   | Geospatial                   | D7             | D7      |                                                                |                  |
-| May-26 | 9      | M   | No class - Memorial day      | D8             |         |                                                                | Q8               |
-| May-28 | 9      | W   | How to be wrong              | D8             |         | Checkpoint #2: EDA\*                                           |                  |
-| May-30 | 9      | F   | How to be wrong II           | D8             | D8      |                                                                |                  |
-| Jun-02 | 10     | M   | Algorithms                   | Projects       |         |                                                                | Q9               |
-| Jun-04 | 10     | W   | Guest lecture                | Projects       |         | A4                                                             |                  |
-| Jun-06 | 10     | F   | Data science jobs            | Projects       |         |                                                                |                  |
-| Jun-09 | Finals | M   | NO FINAL EXAM                |                |         |                                                                |                  |
-| Jun-11 | Finals | W   | NO FINAL EXAM                |                |         | Final project\*, video\*, team eval survey, post-course survey                                                               |                  |
-| Jun-13 | Finals | F   | NO FINAL EXAM                |                |         |  |              |
+
 
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
 
