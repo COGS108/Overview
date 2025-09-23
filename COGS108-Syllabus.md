@@ -1,4 +1,4 @@
-v0.01 Sep 22 2025 **WARNING!!! This is a draft syllabus and subject to potentially major changes before the end of Week 1**
+v0.02 Sep 22 2025 **WARNING!!! This is a draft syllabus and subject to potentially major changes before the end of Week 1**
 
 # COGS 108: Data Science in Practice
 
@@ -93,13 +93,10 @@ Anonymous Course Feedback:  https://forms.gle/MnBrvofZY7YxnwYMA
 
 ### Optional Readings:
 
-There are no required readings for this course; however, this may be very helpful if you're struggling with material in the course
+There are no required readings for this course; however, this may be very helpful if you're struggling with material in the course, or if you'd like to go beyond the material and deepen your knowledge
 
  - Frankel, A (2020) [Data Science In Pratice](https://afraenkel.github.io/ds-in-practice/content/introduction.html). Lecture notes for DSC 80 which has substantial overlap with this course
 - Vanderplas, J (2023, 2nd ed) [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook). Short and too the point. Both the text and the code are freely available on Github. Learn to use standard libraries to get things done.
- 
-If you’re interested in learning more and reading about data science topics, we recommend the following texts as supplementary to the main elements of the course:
-
 - Grus J (2019, 2nd ed) Data Science from Scratch. This book takes you into HOWs and WHYs, rather than just learning to use a library you don't really understand.  This is the harder book, but you will grow tremendously working though it. [Can be accessed for free through your UCSD login](https://library.ucsd.edu/news-events/oreilly-for-higher-education/)
 
 We also maintain [a list of readings that can provide insight into various data science topics](https://github.com/COGS108/Readings).
@@ -114,6 +111,7 @@ We also maintain [a list of readings that can provide insight into various data 
 | Labs                   | 8      | 2%   | 16%         |
 | Quizzes                | 8      | 1%   | 8%          |
 | Assignments            | 4      | 6%   | 24%         |
+| In-class exercises     | 20     | 0.05% | 1%         |
 | Project Review\*       | 1      | 2%   | 2%          |
 | Project Proposal\*     | 1      | 10%  | 10%         |
 | Project Checkpoints\*  | 2      | 10%  | 20%         |
@@ -137,19 +135,19 @@ Extra credit worth up to 3% of the final grade will be awarded for
 
 Our grading scale is
 
-|    |                  |
-|:----|:-----------------|
-| A+  | &ge; 97%      |
-| A  | < 97% to 94%  |
-| A-  | < 94% to 90% |
-| B+  | < 90 % to 87% |
-| B   | < 87 % to 84% |
-| B-  | < 84 % to 80% |
-| C+  | < 80 % to 77% |
-| C   | < 77 % to 74% |
-| C-  | < 74 % to 70% |
-| D   | < 70 % to 60% |
-| F   | < 60 % |
+|  letter  |  range      | letter |  range                 |
+|:----|:-----------------|:----|:-----------------|
+| A+  | &ge; 97%      | C+  | < 80 % to 77% |
+| A  | < 97% to 94%  | C   | < 77 % to 74% |
+| A-  | < 94% to 90% | C-  | < 74 % to 70% |
+| B+  | < 90 % to 87% | D   | < 70 % to 60% |
+| B   | < 87 % to 84% | F   | < 60 % |
+| B-  | < 84 % to 80% |   |  |
+
+
+
+
+
 
 Know that a third of the class typically feels overwhelmed at the start of the quarter. That said, the average is quite high in this course (typically A-). So, while we anticipate you all doing well in this course, if you are feeling lost or overwhelmed, that’s ok! Should that occur, we recommend: (1) asking questions in class, (2) attending office hours and/or (3) asking for help on EdStem.
 
@@ -292,7 +290,41 @@ There are also components of the project that must be completed individually. St
 ---
 
 # COURSE SCHEDULE
-
+|        | Week   | Day | Lecture topic             | Section covers        | Due today                                                      |
+| ------ | ------ | --- | ------------------------- | --------------------- | -------------------------------------------------------------- |
+| Sep-26 | 0      | F   | Welcome!                  | No section            |                                                                |
+| Sep-29 | 1      | M   | Version Control I         |                       |                                                                |
+| Oct-01 | 1      | W   | Version Control II        | python review         |                                                                |
+| Oct-03 | 1      | F   | Data & Intuition I        | python review         |                                                                |
+| Oct-06 | 2      | M   | Data & Intuition II       |                       | Q1                                                             |
+| Oct-08 | 2      | W   | Data Wrangling            | git and conda (D1)    | Practice assignment, pre-course survey                         |
+| Oct-10 | 2      | F   | Ethics                    | git and conda (D1)    |                                                                |
+| Oct-13 | 3      | M   | Data Science questions    |                       | D1, Q2                                                         |
+| Oct-15 | 3      | W   | Data viz principles       | data (D2)             | GitHub ID, Group signup                                        |
+| Oct-17 | 3      | F   | EDA                       | data (D2)             |                                                                |
+| Oct-20 | 4      | M   | EDA II                    |                       | D2, Q3                                                         |
+| Oct-22 | 4      | W   | Geospatial                | viz / geospatial (D3) | A1, Project Review\*                                           |
+| Oct-24 | 4      | F   | Inference I               | viz / geospatial (D3) |                                                                |
+| Oct-27 | 5      | M   | Inference II              |                       | D3, Q4                                                         |
+| Oct-29 | 5      | W   | Non parametric inference  | inference (D4)        | Project Proposal\*                                             |
+| Oct-31 | 5      | F   | Linear models I           | inference (D4)        |                                                                |
+| Nov-03 | 6      | M   | Linear models II          |                       | D4, Q5                                                         |
+| Nov-05 | 6      | W   | Linear models III         | linear models (D5)    | A2                                                             |
+| Nov-07 | 6      | F   | Dimensionality Reduction  | linear models (D5)    |                                                                |
+| Nov-10 | 7      | M   | Machine Learning I        |                       | D5, Q6                                                         |
+| Nov-12 | 7      | W   | Machine Learning II       | DR + ML (D6)          | Checkpoint #1: Data\*                                          |
+| Nov-14 | 7      | F   | Machine Learning III      | DR + ML (D6)          |                                                                |
+| Nov-17 | 8      | M   | Machine Learning IV       |                       | D6, Q7                                                         |
+| Nov-19 | 8      | W   | Text I                    | ML / text (D7)        | A3                                                             |
+| Nov-21 | 8      | F   | Text II                   | ML / text (D7)        |                                                                |
+| Nov-24 | 9      | M   | LLMs                      |                       | D7, Q8                                                         |
+| Nov-26 | 9      | W   | How to be wrong I         | how to be wrong (D8)  | Checkpoint #2: EDA\*                                           |
+| Nov-28 | 9      | F   | Thanksgiving - No lecture | No section            |                                                                |
+| Dec-01 | 10     | M   | How to be wrong II        |                       | D8, Q9                                                         |
+| Dec-03 | 10     | W   | Guest lecture / catch up  | Projects help         | A4                                                             |
+| Dec-05 | 10     | F   | Big picture discussion    | Projects help         |                                                                |
+| Dec-08 | Finals | M   |                           |                       |                                                                |
+| Dec-10 | Finals | W   |                           |                       | Final project\*, video\*, team eval survey, post-course survey |
 
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
 
