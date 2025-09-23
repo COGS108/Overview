@@ -41,7 +41,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.app.google/RoadDP23hFD5JpuW9) | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
-| TA	         |     your info here  |   |  |  |
+| TA	         |     Zheng Zeng  | A03/A08  | [Tue 9-11am on Zoom (signup required)](https://calendar.app.google/G2zveecnAo3DnoEM9)  | zhz094@ucsd.edu |
 | TA	         |     your info here  |   |  |  |
 | TA	         |     your info here  |   |  |  |
 | TA	         |     your info here  |   |  |  |
