@@ -43,7 +43,8 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.app.google/RoadDP23hFD5JpuW9) | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
 | TA	         |     Zheng Zeng  | A03/A08  | [Tue 9-11am on Zoom (signup required)](https://calendar.app.google/G2zveecnAo3DnoEM9)  | zhz094@ucsd.edu |
 | TA	         |     Susmit Singh  | B01/B02  | Wed 11am-12pm in CSB and Friday 11am-12pm on Zoom (https://ucsd.zoom.us/j/94850384354) | sus018@ucsd.edu |
-| TA	         |     your info here  |   |  |  |
+| TA	         |     Jason Chen  |   | B07/B08 | [Wed 3-5pm on Zoom (signup required)](https://calendar.app.google/KTihPEdkywPVqPWs7) |
+[xic007@ucsd.edu](mailto:xic007@ucsd.edu)
 | TA	         |     your info here  |   |  |  |
 | TA	         |     your info here  |   |  |  |
 | TA	         |     your info here  |   |  |  |
