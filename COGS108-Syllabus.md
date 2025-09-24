@@ -46,7 +46,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |     Jason Chen  | B07/B08  | Tue 3-5pm on Zoom [(signup required)](https://calendar.app.google/3XBVBFvX9b2Nw218A) | [xic007@ucsd.edu](mailto:xic007@ucsd.edu) |
 | TA	         |     Liz Kaplan  | A04/B06  | Wed 2-3 pm CSB235 & Thursday 2-3 pm on zoom (link: https://us04web.zoom.us/j/76238307163?pwd=nHqTHk0SuE6lBZMyZ3ViL6XcEuyMeR.1) | likaplan@ucsd.edu |
 | TA	         |     Shreya Musini  |  A01/A02 | Wed 3-4 pm & Fri 3-4 pm on Zoom [(signup required)](https://calendar.app.google/vFn9GKXcPPDSBSLA7) | shmusini@ucsd.edu |
-| TA	         |     your info here  |   |  |  |
+| TA	         |     Kate Rebello  | B04/B05  | Wed 10-11 am (Location TBD) & Fri 12-1 pm on Zoom (https://ucsd.zoom.us/j/95898154575) | karebello@ucsd.edu |
 | TA	         |     your info here  |   |  |  |
 | TA	         |     your info here  |   |  |  |
 | PLA	         |    your info here |   |  |   |
