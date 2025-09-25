@@ -290,40 +290,40 @@ There are also components of the project that must be completed individually. St
 ---
 
 # COURSE SCHEDULE
+ Outer pipes  Cell padding 
 |        | Week   | Day | Lecture topic             | Section covers        | Due today                                                      |
 | ------ | ------ | --- | ------------------------- | --------------------- | -------------------------------------------------------------- |
 | Sep-26 | 0      | F   | Welcome!                  | No section            |                                                                |
-| Sep-29 | 1      | M   | Version Control I         |                       |                                                                |
+| Sep-29 | 1      | M   | Version Control I         | python review         |                                                                |
 | Oct-01 | 1      | W   | Version Control II        | python review         |                                                                |
-| Oct-03 | 1      | F   | Data & Intuition I        | python review         |                                                                |
-| Oct-06 | 2      | M   | Data & Intuition II       |                       | Q1                                                             |
+| Oct-03 | 1      | F   | Data & Intuition I        |                       |                                                                |
+| Oct-06 | 2      | M   | Data & Intuition II       | git and conda (D1)    | Q1                                                             |
 | Oct-08 | 2      | W   | Data Wrangling            | git and conda (D1)    | Practice assignment, pre-course survey                         |
-| Oct-10 | 2      | F   | Ethics                    | git and conda (D1)    |                                                                |
-| Oct-13 | 3      | M   | Data Science questions    |                       | D1, Q2                                                         |
+| Oct-10 | 2      | F   | Ethics                    |                       |                                                                |
+| Oct-13 | 3      | M   | Data Science questions    | data (D2)             | D1, Q2                                                         |
 | Oct-15 | 3      | W   | Data viz principles       | data (D2)             | GitHub ID, Group signup                                        |
-| Oct-17 | 3      | F   | EDA                       | data (D2)             |                                                                |
-| Oct-20 | 4      | M   | EDA II                    |                       | D2, Q3                                                         |
+| Oct-17 | 3      | F   | EDA                       |                       |                                                                |
+| Oct-20 | 4      | M   | EDA II                    | viz / geospatial (D3) | D2, Q3                                                         |
 | Oct-22 | 4      | W   | Geospatial                | viz / geospatial (D3) | A1, Project Review\*                                           |
-| Oct-24 | 4      | F   | Inference I               | viz / geospatial (D3) |                                                                |
-| Oct-27 | 5      | M   | Inference II              |                       | D3, Q4                                                         |
+| Oct-24 | 4      | F   | Inference I               |                       |                                                                |
+| Oct-27 | 5      | M   | Inference II              | inference (D4)        | D3, Q4                                                         |
 | Oct-29 | 5      | W   | Non parametric inference  | inference (D4)        | Project Proposal\*                                             |
-| Oct-31 | 5      | F   | Linear models I           | inference (D4)        |                                                                |
-| Nov-03 | 6      | M   | Linear models II          |                       | D4, Q5                                                         |
+| Oct-31 | 5      | F   | Linear models I           |                       |                                                                |
+| Nov-03 | 6      | M   | Linear models II          | linear models (D5)    | D4, Q5                                                         |
 | Nov-05 | 6      | W   | Linear models III         | linear models (D5)    | A2                                                             |
-| Nov-07 | 6      | F   | Dimensionality Reduction  | linear models (D5)    |                                                                |
-| Nov-10 | 7      | M   | Machine Learning I        |                       | D5, Q6                                                         |
+| Nov-07 | 6      | F   | Dimensionality Reduction  |                       |                                                                |
+| Nov-10 | 7      | M   | Machine Learning I        | DR + ML (D6)          | D5, Q6                                                         |
 | Nov-12 | 7      | W   | Machine Learning II       | DR + ML (D6)          | Checkpoint #1: Data\*                                          |
-| Nov-14 | 7      | F   | Machine Learning III      | DR + ML (D6)          |                                                                |
-| Nov-17 | 8      | M   | Machine Learning IV       |                       | D6, Q7                                                         |
+| Nov-14 | 7      | F   | Machine Learning III      |                       |                                                                |
+| Nov-17 | 8      | M   | Machine Learning IV       | ML / text (D7)        | D6, Q7                                                         |
 | Nov-19 | 8      | W   | Text I                    | ML / text (D7)        | A3                                                             |
-| Nov-21 | 8      | F   | Text II                   | ML / text (D7)        |                                                                |
-| Nov-24 | 9      | M   | LLMs                      |                       | D7, Q8                                                         |
+| Nov-21 | 8      | F   | Text II                   |                       |                                                                |
+| Nov-24 | 9      | M   | LLMs                      | how to be wrong (D8)  | D7, Q8                                                         |
 | Nov-26 | 9      | W   | How to be wrong I         | how to be wrong (D8)  | Checkpoint #2: EDA\*                                           |
-| Nov-28 | 9      | F   | Thanksgiving - No lecture | No section            |                                                                |
+| Nov-28 | 9      | F   | Thanksgiving - No lecture |                       |                                                                |
 | Dec-01 | 10     | M   | How to be wrong II        |                       | D8, Q9                                                         |
 | Dec-03 | 10     | W   | Guest lecture / catch up  | Projects help         | A4                                                             |
 | Dec-05 | 10     | F   | Big picture discussion    | Projects help         |                                                                |
-| Dec-08 | Finals | M   |                           |                       |                                                                |
 | Dec-10 | Finals | W   |                           |                       | Final project\*, video\*, team eval survey, post-course survey |
 
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
