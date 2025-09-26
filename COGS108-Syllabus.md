@@ -125,9 +125,8 @@ We also maintain [a list of readings that can provide insight into various data 
 
 All grades will be released on Canvas. It is *your responsibility to check that your assignment was submitted, that your grade is accurate, and to get in touch if any are missing and/or you think there is a problem*.
 
-Extra credit worth up to 3% of the final grade will be awarded for
+Extra credit worth up to 2.5% of the final grade will be awarded for
 - Exceptional participation on EdStem discussion board: Roughly the top 3 - 5% of contributors will get 0.5% bonus to their final grade.  Starting/participating in good discussions, organizing things, answering questions, etc.
-- Being present for >= 2/3 of the in class exercises will net 0.5% bonus to the final grade
 - Answering the pre & post course surveys will give 0.5% extra credit (0.25% each for 0.5% total)
 - Attending guest lecture(s) in-person is 0.5% extra credit  
 - Filling out all 7 of the weekly project progress surveys (0.5% of grade, see Project section below)
@@ -170,9 +169,9 @@ This quarter there are two sections of lecture. For the first two weeks please a
 | A00 | 10AM MWF [Jeannie Auditorium](https://map.concept3d.com/?id=1005#!s/JEANN_Main?ct/18312) |
 | B00 | 2PM  MWF [Galbraith 242](https://map.concept3d.com/?id=1005#!s/GH_Main?ct/18312) |
 
-Please bring a smartphone or tablet or laptop to lecture for occaisional live polling via Google Form. Up to 0.5% extra credit will be given for attendance as measured by the number of such exercises you participate in during class. Full extra credit will consist of participating in > 2/3 of lectures that have these exercises (not all lectures have exercises!)
+Please bring a smartphone or tablet or laptop to lecture for occaisional live polling via Google Form. Up to 1% of your grade will be given for participating in at least 20 out of the 30 or more such exercises that will be offerred.  Most lectures have 1 or 2 such exercises, but some lectures may not have any.
 
-DO NOT COME TO LECTURE IF YOU ARE ILL! You won't miss your attendance extra credit if you take some time off.
+DO NOT COME TO LECTURE IF YOU ARE ILL! You won't impact your attendance credit if you take some time off.
 
 ### Lecture Quizzes
 
