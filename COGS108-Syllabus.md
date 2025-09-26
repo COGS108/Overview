@@ -1,4 +1,4 @@
-v0.02 Sep 22 2025 **WARNING!!! This is a draft syllabus and subject to potentially major changes before the end of Week 1**
+v0.03 Sep 25 2025 **WARNING!!! This is a draft syllabus and subject to potentially major changes before the end of Week 1**
 
 # COGS 108: Data Science in Practice
 
@@ -155,7 +155,9 @@ Know that a third of the class typically feels overwhelmed at the start of the q
 
 I continue to believe that attending in-person is the best way to learn for most people. Our goal is to make the lecture and discussion section worth your while to attend through interactive content and making it a good place to get questions answered. We will also be trying out active learning paradigms this quarter. There will be some live coding exercises both as individuals and some think-pair-share setups.  If you can't come to a particular class session or two that's fine, but if you're planning to never come I think you're making a mistake.
 
-BUT DO NOT COME TO IN-PERSON CLASS IF YOU FEEL SICK!!!  I really don't want our very large lecture hall to become a super-spreader event for any illnesses.
+### In-person illness policy
+Please do not attend any in-person activity (lecture/section/office hours) if you are feeling ill, especially if you are sneezing/coughing and have a fever. If you feel mildly ill but without sneezing/coughing, or if you have bad allergies, then you may come to in-person events while wearing a well-fitting mask.  
+
 
 ---
 
@@ -209,49 +211,35 @@ For the first two weeks please attend the section you were assigned.  After that
 
 
 
-### Discussion section lab exercises
+## Discussion section lab exercises
 
-Each week there will be a short lab exercise to review material from lecture and give hands-on programming experience. You can work on these exercises in your lab sections, and your section leaders will be happy to help guide you towards the correct answers.  Or if you don't need help you can complete them on your own and never come to lab.  If you wish to work collaboratively on lab exercises you may do so, but please realize that this is your time to practice and learn new skills with low stakes. If someone else does it for you its hard to practice and learn!
+Each week there will be a short lab exercise to review material from lecture and give hands-on programming experience. You can work on these exercises in your lab sections, and your section leaders will be happy to help guide you towards the correct answers.  Or if you don't need help you can complete them on your own and never come to lab. You may seek help from your classmates or chat about problems in a group, but please realize that this is your time to practice and learn new skills with low stakes. If someone else does it for you its hard to practice and learn!  
 
-Lab exercises will be due on Fridays 11:59PM and released one week before they are due. If lab exercises are due on a holiday (Veteran's day, Thanksgiving) then they will be accepted until the following non-holiday day that week.  Each lab exercise is worth 2 points. 
+Lab exercises are available to you on datahub, and also turned in there. Lab exercises will be due on Fridays 11:59PM and released one week before they are due. If lab exercises are due on a holiday (Veteran's day, Thanksgiving) then they will be accepted until the following non-holiday day that week. 
+
+**Check to ensure that your file shows up under “Submitted assignments” on datahub after you click submit!!!**. If the file is the incorrect version of the file, corrupted, or otherwise unreadable, then you will lose the appropriate number of points. If you accidentally click submit after the deadline and before we grade it then we will mark your work as late. There will be at least a dozen people each quarter who tell say "I'm so sorry there was a mistake when I clicked submit! Can I please get it graded without late?" And my answer will be no. Do not be that person!
+
+You will receive individualized feedback via email with your grade and feedback about a week after each assignment is due.
 
 ---
 
 # ASSIGNMENTS
 
-If lab exercises are low stakes and you can get lots of help, then assignments are high stakes and you can only get minimal help. They will be completed **individually** in Jupyter Notebooks and both released and submitted on datahub.
+If lab exercises are low stakes and you can get lots of help, then assignments are high stakes and you can only get minimal help. They will be completed **individually** in Jupyter Notebooks and both released and submitted on datahub. Assignments will cover the material in the previous two lab exercises. 
 
 The practice of data science involves writing code to answer questions and accomplish tasks. Thus, to get practice, your assignments will require you to use Python to do just that. Not everything will be explicitly mapped out step-by-step for you. This is intentional. Figuring things out when it’s not entirely clear what to do next is part of the practice here. You’ll attempt things that won’t work and become comfortable with this. You’ll get stuck and work to get unstuck. Not quite knowing exactly what’s going on at all times is part of the process. And, to be honest, part of the job of being a data scientist.
 
-That said, the first two assignments will be the simplest assignments and aim to get you up to speed in Python and familiar with `pandas`. If the first two assignments are particularly difficult for you, that’s ok. But, it’s then up to you to determine if you want to put in the work to make it through the rest of the quarter. **Assignments will take more time and be more difficult starting with the third assignment**.
-
 As assignments become more difficult, we don’t want you to get or feel totally lost. If you’ve thought long and hard, gone down a long rabbithole on Stack Overflow, and can’t even get a sense of what the next step may be, take a step away. Take a break. Then, come back and see if you can’t solve it with a refreshed mind. If you’re still totally stuck, ask on EdStem, talk to a classmate, and/or attend office hours for help.
-
-With regards to asking questions of instructional staff, we’re here to help you, but there are way more students than there are instructors. So, help each other. In fact, this is how the best data science gets done. Diverse minds solving a problem invariably improves the solution. Also, teaching something to someone else is the best way to determine if you really know something. So, it’s win-win. The person who’s stuck gets unstuck and the person who helped is more sure in their knowledge. Help one another! Section and office hours are meant to be collaborative.
 
 But how should you help one another on assignments? You should: ask a question that leads the student to figure it out for themselves, point out the correct principle/theory that applies in this case, provide a link to an explanation, or a chunk of pseudo-code.  You should not: provide the full answer or code they can just copy/paste.
 
 ### Turning In Assignments
 
-Assignments will be submitted individually on datahub. We’ll talk about the details for submission in class. Assignments will always be released a week before the assignment due date. On weeks with assignment deadlines, they will always be due Wednesdays at 11:59 PM of the week specified (see Course Schedule below).
+Assignments will be submitted individually on datahub. Assignments will always be released a week before the assignment due date. On weeks with assignment deadlines, they will always be due Wednesdays at 11:59 PM of the week specified (see Course Schedule below).
 
-**Check to ensure that your file shows up under “Submitted assignments” on datahub after you click submit!!!**. If the file is the incorrect version of the file, corrupted, or otherwise unreadable, then you will lose the appropriate number of points. If you accidentally click submit after the deadline and before we grade it then we will mark your assignment as late. There will be at least a dozen people each quarter who tell say "I'm so sorry there was a mistak when I clicked submit! Can I please get it graded without late?" And my answer will be no. Do not be that person!
+**Check to ensure that your file shows up under “Submitted assignments” on datahub after you click submit!!!**. If the file is the incorrect version of the file, corrupted, or otherwise unreadable, then you will lose the appropriate number of points. If you accidentally click submit after the deadline and before we grade it then we will mark your work as late. There will be at least a dozen people each quarter who tell say "I'm so sorry there was a mistake when I clicked submit! Can I please get it graded without late?" And my answer will be no. Do not be that person!
 
-It is your responsibility to ensure that we receive a submission from you on datahub and that you submit the correct file (a Jupyter notebook with the .ipynb extension with the same file name as the assignment) for each assignment. If you identify that a mistake has been made, it is your responsibility to get in touch on EdStem should a problem arise. You will receive individualized feedback via email with your grade and feedback about a week after each assignment is due.
-
-
-### Assignment Regrades
-
-We will work hard to grade everyone fairly and return assignments quickly. But, we know you also work hard and want you to receive the grade you’ve earned. Occasionally, grading mistakes do happen, and it's important to us to correct them.
-
-If you think there is a mistake in your grade, request a regrade within 72 hours of your receipt of the grade on EdStem, using the "Regrade requests" folder.  This message should include evidence of why you think your answer was correct (i.e. a specific reference to something said in lecture) and should point to the specific part of the assignment in question.
-
-Note that points will *not* be rewarded if you fail to follow instructions. For example, if the instructions say to name the variable `orange` and you name it `ornage` (misspelled), you will not be rewarded credit upon regrade. This is because (1) following instructions and being detail-oriented is important and (2) there are hundreds of students taking the course this quarter. It would be an unfair burden to place on TAs if we didn’t have this policy.
-
----
-# In-person illness policy
-Please do not attend any in-person activity (lecture/section/office hours) if you are feeling ill, especially if you are sneezing/coughing and have a fever. If you feel mildly ill but without sneezing/coughing, or if you have bad allergies, then you may come to in-person events while wearing a well-fitting mask.  
-
+You will receive individualized feedback via email with your grade and feedback about a week after each assignment is due.
 
 # LATE POLICY
 
@@ -259,7 +247,15 @@ Lecture quizzes will not be accepted late.
 
 Assignments and labs will be accepted up to 5 days late with a 25% late penalty taken off your grade. Every student receives 7 free late days with NO DEDUCTION for use on any assignment or lab exercise. Without penalty, you can turn in 7 work items one day late each, or 1 work item 3 days late and another 4 days late, or any other combination. 
 
-PLEASE NOTE while your pool of late days is 7, your maximum lateness on any single assignment is 5 days.  PLEASE NOTE these late days are intended for use when you are behind and need an extra day, illness, family emergencies, mental health crises, etc.. You will not be given more late days. You will not be given more than 5 days to get something submitted.  If you cannot manage to turn in assignments within this system you need to talk with your dean because something has gone drastically wrong that cannot be handled in my class.
+PLEASE NOTE while your pool of late days is 7, your maximum lateness on any single item is 5 days.  PLEASE NOTE these late days are intended for use when you are behind and need an extra day, illness, family emergencies, mental health crises, etc.. You will not be given more late days. You will not be given more than 5 days to get something submitted.  If you cannot manage to turn in assignments within this system you need to talk with your dean because something has gone drastically wrong that cannot be handled in my class.
+
+# Regrades
+
+We will work hard to grade everyone fairly and return assignments quickly. But, we know you also work hard and want you to receive the grade you’ve earned. Occasionally, grading mistakes do happen, and it's important to us to correct them.
+
+If you think there is a mistake in your grade, request a regrade within 72 hours of your receipt of the grade on EdStem, using the "Regrade requests" folder.  This message should include evidence of why you think your answer was correct (i.e. a specific reference to something said in lecture) and should point to the specific part of the assignment in question.
+
+Note that points will *not* be rewarded if you fail to follow instructions. For example, if the instructions say to name the variable `orange` and you name it `ornage` (misspelled), you will not be rewarded credit upon regrade. This is because (1) following instructions and being detail-oriented is important and (2) there are hundreds of students taking the course this quarter. It would be an unfair burden to place on TAs if we didn’t have this policy.
 
 
 # COURSE PROJECT
@@ -287,10 +283,10 @@ These project components are completed and submitted *as a group* and are descri
 
 There are also components of the project that must be completed individually. Starting week 3, there will be an *optional* weekly survey to be completed individually describing your project progress. Students who complete all 7 weeks' surveys will earn 0.5% extra credit to their final grade. At the end of the course there is a team evaluation survey... this is your opportunity to let us know if a teammate did not contribute 
 
+
 ---
 
 # COURSE SCHEDULE
- Outer pipes  Cell padding 
 |        | Week   | Day | Lecture topic             | Section covers        | Due today                                                      |
 | ------ | ------ | --- | ------------------------- | --------------------- | -------------------------------------------------------------- |
 | Sep-26 | 0      | F   | Welcome!                  | No section            |                                                                |
@@ -299,33 +295,33 @@ There are also components of the project that must be completed individually. St
 | Oct-03 | 1      | F   | Data & Intuition I        |                       |                                                                |
 | Oct-06 | 2      | M   | Data & Intuition II       | git and conda (D1)    | Q1                                                             |
 | Oct-08 | 2      | W   | Data Wrangling            | git and conda (D1)    | Practice assignment, pre-course survey                         |
-| Oct-10 | 2      | F   | Ethics                    |                       |                                                                |
-| Oct-13 | 3      | M   | Data Science questions    | data (D2)             | D1, Q2                                                         |
+| Oct-10 | 2      | F   | Ethics                    |                       | D1                                                             |
+| Oct-13 | 3      | M   | Data Science questions    | data (D2)             | Q2                                                             |
 | Oct-15 | 3      | W   | Data viz principles       | data (D2)             | GitHub ID, Group signup                                        |
-| Oct-17 | 3      | F   | EDA                       |                       |                                                                |
-| Oct-20 | 4      | M   | EDA II                    | viz / geospatial (D3) | D2, Q3                                                         |
+| Oct-17 | 3      | F   | EDA                       |                       | D2                                                             |
+| Oct-20 | 4      | M   | EDA II                    | viz / geospatial (D3) | Q3                                                             |
 | Oct-22 | 4      | W   | Geospatial                | viz / geospatial (D3) | A1, Project Review\*                                           |
-| Oct-24 | 4      | F   | Inference I               |                       |                                                                |
-| Oct-27 | 5      | M   | Inference II              | inference (D4)        | D3, Q4                                                         |
+| Oct-24 | 4      | F   | Inference I               |                       | D3                                                             |
+| Oct-27 | 5      | M   | Inference II              | inference (D4)        | Q4                                                             |
 | Oct-29 | 5      | W   | Non parametric inference  | inference (D4)        | Project Proposal\*                                             |
-| Oct-31 | 5      | F   | Linear models I           |                       |                                                                |
-| Nov-03 | 6      | M   | Linear models II          | linear models (D5)    | D4, Q5                                                         |
+| Oct-31 | 5      | F   | Linear models I           |                       | D4                                                             |
+| Nov-03 | 6      | M   | Linear models II          | linear models (D5)    | Q5                                                             |
 | Nov-05 | 6      | W   | Linear models III         | linear models (D5)    | A2                                                             |
-| Nov-07 | 6      | F   | Dimensionality Reduction  |                       |                                                                |
-| Nov-10 | 7      | M   | Machine Learning I        | DR + ML (D6)          | D5, Q6                                                         |
+| Nov-07 | 6      | F   | Dimensionality Reduction  |                       | D5                                                             |
+| Nov-10 | 7      | M   | Machine Learning I        | DR + ML (D6)          | Q6                                                             |
 | Nov-12 | 7      | W   | Machine Learning II       | DR + ML (D6)          | Checkpoint #1: Data\*                                          |
-| Nov-14 | 7      | F   | Machine Learning III      |                       |                                                                |
-| Nov-17 | 8      | M   | Machine Learning IV       | ML / text (D7)        | D6, Q7                                                         |
+| Nov-14 | 7      | F   | Machine Learning III      |                       | D6                                                             |
+| Nov-17 | 8      | M   | Machine Learning IV       | ML / text (D7)        | Q7                                                             |
 | Nov-19 | 8      | W   | Text I                    | ML / text (D7)        | A3                                                             |
-| Nov-21 | 8      | F   | Text II                   |                       |                                                                |
-| Nov-24 | 9      | M   | LLMs                      | how to be wrong (D8)  | D7, Q8                                                         |
+| Nov-21 | 8      | F   | Text II                   |                       | D7                                                             |
+| Nov-24 | 9      | M   | LLMs                      | how to be wrong (D8)  | Q8                                                             |
 | Nov-26 | 9      | W   | How to be wrong I         | how to be wrong (D8)  | Checkpoint #2: EDA\*                                           |
-| Nov-28 | 9      | F   | Thanksgiving - No lecture |                       |                                                                |
-| Dec-01 | 10     | M   | How to be wrong II        |                       | D8, Q9                                                         |
+| Nov-28 | 9      | F   | Thanksgiving - No lecture |                       | D8                                                             |
+| Dec-01 | 10     | M   | How to be wrong II        | Projects help         | Q9                                                             |
 | Dec-03 | 10     | W   | Guest lecture / catch up  | Projects help         | A4                                                             |
-| Dec-05 | 10     | F   | Big picture discussion    | Projects help         |                                                                |
+| Dec-05 | 10     | F   | Big picture discussion    |                       |                                                                |
+| Dec-08 | Finals | M   |                           |                       |                                                                |
 | Dec-10 | Finals | W   |                           |                       | Final project\*, video\*, team eval survey, post-course survey |
-
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
 
 ---
