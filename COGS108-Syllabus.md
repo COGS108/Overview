@@ -322,6 +322,7 @@ There are also components of the project that must be completed individually. St
 | Dec-05 | 10     | F   | Big picture discussion    |                       |                                                                |
 | Dec-08 | Finals | M   |                           |                       |                                                                |
 | Dec-10 | Finals | W   |                           |                       | Final project\*, video\*, team eval survey, post-course survey |
+
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
 
 ---
