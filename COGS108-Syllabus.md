@@ -193,16 +193,16 @@ For the first two weeks please attend the section you were assigned.  After that
 | Section |  Time and Location | TA   |
 |:--------|:-------------------|:-----|
 | A01	|	M 11:00a-11:50a [CSB 5](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | Shreya Musini |
-| A02	|	M 12:00p-12:50p [CSB 4](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | Shreya Musini |
+| A02	|	M 12:00p-12:50p [CSB 4](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | Rishabh Thapliyal  |
 | A03	| M 1:00p-1:50p  [RWAC 115](https://map.concept3d.com/?id=1005#!s/RWAC_Main?ct/18312) | Zheng Zeng |
 | A04	|	M 2:00p-2:50p   [CSB 4](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)    |  Liz Kaplan |
-| A05	|	 M  3:00p-3:50p  [DIB 122](https://map.concept3d.com/?id=1005#!s/DIB_Main?ct/18312)  | TBD |
+| A05	|	 M  3:00p-3:50p  [DIB 122](https://map.concept3d.com/?id=1005#!s/DIB_Main?ct/18312)  | Rishabh Thapliyal |
 | A06	|	M 4:00p-4:50p    [DIB 121](https://map.concept3d.com/?id=1005#!s/DIB_Main?ct/18312)  | Ruby Ying |
 | A07	|	  M 5:00p-5:50p   [DIB 121](https://map.concept3d.com/?id=1005#!s/DIB_Main?ct/18312)  | Ruby Ying |
 | A08 | M 9:00a-9:50a   [CSB 4](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)  | Zheng Zeng |
 | B01	|	W 9:00a-9:50a [DIB 121](https://map.concept3d.com/?id=1005#!s/DIB_Main?ct/18312)   | Susmit Singh |
 | B02	|	 W 10:00a-10:50a [CSB 4](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)  | Susmit Singh|
-| B03	|	 W 11:00a-11:50a [RWAC 115](https://map.concept3d.com/?id=1005#!s/RWAC_Main?ct/18312)   | TBD |
+| B03	|	 W 11:00a-11:50a [RWAC 115](https://map.concept3d.com/?id=1005#!s/RWAC_Main?ct/18312)   | Shreya Musini |
 | B04	|   W 12:00p-12:50p [PCYNH 121](https://map.concept3d.com/?id=1005#!s/PCYNH_Main?ct/18312) | Kate Rebello|
 | B05	|	  W 1:00p-1:50p   [CSB 4](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) |Kate Rebello |
 | B06	|	 W 3:00p-3:50p   [CSB 5](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)  | Liz Kaplan|
