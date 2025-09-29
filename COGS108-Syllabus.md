@@ -48,7 +48,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |     Shreya Musini  |  A01/A02 | Wed 3-4 pm & Fri 3-4 pm on Zoom [(signup required)](https://calendar.app.google/vFn9GKXcPPDSBSLA7) | shmusini@ucsd.edu |
 | TA	         |     Kate Rebello  | B04/B05  | Wed 10-11 am in CSB280 & Fri 12-1 pm on Zoom (https://ucsd.zoom.us/j/95898154575) | karebello@ucsd.edu |
 | TA	         |     Rishabh Thapliyal  | A02/A05 | Mon 1-3 pm on Zoom (https://ucsd.zoom.us/my/thapliyal.rishabh)  | rthapliyal@ucsd.edu |
-| TA	         |     your info here  |   |  |  |
+| TA	         |    Ruby/Zhuojun Ying |A06/A07 | Tue 2:30-4:30pm on Zoom [(signup required)](https://calendar.app.google/6w3srVug61zhZgUP6)|z5ying@ucsd.edu |
 | PLA	         |    your info here |   |  |   |
 | PLA	         |    your info here |   |  |   |
 | PLA	         |    your info here |   |  |   |
