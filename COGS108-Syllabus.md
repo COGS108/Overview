@@ -44,7 +44,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |     Zheng Zeng  | A03/A08  | [Tue 9-11am on Zoom (signup required)](https://calendar.app.google/G2zveecnAo3DnoEM9)  | zhz094@ucsd.edu |
 | TA	         |     Susmit Singh  | B01/B02  | Wed 11am-12pm in CSB114 and Friday 11am-12pm on Zoom (https://ucsd.zoom.us/j/94850384354) | sus018@ucsd.edu |
 | TA	         |     Jason Chen  | B07/B08  | Tue 3-5pm on Zoom [(signup required)](https://calendar.app.google/3XBVBFvX9b2Nw218A) | [xic007@ucsd.edu](mailto:xic007@ucsd.edu) |
-| TA	         |     Liz Kaplan  | A04/B06  | Wed 2-3 pm CSB235 & Thursday 2-3 pm on zoom (link: https://us04web.zoom.us/j/76238307163?pwd=nHqTHk0SuE6lBZMyZ3ViL6XcEuyMeR.1) | likaplan@ucsd.edu |
+| TA	         |     Liz Kaplan  | A04/B06  | Wed 2-3 pm CSB235 & Thursday 2-3 pm on zoom (link: (https://us04web.zoom.us/j/5101235759?pwd=6bTvQLlUpebI1nw0JHPMg0MNjgEWx5.1)) | likaplan@ucsd.edu |
 | TA	         |     Shreya Musini  |  A01/A02 | Wed 3-4 pm & Fri 3-4 pm on Zoom [(signup required)](https://calendar.app.google/vFn9GKXcPPDSBSLA7) | shmusini@ucsd.edu |
 | TA	         |     Kate Rebello  | B04/B05  | Wed 10-11 am in CSB280 & Fri 12-1 pm on Zoom (https://ucsd.zoom.us/j/95898154575) | karebello@ucsd.edu |
 | TA	         |     Rishabh Thapliyal  | A02/A05 | Mon 1-3 pm on Zoom [(signup required)](https://calendar.app.google/iL6Vt6p1pk678bUF7)| rthapliyal@ucsd.edu |
