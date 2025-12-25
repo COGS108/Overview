@@ -1,4 +1,4 @@
-v0.03 Sep 25 2025 **WARNING!!! This is a draft syllabus and subject to potentially major changes before the end of Week 1**
+v0.01 24 DEC 2025 **WARNING!!! This is a draft syllabus and subject to potentially major changes before the end of Week 1**
 
 # COGS 108: Data Science in Practice
 
@@ -41,17 +41,15 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.app.google/RoadDP23hFD5JpuW9) | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
-| TA	         |     Zheng Zeng  | A03/A08  | [Tue 9-11am on Zoom (signup required)](https://calendar.app.google/G2zveecnAo3DnoEM9)  | zhz094@ucsd.edu |
-| TA	         |     Susmit Singh  | B01/B02  | Wed 11am-12pm in CSB114 and Friday 11am-12pm on Zoom (https://ucsd.zoom.us/j/94850384354) | sus018@ucsd.edu |
-| TA	         |     Jason Chen  | B07/B08  | Tue 3-5pm on Zoom [(signup required)](https://calendar.app.google/UDK6WdjLhUEjkya26) | [xic007@ucsd.edu](mailto:xic007@ucsd.edu) |
-| TA	         |     Liz Kaplan  | A04/B06  | Wed 2-3 pm CSB235 & Thursday 2-3 pm on zoom (link: (https://us04web.zoom.us/j/5101235759?pwd=6bTvQLlUpebI1nw0JHPMg0MNjgEWx5.1)) | likaplan@ucsd.edu |
-| TA	         |     Shreya Musini  |  A01/A02 | Wed 3-4 pm & Fri 3-4 pm on Zoom [(signup required)](https://calendar.app.google/vFn9GKXcPPDSBSLA7) | shmusini@ucsd.edu |
-| TA	         |     Kate Rebello  | B04/B05  | Wed 10-11 am in CSB280 & Fri 12-1 pm on Zoom (https://ucsd.zoom.us/j/95898154575) | karebello@ucsd.edu |
-| TA	         |     Rishabh Thapliyal  | A02/A05 | Mon 1-3 pm on Zoom [(signup required)](https://calendar.app.google/iL6Vt6p1pk678bUF7)| rthapliyal@ucsd.edu |
-| TA	         |    Ruby/Zhuojun Ying |A06/A07 | Tue 2:30-4:30pm on Zoom [(signup required)](https://calendar.app.google/6w3srVug61zhZgUP6)|z5ying@ucsd.edu |
-| PLA	         |    Nawab Mulla  | B04/B08 | Thursday 5:30-7:30PM on zoom [(signup required)](https://calendar.app.google/YHngLE3utkeLz94p6)|nmulla@ucsd.edu
-| PLA	         |    Belen Ramirez | A03/A06  | Thursday 1-2 pm on Zoom (https://ucsd.zoom.us/j/99126615041) | ber002@ucsd.edu  |
-| PLA	         |    your info here |   |  |   |
+| TA	         |    your info here   | |  | |
+| TA	         |    your info here   | |  | |
+| TA	         |    your info here   | |  | |
+| TA	         |    your info here   | |  | |
+| TA	         |    your info here   | |  | |
+| TA	         |    your info here   | |  | |
+| TA	         |    your info here   | |  | |
+| TA	         |    your info here    | |  | |
+| PLA	         |    your info here  |   |  |   |
 | PLA	         |    your info here |   |  |   |
 | PLA	         |    your info here |   |  |   |
 | PLA	         |    your info here |   |  |   |
@@ -61,9 +59,9 @@ In this course, you will try many methods. You’ll even be asked to implement a
 
 Course GitHub: https://github.com/COGS108  
 
-Course discussion, Q&A and regrades: [Link to join Ed](https://edstem.org/us/join/zGpRaJ)  
+Course discussion, Q&A and regrades: [Link to join Ed](https://edstem.org/us/join/dseZBP)  
 
-Course Canvas: https://canvas.ucsd.edu/courses/68403
+Course Canvas: https://canvas.ucsd.edu/courses/71276
 
 Assignment and lab submission: https://datahub.ucsd.edu  
 
@@ -166,8 +164,8 @@ This quarter there are two sections of lecture. For the first two weeks please a
 
 | Section |  Time and Location |
 |:--------|:---------------------|
-| A00 | 10AM MWF [Jeannie Auditorium](https://map.concept3d.com/?id=1005#!s/JEANN_Main?ct/18312) |
-| B00 | 2PM  MWF [Galbraith 242](https://map.concept3d.com/?id=1005#!s/GH_Main?ct/18312) |
+| A00 | 10AM MWF [Peterson 108](https://map.concept3d.com/?id=1005#!s/PETER_Main?ct/18312) |
+| B00 | 2PM  MWF [Peterson 108](https://map.concept3d.com/?id=1005#!s/PETER_Main?ct/18312)|
 
 Please bring a smartphone or tablet or laptop to lecture for occaisional live polling via Google Form. Up to 1% of your grade will be given for participating in at least 20 out of the 30 or more such exercises that will be offerred.  Most lectures have 1 or 2 such exercises, but some lectures may not have any.
 
@@ -181,8 +179,6 @@ At the end of each Friday, a quiz with 10-20 questions will be released, coverin
 
 # DISCUSSION SECTION
 
-*THERE IS NO SECTION WEEK 0!!!* 
-
 Discussion sections are a place where you will be able to ask questions, get help on technical topics, work on your group projects, and discuss the weekly lab exercises. If you are struggling with course material come to discussion section and/or office hours!
 
 The first discussion section will start in Week 1 with a Python review.  After that week sections will concentrate on helping students with the weekly lab exercises and assignments.
@@ -191,23 +187,7 @@ For the first two weeks please attend the section you were assigned.  After that
 
 | Section |  Time and Location | TA   |
 |:--------|:-------------------|:-----|
-| A01	|	M 11:00a-11:50a [CSB 5](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | Shreya Musini |
-| A02	|	M 12:00p-12:50p [CSB 4](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | Rishabh Thapliyal  |
-| A03	| M 1:00p-1:50p  [RWAC 115](https://map.concept3d.com/?id=1005#!s/RWAC_Main?ct/18312) | Zheng Zeng |
-| A04	|	M 2:00p-2:50p   [CSB 4](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)    |  Liz Kaplan |
-| A05	|	 M  3:00p-3:50p  [DIB 122](https://map.concept3d.com/?id=1005#!s/DIB_Main?ct/18312)  | Rishabh Thapliyal |
-| A06	|	M 4:00p-4:50p    [DIB 121](https://map.concept3d.com/?id=1005#!s/DIB_Main?ct/18312)  | Ruby Ying |
-| A07	|	  M 5:00p-5:50p   [DIB 121](https://map.concept3d.com/?id=1005#!s/DIB_Main?ct/18312)  | Ruby Ying |
-| A08 | M 9:00a-9:50a   [CSB 4](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)  | Zheng Zeng |
-| B01	|	W 9:00a-9:50a [DIB 121](https://map.concept3d.com/?id=1005#!s/DIB_Main?ct/18312)   | Susmit Singh |
-| B02	|	 W 10:00a-10:50a [CSB 4](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)  | Susmit Singh|
-| B03	|	 W 11:00a-11:50a [RWAC 115](https://map.concept3d.com/?id=1005#!s/RWAC_Main?ct/18312)   | Shreya Musini |
-| B04	|   W 12:00p-12:50p [PCYNH 121](https://map.concept3d.com/?id=1005#!s/PCYNH_Main?ct/18312) | Kate Rebello|
-| B05	|	  W 1:00p-1:50p   [CSB 4](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) |Kate Rebello |
-| B06	|	 W 3:00p-3:50p   [CSB 5](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)  | Liz Kaplan|
-| B07	|	 W 4:00p-4:50p   [CSB 4](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)  | Jason Chen|
-| B08	|	 W 5:00p-5:50p   [CSB 4](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)  | Jason Chen |
-
+| A01	| more content coming soon | |
 
 
 ## Discussion section lab exercises
@@ -288,39 +268,9 @@ There are also components of the project that must be completed individually. St
 # COURSE SCHEDULE
 |        | Week   | Day | Lecture topic             | Section covers        | Due today                                                      |
 | ------ | ------ | --- | ------------------------- | --------------------- | -------------------------------------------------------------- |
-| Sep-26 | 0      | F   | Welcome!                  | No section            |                                                                |
-| Sep-29 | 1      | M   | Version Control I         | python review         |                                                                |
-| Oct-01 | 1      | W   | Version Control II        | python review         |                                                                |
-| Oct-03 | 1      | F   | Data & Intuition I        |                       |                                                                |
-| Oct-06 | 2      | M   | Data & Intuition II       | git and conda (D1)    | Q1                                                             |
-| Oct-08 | 2      | W   | Data Wrangling            | git and conda (D1)    | Practice assignment, pre-course survey                         |
-| Oct-10 | 2      | F   | Ethics                    |                       | D1                                                             |
-| Oct-13 | 3      | M   | Data Science questions    | data (D2)             | Q2                                                             |
-| Oct-15 | 3      | W   | Data viz principles       | data (D2)             | GitHub ID, Group signup                                        |
-| Oct-17 | 3      | F   | EDA                       |                       | D2                                                             |
-| Oct-20 | 4      | M   | EDA II                    | viz / geospatial (D3) | Q3                                                             |
-| Oct-22 | 4      | W   | Geospatial                | viz / geospatial (D3) | A1, Project Review\*                                           |
-| Oct-24 | 4      | F   | Inference I               |                       | D3                                                             |
-| Oct-27 | 5      | M   | Inference II              | inference (D4)        | Q4                                                             |
-| Oct-29 | 5      | W   | Non parametric inference  | inference (D4)        | Project Proposal\*                                             |
-| Oct-31 | 5      | F   | Linear models I           |                       | D4                                                             |
-| Nov-03 | 6      | M   | Linear models II          | linear models (D5)    | Q5                                                             |
-| Nov-05 | 6      | W   | Linear models III         | linear models (D5)    | A2                                                             |
-| Nov-07 | 6      | F   | Dimensionality Reduction  |                       | D5                                                             |
-| Nov-10 | 7      | M   | Machine Learning I        | DR + ML (D6)          | Q6                                                             |
-| Nov-12 | 7      | W   | Machine Learning II       | DR + ML (D6)          | Checkpoint #1: Data\*                                          |
-| Nov-14 | 7      | F   | Machine Learning III      |                       | D6                                                             |
-| Nov-17 | 8      | M   | Machine Learning IV       | ML / text (D7)        | Q7                                                             |
-| Nov-19 | 8      | W   | Text I                    | ML / text (D7)        | A3                                                             |
-| Nov-21 | 8      | F   | Text II                   |                       | D7                                                             |
-| Nov-24 | 9      | M   | LLMs                      | how to be wrong (D8)  | Q8                                                             |
-| Nov-26 | 9      | W   | How to be wrong I         | how to be wrong (D8)  | Checkpoint #2: EDA\*                                           |
-| Nov-28 | 9      | F   | Thanksgiving - No lecture |                       | D8                                                             |
-| Dec-01 | 10     | M   | How to be wrong II        | Projects help         | Q9                                                             |
-| Dec-03 | 10     | W   | Guest lecture / catch up  | Projects help         | A4                                                             |
-| Dec-05 | 10     | F   | Big picture discussion    |                       |                                                                |
-| Dec-08 | Finals | M   |                           |                       |                                                                |
-| Dec-10 | Finals | W   |                           |                       | Final project\*, video\*, team eval survey, post-course survey |
+| Jan-05 | 1      | M   | Welcome!                  | Python review      |                                                                |
+| more content soon | 1      | W   |        |    |                                                                |
+
 
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
 
@@ -435,6 +385,6 @@ That said, to ensure that we’re respecting their time, TAs and IAs have been i
 - **Been stuck on something for a while (>30min) and aren’t even really sure where to start**: Programming can be frustrating and it may not always be obvious what is going wrong or why something isn’t working. That’s ok - we’ve all been there! IF you are stuck, you can and should reach out for help, even if you aren’t exactly sure what your specific question is. To determine when to reach out, consider the 2-hour rule. This rule states that if you are stuck, work on that problem for an hour. Then, take a 30 minute break and do something else. When you come back after your break, try for another 30 minutes or so to solve your problem. If you are still completely stuck, stop and contact us (office hours, post on EdStem). If you don’t have a specific question, include the information you have (what you’re stuck on, the code you’ve been trying that hasn’t been happening, and/or the error messages you’ve been getting).
 - **Questions about course logistics**: First, check the syllabus. If the answer is not there, ask a classmate. If you still are unsure,  post on EdStem
 - **Questions about a grade**: Post a note to instructors on EdStem and select the ‘regrade requests’ tag. Include specifics as to why you feel you mistakenly/unfairly lost points in that post.
-- **Something super cool to share related to class**: feel free to post on EdStem ('social' tag), email the prof, or come to office hours. Be sure to include COG S108 in the email subject line and your full name in your message.
+- **Something super cool to share related to class**: feel free to post on EdStem ('social' tag), email the prof, or come to office hours. Be sure to include COGS108 in the email subject line and your full name in your message.
 - **Something you want to talk about in-depth**: meet in person during office hours or schedule a time to meet by email. Be sure to include COGS 108 in the email subject line.
 - **Some feedback about the course you want to share anonymously**: If you’ve been offended by an example in class, really liked or disliked a lesson, or wish there were something covered in class that wasn’t but would rather not share this publicly, etc., please fill out the anonymous [Google Form](https://forms.gle/MnBrvofZY7YxnwYMA)
