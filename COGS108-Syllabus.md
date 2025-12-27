@@ -1,4 +1,4 @@
-v0.01 24 DEC 2025 **WARNING!!! This is a draft syllabus and subject to potentially major changes before the end of Week 1**
+v0.02 26 DEC 2025 **WARNING!!! This is a draft syllabus and subject to potentially major changes before the end of Week 1**
 
 # COGS 108: Data Science in Practice
 
@@ -187,7 +187,20 @@ For the first two weeks please attend the section you were assigned.  After that
 
 | Section |  Time and Location | TA   |
 |:--------|:-------------------|:-----|
-| A01	| more content coming soon | |
+| A01 | F 11:00a-11:50a | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)  4     | TBD |
+| A02 | F 12:00p-12:50p | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)    5     | TBD |
+| A03 | F 1:00p-1:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)    4     | TBD |
+| A04 | M 2:00p-2:50p   | [PCYNH](https://map.concept3d.com/?id=1005#!s/PCYNH_Main?ct/18312) 120   | TBD |
+| A05 | M  3:00p-3:50p   | [PCYNH](https://map.concept3d.com/?id=1005#!s/PCYNH_Main?ct/18312) 120   | TBD |
+| A06 | W 4:00p-4:50p   | [CENTR](https://map.concept3d.com/?id=1005#!s/CENTR_Main?ct/18312) 222   | TBD |
+| A07 | F 9:00a-9:50a   | [WLH](https://map.concept3d.com/?id=1005#!s/WLH_Main?ct/18312) 2205  | TBD |
+| B01 | W  10:00a-10:50a | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) 5     | TBD |
+| B02 | W  11:00a-11:50a | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) 4     | TBD |
+| B03 | W 12:00p-12:50p | [PCYNH](https://map.concept3d.com/?id=1005#!s/PCYNH_Main?ct/18312) 120   | TBD |
+| B04 | W 1:00p-1:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) 5     | TBD |
+| B05 | W  3:00p-3:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) 4     | TBD |
+| B06 | W 4:00p-4:50p   | [WLH](https://map.concept3d.com/?id=1005#!s/WLH_Main?ct/18312) 2111  | TBD |
+| B07 | W 5:00p-5:50p   | [MANDE](https://map.concept3d.com/?id=1005#!s/MANDE_Main?ct/18312) B-150 | TBD |
 
 
 ## Discussion section lab exercises
@@ -266,14 +279,43 @@ There are also components of the project that must be completed individually. St
 ---
 
 # COURSE SCHEDULE
-|        | Week   | Day | Lecture topic             | Section covers        | Due today                                                      |
-| ------ | ------ | --- | ------------------------- | --------------------- | -------------------------------------------------------------- |
-| Jan-05 | 1      | M   | Welcome!                  | Python review      |                                                                |
-| more content soon | 1      | W   |        |    |                                                                |
-
+| Date   | Week   | Day | Lecture topic                 | Section covers            | Due today                                                      |
+| ------ | ------ | --- | ----------------------------- | ------------------------- | -------------------------------------------------------------- |
+| Jan-05 | 1      | M   | Welcome!                      | python review             |                                                                |
+| Jan-07 | 1      | W   | Version Control I             | python review             |                                                                |
+| Jan-09 | 1      | F   | Version Control II            | python review             |                                                                |
+| Jan-12 | 2      | M   | Data & Intuition I            | git and conda (D1)        | Q1                                                             |
+| Jan-14 | 2      | W   | Data & Intuition II           | git and conda (D1)        | Practice assignment, pre-course survey                         |
+| Jan-16 | 2      | F   | Data Wrangling                | git and conda (D1)        | D1                                                             |
+| Jan-19 | 3      | M   | MLK Day -- No Lecture         | MLK Day -- No Lab         | Q2                                                             |
+| Jan-21 | 3      | W   | Ethics                        | data (D2)                 | GitHub ID, Group signup                                        |
+| Jan-23 | 3      | F   | Data Science questions        | data (D2)                 | D2                                                             |
+| Jan-26 | 4      | M   | Data viz principles           | viz / geospatial (D3)     | Q3                                                             |
+| Jan-28 | 4      | W   | Analysis^ and EDA             | viz / geospatial (D3)     | A1, Project Review\*                                           |
+| Jan-30 | 4      | F   | Geospatial                    | viz / geospatial (D3)     | D3                                                             |
+| Feb-02 | 5      | M   | Inference I                   | inference (D4)            | Q4                                                             |
+| Feb-04 | 5      | W   | Inference II                  | inference (D4)            | Project Proposal\*                                             |
+| Feb-06 | 5      | F   | Non parametric inference      | inference (D4)            | D4                                                             |
+| Feb-09 | 6      | M   | Linear models I               | linear models (D5)        | Q5                                                             |
+| Feb-11 | 6      | W   | Linear models II & III^       | linear models (D5)        | A2                                                             |
+| Feb-13 | 6      | F   | Dimensionality Reduction      | linear models (D5)        | D5                                                             |
+| Feb-16 | 7      | M   | President's Day -- No Lecture | President's Day -- No Lab | Q6                                                             |
+| Feb-18 | 7      | W   | Machine Learning I            | DR + ML (D6)              | Checkpoint #1: Data\*                                          |
+| Feb-20 | 7      | F   | Machine Learning II           | DR + ML (D6)              | D6                                                             |
+| Feb-23 | 8      | M   | Machine Learning III          | ML / text (D7)            | Q7                                                             |
+| Feb-25 | 8      | W   | Machine Learning IV & Text I^ | ML / text (D7)            | A3                                                             |
+| Feb-27 | 8      | F   | Text II                       | ML / text (D7)            | D7                                                             |
+| Mar-02 | 9      | M   | LLMs                          | how to be wrong (D8)      | Q8                                                             |
+| Mar-04 | 9      | W   | How to be wrong I             | how to be wrong (D8)      | Checkpoint #2: EDA\*                                           |
+| Mar-06 | 9      | F   | How to be wrong II            | how to be wrong (D8)      | D8                                                             |
+| Mar-09 | 10     | M   | Guest lecture / catch up      | Projects help             | Q9                                                             |
+| Mar-11 | 10     | W   | Guest lecture / catch up      | Projects help             | A4                                                             |
+| Mar-13 | 10     | F   | Big picture discussion        | Projects help             |                                                                |
+| Mar-16 | Finals | M   |                               |                           |                                                                |
+| Mar-18 | Finals | W   |                               |                           | Final project\*, video\*, team eval survey, post-course survey |
 
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
-
+\^ indicates compressed lecture coverage in winter quarter since we have fewer instruction days than normal.  these are the points we are most likely to go off schedule
 ---
 
 # OTHER GOOD STUFF
