@@ -41,7 +41,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.app.google/RoadDP23hFD5JpuW9) | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
-| TA	         |    Susmit Singh   | B01, B02|  Wed 12:00 - 1:00, Location TBD), Fri 11:00 - 12:00 (https://ucsd.zoom.us/j/91724920283)| sus018@ucsd.edu|
+| TA	         |    Susmit Singh   | B01, B02|  Wed 12:00 - 1:00 (Location TBD), Fri 11:00 - 12:00 (https://ucsd.zoom.us/j/91724920283)| sus018@ucsd.edu|
 | TA	         |    your info here   | |  | |
 | TA	         |    your info here   | |  | |
 | TA	         |    your info here   | |  | |
