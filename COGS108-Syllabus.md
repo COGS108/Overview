@@ -42,7 +42,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.app.google/RoadDP23hFD5JpuW9) | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
 | TA	         |    Susmit Singh   | B01, B02|  Wed 12:00 - 1:00 (CSB 114), Fri 11:00 - 12:00 (https://ucsd.zoom.us/j/91724920283)| sus018@ucsd.edu|
-| TA	         |    your info here   | |  | |
+| TA	         |    Ruby/Zhuojun Ying   | A04, A05|Tues 14:30 - 16:40, signup required [https://calendar.app.google/c4ki1JigL9CxjK6H9]|z5ying@ucsd.edu|
 | TA	         |    your info here   | |  | |
 | TA	         |    your info here   | |  | |
 | TA	         |    your info here   | |  | |
