@@ -45,7 +45,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |    Ruby/Zhuojun Ying   | A04, A05|Tues 14:30 - 16:40, [signup required](https://calendar.app.google/c4ki1JigL9CxjK6H9)|z5ying@ucsd.edu|
 | TA	         |    Holly/Yueying Dong   | A03| Friday 2pm - 4pm, [signup required](https://calendar.app.google/pkCu8CG2bvGFoktS7)  | yud070@ucsd.edu |
 | TA	         |    Zhining Chen   | A07 | Monday 4-6pm, [signup required](https://calendar.app.google/WeF5zU56DkK8EeBN9) | zhc008@ucsd.edu |
-| TA	         |    your info here   | |  | |
+| TA	         |    Niranjan Rajesh   | A01, B03 | Friday 3-5pm (https://ucsd.zoom.us/j/91808301173)  | nirajesh@ucsd.edu |
 | TA	         |    your info here   | |  | |
 | TA	         |    your info here   | |  | |
 | TA	         |    your info here    | |  | |
