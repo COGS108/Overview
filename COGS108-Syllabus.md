@@ -48,7 +48,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |    Niranjan Rajesh   | A01, B03 | Thursday 5-6pm [(Zoom)](https://ucsd.zoom.us/j/91808301173), <br>Friday 12-1pm [(CSB Courtyard / Pantry)](https://maps.app.goo.gl/ym9xqiAxouwKhVcW9)  | nirajesh@ucsd.edu |
 | TA	         |    Aaron Cohen   | A06, B07 | Pending | aac011@ucsd.edu |
 | TA	         |    Chaitanya Kapoor | A02, B05 | Monday 8-10am [signup required](https://calendly.com/ckapoor7/ta-office-hours) | c1kapoor@ucsd.edu |
-| TA	         |    your info here    | |  | |
+| TA	         |    Shreya Musini    | B04, B06 | Tues 1pm - 2pm, Thurs 2pm - 3pm [signup required](https://calendar.app.google/9qw3LY1zsETFHdT26)  | shmusini@ucsd.edu |
 | PLA	         |    your info here  |   |  |   |
 | PLA	         |    your info here |   |  |   |
 | PLA	         |    your info here |   |  |   |
