@@ -373,7 +373,7 @@ You can use AI to help you write as long as you
 
 ## Disability Access
 
-Students requesting accommodations due to a disability must provide a current Authorization for Accommodation (AFA) letter. These letters are issued by the Office for Students with Disabilities (OSD), which is located in University Center 202 behind Center Hall. Please make arrangements to contact Prof Ellis privately to arrange accommodations. If you are struggling to get a meeting with OSD, you can let Prof Ellis know and she’s likely able to help accommodate while you work to get official documentation.
+Students requesting accommodations due to a disability must provide a current Authorization for Accommodation (AFA) letter. These letters are issued by the Office for Students with Disabilities (OSD), which is located in University Center 202 behind Center Hall. Please make arrangements to contact Prof Ellis privately to arrange accommodations. If you are struggling to get a meeting with OSD, you can let the professor know and they may  be able to help accommodate while you work to get official documentation.
 Contacting the OSD can help you further:
 858.534.4382 (phone)
 [osd@ucsd.edu](mailto:osd@ucsd.edu) (email)
