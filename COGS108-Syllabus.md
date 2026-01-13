@@ -227,7 +227,7 @@ But how should you help one another on assignments? You should: ask a question t
 
 ### Turning In Assignments
 
-Assignments will be submitted individually on datahub. Assignments will always be released a week before the assignment due date. On weeks with assignment deadlines, they will always be due Wednesdays at 11:59 PM of the week specified (see Course Schedule below).
+Assignments will be submitted individually on datahub. Assignments will always be released a week before the assignment due date. On weeks with assignment deadlines, they will always be due Fridays at 11:59 PM of the week specified (see Course Schedule below).
 
 **Check to ensure that your file shows up under “Submitted assignments” on datahub after you click submit!!!**. If the file is the incorrect version of the file, corrupted, or otherwise unreadable, then you will lose the appropriate number of points. If you accidentally click submit after the deadline and before we grade it then we will mark your work as late. There will be at least a dozen people each quarter who tell say "I'm so sorry there was a mistake when I clicked submit! Can I please get it graded without late?" And my answer will be no. Do not be that person!
 
