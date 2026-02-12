@@ -42,7 +42,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.app.google/RoadDP23hFD5JpuW9) | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
 | TA	         |    Susmit Singh   | B01, B02|  Wed 12:00 - 1:00 (CSB 114), Fri 11:00 - 12:00 (https://ucsd.zoom.us/j/91724920283)| sus018@ucsd.edu|
-| TA	         |    Ruby/Zhuojun Ying   | A04, A05|Tues 14:30 - 16:40, [signup required](https://calendar.app.google/c4ki1JigL9CxjK6H9)|z5ying@ucsd.edu|
+| TA	         |    Ruby/Zhuojun Ying   | A04, A05|Mon 16:15 - 18:15, [signup required](https://calendar.app.google/c4ki1JigL9CxjK6H9)|z5ying@ucsd.edu|
 | TA	         |    Holly/Yueying Dong   | A03| Friday 2pm - 4pm, [signup required](https://calendar.app.google/pkCu8CG2bvGFoktS7)  | yud070@ucsd.edu |
 | TA	         |    Zhining Chen   | A07 | Monday 4-6pm, [signup required](https://calendar.app.google/WeF5zU56DkK8EeBN9) | zhc008@ucsd.edu |
 | TA	         |    Niranjan Rajesh   | A01, B03 | Thursday 5-6pm ([Zoom](https://ucsd.zoom.us/j/91808301173) - [signup required](https://calendar.app.google/wekzaVSXG94eXSaH8)), <br>Friday 12-1pm (CSB Courtyard - [signup required](https://calendar.app.google/4QKPzJotbAdhPu3Q7))  | nirajesh@ucsd.edu |
@@ -227,7 +227,7 @@ But how should you help one another on assignments? You should: ask a question t
 
 ### Turning In Assignments
 
-Assignments will be submitted individually on datahub. Assignments will always be released a week before the assignment due date. On weeks with assignment deadlines, they will always be due Wednesdays at 11:59 PM of the week specified (see Course Schedule below).
+Assignments will be submitted individually on datahub. Assignments will always be released a week before the assignment due date. On weeks with assignment deadlines, they will always be due Fridays at 11:59 PM of the week specified (see Course Schedule below).
 
 **Check to ensure that your file shows up under “Submitted assignments” on datahub after you click submit!!!**. If the file is the incorrect version of the file, corrupted, or otherwise unreadable, then you will lose the appropriate number of points. If you accidentally click submit after the deadline and before we grade it then we will mark your work as late. There will be at least a dozen people each quarter who tell say "I'm so sorry there was a mistake when I clicked submit! Can I please get it graded without late?" And my answer will be no. Do not be that person!
 
@@ -373,7 +373,7 @@ You can use AI to help you write as long as you
 
 ## Disability Access
 
-Students requesting accommodations due to a disability must provide a current Authorization for Accommodation (AFA) letter. These letters are issued by the Office for Students with Disabilities (OSD), which is located in University Center 202 behind Center Hall. Please make arrangements to contact Prof Ellis privately to arrange accommodations. If you are struggling to get a meeting with OSD, you can let Prof Ellis know and she’s likely able to help accommodate while you work to get official documentation.
+Students requesting accommodations due to a disability must provide a current Authorization for Accommodation (AFA) letter. These letters are issued by the Office for Students with Disabilities (OSD), which is located in University Center 202 behind Center Hall. Please make arrangements to contact Prof Ellis privately to arrange accommodations. If you are struggling to get a meeting with OSD, you can let the professor know and they may  be able to help accommodate while you work to get official documentation.
 Contacting the OSD can help you further:
 858.534.4382 (phone)
 [osd@ucsd.edu](mailto:osd@ucsd.edu) (email)
