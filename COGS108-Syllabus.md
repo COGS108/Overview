@@ -114,7 +114,7 @@ We also maintain [a list of readings that can provide insight into various data 
 | Project Proposal\*     | 1      | 10%  | 10%         |
 | Project Checkpoints\*  | 2      | 10%  | 20%         |
 | Final Report\*         | 1      | 15%  | 15%         |
-| Final Video\*          | 1      | 4%   | 4%          |
+| Final Video\*          | 1      | 3%   | 3%          |
 | Team Evaluation Survey | 1      | 1%   | 1%          |
 
 \* Indicates Group Submission
