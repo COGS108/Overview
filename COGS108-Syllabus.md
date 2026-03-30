@@ -182,22 +182,22 @@ If there are free seats you may attend any section you prefer, but if the seats 
 
 | Section |  Time and Location | TA   |
 |:--------|:-------------------|:-----|
-| A01 | W	5:00p-5:50p | GH	242    | TBD |
-| A02 | W	11:00a-11:50a | DIB	121    | Jessica |
-| A03 | W	12:00p-12:50p   | DIB	121   | Jessica |
-| A04 | W	1:00p-1:50p  | COA	B17  | Shreya |
-| A05 | W	2:00p-2:50p   | COA	B17   | Shreya |
-| A06 | W	3:00p-3:50p   | COA	B26	 | Jessica |
-| A07 | W	4:00p-4:50p   | COA	B26	 | Shreya |
-| A08 | W	6:00p-6:50p | CSB	5    | Chaitanya |
-| B01 | F	9:00a-9:50a| DIB 121     | TBD |
-| B02 | F	10:00a-10:50a | COA	B17    | Zhicheng |
-| B03 |F	11:00a-11:50a | COA	B26   | Zhicheng|
-| B04 | F	12:00p-12:50p   | COA	B17   | Zhicheng|
-| B05 | F	1:00p-1:50p   | PCYNH	120    | TBD |
-| B06 | F	4:00p-4:50p   | CSB	5    | Chaitanya |
-| B07 |F	3:00p-3:50p   | CSB	5 | TBD |
-| B08 | F	5:00p-5:50p | CSB	5    | Chaitanya |
+| A01 | W	5:00p-5:50p GH	242    | TBD |
+| A02 | W	11:00a-11:50a DIB	121    | Jessica |
+| A03 | W	12:00p-12:50p   DIB	121   | Jessica |
+| A04 | W	1:00p-1:50p   COA	B17  | Shreya |
+| A05 | W	2:00p-2:50p    COA	B17   | Shreya |
+| A06 | W	3:00p-3:50p    COA	B26	 | Jessica |
+| A07 | W	4:00p-4:50p    COA	B26	 | Shreya |
+| A08 | W	6:00p-6:50p CSB	5    | Chaitanya |
+| B01 | F	9:00a-9:50a DIB 121     | TBD |
+| B02 | F	10:00a-10:50a  COA	B17    | Zhicheng |
+| B03 |F	11:00a-11:50a  COA	B26   | Zhicheng|
+| B04 | F	12:00p-12:50p  COA	B17   | Zhicheng|
+| B05 | F	1:00p-1:50p   PCYNH	120    | TBD |
+| B06 | F	4:00p-4:50p   CSB	5    | Chaitanya |
+| B07 |F	3:00p-3:50p  CSB	5 | TBD |
+| B08 | F	5:00p-5:50p  CSB	5    | Chaitanya |
 
 ## Discussion section lab exercises
 
