@@ -1,8 +1,8 @@
-v0.02 26 DEC 2025 **WARNING!!! This is a draft syllabus and subject to potentially major changes before the end of Week 1**
+v0.01 29 Mar 2026 **WARNING!!! This is a draft syllabus and subject to potentially major changes before the end of Week 1**
 
 # COGS 108: Data Science in Practice
 
-**Fall 2025**  
+**Spring 2026**  
 
 
 ---
@@ -41,15 +41,13 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.app.google/RoadDP23hFD5JpuW9) | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
-| TA	         |    Susmit Singh   | B01, B02|  Wed 12:00 - 1:00 (CSB 114), Fri 11:00 - 12:00 (https://ucsd.zoom.us/j/91724920283)| sus018@ucsd.edu|
-| TA	         |    Ruby/Zhuojun Ying   | A04, A05|Mon 16:15 - 18:15, [signup required](https://calendar.app.google/c4ki1JigL9CxjK6H9)|z5ying@ucsd.edu|
-| TA	         |    Holly/Yueying Dong   | A03| Friday 2pm - 4pm, [signup required](https://calendar.app.google/pkCu8CG2bvGFoktS7)  | yud070@ucsd.edu |
-| TA	         |    Zhining Chen   | A07 | Monday 4-6pm, [signup required](https://calendar.app.google/WeF5zU56DkK8EeBN9) | zhc008@ucsd.edu |
-| TA	         |    Niranjan Rajesh   | A01, B03 | Thursday 5-6pm ([Zoom](https://ucsd.zoom.us/j/91808301173) - [signup required](https://calendar.app.google/wekzaVSXG94eXSaH8)), <br>Friday 12-1pm (CSB Courtyard - [signup required](https://calendar.app.google/4QKPzJotbAdhPu3Q7))  | nirajesh@ucsd.edu |
-| TA	         |    Aaron Cohen   | A06, B07 | Tuesday 12-2pm, Zoom or in-person [signup required](https://calendar.app.google/ARCuQw3UUAkdqkPs6) | aac011@ucsd.edu |
-| TA	         |    Chaitanya Kapoor | A02, B05 | Monday 8-10am [signup required](https://calendly.com/ckapoor7/ta-office-hours) | c1kapoor@ucsd.edu |
-| TA	         |    Shreya Musini    | B04, B06 | Tues 1pm - 2pm, Thurs 2pm - 3pm [signup required](https://calendar.app.google/9qw3LY1zsETFHdT26)  | shmusini@ucsd.edu |
-| PLA	         |    your info here  |   |  |   |
+| TA	         |    Jason Chen |  TBD  |  TBD | xic007@ucsd.edu  |
+| TA	         |    Beijie (Jessica) Cheng  | TBD  | TBD |  becheng@ucsd.edu |
+| TA	         |    Yueying (Holly) Dong   | TBD | TBD, [signup required](https://calendar.app.google/pkCu8CG2bvGFoktS7)  | yud070@ucsd.edu |
+| TA	         |    Chaitanya Kapoor | TBD | TBD [signup required](https://calendly.com/ckapoor7/ta-office-hours) | c1kapoor@ucsd.edu |
+| TA	         |    Shreya Musini    | TBD | TBD [signup required](https://calendar.app.google/9qw3LY1zsETFHdT26)  | shmusini@ucsd.edu |
+| TA	         |    Zhicheng (Jackson) Wang|  TBD | TBD |  zhw049@ucsd.edu |
+| PLA	         |    your info here |   |  |   |
 | PLA	         |    your info here |   |  |   |
 | PLA	         |    your info here |   |  |   |
 | PLA	         |    your info here |   |  |   |
@@ -59,9 +57,9 @@ In this course, you will try many methods. You’ll even be asked to implement a
 
 Course GitHub: https://github.com/COGS108  
 
-Course discussion, Q&A and regrades: [Link to join Ed](https://edstem.org/us/join/dseZBP)  
+Course discussion, Q&A and regrades: [Link to join Ed --- FIX THIS FOR NEW QUARTER]()  
 
-Course Canvas: https://canvas.ucsd.edu/courses/71276
+Course Canvas: https://canvas.ucsd.edu/courses/74005
 
 Assignment and lab submission: https://datahub.ucsd.edu  
 
@@ -91,10 +89,10 @@ Anonymous Course Feedback:  https://forms.gle/MnBrvofZY7YxnwYMA
 
 ### Optional Readings:
 
-There are no required readings for this course; however, this may be very helpful if you're struggling with material in the course, or if you'd like to go beyond the material and deepen your knowledge
+There are no required readings for this course. But this course challenges you to learn on your own.  If you're not sure where to start, the following texts may be very helpful in the course.
 
  - Frankel, A (2020) [Data Science In Pratice](https://afraenkel.github.io/ds-in-practice/content/introduction.html). Lecture notes for DSC 80 which has substantial overlap with this course
-- Vanderplas, J (2023, 2nd ed) [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook). Short and too the point. Both the text and the code are freely available on Github. Learn to use standard libraries to get things done.
+- Vanderplas, J (2023, 2nd ed) [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook). Short and to the point. Both the text and the code are freely available on Github. Learn to use standard libraries to get things done.
 - Grus J (2019, 2nd ed) Data Science from Scratch. This book takes you into HOWs and WHYs, rather than just learning to use a library you don't really understand.  This is the harder book, but you will grow tremendously working though it. [Can be accessed for free through your UCSD login](https://library.ucsd.edu/news-events/oreilly-for-higher-education/)
 
 We also maintain [a list of readings that can provide insight into various data science topics](https://github.com/COGS108/Readings).
@@ -104,18 +102,18 @@ We also maintain [a list of readings that can provide insight into various data 
 
 # GRADING
 
-|                        | number | each | % of grade |
-| ---------------------- | ------ | ---- | ----------- |
-| Labs                   | 8      | 2%   | 16%         |
-| Quizzes                | 8      | 1%   | 8%          |
-| Assignments            | 4      | 6%   | 24%         |
-| In-class exercises     | 20     | 0.05% | 1%         |
-| Project Review\*       | 1      | 2%   | 2%          |
-| Project Proposal\*     | 1      | 10%  | 10%         |
-| Project Checkpoints\*  | 2      | 10%  | 20%         |
-| Final Report\*         | 1      | 15%  | 15%         |
-| Final Video\*          | 1      | 3%   | 3%          |
-| Team Evaluation Survey | 1      | 1%   | 1%          |
+|                                                    | number | each  | total grade |
+| -------------------------------------------------- | ------ | ----- | ----------- |
+| Assignments                                        | 4      | 6%    | 24%         |
+| Labs                                               | 8      | 2%    | 16%         |
+| In-section quizzes (8 total, lowest 2 dropped)     | 6      | 1.5%  | 9%          |
+| In-lecture exercises (30 total, lowest 10 dropped) | 20     | 0.05% | 1%          |
+| Project Review\*                                   | 1      | 1%    | 1%          |
+| Project Proposal\*                                 | 1      | 10%   | 10%         |
+| Project Checkpoints\*                              | 2      | 10%   | 20%         |
+| Final Report\*                                     | 1      | 15%   | 15%         |
+| Final Video\*                                      | 1      | 3%    | 3%          |
+| Team Evaluation Survey                             | 1      | 1%    | 1%          |
 
 \* Indicates Group Submission
 
@@ -123,12 +121,14 @@ We also maintain [a list of readings that can provide insight into various data 
 
 All grades will be released on Canvas. It is *your responsibility to check that your assignment was submitted, that your grade is accurate, and to get in touch if any are missing and/or you think there is a problem*.
 
-Extra credit worth up to 2.5% of the final grade will be awarded for
-- Exceptional participation on EdStem discussion board: Roughly the top 3 - 5% of contributors will get 0.5% bonus to their final grade.  Starting/participating in good discussions, organizing things, answering questions, etc.
+Extra credit worth up to 2% of the final grade will be awarded for
+- Exceptional performance on the final report: meeting the "Excellent" category on more than 5 rubric items will get 0.5% bonus to the final grade.
+- Exceptional participation on EdStem discussion board: Roughly the top 20 contributors will get 0.25% bonus to their final grade.  You're more likely to make the cut if you help organize things, participate in good discussions and help answer questions, and less likely to make the cut if you just ask a lot of random questions.
 - Answering the pre & post course surveys will give 0.5% extra credit (0.25% each for 0.5% total)
-- Attending guest lecture(s) in-person is 0.5% extra credit  
-- Filling out all 7 of the weekly project progress surveys (0.5% of grade, see Project section below)
-- If >2/3 of the students fill out SET teaching evaluations at the end of the quarter there will be an extra 0.5% of the final grade for everyone.  BTW this EC criteria has not been met since the zoom classes of the pandemic, why won't the current generation of students actually fill out evals?
+- Attending guest lecture(s) in-person is 0.25% extra credit  
+- Filling out all 7 of the weekly project progress surveys (0.25% of grade, see Project section below)
+- If >2/3 of the students fill out SET teaching evaluations at the end of the quarter there will be an extra 0.5% of the final grade for everyone.  BTW this EC criteria has not been met since 2022, why won't the current generation of students actually fill out evals?
+
 
 Our grading scale is
 
@@ -142,15 +142,11 @@ Our grading scale is
 | B-  | < 84 % to 80% |   |  |
 
 
-
-
-
-
-Know that a third of the class typically feels overwhelmed at the start of the quarter. That said, the average is quite high in this course (typically A-). So, while we anticipate you all doing well in this course, if you are feeling lost or overwhelmed, that’s ok! Should that occur, we recommend: (1) asking questions in class, (2) attending office hours and/or (3) asking for help on EdStem.
+Know that a third of the class typically feels overwhelmed at the start of the quarter. That said, the average is quite high in this course (typically A). So, while we anticipate you all doing well in this course, if you are feeling lost or overwhelmed, that’s ok! Should that occur, we recommend: (1) asking questions in class, (2) attending office hours and/or (3) asking for help on EdStem.
 
 ### Attendance
 
-I continue to believe that attending in-person is the best way to learn for most people. Our goal is to make the lecture and discussion section worth your while to attend through interactive content and making it a good place to get questions answered. We will also be trying out active learning paradigms this quarter. There will be some live coding exercises both as individuals and some think-pair-share setups.  If you can't come to a particular class session or two that's fine, but if you're planning to never come I think you're making a mistake.
+I continue to believe that attending in-person is the best way to learn for most people. Our goal is to make the lecture and discussion section worth your while to attend through interactive content and making it a good place to get questions answered.  If you can't come to a particular class session or two that's fine, but if you're planning to never come I think you're making a mistake.
 
 ### In-person illness policy
 Please do not attend any in-person activity (lecture/section/office hours) if you are feeling ill, especially if you are sneezing/coughing and have a fever. If you feel mildly ill but without sneezing/coughing, or if you have bad allergies, then you may come to in-person events while wearing a well-fitting mask.  
@@ -160,88 +156,95 @@ Please do not attend any in-person activity (lecture/section/office hours) if yo
 
 # LECTURE
 
-This quarter there are two sections of lecture. For the first two weeks please attend the section you were assigned.  After that there will probably be enough free seats for you to attend the section you prefer, and I'm ok with that.  I will podcast one of the two sections.
+This quarter there are two sections of lecture. For the first week please attend the section you were assigned.  After that there will probably be enough free seats for you to attend the section you prefer, and I'm ok with that.  I will podcast one of the two sections.
 
 | Section |  Time and Location |
 |:--------|:---------------------|
-| A00 | 10AM MWF [Peterson 108](https://map.concept3d.com/?id=1005#!s/PETER_Main?ct/18312) |
-| B00 | 2PM  MWF [Peterson 108](https://map.concept3d.com/?id=1005#!s/PETER_Main?ct/18312)|
+| A00 | 10AM MWF [GH 242](https://map.concept3d.com/?id=1005#!s/GH_Main?ct/18312) |
+| B00 | 2PM  MWF [GH 242](https://map.concept3d.com/?id=1005#!s/GH_Main?ct/18312) |
 
 Please bring a smartphone or tablet or laptop to lecture for occaisional live polling via Google Form. Up to 1% of your grade will be given for participating in at least 20 out of the 30 or more such exercises that will be offerred.  Most lectures have 1 or 2 such exercises, but some lectures may not have any.
 
-DO NOT COME TO LECTURE IF YOU ARE ILL! You won't impact your attendance credit if you take some time off.
-
-### Lecture Quizzes
-
-At the end of each Friday, a quiz with 10-20 questions will be released, covering the material from lecture that week. The quiz will be due the following Monday. For example, the first quiz will be released Friday of week 1, covering week 1 material, and will be due the Monday at 11:59 PM of week 2. If you miss a question you will have one chance to retake it for credit. *YOU CANNOT TAKE or RETAKE A QUIZ LATE*, but your lowest quiz score (for instance if you miss a quiz) will be dropped.
+DO NOT COME TO LECTURE IF YOU ARE ILL! You won't impact your attendance credit if you take some time off since you can miss 1/3 of the in class exercises without loss of points.
 
 ---
 
 # DISCUSSION SECTION
 
-Discussion sections are a place where you will be able to ask questions, get help on technical topics, work on your group projects, and discuss the weekly lab exercises. If you are struggling with course material come to discussion section and/or office hours!
+Discussion sections will
+- review the previous week's material
+- administer a 20 min quiz on the previous week's material
+- provide help for the week's discussion lab, assignments, or any topic
 
-The first discussion section will start in Week 1 with a Python review.  After that week sections will concentrate on helping students with the weekly lab exercises and assignments.
+In Week 1 discussion section is a Python review; but there will be no quiz or any turn-in item that week.  For subsequent weeks sections will follow the bullet points above and there will be both a quiz and help with turn-in items for the week.    
 
-For the first two weeks please attend the section you were assigned.  After that there will probably be enough free seats for you to attend the section you prefer, and I'm ok with that. 
+If there are free seats you may attend any section you prefer, but if the seats are full and you are not registered for that section please leave so someone who is supposed to be there can participate. 
 
 | Section |  Time and Location | TA   |
 |:--------|:-------------------|:-----|
-| A01 | F 11:00a-11:50a | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)  4     | TBD |
-| A02 | F 12:00p-12:50p | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)    5     | TBD |
-| A03 | F 1:00p-1:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312)    4     | TBD |
-| A04 | M 2:00p-2:50p   | [PCYNH](https://map.concept3d.com/?id=1005#!s/PCYNH_Main?ct/18312) 120   | TBD |
-| A05 | M  3:00p-3:50p   | [PCYNH](https://map.concept3d.com/?id=1005#!s/PCYNH_Main?ct/18312) 120   | TBD |
-| A06 | W 4:00p-4:50p   | [CENTR](https://map.concept3d.com/?id=1005#!s/CENTR_Main?ct/18312) 222   | TBD |
-| A07 | F 9:00a-9:50a   | [WLH](https://map.concept3d.com/?id=1005#!s/WLH_Main?ct/18312) 2205  | TBD |
-| B01 | W  10:00a-10:50a | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) 5     | TBD |
-| B02 | W  11:00a-11:50a | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) 4     | TBD |
-| B03 | W 12:00p-12:50p | [PCYNH](https://map.concept3d.com/?id=1005#!s/PCYNH_Main?ct/18312) 120   | TBD |
-| B04 | W 1:00p-1:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) 5     | TBD |
-| B05 | W  3:00p-3:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) 4     | TBD |
-| B06 | W 4:00p-4:50p   | [WLH](https://map.concept3d.com/?id=1005#!s/WLH_Main?ct/18312) 2111  | TBD |
-| B07 | W 5:00p-5:50p   | [MANDE](https://map.concept3d.com/?id=1005#!s/MANDE_Main?ct/18312) B-150 | TBD |
-
+| A01 | W	5:00p-5:50p | GH	242    | TBD |
+| A02 | W	11:00a-11:50a | DIB	121    | Jessica |
+| A03 | W	12:00p-12:50p   | DIB	121   | Jessica |
+| A04 | W	1:00p-1:50p  | COA	B17  | Shreya |
+| A05 | W	2:00p-2:50p   | COA	B17   | Shreya |
+| A06 | W	3:00p-3:50p   | COA	B26	 | Jessica |
+| A07 | W	4:00p-4:50p   | COA	B26	 | Shreya |
+| A08 | W	6:00p-6:50p | CSB	5    | Chaitanya |
+| B01 | F	9:00a-9:50a| DIB 121     | TBD |
+| B02 | F	10:00a-10:50a | COA	B17    | Zhicheng |
+| B03 |F	11:00a-11:50a | COA	B26   | Zhicheng|
+| B04 | F	12:00p-12:50p   | COA	B17   | Zhicheng|
+| B05 | F	1:00p-1:50p   | PCYNH	120    | TBD |
+| B06 | F	4:00p-4:50p   | CSB	5    | Chaitanya |
+| B07 |F	3:00p-3:50p   | CSB	5 | TBD |
+| B08 | F	5:00p-5:50p | CSB	5    | Chaitanya |
 
 ## Discussion section lab exercises
 
-Each week there will be a short lab exercise to review material from lecture and give hands-on programming experience. You can work on these exercises in your lab sections, and your section leaders will be happy to help guide you towards the correct answers.  Or if you don't need help you can complete them on your own and never come to lab. You may seek help from your classmates or chat about problems in a group, but please realize that this is your time to practice and learn new skills with low stakes. If someone else does it for you its hard to practice and learn!  
+Each week there will be a short lab exercise to review material from lecture and give hands-on programming experience. You can work on these exercises in your lab sections, and your section leaders will be happy to help guide you towards the correct answers.  Or if you don't need help you can complete them on your own. You may seek help from your classmates or chat about problems in a group, but please realize that this is your time to practice and learn new skills with low stakes. If someone else does it for you its hard to practice and learn!  
 
-Lab exercises are available to you on datahub, and also turned in there. Lab exercises will be due on Fridays 11:59PM and released one week before they are due. If lab exercises are due on a holiday (Veteran's day, Thanksgiving) then they will be accepted until the following non-holiday day that week. 
+Please see the course policy on [AI assistance](#AI) and follow it when working on lab exercises.
 
-**Check to ensure that your file shows up under “Submitted assignments” on datahub after you click submit!!!**. If the file is the incorrect version of the file, corrupted, or otherwise unreadable, then you will lose the appropriate number of points. If you accidentally click submit after the deadline and before we grade it then we will mark your work as late. There will be at least a dozen people each quarter who tell say "I'm so sorry there was a mistake when I clicked submit! Can I please get it graded without late?" And my answer will be no. Do not be that person!
+Lab exercises are available to you on Datahub, and also turned in there. Lab exercises will be due on Fridays 11:59PM and released one week before they are due. If lab exercises are due on a holiday then they will be accepted until the following non-holiday day that week. 
 
-You will receive individualized feedback via email with your grade and feedback about a week after each assignment is due.
-
----
 
 # ASSIGNMENTS
 
-If lab exercises are low stakes and you can get lots of help, then assignments are high stakes and you can only get minimal help. They will be completed **individually** in Jupyter Notebooks and both released and submitted on datahub. Assignments will cover the material in the previous two lab exercises. 
+If lab exercises are low stakes and you can get lots of help, then assignments are high stakes and you can only get minimal help. They will be completed **individually** in Jupyter Notebooks which are released and submitted on datahub. Each assignments will cover the material in the previous two lab exercises. 
+
+Please see the course policy on [AI assistance](#AI) and follow it when working on assignments.
 
 The practice of data science involves writing code to answer questions and accomplish tasks. Thus, to get practice, your assignments will require you to use Python to do just that. Not everything will be explicitly mapped out step-by-step for you. This is intentional. Figuring things out when it’s not entirely clear what to do next is part of the practice here. You’ll attempt things that won’t work and become comfortable with this. You’ll get stuck and work to get unstuck. Not quite knowing exactly what’s going on at all times is part of the process. And, to be honest, part of the job of being a data scientist.
 
-As assignments become more difficult, we don’t want you to get or feel totally lost. If you’ve thought long and hard, gone down a long rabbithole on Stack Overflow, and can’t even get a sense of what the next step may be, take a step away. Take a break. Then, come back and see if you can’t solve it with a refreshed mind. If you’re still totally stuck, ask on EdStem, talk to a classmate, and/or attend office hours for help.
+As assignments become more difficult, we don’t want you to feel totally lost. If you’ve thought long and hard, gone down a long rabbithole on Stack Overflow, and can’t even get a sense of what the next step may be, take a step away. Take a break. Then, come back and see if you can’t solve it with a refreshed mind. If you’re still totally stuck, ask on EdStem, talk to a classmate, and/or attend office hours for help.
 
 But how should you help one another on assignments? You should: ask a question that leads the student to figure it out for themselves, point out the correct principle/theory that applies in this case, provide a link to an explanation, or a chunk of pseudo-code.  You should not: provide the full answer or code they can just copy/paste.
 
-### Turning In Assignments
+# Datahub: Assignments and labs
 
-Assignments will be submitted individually on datahub. Assignments will always be released a week before the assignment due date. On weeks with assignment deadlines, they will always be due Fridays at 11:59 PM of the week specified (see Course Schedule below).
+Assignments and labs will be submitted individually on datahub. They be released a week before the assignment due date. 
 
-**Check to ensure that your file shows up under “Submitted assignments” on datahub after you click submit!!!**. If the file is the incorrect version of the file, corrupted, or otherwise unreadable, then you will lose the appropriate number of points. If you accidentally click submit after the deadline and before we grade it then we will mark your work as late. There will be at least a dozen people each quarter who tell say "I'm so sorry there was a mistake when I clicked submit! Can I please get it graded without late?" And my answer will be no. Do not be that person!
+It is very easy to mess up datahub submission because the UI is trash.  **YOU are SOLELY RESPONSIBLE for using it correctly**. You will not get points back if you mess things up:
+- forget to save your work and submit work with missing answers... you will lose those points
+- forget to follow instructions for exercises on GitHub or fail to follow those instructions completely to the letter... you will lose those points
+- forget to press the "submit" button after you are done... its a zero
+- somehow corrupt a file, delete a file, etc... its a zero
+- press the wrong submit button (e.g., submit A3 a second time instead of submiting A4)... its a zero for A4
+- pressing the wrong submit button could end up getting you a late penalty... losing you 25% of your A3 grade in the example above 
+  - we do not have the history of your submissions, all we can see is your last submission, we can't go back and grade the first one
+  - so if a second submission comes in after deadline but before grading it will be counted as late
+
+ There will be at least a dozen people each quarter who tell say "I'm so sorry there was a mistake when I clicked submit! Can I please get it graded without late penalty?" And my answer will be no. Do not be that person!
 
 You will receive individualized feedback via email with your grade and feedback about a week after each assignment is due.
 
-# LATE POLICY
-
-Lecture quizzes will not be accepted late.
+## Late policy on assignments and labs
 
 Assignments and labs will be accepted up to 5 days late with a 25% late penalty taken off your grade. Every student receives 7 free late days with NO DEDUCTION for use on any assignment or lab exercise. Without penalty, you can turn in 7 work items one day late each, or 1 work item 3 days late and another 4 days late, or any other combination. 
 
 PLEASE NOTE while your pool of late days is 7, your maximum lateness on any single item is 5 days.  PLEASE NOTE these late days are intended for use when you are behind and need an extra day, illness, family emergencies, mental health crises, etc.. You will not be given more late days. You will not be given more than 5 days to get something submitted.  If you cannot manage to turn in assignments within this system you need to talk with your dean because something has gone drastically wrong that cannot be handled in my class.
 
-# Regrades
+## Regrades on assignments and labs
 
 We will work hard to grade everyone fairly and return assignments quickly. But, we know you also work hard and want you to receive the grade you’ve earned. Occasionally, grading mistakes do happen, and it's important to us to correct them.
 
@@ -256,10 +259,10 @@ Your course project will be completed in a group of 4-5 people. The reality of d
 
 ### Finding A Group
 
-Finding a group may be a tad trickier this quarter. As such, we'll offer additional support. Groups can be found in a few different ways:
+Groups can be found in a few different ways:
 
 1. If you have people in the class you know you want to work with, chat with one another and if you're all on board, form a group.
-2. There will be time to find groups in discussion section during week 1 & 2.
+2. There will be time to find groups in discussion section.
 3. If you don't know people in the class or don't have people you want to work with, no problem. Seek them out on EdStem!
 
 You will submit who your group is via Google Form by the Wednesday of week 3 (see Course Schedule). One form will be submitted per group.
@@ -279,43 +282,45 @@ There are also components of the project that must be completed individually. St
 ---
 
 # COURSE SCHEDULE
-| Date   | Week   | Day | Lecture topic                 | Section covers            | Due today                                                      |
-| ------ | ------ | --- | ----------------------------- | ------------------------- | -------------------------------------------------------------- |
-| Jan-05 | 1      | M   | Welcome!                      | python review             |                                                                |
-| Jan-07 | 1      | W   | Version Control I             | python review             |                                                                |
-| Jan-09 | 1      | F   | Version Control II            | python review             |                                                                |
-| Jan-12 | 2      | M   | Data & Intuition I            | git and conda (D1)        | Q1                                                             |
-| Jan-14 | 2      | W   | Data & Intuition II           | git and conda (D1)        | Practice assignment, pre-course survey                         |
-| Jan-16 | 2      | F   | Data Wrangling                | git and conda (D1)        | D1                                                             |
-| Jan-19 | 3      | M   | MLK Day -- No Lecture         | MLK Day -- No Lab         | Q2                                                             |
-| Jan-21 | 3      | W   | Ethics                        | data (D2)                 | GitHub ID, Group signup                                        |
-| Jan-23 | 3      | F   | Data Science questions        | data (D2)                 | D2                                                             |
-| Jan-26 | 4      | M   | Data viz principles           | viz / geospatial (D3)     | Q3                                                             |
-| Jan-28 | 4      | W   | Analysis^ and EDA             | viz / geospatial (D3)     | A1, Project Review\*                                           |
-| Jan-30 | 4      | F   | Geospatial                    | viz / geospatial (D3)     | D3                                                             |
-| Feb-02 | 5      | M   | Inference I                   | inference (D4)            | Q4                                                             |
-| Feb-04 | 5      | W   | Inference II                  | inference (D4)            | Project Proposal\*                                             |
-| Feb-06 | 5      | F   | Non parametric inference      | inference (D4)            | D4                                                             |
-| Feb-09 | 6      | M   | Linear models I               | linear models (D5)        | Q5                                                             |
-| Feb-11 | 6      | W   | Linear models II & III^       | linear models (D5)        | A2                                                             |
-| Feb-13 | 6      | F   | Dimensionality Reduction      | linear models (D5)        | D5                                                             |
-| Feb-16 | 7      | M   | President's Day -- No Lecture | President's Day -- No Lab | Q6                                                             |
-| Feb-18 | 7      | W   | Machine Learning I            | DR + ML (D6)              | Checkpoint #1: Data\*                                          |
-| Feb-20 | 7      | F   | Machine Learning II           | DR + ML (D6)              | D6                                                             |
-| Feb-23 | 8      | M   | Machine Learning III          | ML / text (D7)            | Q7                                                             |
-| Feb-25 | 8      | W   | Machine Learning IV & Text I^ | ML / text (D7)            | A3                                                             |
-| Feb-27 | 8      | F   | Text II                       | ML / text (D7)            | D7                                                             |
-| Mar-02 | 9      | M   | LLMs                          | how to be wrong (D8)      | Q8                                                             |
-| Mar-04 | 9      | W   | How to be wrong I             | how to be wrong (D8)      | Checkpoint #2: EDA\*                                           |
-| Mar-06 | 9      | F   | How to be wrong II            | how to be wrong (D8)      | D8                                                             |
-| Mar-09 | 10     | M   | Guest lecture / catch up      | Projects help             | Q9                                                             |
-| Mar-11 | 10     | W   | Guest lecture / catch up      | Projects help             | A4                                                             |
-| Mar-13 | 10     | F   | Big picture discussion        | Projects help             |                                                                |
-| Mar-16 | Finals | M   |                               |                           |                                                                |
-| Mar-18 | Finals | W   |                               |                           | Final project\*, video\*, team eval survey, post-course survey |
+| Date   | Week   | Day | Lecture topic                                                      | Due today                                                      | Section covers                     |
+| ------ | ------ | --- | ------------------------------------------------------------------ | -------------------------------------------------------------- | ---------------------------------- |
+| Mar-30 | 1      | M   | Welcome!                                                           |                                                                |                                    |
+| Apr-01 | 1      | W   | Version Control I                                                  |                                                                | python review (nothing to turn in) |
+| Apr-03 | 1      | F   | Version Control II                                                 |                                                                | python review (nothing to turn in) |
+| Apr-06 | 2      | M   | Data & Intuition I                                                 |                                                                |                                    |
+| Apr-08 | 2      | W   | Data & Intuition II                                                | Practice assignment, pre-course survey                         | Q1 and D1 (git and conda)          |
+| Apr-10 | 2      | F   | Data Wrangling                                                     | D1                                                             | Q1 and D1 (git and conda)          |
+| Apr-13 | 3      | M   | Ethics                                                             |                                                                |                                    |
+| Apr-15 | 3      | W   | Data Science questions                                             | GitHub ID, Group signup                                        | Q2 and D2 (data)                   |
+| Apr-17 | 3      | F   | Data viz principles                                                | D2                                                             | Q2 and D2 (data)                   |
+| Apr-20 | 4      | M   | Exploratory Data Analysis                                          |                                                                |                                    |
+| Apr-22 | 4      | W   | Geospatial                                                         | A1, Project Review\*                                           | Q3 and D3 (viz / geospatial)       |
+| Apr-24 | 4      | F   | Inference I                                                        | D3                                                             | Q3 and D3 (viz / geospatial)       |
+| Apr-27 | 5      | M   | Inference II                                                       |                                                                |                                    |
+| Apr-29 | 5      | W   | Non parametric inference                                           | Project Proposal\*                                             | Q4 and D4 (inference)              |
+| May-01 | 5      | F   | Linear models I                                                    | D4                                                             | Q4 and D4 (inference)              |
+| May-04 | 6      | M   | Linear models II                                                   |                                                                |                                    |
+| May-06 | 6      | W   | Dimensionality Reduction                                           | A2                                                             | Q5 and D5 (linear models)          |
+| May-08 | 6      | F   | Machine Learning I                                                 | D5                                                             | Q5 and D5 (linear models)          |
+| May-11 | 7      | M   | Machine Learning II                                                |                                                                |                                    |
+| May-13 | 7      | W   | Machine Learning III                                               | Checkpoint #1: Data\*                                          | Q6 and D6 (DR / ML )               |
+| May-15 | 7      | F   | Machine Learning IV                                                | D6                                                             | Q6 and D6 (DR / ML)                |
+| May-18 | 8      | M   | NLP I                                                              |                                                                |                                    |
+| May-20 | 8      | W   | NLP II                                                             | A3                                                             | Q7 and D7 (ML / NLP)               |
+| May-22 | 8      | F   | How to be wrong I                                                  | D7                                                             | Q7 and D7 (ML / NLP)               |
+| May-25 | 9      | M   | NO LECTURE - Memorial Day                                          |                                                                |                                    |
+| May-27 | 9      | W   | How to be wrong II                                                 | Checkpoint #2: EDA\*                                           | Q8 and D8 (how to be wrong)        |
+| May-29 | 9      | F   | How to be wrong III                                                | D8                                                             | Q8 and D8 (how to be wrong)        |
+| Jun-01 | 10     | M   | How to be wrong IV                                                 |                                                                |                                    |
+| Jun-03 | 10     | W   | Guest lecture / catch up                                           | A4                                                             | Project help - no lab or quiz      |
+| Jun-05 | 10     | F   | Your future                                                        |                                                                | Project help - no lab or quiz      |
+| Jun-08 | Finals | M   |                                                                    |                                                                |                                    |
+| Jun-10 | Finals | W   |                                                                    | Final project\*, video\*, team eval survey, post-course survey |                                    |
+| Jun-12 | Finals | F   |                                                                    |                                                                |                                    |
+
 
 \* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
-\^ indicates compressed lecture coverage in winter quarter since we have fewer instruction days than normal.  these are the points we are most likely to go off schedule
+
 ---
 
 # OTHER GOOD STUFF
@@ -346,7 +351,7 @@ For group projects, you will work together but every person in the group is expe
 Cheating and plagiarism have been and will be strongly penalized. 
  
 
-### Policy on using AI programming assistance
+### Policy on using AI programming assistance -- TODO update
 
 I believe that using large language models (LLMs) or other kinds of AIs can help a good programmer work more efficiently. I also believe that using AI assistance will probably slow down the development of a beginning programmer into a good programmer.  
 
@@ -358,7 +363,7 @@ You can use AI to help you program as long as you:
 - understand that programming with LLMs still requires you to do programming. But instead of creating code from scratch (the part many people enjoy) you will need to do debugging and unit testing (the part many people don't like)
 - you understand that you may be asked to explain your code at any time. If you can't explain how your code works and why the design is that way you may lose points
 
-## Policy on using AI writing assistance
+## Policy on using AI writing assistance -- TODO update
 
 My beliefs here mirror the section on programming, but with an important extra problem.
 
