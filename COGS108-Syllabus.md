@@ -41,7 +41,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | Role           | Name          		 | Section          | Office Hours |  Contact   |   
 | ------------:|:--------------------|:-----------------|:-------------|:-------------|
 | Instructor   | Jason Fleischer     |   ---         | [Signup for office hours](https://calendar.app.google/RoadDP23hFD5JpuW9) | [jfleischer@ucsd.edu](mailto:jfleischer@ucsd.edu) |
-| TA	         |    Jason Chen |  TBD  |  TBD | xic007@ucsd.edu  |
+| TA	         |    Jason Chen |  B01/B05  |  Fri 10:30 am - 12:30 am [signup required](https://calendar.app.google/WS6hq1Ae1Spc8Sfk9) | xic007@ucsd.edu  |
 | TA	         |    Beijie (Jessica) Cheng  | TBD  | TBD |  becheng@ucsd.edu |
 | TA	         |    Yueying (Holly) Dong   | TBD | TBD, [signup required](https://calendar.app.google/pkCu8CG2bvGFoktS7)  | yud070@ucsd.edu |
 | TA	         |    Chaitanya Kapoor | TBD | TBD [signup required](https://calendly.com/ckapoor7/ta-office-hours) | c1kapoor@ucsd.edu |
