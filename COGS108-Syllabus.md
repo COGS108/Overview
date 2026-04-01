@@ -46,7 +46,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |    Yueying (Holly) Dong   | TBD | Mon 10:00am - 12:00am, [signup required](https://calendar.app.google/aZ5zijUnd8VM3FBB6)  | yud070@ucsd.edu |
 | TA	         |    Chaitanya Kapoor | TBD | TBD [signup required](https://calendly.com/ckapoor7/ta-office-hours) | c1kapoor@ucsd.edu |
 | TA	         |    Shreya Musini    | TBD | TBD [signup required](https://calendar.app.google/9qw3LY1zsETFHdT26)  | shmusini@ucsd.edu |
-| TA	         |    Zhicheng (Jackson) Wang|  TBD | TBD |  zhw049@ucsd.edu |
+| TA	         |    Zhicheng (Jackson) Wang|  TBD | Thur 4:00 - 6:00pm, [signup required](https://calendar.app.google/gisLJTgXoJEvLm9q7) |  zhw049@ucsd.edu |
 | PLA	         |    your info here |   |  |   |
 | PLA	         |    your info here |   |  |   |
 | PLA	         |    your info here |   |  |   |
