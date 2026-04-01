@@ -57,7 +57,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 
 Course GitHub: https://github.com/COGS108  
 
-Course discussion, Q&A and regrades: [Link to join Ed --- FIX THIS FOR NEW QUARTER]()  
+Course discussion, Q&A and regrades: [Link to join Ed](https://edstem.org/us/join/kBXtbJ)  
 
 Course Canvas: https://canvas.ucsd.edu/courses/74005
 
