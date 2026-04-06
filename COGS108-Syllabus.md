@@ -45,7 +45,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |    Beijie (Jessica) Cheng  | A02/A03/A06  | Tue 11:00am - 1:00pm [signup required](https://calendar.app.google/MojfGZutgUUkuvoS6) |  becheng@ucsd.edu |
 | TA	         |    Yueying (Holly) Dong   | TBD | Mon 10:00am - 12:00am, [signup required](https://calendar.app.google/aZ5zijUnd8VM3FBB6)  | yud070@ucsd.edu |
 | TA	         |    Chaitanya Kapoor | TBD | TBD [signup required](https://calendly.com/ckapoor7/ta-office-hours) | c1kapoor@ucsd.edu |
-| TA	         |    Shreya Musini    | TBD | TBD [signup required](https://calendar.app.google/9qw3LY1zsETFHdT26)  | shmusini@ucsd.edu |
+| TA	         |    Shreya Musini    | A04/A05/A07 | Mon 2:00pm - 4:00pm [signup required](https://calendar.app.google/nan6HJmCQ4bKkn9J6)  | shmusini@ucsd.edu |
 | TA	         |    Zhicheng (Jackson) Wang|  TBD | Thur 4:00 - 6:00pm, [signup required](https://calendar.app.google/gisLJTgXoJEvLm9q7) |  zhw049@ucsd.edu |
 | PLA	         |    your info here |   |  |   |
 | PLA	         |    your info here |   |  |   |
