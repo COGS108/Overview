@@ -49,7 +49,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |    Zhicheng (Jackson) Wang|  TBD | Thur 4:00 - 6:00pm, [signup required](https://calendar.app.google/gisLJTgXoJEvLm9q7) |  zhw049@ucsd.edu |
 | PLA	         |    Anchita Dash | ---  | TBD | a1dash@ucsd.edu  |
 | PLA	         |    Domenic Jernigan | A07 | Wed 4:00 - 5:30pm @COA B26 | djernigan@ucsd.edu  |
-| PLA	         |    your info here |   |  |   |
+| PLA	         |    Sierra Peng | --- | Thur 11:30am - 1:00pm, [zoom link](https://ucsd.zoom.us/j/91907559856)  | sepeng@ucsd.edu  |
 | PLA	         |    your info here |   |  |   |
 
 
