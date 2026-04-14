@@ -50,6 +50,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | PLA	         |    Anchita Dash | ---  | Thur 3:00pm - 4:00pm [zoom link](https://ucsd.zoom.us/j/6695882735?pwd=8BfPFLmClPfODcvYbjTnUHxGruJqWe.1) | a1dash@ucsd.edu  |
 | PLA	         |    Domenic Jernigan | A07 | Wed 4:00 - 5:30pm @COA B26 | djernigan@ucsd.edu  |
 | PLA	         |    Sierra Peng | --- | Thur 11:30am - 1:00pm, [zoom link](https://ucsd.zoom.us/j/91907559856)  | sepeng@ucsd.edu  |
+| PLA	         |    Ansh Bhatnagar | --- | Wed 12:00pm - 1:00pm, DIB 1st Floor  | abhatnagar@ucsd.edu  |
 | PLA	         |    your info here |   |  |   |
 
 
