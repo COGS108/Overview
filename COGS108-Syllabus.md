@@ -51,7 +51,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | PLA	         |    Domenic Jernigan | A07 | Wed 4:00 - 5:30pm @COA B26 | djernigan@ucsd.edu  |
 | PLA	         |    Sierra Peng | --- | Thur 11:30am - 1:00pm, [zoom link](https://ucsd.zoom.us/j/91907559856)  | sepeng@ucsd.edu  |
 | PLA	         |    Ansh Bhatnagar | --- | Wed 12:00pm - 1:00pm, DIB 1st Floor  | abhatnagar@ucsd.edu  |
-| PLA	         |    Jeronimo Adames | --- | Fri 3:30pm - 4:30pm, CSB | jadamesbaena@ucsd.edu  |
+| PLA	         |    Jeronimo Adames | --- | Fri 3:30pm - 4:30pm, CENTR 206 | jadamesbaena@ucsd.edu  |
 
 
 
