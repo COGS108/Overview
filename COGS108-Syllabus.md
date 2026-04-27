@@ -48,7 +48,7 @@ In this course, you will try many methods. You’ll even be asked to implement a
 | TA	         |    Shreya Musini    | A04/A05/A07 | Mon 2:00pm - 4:00pm [signup required](https://calendar.app.google/nan6HJmCQ4bKkn9J6)  | shmusini@ucsd.edu |
 | TA	         |    Zhicheng (Jackson) Wang|  TBD | Thur 4:00 - 6:00pm, [signup required](https://calendar.app.google/gisLJTgXoJEvLm9q7) |  zhw049@ucsd.edu |
 | PLA	         |    Anchita Dash | ---  | Thur 3:00pm - 4:00pm [zoom link](https://ucsd.zoom.us/j/6695882735?pwd=8BfPFLmClPfODcvYbjTnUHxGruJqWe.1) | a1dash@ucsd.edu  |
-| PLA	         |    Domenic Jernigan | --- | Wed 4:00 - 5:30pm @COA B26 (no OH week 4/8) | djernigan@ucsd.edu  |
+| PLA	         |    Domenic Jernigan | --- | Wed 4:00 - 5:30pm Zoom (no OH week 4/8) | djernigan@ucsd.edu  |
 | PLA	         |    Sierra Peng | --- | Thur 11:30am - 1:00pm, [zoom link](https://ucsd.zoom.us/j/91907559856)  | sepeng@ucsd.edu  |
 | PLA	         |    Ansh Bhatnagar | --- | Wed 12:00pm - 1:00pm, DIB 1st Floor  | abhatnagar@ucsd.edu  |
 | PLA	         |    Jeronimo Adames | --- | Fri 3:30pm - 4:30pm, CENTR 206 | jadamesbaena@ucsd.edu  |
