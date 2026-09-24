@@ -1,4 +1,4 @@
-DRAFT v0.1 21-Sep-2026 (subject to change before Week 1)
+DRAFT v0.3 24-Sep-2026 (subject to change before Week 1)
 
 # COGS 108: Data Science in Practice
 
@@ -37,7 +37,7 @@ In this course, you will try many methods. You'll even be asked to implement a t
 
 Course GitHub: https://github.com/COGS108  
 
-Course Piazza*: access via Canvas
+Course Piazza*: https://piazza.com/class/mublhuuzdqr5v8 (or access via Canvas)
 
 Course Canvas: https://canvas.ucsd.edu/courses/77704
 
@@ -82,8 +82,8 @@ Anonymous Course Feedback:  https://forms.gle/LVZA26UEkDquEnsW8
 | Data checkpoint               | Group        |          1          |  5%  |       5% |
 | EDA checkpoint                | Group        |          1          |  5%  |       5% |
 | Final report                  | Group        |          1          | 10%  |      10% |
-| Final video                   | Group        |          1          |  5%  |       5% |
-| Oral exam                     | Individual   |          1          |  5%  |       5% |
+| Final video                   | Group        |          1          |  5%  |       3% |
+| Oral exam                     | Individual   |          1          |  5%  |       7% |
 | Team evaluation survey        | Individual   |          1          |  1%  |       1% |
 | **Total**                     |              |                     |      | **100%** |
 
@@ -138,7 +138,7 @@ Lecture will be podcast. You'll be able to view both/either lecture; however, it
 
 ## Lecture Quizzes
 
-At the end of each Friday, a quiz with ~10 questions will be released, covering the material from lecture that week. The quiz will be due that Sunday at 11:59 PM. For example, the first quiz will be released Friday of week 1, covering week 1 material, and will be due two days later at 11:59 PM. Each question is worth ~0.1 points and you will have a single, timed (15 min) attempt to complete. The quizzes are open-notes and open Internet. *There are no late extensions on quizzes*, but your lowest quiz score will be dropped.
+At the end of each Friday, a quiz with ~10 questions will be released, covering the material from lecture that week. The quiz will be due that Sunday at 11:59 PM. For example, the first quiz will be released Friday of week 1, covering week 1 material, and will be due two days later at 11:59 PM. Students will have a single, timed (15 min) attempt to complete. The quizzes are open-notes and open Internet, but closed other people. *There are no late extensions on quizzes*, but your lowest quiz score will be dropped.
 
 ---
 
@@ -164,9 +164,7 @@ Please note that Veterans Day (Wednesday, Nov 11) is a holiday this quarter, so 
 
 ## Readings
 
-## Optional Readings:
-
-There will be four readings this quarter, which will be discussed in section and students will also have to respond in their Google Form to questions from the assigned reading:
+There will be four readings discussed in section this quarter, which will be discussed in section and students will also have to respond in their Google Form to questions from the assigned reading:
 
 - R1 | [Dissecting racial bias in an algorithm used to manage the health of populations](https://www.science.org/doi/10.1126/science.aax2342)
 - R2 | [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
@@ -247,7 +245,7 @@ Your course project will be completed in a group of 4-5 people. The reality of d
 
 ### Finding A Group
 
-Students will be given time in section during weeks 1 and 2. We encourage group formation within section. If you choose a group outside of section, there must be at least two discussion section time slots that *all* group members are able to attend throughout the quarter. 
+Students will be given time in section during weeks 1 and 2. We encourage group formation within section. If you choose a group outside of section, there must be at least two discussion section time slots that *all* group members are able to attend throughout the quarter AND a *lecture day/time during week 10 that works for everyone in the group*. 
 
 You will submit who your group is via Google Form by the Sunday of week 2 (Oct 11; see Course Schedule). One form will be submitted per group.
 
@@ -325,7 +323,7 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Dec-9  | Finals | W   | Final Exam (LE 002): 3:00p-5:59p, PETER 110  |                      |          |                         |                                         |
 
 
-\* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.
+\* indicates group submission. All other assignments/quizzes/surveys are completed & submitted individually.  
 † Group oral exams will take place during lecture time in Week 10. Students will sign up for a time slot later in the quarter. Additionally, there will be two pre-recorded guest lectures that students will be required to watch and interact with during week 10. These will count toward particpation.
 
 ---
@@ -370,7 +368,7 @@ Also, you are responsible for errors and falsehoods introduced by (any of) the t
 
 ✅ permitted  
 ❌ not allowed  
-⚠️ indicates that use is permitted; however, GenAI should never be asked to complete a quiz, assignment, or project component for you. Instead you should be using it conversationally, with targeted specific tasks and/or questions.
+⚠️ indicates that use is permitted; however, GenAI should never be asked to complete a quiz, assignment, or project component for you. Instead you should be using it conversationally, with targeted/specific tasks and/or questions.
 
 **Assignments**: Assignments will be submitted individually, although you may seek help from your fellow students during completion. However, you may not give answers to each other at any time. You should understand, reproduce on your own, and be able to explain any work you submit. All assignments will require you to specify how outside resources were utilized in their completion.
 
