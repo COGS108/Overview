@@ -82,8 +82,8 @@ Anonymous Course Feedback:  https://forms.gle/LVZA26UEkDquEnsW8
 | Data checkpoint               | Group        |          1          |  5%  |       5% |
 | EDA checkpoint                | Group        |          1          |  5%  |       5% |
 | Final report                  | Group        |          1          | 10%  |      10% |
-| Final video                   | Group        |          1          |  5%  |       3% |
-| Oral exam                     | Individual   |          1          |  5%  |       7% |
+| Final video                   | Group        |          1          |  3%  |       3% |
+| Oral exam                     | Individual   |          1          |  7%  |       7% |
 | Team evaluation survey        | Individual   |          1          |  1%  |       1% |
 | **Total**                     |              |                     |      | **100%** |
 
@@ -149,22 +149,22 @@ Discussion section will be focused on project completion and discussion of cours
 Please note that Veterans Day (Wednesday, Nov 11) is a holiday this quarter, so there will be no section during week 7.
 
 
-| Section | Day | Time          | Location | Room |
-| ------- | --- | ------------- | -------- | ---- |
-| 001-001 | M   | 11:00a-11:50a | PCYNH    | 120  |
-| 001-002 | M   | 12:00p-12:50p | PCYNH    | 120  |
-| 001-005 | M   | 3:00p-3:50p   | CSB      | 004  |
-| 001-006 | M   | 4:00p-4:50p   | CSB      | 004  |
-| 002-001 | W   | 9:00a-9:50a   | DIB      | 122  |
-| 002-002 | W   | 10:00a-10:50a | PCYNH    | 120  |
-| 002-003 | W   | 11:00a-11:50a | PCYNH    | 120  |
-| 002-004 | W   | 12:00p-12:50p | PCYNH    | 120  |
-| 002-005 | W   | 1:00p-1:50p   | PCYNH    | 120  |
-| 002-006 | W   | 3:00p-3:50p   | PCYNH    | 120  |
+| Section | Day | Time          | Location | Room | Staff         |
+| ------- | --- | ------------- | -------- | ---- | ------------- |
+| 001-001 | M   | 11:00a-11:50a | PCYNH    | 120  | Liz |
+| 001-002 | M   | 12:00p-12:50p | PCYNH    | 120  | Liz|
+| 001-005 | M   | 3:00p-3:50p   | CSB      | 004  | Zoe|
+| 001-006 | M   | 4:00p-4:50p   | CSB      | 004  | Zoe|
+| 002-001 | W   | 9:00a-9:50a   | DIB      | 122  | Marlyn|
+| 002-002 | W   | 10:00a-10:50a | PCYNH    | 120  | Marlyn|
+| 002-003 | W   | 11:00a-11:50a | PCYNH    | 120  | Niranjan |
+| 002-004 | W   | 12:00p-12:50p | PCYNH    | 120  |Niranjan|
+| 002-005 | W   | 1:00p-1:50p   | PCYNH    | 120  | Chaitanya|
+| 002-006 | W   | 3:00p-3:50p   | PCYNH    | 120  | Chaitanya|
 
 ## Readings
 
-There will be four readings discussed in section this quarter, which will be discussed in section and students will also have to respond in their Google Form to questions from the assigned reading:
+There will be readings discussed in section this quarter, which will be discussed in section and students will also have to respond in their Google Form to questions from the assigned reading. Tentative readings for this quarter are included here:
 
 - R1 | [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
 - R2 | [Many Analysts, One Data Set: Making Transparent How Variations in Analytic Choices Affect Results](https://journals.sagepub.com/doi/10.1177/2515245917747646)
@@ -244,7 +244,7 @@ Your course project will be completed in a group of 4-5 people. The reality of d
 
 ### Finding A Group
 
-Students will be given time in section during weeks 1 and 2. We encourage group formation within section. If you choose a group outside of section, there must be at least two discussion section time slots that *all* group members are able to attend throughout the quarter AND a *lecture day/time during week 10 that works for everyone in the group*. 
+Students will be given time in section during week 2. We encourage group formation within section. If you choose a group outside of section, there must be at least two discussion section time slots that *all* group members are able to attend throughout the quarter AND a *lecture day/time during week 10 that works for everyone in the group*. 
 
 You will submit who your group is via Google Form by the Sunday of week 2 (Oct 11; see Course Schedule). One form will be submitted per group.
 
