@@ -73,7 +73,7 @@ Anonymous Course Feedback:  https://forms.gle/LVZA26UEkDquEnsW8
 | :---------------------------- | :----------- | :-----------------: | :--: | -------: |
 | **Individual coursework**     |              |                     |      |  **62%** |
 | Pre-course survey (#finaid)   | Individual   |          1          |  1%  |       1% |
-| Participation (or final exam) | Individual   |     36 sessions     |  –   |      25% |
+| Participation (or final exam) | Individual   |     30/35 sessions     |  –   |      25% |
 | Lecture quizzes               | Individual   | 10 (lowest dropped) |  1%  |       9% |
 | Assignments                   | Individual   |          9          |  3%  |      27% |
 | **Final project**             |              |                     |      |  **38%** |
@@ -87,7 +87,7 @@ Anonymous Course Feedback:  https://forms.gle/LVZA26UEkDquEnsW8
 | Team evaluation survey        | Individual   |          1          |  1%  |       1% |
 | **Total**                     |              |                     |      | **100%** |
 
-Participation: full credit for attending 30 of the 36 possible lecture + discussion sessions. [There is a chance that this cutoff could be made more permissive (<30) at the end of the quarter, but it will *not* be made more strict. Students will be made aware of this change should it happen.]
+Participation: full credit for attending 30 of the 35 possible lecture + discussion sessions. [There is a chance that this cutoff could be made more permissive (<30) at the end of the quarter, but it will *not* be made more strict. Students will be made aware of this change should it happen.]
 
 **Final exam**: If a student does not earn their participation credit, they will be required to take an in-person, closed notes final exam at their assigned final exam time.
 
@@ -166,10 +166,9 @@ Please note that Veterans Day (Wednesday, Nov 11) is a holiday this quarter, so 
 
 There will be four readings discussed in section this quarter, which will be discussed in section and students will also have to respond in their Google Form to questions from the assigned reading:
 
-- R1 | [Dissecting racial bias in an algorithm used to manage the health of populations](https://www.science.org/doi/10.1126/science.aax2342)
-- R2 | [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
-- R3 | [Many Analysts, One Data Set: Making Transparent How Variations in Analytic Choices Affect Results](https://journals.sagepub.com/doi/10.1177/2515245917747646)
-- R4 | [Measurement Schmeasurement: Questionable Measurement Practices and How to Avoid Them](https://journals.sagepub.com/doi/10.1177/2515245920952393)
+- R1 | [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+- R2 | [Many Analysts, One Data Set: Making Transparent How Variations in Analytic Choices Affect Results](https://journals.sagepub.com/doi/10.1177/2515245917747646)
+- R3 | [Measurement Schmeasurement: Questionable Measurement Practices and How to Avoid Them](https://journals.sagepub.com/doi/10.1177/2515245920952393)
 
 Paywall restrictions may require students to access the above on-campus or through the UCSD VPN. Students should **not** pay to access an article.
 
@@ -187,11 +186,11 @@ You are free to attend either lecture section at any point. (The same material w
 
 ### Discussion Section
 
-You should try to attend the discussion section to which you're assigned. If you need to attend a different section in a given week, you're free to do so. If any one section becomes too crowded, we will revisit this policy.
+Section begins week 2. You should try to attend the discussion section to which you're assigned. If you need to attend a different section in a given week, you're free to do so. If any one section becomes too crowded, we will revisit this policy.
 
 ### Participation
 
-Participation will be tracked in lecture and discussion section via Google Form. Please bring a smartphone, tablet, or laptop to both lecture and discussion for Google Form completion. We will work to regularly update students about their participation. There will be 36 lectures/discussions for possible participation this quarter (27 lectures; 9 discussions). To receive full credit for participation, you must attend and participate in 30 lecture/discussion sections. Students who do not earn participation credit will be required to take the closed notes, in-person final exam. Partial credit for participation will be considered toward the end of the term and students will have the information they need to determine if they'll have to take the final exam.
+Participation will be tracked in lecture and discussion section via Google Form. Please bring a smartphone, tablet, or laptop to both lecture and discussion for Google Form completion. We will work to regularly update students about their participation. There will be 35 lectures/discussions for possible participation this quarter (27 lectures; 8 discussions). To receive full credit for participation, you must attend and participate in 30 lecture/discussion sections. Students who do not earn participation credit will be required to take the closed notes, in-person final exam. Partial credit for participation will be considered toward the end of the term and students will have the information they need to determine if they'll have to take the final exam.
 
 ### Final Exam
 
@@ -279,11 +278,11 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Date   | Week   | Day | Topic                                        | Section Focus        | Quiz due | Assignment / survey due | Project due                             |
 | ------ | ------ | --- | -------------------------------------------- | -------------------- | -------- | ----------------------- | --------------------------------------- |
 | Sep-25 | 0      | F   | Welcome!                                     |                      |          |                         |                                         |
-| Sep-28 | 1      | M   | Version Control I                            | Group Formation, R1  |          |                         |                                         |
+| Sep-28 | 1      | M   | Version Control I                            |           |          |                         |                                         |
 | Sep-30 | 1      | W   | Version Control II                           |                      |          |                         |                                         |
 | Oct-2  | 1      | F   | Data & Intuition I                           |                      |          |                         |                                         |
 | Oct-4  | 1      | Su  |                                              |                      | Q1       |                         |                                         |
-| Oct-5  | 2      | M   | Data & Intuition II                          | Group Formation, R2  |          |                         |                                         |
+| Oct-5  | 2      | M   | Data & Intuition II                          | Group Formation, R1  |          |                         |                                         |
 | Oct-7  | 2      | W   | Data Wrangling (pandas)                      |                      |          |                         |                                         |
 | Oct-9  | 2      | F   | Ethics                                       |                      |          |                         |                                         |
 | Oct-11 | 2      | Su  |                                              |                      | Q2       | A1, Pre-course survey   | Group signup*                           |
@@ -295,7 +294,7 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Oct-21 | 4      | W   | Inference I                                  |                      |          |                         |                                         |
 | Oct-23 | 4      | F   | Inference II                                 |                      |          |                         |                                         |
 | Oct-25 | 4      | Su  |                                              |                      | Q4       | A3                      | Project Proposal*                       |
-| Oct-26 | 5      | M   | Inference III                                | R3                   |          |                         |                                         |
+| Oct-26 | 5      | M   | Inference III                                | R2                   |          |                         |                                         |
 | Oct-28 | 5      | W   | Dimensionality Reduction                     |                      |          |                         |                                         |
 | Oct-30 | 5      | F   | Machine Learning I                           |                      |          |                         |                                         |
 | Nov-1  | 5      | Su  |                                              |                      | Q5       | A4, Mid-course survey   |                                         |
@@ -311,7 +310,7 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Nov-18 | 8      | W   | Text Analysis II                             |                      |          |                         |                                         |
 | Nov-20 | 8      | F   | Communication                                |                      |          |                         |                                         |
 | Nov-22 | 8      | Su  |                                              |                      | Q8       | A7                      | Checkpoint #2: EDA*                     |
-| Nov-23 | 9      | M   | How to Be Wrong I                            | R4                   |          |                         |                                         |
+| Nov-23 | 9      | M   | How to Be Wrong I                            | R3                   |          |                         |                                         |
 | Nov-25 | 9      | W   | How to Be Wrong II                           |                      |          |                         |                                         |
 | Nov-27 | 9      | F   | No Class - Thanksgiving                      |                      |          |                         |                                         |
 | Nov-29 | 9      | Su  |                                              |                      | Q9       | A8                      |                                         |
