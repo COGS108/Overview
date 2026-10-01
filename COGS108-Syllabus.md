@@ -1,4 +1,4 @@
-DRAFT v0.3 24-Sep-2026 (subject to change before Week 1)
+v1.0 01-Oct-2026
 
 # COGS 108: Data Science in Practice
 
@@ -282,7 +282,7 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Sep-30 | 1      | W   | Version Control II                           |                      |          |                         |                                         |
 | Oct-2  | 1      | F   | Data & Intuition I                           |                      |          |                         |                                         |
 | Oct-4  | 1      | Su  |                                              |                      | Q1       |                         |                                         |
-| Oct-5  | 2      | M   | Data & Intuition II                          | Group Formation, R1  |          |                         |                                         |
+| Oct-5  | 2      | M   | Data & Intuition II                          | Group Formation      |          |                         |                                         |
 | Oct-7  | 2      | W   | Data Wrangling (pandas)                      |                      |          |                         |                                         |
 | Oct-9  | 2      | F   | Ethics                                       |                      |          |                         |                                         |
 | Oct-11 | 2      | Su  |                                              |                      | Q2       | A1, Pre-course survey   | Group signup*                           |
@@ -290,7 +290,7 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Oct-14 | 3      | W   | Data Science Questions                       |                      |          |                         |                                         |
 | Oct-16 | 3      | F   | Intro to Analysis                            |                      |          |                         |                                         |
 | Oct-18 | 3      | Su  |                                              |                      | Q3       | A2                      | Project Review*                         |
-| Oct-19 | 4      | M   | Exploratory Data Analysis (EDA)              | Project Proposal     |          |                         |                                         |
+| Oct-19 | 4      | M   | Exploratory Data Analysis (EDA)              | Project Proposal, R1 |          |                         |                                         |
 | Oct-21 | 4      | W   | Inference I                                  |                      |          |                         |                                         |
 | Oct-23 | 4      | F   | Inference II                                 |                      |          |                         |                                         |
 | Oct-25 | 4      | Su  |                                              |                      | Q4       | A3                      | Project Proposal*                       |
