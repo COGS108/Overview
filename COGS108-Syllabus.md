@@ -1,4 +1,4 @@
-v1.0 01-Oct-2026
+v1.01 22-Oct-2026
 
 # COGS 108: Data Science in Practice
 
@@ -283,24 +283,24 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Oct-2  | 1      | F   | Data & Intuition I                           |                      |          |                         |                                         |
 | Oct-4  | 1      | Su  |                                              |                      | Q1       |                         |                                         |
 | Oct-5  | 2      | M   | Data & Intuition II                          | Group Formation      |          |                         |                                         |
-| Oct-7  | 2      | W   | Data Wrangling (pandas)                      |                      |          |                         |                                         |
-| Oct-9  | 2      | F   | Ethics                                       |                      |          |                         |                                         |
+| Oct-7  | 2      | W   | Data Wrangling (pandas) I                    |                      |          |                         |                                         |
+| Oct-9  | 2      | F   | Data Wrangling (pandas) II                   |                      |          |                         |                                         |
 | Oct-11 | 2      | Su  |                                              |                      | Q2       | A1, Pre-course survey   | Group signup*                           |
-| Oct-12 | 3      | M   | Dataviz principles                           | Project Review       |          |                         |                                         |
-| Oct-14 | 3      | W   | Data Science Questions                       |                      |          |                         |                                         |
-| Oct-16 | 3      | F   | Intro to Analysis                            |                      |          |                         |                                         |
+| Oct-12 | 3      | M   | Ethics                                       | Project Review       |          |                         |                                         |
+| Oct-14 | 3      | W   | Dataviz principles I                         |                      |          |                         |                                         |
+| Oct-16 | 3      | F   | Dataviz principles II                        |                      |          |                         |                                         |
 | Oct-18 | 3      | Su  |                                              |                      | Q3       | A2                      | Project Review*                         |
-| Oct-19 | 4      | M   | Exploratory Data Analysis (EDA)              | Project Proposal, R1 |          |                         |                                         |
-| Oct-21 | 4      | W   | Inference I                                  |                      |          |                         |                                         |
-| Oct-23 | 4      | F   | Inference II                                 |                      |          |                         |                                         |
+| Oct-19 | 4      | M   | Data Science Questions                       | Project Proposal, R1 |          |                         |                                         |
+| Oct-21 | 4      | W   | Exploratory Data Analysis I   |                      |          |                         |                                         |
+| Oct-23 | 4      | F   | Exploratory Data Analysis II   |                      |          |                         |                                         |
 | Oct-25 | 4      | Su  |                                              |                      | Q4       | A3                      | Project Proposal*                       |
-| Oct-26 | 5      | M   | Inference III                                | R2                   |          |                         |                                         |
-| Oct-28 | 5      | W   | Dimensionality Reduction                     |                      |          |                         |                                         |
-| Oct-30 | 5      | F   | Machine Learning I                           |                      |          |                         |                                         |
+| Oct-26 | 5      | M   | Inference I                                 | R2                   |          |                         |                                         |
+| Oct-28 | 5      | W   | Inference I                      |                      |          |                         |                                         |
+| Oct-30 | 5      | F   | Dimensionality Reduction                          |                      |          |                         |                                         |
 | Nov-1  | 5      | Su  |                                              |                      | Q5       | A4, Mid-course survey   |                                         |
-| Nov-2  | 6      | M   | Machine Learning II                          | Data Checkpoint      |          |                         |                                         |
-| Nov-4  | 6      | W   | Machine Learning III                         |                      |          |                         |                                         |
-| Nov-6  | 6      | F   | Machine Learning IV                          |                      |          |                         |                                         |
+| Nov-2  | 6      | M   | Machine Learning I                          | Data Checkpoint      |          |                         |                                         |
+| Nov-4  | 6      | W   | Machine Learning II                         |                      |          |                         |                                         |
+| Nov-6  | 6      | F   | Machine Learning III                          |                      |          |                         |                                         |
 | Nov-8  | 6      | Su  |                                              |                      | Q6       | A5                      | Checkpoint #1: Data*                    |
 | Nov-9  | 7      | M   | Geospatial I                                 | No Section this week |          |                         |                                         |
 | Nov-11 | 7      | W   | No Class - Veterans Day                      |                      |          |                         |                                         |
