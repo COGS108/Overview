@@ -1,4 +1,4 @@
-v1.01 22-Oct-2026
+v1.02 29-Oct-2026
 
 # COGS 108: Data Science in Practice
 
@@ -190,7 +190,7 @@ Section begins week 2. You should try to attend the discussion section to which 
 
 ### Participation
 
-Participation will be tracked in lecture and discussion section via Google Form. Please bring a smartphone, tablet, or laptop to both lecture and discussion for Google Form completion. We will work to regularly update students about their participation. There will be 35 lectures/discussions for possible participation this quarter (27 lectures; 8 discussions). To receive full credit for participation, you must attend and participate in 30 lecture/discussion sections. Students who do not earn participation credit will be required to take the closed notes, in-person final exam. Partial credit for participation will be considered toward the end of the term and students will have the information they need to determine if they'll have to take the final exam.
+Participation will be tracked in lecture and discussion section via Google Form. Please bring a smartphone, tablet, or laptop to both lecture and discussion for Google Form completion. We will work to regularly update students about their participation. There will be 35 lectures/discussions for possible participation this quarter (27 lectures; 8 discussions). To receive full credit for participation, you must attend and participate in 30 lecture/discussion sections. Leture participation requires responding to half (>=50%) of the Forms used in a given day's lecture. Students who do not earn participation credit will be required to take the closed notes, in-person final exam. Partial credit for participation will be considered toward the end of the term and students will have the information they need to determine if they'll have to take the final exam.
 
 ### Final Exam
 
@@ -295,7 +295,7 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Oct-23 | 4      | F   | Exploratory Data Analysis II   |                      |          |                         |                                         |
 | Oct-25 | 4      | Su  |                                              |                      | Q4       | A3                      | Project Proposal*                       |
 | Oct-26 | 5      | M   | Inference I                                 | R2                   |          |                         |                                         |
-| Oct-28 | 5      | W   | Inference I                      |                      |          |                         |                                         |
+| Oct-28 | 5      | W   | Inference II                      |                      |          |                         |                                         |
 | Oct-30 | 5      | F   | Dimensionality Reduction                          |                      |          |                         |                                         |
 | Nov-1  | 5      | Su  |                                              |                      | Q5       | A4, Mid-course survey   |                                         |
 | Nov-2  | 6      | M   | Machine Learning I                          | Data Checkpoint      |          |                         |                                         |
