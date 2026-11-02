@@ -1,4 +1,4 @@
-v1.02 29-Oct-2026
+v1.03 02-Nov-2026
 
 # COGS 108: Data Science in Practice
 
@@ -296,15 +296,15 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Oct-25 | 4      | Su  |                                              |                      | Q4       | A3                      | Project Proposal*                       |
 | Oct-26 | 5      | M   | Inference I                                 | R2                   |          |                         |                                         |
 | Oct-28 | 5      | W   | Inference II                      |                      |          |                         |                                         |
-| Oct-30 | 5      | F   | Dimensionality Reduction                          |                      |          |                         |                                         |
+| Oct-30 | 5      | F   | Inference III                          |                      |          |                         |                                         |
 | Nov-1  | 5      | Su  |                                              |                      | Q5       | A4, Mid-course survey   |                                         |
-| Nov-2  | 6      | M   | Machine Learning I                          | Data Checkpoint      |          |                         |                                         |
-| Nov-4  | 6      | W   | Machine Learning II                         |                      |          |                         |                                         |
-| Nov-6  | 6      | F   | Machine Learning III                          |                      |          |                         |                                         |
+| Nov-2  | 6      | M   | Dimensionality Reduction                     | Data Checkpoint      |          |                         |                                         |
+| Nov-4  | 6      | W   | Machine Learning I                         |                      |          |                         |                                         |
+| Nov-6  | 6      | F   | Machine Learning II                          |                      |          |                         |                                         |
 | Nov-8  | 6      | Su  |                                              |                      | Q6       | A5                      | Checkpoint #1: Data*                    |
-| Nov-9  | 7      | M   | Geospatial I                                 | No Section this week |          |                         |                                         |
+| Nov-9  | 7      | M   | Machine Learning II                         | No Section this week |          |                         |                                         |
 | Nov-11 | 7      | W   | No Class - Veterans Day                      |                      |          |                         |                                         |
-| Nov-13 | 7      | F   | Geospatial II                                |                      |          |                         |                                         |
+| Nov-13 | 7      | F   | Geospatial                                  |                      |          |                         |                                         |
 | Nov-15 | 7      | Su  |                                              |                      | Q7       | A6                      |                                         |
 | Nov-16 | 8      | M   | Text Analysis I                              | EDA Checkpoint       |          |                         |                                         |
 | Nov-18 | 8      | W   | Text Analysis II                             |                      |          |                         |                                         |
