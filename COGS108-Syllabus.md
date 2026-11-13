@@ -1,4 +1,4 @@
-v1.03 02-Nov-2026
+v1.05 13-Nov-2026
 
 # COGS 108: Data Science in Practice
 
@@ -298,20 +298,20 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Oct-28 | 5      | W   | Inference II                      |                      |          |                         |                                         |
 | Oct-30 | 5      | F   | Inference III                          |                      |          |                         |                                         |
 | Nov-1  | 5      | Su  |                                              |                      | Q5       | A4, Mid-course survey   |                                         |
-| Nov-2  | 6      | M   | Dimensionality Reduction                     | Data Checkpoint      |          |                         |                                         |
+| Nov-2  | 6      | M   | Dimensionality Reduction                      | Data Checkpoint      |          |                         |                                         |
 | Nov-4  | 6      | W   | Machine Learning I                         |                      |          |                         |                                         |
 | Nov-6  | 6      | F   | Machine Learning II                          |                      |          |                         |                                         |
 | Nov-8  | 6      | Su  |                                              |                      | Q6       | A5                      | Checkpoint #1: Data*                    |
-| Nov-9  | 7      | M   | Machine Learning II                         | No Section this week |          |                         |                                         |
+| Nov-9  | 7      | M   | Machine Learning III                         | No Section this week |          |                         |                                         |
 | Nov-11 | 7      | W   | No Class - Veterans Day                      |                      |          |                         |                                         |
-| Nov-13 | 7      | F   | Geospatial                                  |                      |          |                         |                                         |
-| Nov-15 | 7      | Su  |                                              |                      | Q7       | A6                      |                                         |
-| Nov-16 | 8      | M   | Text Analysis I                              | EDA Checkpoint       |          |                         |                                         |
-| Nov-18 | 8      | W   | Text Analysis II                             |                      |          |                         |                                         |
-| Nov-20 | 8      | F   | Communication                                |                      |          |                         |                                         |
-| Nov-22 | 8      | Su  |                                              |                      | Q8       | A7                      | Checkpoint #2: EDA*                     |
-| Nov-23 | 9      | M   | How to Be Wrong I                            | R3                   |          |                         |                                         |
-| Nov-25 | 9      | W   | How to Be Wrong II                           |                      |          |                         |                                         |
+| Nov-13 | 7      | F   | Machine Learning IV                                  |                      |          |                         |                                         |
+| Nov-15 | 7      | Su  |                                              |                      | Q7       |                       |                                         |
+| Nov-16 | 8      | M   | Text Analysis I                               | EDA Checkpoint       |          |                         |                                         |
+| Nov-18 | 8      | W   | Text Analysis II                            |                      |          |                         |                                         |
+| Nov-20 | 8      | F   | Geospatial                                |                      |          |                         |                                         |
+| Nov-22 | 8      | Su  |                                              |                      | Q8       | A6                      | Checkpoint #2: EDA*                     |
+| Nov-23 | 9      | M   | Communication                            | R3                   |          |                         |                                         |
+| Nov-25 | 9      | W   | How to Be Wrong                           |                      |          |                         |                                         |
 | Nov-27 | 9      | F   | No Class - Thanksgiving                      |                      |          |                         |                                         |
 | Nov-29 | 9      | Su  |                                              |                      | Q9       | A8                      |                                         |
 | Nov-30 | 10     | M   | Oral Exams†                                  | Final Project        |          |                         |                                         |
