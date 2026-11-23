@@ -73,7 +73,7 @@ Anonymous Course Feedback:  https://forms.gle/LVZA26UEkDquEnsW8
 | :---------------------------- | :----------- | :-----------------: | :--: | -------: |
 | **Individual coursework**     |              |                     |      |  **62%** |
 | Pre-course survey (#finaid)   | Individual   |          1          |  1%  |       1% |
-| Participation (or final exam) | Individual   |     30/35 sessions     |  –   |      25% |
+| Participation (or final exam) | Individual   |     29/35 sessions     |  –   |      25% |
 | Lecture quizzes               | Individual   | 10 (lowest dropped) |  1%  |       9% |
 | Assignments                   | Individual   |          9          |  3%  |      27% |
 | **Final project**             |              |                     |      |  **38%** |
@@ -87,7 +87,7 @@ Anonymous Course Feedback:  https://forms.gle/LVZA26UEkDquEnsW8
 | Team evaluation survey        | Individual   |          1          |  1%  |       1% |
 | **Total**                     |              |                     |      | **100%** |
 
-Participation: full credit for attending 30 of the 35 possible lecture + discussion sessions. [There is a chance that this cutoff could be made more permissive (<30) at the end of the quarter, but it will *not* be made more strict. Students will be made aware of this change should it happen.]
+Participation: full credit for attending 29 of the 35 possible lecture + discussion sessions. [There is a chance that this cutoff could be made more permissive (<29) at the end of the quarter, but it will *not* be made more strict. Students will be made aware of this change should it happen.]
 
 **Final exam**: If a student does not earn their participation credit, they will be required to take an in-person, closed notes final exam at their assigned final exam time.
 
@@ -168,7 +168,7 @@ There will be readings discussed in section this quarter, which will be discusse
 
 - R1 | [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
 - R2 | [Many Analysts, One Data Set: Making Transparent How Variations in Analytic Choices Affect Results](https://journals.sagepub.com/doi/10.1177/2515245917747646)
-- R3 | [Measurement Schmeasurement: Questionable Measurement Practices and How to Avoid Them](https://journals.sagepub.com/doi/10.1177/2515245920952393)
+- ~R3~ | [Measurement Schmeasurement: Questionable Measurement Practices and How to Avoid Them](https://journals.sagepub.com/doi/10.1177/2515245920952393)
 
 Paywall restrictions may require students to access the above on-campus or through the UCSD VPN. Students should **not** pay to access an article.
 
@@ -190,7 +190,7 @@ Section begins week 2. You should try to attend the discussion section to which 
 
 ### Participation
 
-Participation will be tracked in lecture and discussion section via Google Form. Please bring a smartphone, tablet, or laptop to both lecture and discussion for Google Form completion. We will work to regularly update students about their participation. There will be 35 lectures/discussions for possible participation this quarter (27 lectures; 8 discussions). To receive full credit for participation, you must attend and participate in 30 lecture/discussion sections. Leture participation requires responding to half (>=50%) of the Forms used in a given day's lecture. Students who do not earn participation credit will be required to take the closed notes, in-person final exam. Partial credit for participation will be considered toward the end of the term and students will have the information they need to determine if they'll have to take the final exam.
+Participation will be tracked in lecture and discussion section via Google Form. Please bring a smartphone, tablet, or laptop to both lecture and discussion for Google Form completion. We will work to regularly update students about their participation. There will be 35 lectures/discussions for possible participation this quarter (27 lectures; 8 discussions). To receive full credit for participation, you must attend and participate in 29 lecture/discussion sections. Leture participation requires responding to half (>=50%) of the Forms used in a given day's lecture. Students who do not earn participation credit will be required to take the closed notes, in-person final exam. Partial credit for participation will be considered toward the end of the term and students will have the information they need to determine if they'll have to take the final exam.
 
 ### Final Exam
 
@@ -310,7 +310,7 @@ In the vast majority of groups, all individuals will receive the same score for 
 | Nov-18 | 8      | W   | Text Analysis II                            |                      |          |                         |                                         |
 | Nov-20 | 8      | F   | Geospatial                                |                      |          |                         |                                         |
 | Nov-22 | 8      | Su  |                                              |                      | Q8       | A6                      | Checkpoint #2: EDA*                     |
-| Nov-23 | 9      | M   | Communication                            | R3                   |          |                         |                                         |
+| Nov-23 | 9      | M   | Communication                            | Project Progress ~R3~                   |          |                         |                                         |
 | Nov-25 | 9      | W   | How to Be Wrong                           |                      |          |                         |                                         |
 | Nov-27 | 9      | F   | No Class - Thanksgiving                      |                      |          |                         |                                         |
 | Nov-29 | 9      | Su  |                                              |                      | Q9       | A8                      |                                         |
